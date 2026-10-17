@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.009.1a",
+   "006.009.1b"
+  ],
+  "lines_deva": [
+   "वाञ्छ॑ मे त॒न्वं॑१ पादौ॒ वाञ्छा॒क्ष्यौ॒३वाञ्छ॑ स॒क्थ्यौऽ",
+   "अ॒क्ष्यौऽ वृष॒ण्यन्त्याः॒ केशा॒ मां ते॑ कामे॑न शुष्यन्तु"
+  ],
+  "lines_iast": [
+   "vāñcha̭ me ta̱nva̭ṃ1 pādau̱ vāñchā̱kṣyau̱3vāñcha̭ sa̱kthyau'",
+   "a̱kṣyau' vṛṣa̱ṇyantyā̱ḥ keśā̱ māṃ tḙ kāmḙna śuṣyantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.009.2a",
+   "006.009.2b"
+  ],
+  "lines_deva": [
+   "मम॑ त्वा दोषणि॒श्रिषं॑ कृ॒णोमि॑ हृदय॒श्रिष॑म्",
+   "यथा॒ मम॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि"
+  ],
+  "lines_iast": [
+   "mama̭ tvā doṣaṇi̱śriṣa̭ṃ kṛ̱ṇomi̭ hṛdaya̱śriṣa̭m",
+   "yathā̱ mama̱ kratā̱vaso̱ mama̭ ci̱ttamu̱pāya̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.009.3a",
+   "006.009.3b"
+  ],
+  "lines_deva": [
+   "यासां॒ नाभि॑रा॒रेह॑णं हृ॒दि सं॒वन॑नं कृ॒तम्",
+   "गावो॑ घृ॒तस्य॑ मा॒तरो॒ ऽमूं सं वा॑नयन्तु मे"
+  ],
+  "lines_iast": [
+   "yāsā̱ṃ nābhi̭rā̱reha̭ṇaṃ hṛ̱di sa̱ṃvana̭naṃ kṛ̱tam",
+   "gāvo̭ ghṛ̱tasya̭ mā̱taro̱ 'mūṃ saṃ vā̭nayantu me"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

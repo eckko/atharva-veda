@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.003.1a",
+   "007.003.1b"
+  ],
+  "lines_deva": [
+   "अ॒या वि॒ष्ठा ज॒नय॒न् कर्व॑राणि॒ स हि घृणि॑रु॒रुर्वरा॑य गा॒तुः",
+   "स प्र॒त्युदै॑द् ध॒रुणं॒ मध्वो॒ अग्रं॒ स्वया॑ त॒न्वाऽत॒न्वऽमैरयत"
+  ],
+  "lines_iast": [
+   "a̱yā vi̱ṣṭhā ja̱naya̱n karva̭rāṇi̱ sa hi ghṛṇi̭ru̱rurvarā̭ya gā̱tuḥ",
+   "sa pra̱tyudai̭d dha̱ruṇa̱ṃ madhvo̱ agra̱ṃ svayā̭ ta̱nvā'ta̱nva'mairayata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

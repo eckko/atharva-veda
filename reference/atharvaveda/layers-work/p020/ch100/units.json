@@ -1,0 +1,80 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.100.1"
+  ],
+  "lines_deva": [
+   "अधा॒ ही॑न्द्र गिर्वण॒ उप॑ त्वा॒ कामा॑न् म॒हः स॑सृ॒ज्महे॑ । उ॒देव॒ यन्त॑ उ॒दभिः॑"
+  ],
+  "lines_iast": [
+   "adhā̱ hī̭ndra girvaṇa̱ upa̭ tvā̱ kāmā̭n ma̱haḥ sa̭sṛ̱jmahḙ | u̱deva̱ yanta̭ u̱dabhi̭ḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.100.2"
+  ],
+  "lines_deva": [
+   "वार्ण त्वा॑ य॒व्याभि॒र्वर्ध॑न्ति शूर॒ ब्रह्मा॑णि । वा॒वृ॒ध्वांसं॑ चिदद्रिवो दि॒वेदि॑वे"
+  ],
+  "lines_iast": [
+   "vārṇa tvā̭ ya̱vyābhi̱rvardha̭nti śūra̱ brahmā̭ṇi | vā̱vṛ̱dhvāṃsa̭ṃ cidadrivo di̱vedi̭ve"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.100.3"
+  ],
+  "lines_deva": [
+   "यु॒ञ्जन्ति॒ हरी॑ इषि॒रस्य॒ गाथ॑यो॒रौ रथ॑ उ॒रुयु॑गे ।इ॒न्द्रवाहा॑ वचो॒युजा॑"
+  ],
+  "lines_iast": [
+   "yu̱ñjanti̱ harī̭ iṣi̱rasya̱ gātha̭yo̱rau ratha̭ u̱ruyṷge |i̱ndravāhā̭ vaco̱yujā̭"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

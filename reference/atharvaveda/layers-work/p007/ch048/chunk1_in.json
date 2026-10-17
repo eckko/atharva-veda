@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.048.1a",
+   "007.048.1b"
+  ],
+  "lines_deva": [
+   "रा॒काम॒हं सु॒हवा॑ सुष्टु॒ती हु॑वे शृ॒णोतु॑ नः सु॒भगा॑ बोध॑तु॒ त्मना॑",
+   "सीव्य॒त्वपः॑ सू॒च्याच्छिद्यमानया॒ ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्यऽम्"
+  ],
+  "lines_iast": [
+   "rā̱kāma̱haṃ su̱havā̭ suṣṭu̱tī hṷve śṛ̱ṇotṷ naḥ su̱bhagā̭ bodha̭tu̱ tmanā̭",
+   "sīvya̱tvapa̭ḥ sū̱cyācchidyamānayā̱ dadā̭tu vī̱raṃ śa̱tadā̭yamu̱kthya'm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.048.2a",
+   "007.048.2b"
+  ],
+  "lines_deva": [
+   "यास्ते॑ राके सुम॒तयः॑ सु॑पेश॑सो॒ याभि॒र्ददा॑सि दा॒शुषे॒ वसू॑नि",
+   "ताभि॑र्नो अ॒द्य सु॒मना॑ उ॒पाग॑हि सहस्रापो॒षं सु॑भगे॒ ररा॑णा"
+  ],
+  "lines_iast": [
+   "yāstḙ rāke suma̱taya̭ḥ sṷpeśa̭so̱ yābhi̱rdadā̭si dā̱śuṣe̱ vasṷ̄ni",
+   "tābhi̭rno a̱dya su̱manā̭ u̱pāga̭hi sahasrāpo̱ṣaṃ sṷbhage̱ rarā̭ṇā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

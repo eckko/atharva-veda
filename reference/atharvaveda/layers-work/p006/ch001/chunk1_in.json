@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.001.1a",
+   "006.001.1b"
+  ],
+  "lines_deva": [
+   "दो॒षो गा॑य बृ॒हद् गा॑य द्यु॒मद् धे॑हि",
+   "आथ॑र्वण स्तु॒हि दे॒वं स॑वि॒तार॑म्"
+  ],
+  "lines_iast": [
+   "do̱ṣo gā̭ya bṛ̱had gā̭ya dyu̱mad dhḙhi",
+   "ātha̭rvaṇa stu̱hi de̱vaṃ sa̭vi̱tāra̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.001.2a",
+   "006.001.2b"
+  ],
+  "lines_deva": [
+   "तमु॑ ष्टुहि॒ यो अ॒न्तः सिन्धौ॑ सू॒नुः",
+   "स॒त्यस्य॒ युवा॑न॒मद्रो॑घवाचं सु॒शेव॑म्"
+  ],
+  "lines_iast": [
+   "tamṷ ṣṭuhi̱ yo a̱ntaḥ sindhaṷ sū̱nuḥ",
+   "sa̱tyasya̱ yuvā̭na̱madro̭ghavācaṃ su̱śeva̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.001.3a",
+   "006.001.3b"
+  ],
+  "lines_deva": [
+   "स घा॑ नो दे॒वः स॑वि॒ता सा॑विषद॒मृता॑नि॒ भूरि॑",
+   "उ॒भे सु॑ष्टुती सु॒गात॑वे"
+  ],
+  "lines_iast": [
+   "sa ghā̭ no de̱vaḥ sa̭vi̱tā sā̭viṣada̱mṛtā̭ni̱ bhūri̭",
+   "u̱bhe sṷṣṭutī su̱gāta̭ve"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

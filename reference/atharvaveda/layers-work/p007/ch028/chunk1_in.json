@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.028.1a",
+   "007.028.1b"
+  ],
+  "lines_deva": [
+   "वे॒दः स्व॒स्तिर्द्रु॑घ॒णः स्व॒स्तिः प॑र॒शुर्वेदिः॑ पर॒शुर्नः॑ स्व॒स्ति",
+   "ह॒वि॒ष्कृतो॑ य॒ज्ञिया॑ य॒ज्ञका॑मा॒स्ते दे॒वासो॑ य॒ज्ञमि॒मं जु॑षन्ताम्"
+  ],
+  "lines_iast": [
+   "ve̱daḥ sva̱stirdrṷgha̱ṇaḥ sva̱stiḥ pa̭ra̱śurvedi̭ḥ para̱śurna̭ḥ sva̱sti",
+   "ha̱vi̱ṣkṛto̭ ya̱jñiyā̭ ya̱jñakā̭mā̱ste de̱vāso̭ ya̱jñami̱maṃ jṷṣantām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

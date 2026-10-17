@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.054.1a",
+   "006.054.1b"
+  ],
+  "lines_deva": [
+   "इ॒दं तद् यु॒ज उत्त॑र॒मिन्द्रं॑ शुम्भा॒म्यष्ट॑ये",
+   "अ॒स्य क्ष॒त्रं श्रियं॑ म॒हीं वृ॒ष्टिरि॑व वर्धया॒ तृण॑म्"
+  ],
+  "lines_iast": [
+   "i̱daṃ tad yu̱ja utta̭ra̱mindra̭ṃ śumbhā̱myaṣṭa̭ye",
+   "a̱sya kṣa̱traṃ śriya̭ṃ ma̱hīṃ vṛ̱ṣṭiri̭va vardhayā̱ tṛṇa̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.054.2a",
+   "006.054.2b"
+  ],
+  "lines_deva": [
+   "अ॒स्मै क्ष॒त्रम॑ग्नीषोमाव॒स्मै धा॑रयतं र॒यिम्",
+   "इ॒मं रा॒ष्ट्रस्या॑भीव॒र्गे कृ॑णु॒तं यु॒ज उत्त॑रम्"
+  ],
+  "lines_iast": [
+   "a̱smai kṣa̱trama̭gnīṣomāva̱smai dhā̭rayataṃ ra̱yim",
+   "i̱maṃ rā̱ṣṭrasyā̭bhīva̱rge kṛ̭ṇu̱taṃ yu̱ja utta̭ram"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.054.3a",
+   "006.054.3b"
+  ],
+  "lines_deva": [
+   "सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्मां अ॑भि॒दास॑ति",
+   "सर्वं॒ तं र॑न्धयासि मे॒ यज॑मानाय सुन्व॒ते"
+  ],
+  "lines_iast": [
+   "saba̭ndhu̱ścāsa̭bandhuśca̱ yo a̱smāṃ a̭bhi̱dāsa̭ti",
+   "sarva̱ṃ taṃ ra̭ndhayāsi me̱ yaja̭mānāya sunva̱te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

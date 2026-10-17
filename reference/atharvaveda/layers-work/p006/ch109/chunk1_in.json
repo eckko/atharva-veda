@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.109.1a",
+   "006.109.1b"
+  ],
+  "lines_deva": [
+   "पि॒प्प॒ली क्षि॑प्तभेष॒ज्यू॒३ताति॑विद्धभेष॒जी",
+   "तां दे॒वाः सम॑कल्पयन्नि॒यं जीवि॑त॒वा अल॑म्"
+  ],
+  "lines_iast": [
+   "pi̱ppa̱lī kṣi̭ptabheṣa̱jyū̱3tāti̭viddhabheṣa̱jī",
+   "tāṃ de̱vāḥ sama̭kalpayanni̱yaṃ jīvi̭ta̱vā ala̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.109.2a",
+   "006.109.2b"
+  ],
+  "lines_deva": [
+   "पि॒प्प॒ल्यः॑१ सम॑वदन्ताय॒तीर्जन॑ना॒दधि॑",
+   "यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः"
+  ],
+  "lines_iast": [
+   "pi̱ppa̱lya̭ḥ1 sama̭vadantāya̱tīrjana̭nā̱dadhi̭",
+   "yaṃ jī̱vama̱śnavā̭mahai̱ na sa ri̭ṣyāti̱ pūrṷṣaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.109.3a",
+   "006.109.3b"
+  ],
+  "lines_deva": [
+   "असु॑रास्त्वा॒ न्यऽखनन् दे॒वास्त्वोद॑वप॒न् पुनः॑",
+   "वा॒तीकृ॑तस्य भेष॒जीमथो॑ क्षि॒प्तस्य॑ भेष॒जीम्"
+  ],
+  "lines_iast": [
+   "asṷrāstvā̱ nya'khanan de̱vāstvoda̭vapa̱n puna̭ḥ",
+   "vā̱tīkṛ̭tasya bheṣa̱jīmatho̭ kṣi̱ptasya̭ bheṣa̱jīm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

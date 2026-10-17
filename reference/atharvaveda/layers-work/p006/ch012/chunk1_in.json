@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.012.1a",
+   "006.012.1b"
+  ],
+  "lines_deva": [
+   "परि॒ द्यामि॑व॒ सूर्योऽही॑नां॒ जनि॑मागमम्",
+   "रात्री॒ जग॑दिवा॒न्यद्धं॒सात् तेना॑ ते वारये वि॒षम्"
+  ],
+  "lines_iast": [
+   "pari̱ dyāmi̭va̱ sūryo'hī̭nā̱ṃ jani̭māgamam",
+   "rātrī̱ jaga̭divā̱nyaddha̱ṃsāt tenā̭ te vāraye vi̱ṣam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.012.2a",
+   "006.012.2b"
+  ],
+  "lines_deva": [
+   "यद् ब्र॒ह्मभि॒र्यदृषि॑भि॒र्यद् दे॒वैर्वि॑दि॒तं पु॒रा",
+   "यद् भू॒तं भव्य॑मास॒न्वत् तेना॑ ते वारये वि॒षम्"
+  ],
+  "lines_iast": [
+   "yad bra̱hmabhi̱ryadṛṣi̭bhi̱ryad de̱vairvi̭di̱taṃ pu̱rā",
+   "yad bhū̱taṃ bhavya̭māsa̱nvat tenā̭ te vāraye vi̱ṣam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.012.3a",
+   "006.012.3b"
+  ],
+  "lines_deva": [
+   "मध्वा॑ पृञ्चे न॒द्यः॑१ पर्व॑ता गि॒रयो॒ मधु॑",
+   "मधु॒ परु॑ष्णी॒ शीपा॑ला॒ शमा॒स्ने अ॑स्तु॒ शं हृ॒दे"
+  ],
+  "lines_iast": [
+   "madhvā̭ pṛñce na̱dya̭ḥ1 parva̭tā gi̱rayo̱ madhṷ",
+   "madhu̱ parṷṣṇī̱ śīpā̭lā̱ śamā̱sne a̭stu̱ śaṃ hṛ̱de"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.118.1a",
+   "020.118.1b"
+  ],
+  "lines_deva": [
+   "श॒ग्ध्यू॒३षु श॑चीपत॒ इन्द्र॒ विश्वा॑भिरू॒तिभिः॑",
+   "भगं॒ न हि त्वा॑ य॒शसं॑ वसु॒विद॒मनु॑ शूर॒ चरा॑मसि"
+  ],
+  "lines_iast": [
+   "śa̱gdhyū̱3ṣu śa̭cīpata̱ indra̱ viśvā̭bhirū̱tibhi̭ḥ",
+   "bhaga̱ṃ na hi tvā̭ ya̱śasa̭ṃ vasu̱vida̱manṷ śūra̱ carā̭masi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.118.2a",
+   "020.118.2b"
+  ],
+  "lines_deva": [
+   "पौ॒रो अश्व॑स्य पुरु॒कृद् गवा॑म॒स्युत्सो॑ देव हिर॒ण्ययः॑",
+   "नकि॒र्हि दानं॑ परि॒मर्धि॑ष॒त् त्वे यद्य॒द्यामि॒ तदा भ॑र"
+  ],
+  "lines_iast": [
+   "pau̱ro aśva̭sya puru̱kṛd gavā̭ma̱syutso̭ deva hira̱ṇyaya̭ḥ",
+   "naki̱rhi dāna̭ṃ pari̱mardhi̭ṣa̱t tve yadya̱dyāmi̱ tadā bha̭ra"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.118.3a",
+   "020.118.3b"
+  ],
+  "lines_deva": [
+   "इन्द्र॒मिद् दे॒वता॑तय॒ इन्द्रं॑ प्रय॒त्यऽध्व॒रे",
+   "इन्द्रं॑ समी॒के व॒निनो॑ हवामह॒ इन्द्रं॒ धन॑स्य सा॒तये॑"
+  ],
+  "lines_iast": [
+   "indra̱mid de̱vatā̭taya̱ indra̭ṃ praya̱tya'dhva̱re",
+   "indra̭ṃ samī̱ke va̱nino̭ havāmaha̱ indra̱ṃ dhana̭sya sā̱tayḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "020.118.4a",
+   "020.118.4b"
+  ],
+  "lines_deva": [
+   "इन्द्रो॑ म॒ह्ना रोद॑सी पप्रथ॒च्छव॒ इन्द्रः॒ सूर्य॑मरोचयत्",
+   "इन्द्रे॑ ह॒ विश्वा॒ भुव॑नानि येमिर॒ इन्द्रे॑ सुवा॒नास॒ इन्द॑वः"
+  ],
+  "lines_iast": [
+   "indro̭ ma̱hnā roda̭sī papratha̱cchava̱ indra̱ḥ sūrya̭marocayat",
+   "indrḙ ha̱ viśvā̱ bhuva̭nāni yemira̱ indrḙ suvā̱nāsa̱ inda̭vaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

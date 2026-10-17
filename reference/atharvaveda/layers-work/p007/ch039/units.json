@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.039.1a",
+   "007.039.1b"
+  ],
+  "lines_deva": [
+   "दि॒व्यं सु॑प॒र्णं प॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ वृष॒भमोष॑धीनाम्",
+   "अ॒भी॒प॒तो वृ॒ष्ट्या त॒र्पय॑न्त॒मा नो॑ गो॒ष्ठे र॑यि॒ष्ठां स्था॑पयाति"
+  ],
+  "lines_iast": [
+   "di̱vyaṃ sṷpa̱rṇaṃ pa̭ya̱saṃ bṛ̱hanta̭ma̱pāṃ garbha̭ṃ vṛṣa̱bhamoṣa̭dhīnām",
+   "a̱bhī̱pa̱to vṛ̱ṣṭyā ta̱rpaya̭nta̱mā no̭ go̱ṣṭhe ra̭yi̱ṣṭhāṃ sthā̭payāti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

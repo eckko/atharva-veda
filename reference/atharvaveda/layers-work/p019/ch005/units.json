@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.005.1a",
+   "019.005.1b"
+  ],
+  "lines_deva": [
+   "इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॒ क्षमि॒ विषु॑रूपं॒ यदस्ति॑",
+   "ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द् राध॒ उप॑स्तुतश्चिद॒र्वाक्"
+  ],
+  "lines_iast": [
+   "indro̱ rājā̱ jaga̭taścarṣaṇī̱nāmadhi̱ kṣami̱ viṣṷrūpa̱ṃ yadasti̭",
+   "tato̭ dadāti dā̱śuṣe̱ vasṷ̄ni̱ coda̱d rādha̱ upa̭stutaścida̱rvāk"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

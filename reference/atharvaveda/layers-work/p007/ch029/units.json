@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.029.1a",
+   "007.029.1b"
+  ],
+  "lines_deva": [
+   "अग्ना॑विष्णू॒ महि॒ तद् वां॑ महि॒त्व पा॒थो घृ॒तस्य॒ गुह्य॑स्य॒ नाम॑",
+   "दमे॑दमे स॒प्त रत्ना॒ दधा॑नौ॒ प्रति॑ वां जि॒ह्वा घृ॒तमा च॑रण्यात्"
+  ],
+  "lines_iast": [
+   "agnā̭viṣṇū̱ mahi̱ tad vā̭ṃ mahi̱tva pā̱tho ghṛ̱tasya̱ guhya̭sya̱ nāma̭",
+   "damḙdame sa̱pta ratnā̱ dadhā̭nau̱ prati̭ vāṃ ji̱hvā ghṛ̱tamā ca̭raṇyāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.029.2a",
+   "007.029.2b"
+  ],
+  "lines_deva": [
+   "अग्ना॑विष्णू॒ महि॒ धाम॑ प्रि॒यं॑ वां॑ वी॒थो घृ॒तस्य॒ गुह्या॑ जुषा॒णौ",
+   "दमे॑दमे सुष्टु॒त्या वा॑वृधा॒नौ प्रति॑ वां जि॒ह्वा घृ॒तमुच्च॑रण्यात्"
+  ],
+  "lines_iast": [
+   "agnā̭viṣṇū̱ mahi̱ dhāma̭ pri̱ya̭ṃ vā̭ṃ vī̱tho ghṛ̱tasya̱ guhyā̭ juṣā̱ṇau",
+   "damḙdame suṣṭu̱tyā vā̭vṛdhā̱nau prati̭ vāṃ ji̱hvā ghṛ̱tamucca̭raṇyāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

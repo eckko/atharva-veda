@@ -1,0 +1,332 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.053.1a",
+   "019.053.1b"
+  ],
+  "lines_deva": [
+   "का॒लो अश्वो॑ वहति स॒प्तर॑श्मिः सहस्रा॒क्षो अ॒जरो॒ भूरि॑रेताः",
+   "तमा रो॑हन्ति क॒वयो॑ विप॒श्चित॒स्तस्य॑ च॒क्रा भुव॑नानि॒ विश्वा॑"
+  ],
+  "lines_iast": [
+   "kā̱lo aśvo̭ vahati sa̱ptara̭śmiḥ sahasrā̱kṣo a̱jaro̱ bhūri̭retāḥ",
+   "tamā ro̭hanti ka̱vayo̭ vipa̱ścita̱stasya̭ ca̱krā bhuva̭nāni̱ viśvā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.053.2a",
+   "019.053.2b"
+  ],
+  "lines_deva": [
+   "स॒प्त च॒क्रान् व॑हति का॒ल ए॒ष स॒प्तास्य॒ नाभी॑र॒मृतं॒ न्वक्षः॑",
+   "स इ॒मा विश्वा॒ भुव॑नान्यञ्जत् का॒लः स ई॑यते प्रथ॒मो नु दे॒वः"
+  ],
+  "lines_iast": [
+   "sa̱pta ca̱krān va̭hati kā̱la e̱ṣa sa̱ptāsya̱ nābhī̭ra̱mṛta̱ṃ nvakṣa̭ḥ",
+   "sa i̱mā viśvā̱ bhuva̭nānyañjat kā̱laḥ sa ī̭yate pratha̱mo nu de̱vaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.053.3a",
+   "019.053.3b"
+  ],
+  "lines_deva": [
+   "पू॒र्णः कु॒म्भोऽधि॑ का॒ल आहि॑त॒स्तं वै पश्या॑मो बहु॒धा नु स॒न्तः",
+   "स इ॒मा विश्वा॒ भुव॑ना॒नि प्र॒त्यङ्कालं तमा॑हुः पर॒मे व्योमन्"
+  ],
+  "lines_iast": [
+   "pū̱rṇaḥ ku̱mbho'dhi̭ kā̱la āhi̭ta̱staṃ vai paśyā̭mo bahu̱dhā nu sa̱ntaḥ",
+   "sa i̱mā viśvā̱ bhuva̭nā̱ni pra̱tyaṅkālaṃ tamā̭huḥ para̱me vyoman"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.053.4a",
+   "019.053.4b"
+  ],
+  "lines_deva": [
+   "स ए॒व सं भुव॑ना॒न्याभ॑र॒त् स ए॒व सं भुव॑नानि॒ पर्यै॑त्",
+   "पि॒ता सन्न॑भवत् पु॒त्र ए॑षां॒ तस्मा॒द् वै नान्यत् पर॑मस्ति॒ तेजः॑"
+  ],
+  "lines_iast": [
+   "sa e̱va saṃ bhuva̭nā̱nyābha̭ra̱t sa e̱va saṃ bhuva̭nāni̱ paryai̭t",
+   "pi̱tā sanna̭bhavat pu̱tra ḙṣā̱ṃ tasmā̱d vai nānyat para̭masti̱ teja̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "019.053.5a",
+   "019.053.5b"
+  ],
+  "lines_deva": [
+   "का॒लोऽमूं दिव॑मजनयत् का॒ल इ॒माः पृ॑थि॒वीरु॒त",
+   "का॒ले ह॑ भू॒तं भव्यं॑ चेषि॒तं ह॒ वि ति॑ष्ठते"
+  ],
+  "lines_iast": [
+   "kā̱lo'mūṃ diva̭majanayat kā̱la i̱māḥ pṛ̭thi̱vīru̱ta",
+   "kā̱le ha̭ bhū̱taṃ bhavya̭ṃ ceṣi̱taṃ ha̱ vi ti̭ṣṭhate"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "019.053.6a",
+   "019.053.6b"
+  ],
+  "lines_deva": [
+   "का॒लो भू॒तिम॑सृजत का॒ले त॑पति॒ सूर्यः॑",
+   "का॒ले ह॒ विश्वा॑ भू॒तानि॑ का॒ले चक्षु॒र्वि प॑श्यति"
+  ],
+  "lines_iast": [
+   "kā̱lo bhū̱tima̭sṛjata kā̱le ta̭pati̱ sūrya̭ḥ",
+   "kā̱le ha̱ viśvā̭ bhū̱tāni̭ kā̱le cakṣu̱rvi pa̭śyati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "019.053.7a",
+   "019.053.7b"
+  ],
+  "lines_deva": [
+   "का॒ले मनः॑ का॒ले प्रा॒णः का॒ले नाम॑ स॒माहि॑तम्",
+   "का॒लेन॒ सर्वा॑ नन्द॒न्त्याग॑तेन प्र॒जा इ॒माः"
+  ],
+  "lines_iast": [
+   "kā̱le mana̭ḥ kā̱le prā̱ṇaḥ kā̱le nāma̭ sa̱māhi̭tam",
+   "kā̱lena̱ sarvā̭ nanda̱ntyāga̭tena pra̱jā i̱māḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "019.053.8a",
+   "019.053.8b"
+  ],
+  "lines_deva": [
+   "का॒ले तपः॑ का॒ले ज्येष्ठं॑ का॒ले ब्रह्म॑ स॒माहि॑तम्",
+   "का॒लो ह॒ सर्व॑स्येश्व॒रो यः पि॒तासी॑त् प्र॒जाप॑तेः"
+  ],
+  "lines_iast": [
+   "kā̱le tapa̭ḥ kā̱le jyeṣṭha̭ṃ kā̱le brahma̭ sa̱māhi̭tam",
+   "kā̱lo ha̱ sarva̭syeśva̱ro yaḥ pi̱tāsī̭t pra̱jāpa̭teḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "019.053.9a",
+   "019.053.9b"
+  ],
+  "lines_deva": [
+   "तेने॑षि॒तं तेन॑ जा॒तं तदु॒ तस्मि॒न् प्रति॑ष्ठितम्",
+   "का॒लो ह॒ ब्रह्म॑ भू॒त्वा बिभ॑र्ति परमे॒ष्ठिन॑म्"
+  ],
+  "lines_iast": [
+   "tenḙṣi̱taṃ tena̭ jā̱taṃ tadu̱ tasmi̱n prati̭ṣṭhitam",
+   "kā̱lo ha̱ brahma̭ bhū̱tvā bibha̭rti parame̱ṣṭhina̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "10",
+  "type": "verse",
+  "line_ids": [
+   "019.053.10a",
+   "019.053.10b"
+  ],
+  "lines_deva": [
+   "का॒लः प्र॒जा अ॑सृजत का॒लो अग्रे॑ प्र॒जाप॑तिम्",
+   "स्व॒यं॒भूः क॒श्यपः॑ का॒लात् तपः॑ का॒लाद॑जायत"
+  ],
+  "lines_iast": [
+   "kā̱laḥ pra̱jā a̭sṛjata kā̱lo agrḙ pra̱jāpa̭tim",
+   "sva̱ya̱ṃbhūḥ ka̱śyapa̭ḥ kā̱lāt tapa̭ḥ kā̱lāda̭jāyata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

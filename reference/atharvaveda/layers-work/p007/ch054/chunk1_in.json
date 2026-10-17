@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.054.1a",
+   "007.054.1b"
+  ],
+  "lines_deva": [
+   "ऋचं॒ साम॑ यजामहे॒ याभ्यां॒ कर्मा॑णि कु॒र्वते॑",
+   "ए॒ते सद॑सि राजतो य॒ज्ञं दे॒वेषु॑ यच्छतः"
+  ],
+  "lines_iast": [
+   "ṛca̱ṃ sāma̭ yajāmahe̱ yābhyā̱ṃ karmā̭ṇi ku̱rvatḙ",
+   "e̱te sada̭si rājato ya̱jñaṃ de̱veṣṷ yacchataḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.054.2a",
+   "007.054.2b"
+  ],
+  "lines_deva": [
+   "ऋचं॒ साम॒ यदप्रा॑क्षं ह॒विरोजो॑ यजु॒र्बल॑म्",
+   "ए॒ष मा॒ तस्मा॒न्मा हिं॑सी॒द् वेदः॑ पृ॒ष्टः श॑चीपते"
+  ],
+  "lines_iast": [
+   "ṛca̱ṃ sāma̱ yadaprā̭kṣaṃ ha̱virojo̭ yaju̱rbala̭m",
+   "e̱ṣa mā̱ tasmā̱nmā hi̭ṃsī̱d veda̭ḥ pṛ̱ṣṭaḥ śa̭cīpate"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

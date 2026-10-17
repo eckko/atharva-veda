@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.047.1a",
+   "007.047.1b"
+  ],
+  "lines_deva": [
+   "कु॒हूं दे॒वीं सु॒कृतं॑ विद्म॒नाप॑सम॒स्मिन् य॒ज्ञे सु॒हवा॑ जोहवीमि",
+   "सा नो॑ र॒यिं वि॒श्ववा॑रं॒ नि यच्छाद् ददा॑तु वी॒रं श॒तदा॑यमु॒क्थ्यऽम्"
+  ],
+  "lines_iast": [
+   "ku̱hūṃ de̱vīṃ su̱kṛta̭ṃ vidma̱nāpa̭sama̱smin ya̱jñe su̱havā̭ johavīmi",
+   "sā no̭ ra̱yiṃ vi̱śvavā̭ra̱ṃ ni yacchād dadā̭tu vī̱raṃ śa̱tadā̭yamu̱kthya'm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.047.2a",
+   "007.047.2b"
+  ],
+  "lines_deva": [
+   "कु॒हूर्दे॒वाना॑म॒मृत॑स्य॒ पत्नी॒ हव्या॑ नो अस्य ह॒विषो॑ जुषेत",
+   "शृ॒णोतु॑ य॒ज्ञमु॑श॒ती नो॑ अ॒द्य रा॒यस्पोषं॑ चिकि॒तुषी॑ दधातु"
+  ],
+  "lines_iast": [
+   "ku̱hūrde̱vānā̭ma̱mṛta̭sya̱ patnī̱ havyā̭ no asya ha̱viṣo̭ juṣeta",
+   "śṛ̱ṇotṷ ya̱jñamṷśa̱tī no̭ a̱dya rā̱yaspoṣa̭ṃ ciki̱tuṣī̭ dadhātu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.103.1a",
+   "006.103.1b"
+  ],
+  "lines_deva": [
+   "सं॒दानं॑ वो॒ बृह॒स्पतिः॑ सं॒दानं॑ सवि॒ता क॑रत्",
+   "सं॒दानं॑ मि॒त्रो अ॑र्य॒मा सं॒दानं॒ भगो॑ अ॒श्विना॑"
+  ],
+  "lines_iast": [
+   "sa̱ṃdāna̭ṃ vo̱ bṛha̱spati̭ḥ sa̱ṃdāna̭ṃ savi̱tā ka̭rat",
+   "sa̱ṃdāna̭ṃ mi̱tro a̭rya̱mā sa̱ṃdāna̱ṃ bhago̭ a̱śvinā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.103.2a",
+   "006.103.2b"
+  ],
+  "lines_deva": [
+   "सं प॑र॒मान्त्सम॑व॒मानथो॒ सं द्या॑मि मध्य॒मान्",
+   "इन्द्र॒स्तान् पर्य॑हा॒र्दाम्ना॒ तान॑ग्ने॒ सं द्या॒ त्वम्"
+  ],
+  "lines_iast": [
+   "saṃ pa̭ra̱māntsama̭va̱mānatho̱ saṃ dyā̭mi madhya̱mān",
+   "indra̱stān parya̭hā̱rdāmnā̱ tāna̭gne̱ saṃ dyā̱ tvam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.103.3a",
+   "006.103.3b"
+  ],
+  "lines_deva": [
+   "अ॒मी ये युध॑मा॒यन्ति॑ के॒तून् कृ॒त्वानी॑क॒शः",
+   "इन्द्र॒स्तान् पर्य॑हा॒र्दाम्न॒ तान॑ग्ने॒ सं द्या॒ त्वम्"
+  ],
+  "lines_iast": [
+   "a̱mī ye yudha̭mā̱yanti̭ ke̱tūn kṛ̱tvānī̭ka̱śaḥ",
+   "indra̱stān parya̭hā̱rdāmna̱ tāna̭gne̱ saṃ dyā̱ tvam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

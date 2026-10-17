@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.133.1a",
+   "006.133.1b"
+  ],
+  "lines_deva": [
+   "य इ॒मां दे॒वो मेख॑लामाब॒बन्ध॒ यः सं॑न॒नाह॒ य उ॑ नो यु॒योज॑",
+   "यस्य॑ दे॒वस्य॑ प्र॒शिषा॒ चरा॑मः॒ स पा॒रमि॑च्छा॒त् स स उ॑ नो॒ वि मु॑ञ्चात्"
+  ],
+  "lines_iast": [
+   "ya i̱māṃ de̱vo mekha̭lāmāba̱bandha̱ yaḥ sa̭ṃna̱nāha̱ ya ṷ no yu̱yoja̭",
+   "yasya̭ de̱vasya̭ pra̱śiṣā̱ carā̭ma̱ḥ sa pā̱rami̭cchā̱t sa sa ṷ no̱ vi mṷñcāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.133.2a",
+   "006.133.2b"
+  ],
+  "lines_deva": [
+   "आहु॑तास्य॒भिहु॑त॒ ऋषी॑णाम॒स्यायु॑धम्",
+   "पूर्वा॑ व्र॒तस्य॑ प्राश्न॒ती वी॑र॒घ्नी भ॑व मेखले"
+  ],
+  "lines_iast": [
+   "āhṷtāsya̱bhihṷta̱ ṛṣī̭ṇāma̱syāyṷdham",
+   "pūrvā̭ vra̱tasya̭ prāśna̱tī vī̭ra̱ghnī bha̭va mekhale"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.133.3a",
+   "006.133.3b"
+  ],
+  "lines_deva": [
+   "मृ॒त्योर॒हं ब्र॑ह्मचा॒री यदस्मि॑ नि॒र्याच॑न् भू॒तात् पुरु॑षं य॒माय॑",
+   "तम॒हं ब्रह्म॑णा॒ तप॑सा॒ श्रमे॑णा॒नयै॑नं॒ मेख॑लया सिनामि"
+  ],
+  "lines_iast": [
+   "mṛ̱tyora̱haṃ bra̭hmacā̱rī yadasmi̭ ni̱ryāca̭n bhū̱tāt purṷṣaṃ ya̱māya̭",
+   "tama̱haṃ brahma̭ṇā̱ tapa̭sā̱ śramḙṇā̱nayai̭na̱ṃ mekha̭layā sināmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.133.4a",
+   "006.133.4b"
+  ],
+  "lines_deva": [
+   "श्र॒द्धाया॑ दुहि॒ता तप॒सोऽधि॑ जा॒ता स्वस॒ ऋषी॑णां भूत॒कृतां॑ ब॒भूव॑",
+   "सा नो॑ मेखले म॒तिमा धे॑हि मे॒धामथो॑ नो धेहि॒ तप॑ इन्द्रि॒यं च॑"
+  ],
+  "lines_iast": [
+   "śra̱ddhāyā̭ duhi̱tā tapa̱so'dhi̭ jā̱tā svasa̱ ṛṣī̭ṇāṃ bhūta̱kṛtā̭ṃ ba̱bhūva̭",
+   "sā no̭ mekhale ma̱timā dhḙhi me̱dhāmatho̭ no dhehi̱ tapa̭ indri̱yaṃ ca̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "006.133.5a",
+   "006.133.5b"
+  ],
+  "lines_deva": [
+   "यां त्वा॒ पूर्वे॑ भूत॒कृत॒ ऋष॑यः परिबेधि॒रे",
+   "सा त्वं परि॑ ष्वजस्व॒ मां दी॑र्घायु॒त्वाय॑ मेखले"
+  ],
+  "lines_iast": [
+   "yāṃ tvā̱ pūrvḙ bhūta̱kṛta̱ ṛṣa̭yaḥ paribedhi̱re",
+   "sā tvaṃ pari̭ ṣvajasva̱ māṃ dī̭rghāyu̱tvāya̭ mekhale"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

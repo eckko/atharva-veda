@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.037.1a",
+   "007.037.1b"
+  ],
+  "lines_deva": [
+   "अ॒भि त्वा॒ मनु॑जातेन॒ दधा॑मि॒ मम॒ वास॑सा",
+   "यथासो॒ मम॒ केव॑लो॒ नान्यासां॑ की॒र्तया॑श्च॒न"
+  ],
+  "lines_iast": [
+   "a̱bhi tvā̱ manṷjātena̱ dadhā̭mi̱ mama̱ vāsa̭sā",
+   "yathāso̱ mama̱ keva̭lo̱ nānyāsā̭ṃ kī̱rtayā̭śca̱na"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

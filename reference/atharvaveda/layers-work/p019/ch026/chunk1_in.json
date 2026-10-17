@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.026.1a",
+   "019.026.1b"
+  ],
+  "lines_deva": [
+   "अ॒ग्नेः प्रजा॑तं॒ परि॒ यद्धिर॑ण्यम॒मृतं॑ द॒ध्रे अधि॒ मर्त्ये॑षु",
+   "य ए॑न॒द् वेद॒ स इदे॑नमर्हति ज॒रामृ॑त्युर्भवति॒ यो बि॒भर्ति॑"
+  ],
+  "lines_iast": [
+   "a̱gneḥ prajā̭ta̱ṃ pari̱ yaddhira̭ṇyama̱mṛta̭ṃ da̱dhre adhi̱ martyḙṣu",
+   "ya ḙna̱d veda̱ sa idḙnamarhati ja̱rāmṛ̭tyurbhavati̱ yo bi̱bharti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.026.2a",
+   "019.026.2b"
+  ],
+  "lines_deva": [
+   "यद्धिर॑ण्यं॒ सूर्ये॑ण सु॒वर्णं प्र॒जाव॑न्तो॒ मन॑वः॒ पूर्व॑ ईषि॒रे",
+   "तत् त्वा॑ च॒न्द्रं वर्च॑सा॒ सं सृ॑ज॒त्यायु॑ष्मान् भवति॒ यो बि॒भर्ति॑"
+  ],
+  "lines_iast": [
+   "yaddhira̭ṇya̱ṃ sūryḙṇa su̱varṇaṃ pra̱jāva̭nto̱ mana̭va̱ḥ pūrva̭ īṣi̱re",
+   "tat tvā̭ ca̱ndraṃ varca̭sā̱ saṃ sṛ̭ja̱tyāyṷṣmān bhavati̱ yo bi̱bharti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.026.3a",
+   "019.026.3b"
+  ],
+  "lines_deva": [
+   "आयु॑षे त्वा॒ वर्च॑से॒ त्वौज॑से च॒ बला॑य च",
+   "यथा॑ हिरण्य॒तेज॑सा वि॒भासा॑सि॒ जनाँ॒ अनु॑"
+  ],
+  "lines_iast": [
+   "āyṷṣe tvā̱ varca̭se̱ tvauja̭se ca̱ balā̭ya ca",
+   "yathā̭ hiraṇya̱teja̭sā vi̱bhāsā̭si̱ janā̱~ anṷ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.026.4a",
+   "019.026.4b"
+  ],
+  "lines_deva": [
+   "यद् वेद॒ राजा॒ वरु॑णो॒ वेद॑ दे॒वो बृह॒स्पतिः॑",
+   "इन्द्रो॒ यद् वृ॑त्र॒हा वेद॒ तत् त॑ आयु॒ष्यं भुव॒त् तत् ते॑ वर्च॒स्यं भुवत्"
+  ],
+  "lines_iast": [
+   "yad veda̱ rājā̱ varṷṇo̱ veda̭ de̱vo bṛha̱spati̭ḥ",
+   "indro̱ yad vṛ̭tra̱hā veda̱ tat ta̭ āyu̱ṣyaṃ bhuva̱t tat tḙ varca̱syaṃ bhuvat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

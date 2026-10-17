@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.040.1a",
+   "019.040.1b"
+  ],
+  "lines_deva": [
+   "यन्मे॑ छि॒द्रं मन॑सो॒ यच्च॑ वा॒चः सर॑स्वती मन्यु॒मन्तं॑ ज॒गाम॑",
+   "विश्वै॒स्तद् दे॒वैः स॒ह सं॑विदा॒नः सं द॑धातु॒ बृह॒स्पतिः॑"
+  ],
+  "lines_iast": [
+   "yanmḙ chi̱draṃ mana̭so̱ yacca̭ vā̱caḥ sara̭svatī manyu̱manta̭ṃ ja̱gāma̭",
+   "viśvai̱stad de̱vaiḥ sa̱ha sa̭ṃvidā̱naḥ saṃ da̭dhātu̱ bṛha̱spati̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.040.2a",
+   "019.040.2b"
+  ],
+  "lines_deva": [
+   "मा न॒ आपो॑ मे॒धां मा ब्रह्म॒ प्र म॑थिष्टन",
+   "सु॒ष्य॒दा यू॒यं स्य॑न्दध्व॒मुप॑हूतो॒ऽहं सु॒मेधा॑ वर्च॒स्वी"
+  ],
+  "lines_iast": [
+   "mā na̱ āpo̭ me̱dhāṃ mā brahma̱ pra ma̭thiṣṭana",
+   "su̱ṣya̱dā yū̱yaṃ sya̭ndadhva̱mupa̭hūto̱'haṃ su̱medhā̭ varca̱svī"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.040.3a",
+   "019.040.3b"
+  ],
+  "lines_deva": [
+   "मा नो॑ मे॒धां मा नो॑ दी॒क्षां मा नो॑ हिंसिष्टं॒ यत् तपः॑",
+   "शि॒वा नः॒ शं स॒न्त्वायु॑षे शि॒वा भ॑वन्तु मा॒तरः॑"
+  ],
+  "lines_iast": [
+   "mā no̭ me̱dhāṃ mā no̭ dī̱kṣāṃ mā no̭ hiṃsiṣṭa̱ṃ yat tapa̭ḥ",
+   "śi̱vā na̱ḥ śaṃ sa̱ntvāyṷṣe śi̱vā bha̭vantu mā̱tara̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.040.4a",
+   "019.040.4b"
+  ],
+  "lines_deva": [
+   "या नः॒ पीप॑रद॒श्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः",
+   "ताम॒स्मे रा॑सता॒मिष॑म्"
+  ],
+  "lines_iast": [
+   "yā na̱ḥ pīpa̭rada̱śvinā̱ jyoti̭ṣmatī̱ tama̭sti̱raḥ",
+   "tāma̱sme rā̭satā̱miṣa̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

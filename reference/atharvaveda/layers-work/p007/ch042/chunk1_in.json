@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.042.1a",
+   "007.042.1b"
+  ],
+  "lines_deva": [
+   "सोमा॑रुद्रा॒ वि वृ॑हतं॒ विषू॑ची॒ममी॑ वा॒ या नो॒ गय॑मावि॒वेश॑",
+   "बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत्"
+  ],
+  "lines_iast": [
+   "somā̭rudrā̱ vi vṛ̭hata̱ṃ viṣṷ̄cī̱mamī̭ vā̱ yā no̱ gaya̭māvi̱veśa̭",
+   "bādhḙthāṃ dū̱raṃ nirṛ̭tiṃ parā̱caiḥ kṛ̱taṃ ci̱dena̱ḥ pra mṷmuktama̱smat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.042.2a",
+   "007.042.2b"
+  ],
+  "lines_deva": [
+   "सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मद् विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम्",
+   "अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस॑त् त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत्"
+  ],
+  "lines_iast": [
+   "somā̭rudrā yu̱vame̱tānya̱smad viśvā̭ ta̱nūṣṷ bheṣa̱jāni̭ dhattam",
+   "ava̭ syataṃ mu̱ñcata̱ṃ yanno̱ asa̭t ta̱nūṣṷ ba̱ddhaṃ kṛ̱tameno̭ a̱smat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

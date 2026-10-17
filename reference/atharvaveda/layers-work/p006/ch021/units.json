@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.021.1a",
+   "006.021.1b"
+  ],
+  "lines_deva": [
+   "इ॒मा यास्ति॒स्रः पृ॑थि॒वीस्तासां॑ ह॒ भूमि॑रुत्त॒मा",
+   "तासा॒मधि॑ त्व॒चो अ॒हं भे॑ष॒जं समु॑ जग्रभम्"
+  ],
+  "lines_iast": [
+   "i̱mā yāsti̱sraḥ pṛ̭thi̱vīstāsā̭ṃ ha̱ bhūmi̭rutta̱mā",
+   "tāsā̱madhi̭ tva̱co a̱haṃ bhḙṣa̱jaṃ samṷ jagrabham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.021.2a",
+   "006.021.2b"
+  ],
+  "lines_deva": [
+   "श्रेष्ठ॑मसि भेष॒जानां॒ वसि॑ष्ठं॒ वीरु॑धानाम्",
+   "सोमो॒ भग॑ इव॒ यामे॑षु॒ दे॒वेषु॒ वरु॑णो॒ यथा॑"
+  ],
+  "lines_iast": [
+   "śreṣṭha̭masi bheṣa̱jānā̱ṃ vasi̭ṣṭha̱ṃ vīrṷdhānām",
+   "somo̱ bhaga̭ iva̱ yāmḙṣu̱ de̱veṣu̱ varṷṇo̱ yathā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.021.3a",
+   "006.021.3b"
+  ],
+  "lines_deva": [
+   "रेव॑ती॒रना॑धृषः सिषा॒सवः॑ सिषासथ",
+   "उ॒त स्थ के॑श॒दृंह॑णी॒रथो॑ ह केश॒वर्ध॑नीः"
+  ],
+  "lines_iast": [
+   "reva̭tī̱ranā̭dhṛṣaḥ siṣā̱sava̭ḥ siṣāsatha",
+   "u̱ta stha kḙśa̱dṛṃha̭ṇī̱ratho̭ ha keśa̱vardha̭nīḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

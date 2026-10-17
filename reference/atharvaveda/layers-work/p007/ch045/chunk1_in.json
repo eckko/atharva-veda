@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.045.1a",
+   "007.045.1b"
+  ],
+  "lines_deva": [
+   "जना॑द् विश्वज॒नीना॑त् सिन्धु॒तस्पर्याभृ॑तम्",
+   "दू॒रात् त्वा॑ मन्य॒ उद्भृ॑तमी॒र्ष्याया॒ नाम॑ भेष॒जम्"
+  ],
+  "lines_iast": [
+   "janā̭d viśvaja̱nīnā̭t sindhu̱tasparyābhṛ̭tam",
+   "dū̱rāt tvā̭ manya̱ udbhṛ̭tamī̱rṣyāyā̱ nāma̭ bheṣa̱jam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.045.2a",
+   "007.045.2b"
+  ],
+  "lines_deva": [
+   "अ॒ग्नेरि॑वास्य॒ दह॑तो दा॒वस्य॒ दह॑तः॒ पृथ॑क्",
+   "ए॒तामे॒तस्ये॒र्ष्यामु॒द्राग्निमि॑व शमय"
+  ],
+  "lines_iast": [
+   "a̱gneri̭vāsya̱ daha̭to dā̱vasya̱ daha̭ta̱ḥ pṛtha̭k",
+   "e̱tāme̱tasye̱rṣyāmu̱drāgnimi̭va śamaya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

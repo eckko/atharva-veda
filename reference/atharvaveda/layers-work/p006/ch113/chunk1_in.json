@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.113.1a",
+   "006.113.1b"
+  ],
+  "lines_deva": [
+   "त्रि॒ते दे॒वा अ॑मृजतै॒तदेन॑स्त्रि॒त ए॑नन्मनु॒ष्येऽषु ममृजे",
+   "ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु"
+  ],
+  "lines_iast": [
+   "tri̱te de̱vā a̭mṛjatai̱tadena̭stri̱ta ḙnanmanu̱ṣye'ṣu mamṛje",
+   "tato̱ yadi̭ tvā̱ grāhi̭rāna̱śe tāṃ tḙ de̱vā brahma̭ṇā nāśayantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.113.2a",
+   "006.113.2b"
+  ],
+  "lines_deva": [
+   "मरी॑चीर्धू॒मान् प्र वि॒शानु॑ पाप्मन्नुदा॒रान् गच्छो॒त वा॑ नीहा॒रान्",
+   "न॒दीनां॒ फेनाँ॒ अनु॒ तान् वि न॑श्य भ्रूण॒घ्नि पू॑षन् दुरि॒तानि॑ मृक्ष्व"
+  ],
+  "lines_iast": [
+   "marī̭cīrdhū̱mān pra vi̱śānṷ pāpmannudā̱rān gaccho̱ta vā̭ nīhā̱rān",
+   "na̱dīnā̱ṃ phenā̱~ anu̱ tān vi na̭śya bhrūṇa̱ghni pṷ̄ṣan duri̱tāni̭ mṛkṣva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.113.3a",
+   "006.113.3b"
+  ],
+  "lines_deva": [
+   "द्वा॒द॒श॒धा निहि॑तं त्रि॒तस्याप॑मृष्टं मनुष्यैन॒सानि॑",
+   "ततो॒ यदि॑ त्वा॒ ग्राहि॑रान॒शे तां ते॑ दे॒वा ब्रह्म॑णा नाशयन्तु"
+  ],
+  "lines_iast": [
+   "dvā̱da̱śa̱dhā nihi̭taṃ tri̱tasyāpa̭mṛṣṭaṃ manuṣyaina̱sāni̭",
+   "tato̱ yadi̭ tvā̱ grāhi̭rāna̱śe tāṃ tḙ de̱vā brahma̭ṇā nāśayantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

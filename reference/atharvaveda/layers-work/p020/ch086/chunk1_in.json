@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.086.1a",
+   "020.086.1b"
+  ],
+  "lines_deva": [
+   "ब्रह्म॑णा ते ब्रह्म॒युजा॑ युनज्मि॒ हरी॒ सखा॑या सध॒माद॑ आ॒शू",
+   "स्थि॒रं रथं॑ सु॒खमि॑न्द्राधि॒तिष्ठ॑न् प्रजा॒नन् वि॒द्वां॑ उप॑ याहि॒ सोम॑म्"
+  ],
+  "lines_iast": [
+   "brahma̭ṇā te brahma̱yujā̭ yunajmi̱ harī̱ sakhā̭yā sadha̱māda̭ ā̱śū",
+   "sthi̱raṃ ratha̭ṃ su̱khami̭ndrādhi̱tiṣṭha̭n prajā̱nan vi̱dvā̭ṃ upa̭ yāhi̱ soma̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,200 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "003.022.1a",
+   "003.022.1b"
+  ],
+  "lines_deva": [
+   "ह॒स्ति॒व॒र्च॒सं प्र॑थतां बृ॒हद् यशो॒ अदि॑त्या॒ यत् त॒न्वः संब॒भूव॑",
+   "तत् सर्वे॒ सम॑दु॒र्मह्य॑मे॒तद् विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑"
+  ],
+  "lines_iast": [
+   "ha̱sti̱va̱rca̱saṃ pra̭thatāṃ bṛ̱had yaśo̱ adi̭tyā̱ yat ta̱nvaḥ saṃba̱bhūva̭",
+   "tat sarve̱ sama̭du̱rmahya̭me̱tad viśvḙ de̱vā adi̭tiḥ sa̱joṣā̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "003.022.2"
+  ],
+  "lines_deva": [
+   "मि॒त्रश्च॒ वरु॑ण॒श्चेन्द्रो॑ रु॒द्रश्च॑ चेततु । दे॒वासो॑ वि॒श्वधा॑यस॒स्ते मा॑ञ्जन्तु॒ वर्च॑सा"
+  ],
+  "lines_iast": [
+   "mi̱traśca̱ varṷṇa̱ścendro̭ ru̱draśca̭ cetatu | de̱vāso̭ vi̱śvadhā̭yasa̱ste mā̭ñjantu̱ varca̭sā"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "003.022.3a",
+   "003.022.3b"
+  ],
+  "lines_deva": [
+   "येन॑ ह॒स्ती वर्च॑सा संब॒भूव॒ येन॒ राजा॑ मनु॒ष्येऽष्व॒प्स्व॑१न्तः",
+   "येन॑ दे॒वा दे॒वता॒मग्र आय॒न् तेन॒ माम॒द्य वर्च॒साग्ने॑ वर्च॒स्विनं॑ कृणु"
+  ],
+  "lines_iast": [
+   "yena̭ ha̱stī varca̭sā saṃba̱bhūva̱ yena̱ rājā̭ manu̱ṣye'ṣva̱psva̭1ntaḥ",
+   "yena̭ de̱vā de̱vatā̱magra āya̱n tena̱ māma̱dya varca̱sāgnḙ varca̱svina̭ṃ kṛṇu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "003.022.4a",
+   "003.022.4b",
+   "003.022.4c"
+  ],
+  "lines_deva": [
+   "यत् ते॒ वर्चो॑ जातवेदो बृ॒हद् भ॑व॒त्याहु॑तेः",
+   "याव॒त् सूर्य॑स्य॒ वर्च॑ आसु॒रस्य॑ च ह॒स्तिनः॑",
+   "ताव॑न्मे अ॒श्विना॒ वर्च॒ आ ध॑त्तां॒ पुष्क॑रस्रजा"
+  ],
+  "lines_iast": [
+   "yat te̱ varco̭ jātavedo bṛ̱had bha̭va̱tyāhṷteḥ",
+   "yāva̱t sūrya̭sya̱ varca̭ āsu̱rasya̭ ca ha̱stina̭ḥ",
+   "tāva̭nme a̱śvinā̱ varca̱ ā dha̭ttā̱ṃ puṣka̭rasrajā"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "003.022.5a",
+   "003.022.5b"
+  ],
+  "lines_deva": [
+   "याव॒च्चत॑स्रः प्र॒दिश॒श्चक्षु॒र्याव॑त् समश्नु॒ते",
+   "ताव॑त् स॒मैत्वि॑न्द्रि॒यं मयि॒ तद्ध॑स्तिवर्च॒सम्"
+  ],
+  "lines_iast": [
+   "yāva̱ccata̭sraḥ pra̱diśa̱ścakṣu̱ryāva̭t samaśnu̱te",
+   "tāva̭t sa̱maitvi̭ndri̱yaṃ mayi̱ taddha̭stivarca̱sam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "003.022.6a",
+   "003.022.6b"
+  ],
+  "lines_deva": [
+   "हस्ती मृ॒गाणां॑ सु॒षदा॑मति॒ष्ठावा॑न् ब॒भूव॒ हि",
+   "तस्य॒ भगे॑न॒ वर्च॑सा॒भि षि॑ञ्चामि॒ माम॒हम्"
+  ],
+  "lines_iast": [
+   "hastī mṛ̱gāṇā̭ṃ su̱ṣadā̭mati̱ṣṭhāvā̭n ba̱bhūva̱ hi",
+   "tasya̱ bhagḙna̱ varca̭sā̱bhi ṣi̭ñcāmi̱ māma̱ham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

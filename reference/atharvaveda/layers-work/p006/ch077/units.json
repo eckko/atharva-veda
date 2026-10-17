@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.077.1a",
+   "006.077.1b"
+  ],
+  "lines_deva": [
+   "अस्था॒द् द्यौरस्था॑त् पृथि॒व्यस्था॒द् विश्व॑मि॒दं जग॑त्",
+   "आ॒स्थाने॒ पर्व॑ता अस्थु॒ स्थाम्न्यश्वां॑ अतिष्ठिपम्"
+  ],
+  "lines_iast": [
+   "asthā̱d dyaurasthā̭t pṛthi̱vyasthā̱d viśva̭mi̱daṃ jaga̭t",
+   "ā̱sthāne̱ parva̭tā asthu̱ sthāmnyaśvā̭ṃ atiṣṭhipam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.077.2a",
+   "006.077.2b"
+  ],
+  "lines_deva": [
+   "य उ॒दान॑ट् प॒राय॑णं॒ य उ॒दान॒ण् न्याय॑नम्",
+   "आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे"
+  ],
+  "lines_iast": [
+   "ya u̱dāna̭ṭ pa̱rāya̭ṇa̱ṃ ya u̱dāna̱ṇ nyāya̭nam",
+   "ā̱varta̭naṃ ni̱varta̭na̱ṃ yo go̱pā api̱ taṃ hṷve"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.077.3a",
+   "006.077.3b"
+  ],
+  "lines_deva": [
+   "जात॑वेदो॒ नि व॑र्तय श॒तं ते॑ सन्त्वा॒वतः॑",
+   "स॒हस्रं॑ त उपा॒वृत॒स्तभि॑र्नः॒ पुन॒रा कृ॑धि"
+  ],
+  "lines_iast": [
+   "jāta̭vedo̱ ni va̭rtaya śa̱taṃ tḙ santvā̱vata̭ḥ",
+   "sa̱hasra̭ṃ ta upā̱vṛta̱stabhi̭rna̱ḥ puna̱rā kṛ̭dhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

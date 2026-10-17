@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.118.1a",
+   "006.118.1b"
+  ],
+  "lines_deva": [
+   "यद्धस्ता॑भ्यां चकृ॒म किल्बि॑षाण्य॒क्षानां॑ ग॒त्नुमु॑प॒लिप्स॑मानाः",
+   "उ॒ग्रं॒प॒श्ये उ॑ग्र॒जितौ॒ तद॒द्याप्स॒रसा॒वनु॑ दत्तामृ॒णं नः॑"
+  ],
+  "lines_iast": [
+   "yaddhastā̭bhyāṃ cakṛ̱ma kilbi̭ṣāṇya̱kṣānā̭ṃ ga̱tnumṷpa̱lipsa̭mānāḥ",
+   "u̱gra̱ṃpa̱śye ṷgra̱jitau̱ tada̱dyāpsa̱rasā̱vanṷ dattāmṛ̱ṇaṃ na̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.118.2a",
+   "006.118.2b"
+  ],
+  "lines_deva": [
+   "उग्रं॑पश्ये॒ राष्ट्र॑भृ॒त् किल्बि॑षाणि॒ यद॒क्षवृ॑त्त॒मनु॑ दत्तं न ए॒तत्",
+   "ऋ॒णान्नो॒ नर्णमेर्त्स॑मानो य॒मस्य॑ लो॒के अधि॑रज्जु॒रा॑यत्"
+  ],
+  "lines_iast": [
+   "ugra̭ṃpaśye̱ rāṣṭra̭bhṛ̱t kilbi̭ṣāṇi̱ yada̱kṣavṛ̭tta̱manṷ dattaṃ na e̱tat",
+   "ṛ̱ṇānno̱ narṇamertsa̭māno ya̱masya̭ lo̱ke adhi̭rajju̱rā̭yat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.118.3a",
+   "006.118.3b"
+  ],
+  "lines_deva": [
+   "यस्मा॑ ऋ॒णं यस्य॑ जा॒यामु॒पैमि॒ यं याच॑मानो अ॒भ्यैमि॑ देवाः",
+   "ते वाचं॑ वादिषु॒र्मोत्त॑रां॒ मद्देव॑पत्नी॒ अप्स॑रसा॒वधी॑तम्"
+  ],
+  "lines_iast": [
+   "yasmā̭ ṛ̱ṇaṃ yasya̭ jā̱yāmu̱paimi̱ yaṃ yāca̭māno a̱bhyaimi̭ devāḥ",
+   "te vāca̭ṃ vādiṣu̱rmotta̭rā̱ṃ maddeva̭patnī̱ apsa̭rasā̱vadhī̭tam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

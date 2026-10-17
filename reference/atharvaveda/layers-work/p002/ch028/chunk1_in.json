@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.028.1a",
+   "002.028.1b"
+  ],
+  "lines_deva": [
+   "तुभ्य॑मे॒व ज॑रिमन् वर्धताम॒यं मेमम॒न्ये मृ॒त्यवो॑ हिंसिषुः श॒तं ये॑",
+   "मा॒तेव॒ पु॒त्रं प्रम॑ना उ॒पस्थे॑ मि॒त्र ए॑नं मि॒त्रिया॑त् पा॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "tubhya̭me̱va ja̭riman vardhatāma̱yaṃ memama̱nye mṛ̱tyavo̭ hiṃsiṣuḥ śa̱taṃ yḙ",
+   "mā̱teva̱ pu̱traṃ prama̭nā u̱pasthḙ mi̱tra ḙnaṃ mi̱triyā̭t pā̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.028.2a",
+   "002.028.2b"
+  ],
+  "lines_deva": [
+   "मि॒त्र एनं॒ वरु॑णो वा रि॒शादा॑ ज॒रामृ॑त्युं कृणुतां संविदा॒नौ",
+   "तद॒ग्निर्होता॑ व॒युना॑नि विद्वान् विश्वा॑ दे॒वानां॒ जनि॑मा विवक्ति"
+  ],
+  "lines_iast": [
+   "mi̱tra ena̱ṃ varṷṇo vā ri̱śādā̭ ja̱rāmṛ̭tyuṃ kṛṇutāṃ saṃvidā̱nau",
+   "tada̱gnirhotā̭ va̱yunā̭ni vidvān viśvā̭ de̱vānā̱ṃ jani̭mā vivakti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.028.3a",
+   "002.028.3b"
+  ],
+  "lines_deva": [
+   "त्वमी॑शिषे पशू॒नां पार्थि॑वानां॒ ये जा॒ता उ॒त वा॒ ये ज॒नित्राः॑",
+   "मेमं प्रा॒णो हा॑सी॒न्मो अ॑पा॒नो मेमं मि॒त्रा व॑धिषु॒र्मो अ॒मित्राः॑"
+  ],
+  "lines_iast": [
+   "tvamī̭śiṣe paśū̱nāṃ pārthi̭vānā̱ṃ ye jā̱tā u̱ta vā̱ ye ja̱nitrā̭ḥ",
+   "memaṃ prā̱ṇo hā̭sī̱nmo a̭pā̱no memaṃ mi̱trā va̭dhiṣu̱rmo a̱mitrā̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "002.028.4a",
+   "002.028.4b"
+  ],
+  "lines_deva": [
+   "द्यौष्ट्वा॑ पि॒ता पृ॑थि॒वी मा॒ता ज॒रामृ॑त्युं कृणुतां संविदा॒ने",
+   "यथा॒ जीवा॒ अदि॑तेरु॒पस्थे॑ प्राणापा॒नाभ्यां॑ गुपि॒तः श॒तं हिमाः॑"
+  ],
+  "lines_iast": [
+   "dyauṣṭvā̭ pi̱tā pṛ̭thi̱vī mā̱tā ja̱rāmṛ̭tyuṃ kṛṇutāṃ saṃvidā̱ne",
+   "yathā̱ jīvā̱ adi̭teru̱pasthḙ prāṇāpā̱nābhyā̭ṃ gupi̱taḥ śa̱taṃ himā̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "002.028.5a",
+   "002.028.5b"
+  ],
+  "lines_deva": [
+   "इ॒मम॑ग्ने॒ आयु॑षे॒ वर्च॑से नय प्रि॒यं रेतो॑ वरुण मित्रराजन्",
+   "मा॒तेवा॑स्मा अदिते॒ शर्म॑ यच्छ॒ विश्वे॑ देवा ज॒रद॑ष्टि॒र्य॑थास॑त्"
+  ],
+  "lines_iast": [
+   "i̱mama̭gne̱ āyṷṣe̱ varca̭se naya pri̱yaṃ reto̭ varuṇa mitrarājan",
+   "mā̱tevā̭smā adite̱ śarma̭ yaccha̱ viśvḙ devā ja̱rada̭ṣṭi̱rya̭thāsa̭t"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

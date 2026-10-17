@@ -1,0 +1,108 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.127.1a",
+   "006.127.1b"
+  ],
+  "lines_deva": [
+   "वि॒द्र॒धस्य॑ ब॒लास॑स्य॒ लोहि॑तस्य वनस्पते",
+   "वि॒सल्प॑कस्योषधे॒ मोच्छि॑षः पिशि॒तं च॒न"
+  ],
+  "lines_iast": [
+   "vi̱dra̱dhasya̭ ba̱lāsa̭sya̱ lohi̭tasya vanaspate",
+   "vi̱salpa̭kasyoṣadhe̱ mocchi̭ṣaḥ piśi̱taṃ ca̱na"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.127.2a",
+   "006.127.2b"
+  ],
+  "lines_deva": [
+   "यौ ते॑ बलास॒ तिष्ठ॑तः॒ कक्षे॑ मु॒ष्कावप॑श्रितौ",
+   "वेदा॒हं तस्य॑ भेष॒जं ची॒पुद्रु॑रभि॒चक्ष॑णम्"
+  ],
+  "lines_iast": [
+   "yau tḙ balāsa̱ tiṣṭha̭ta̱ḥ kakṣḙ mu̱ṣkāvapa̭śritau",
+   "vedā̱haṃ tasya̭ bheṣa̱jaṃ cī̱pudrṷrabhi̱cakṣa̭ṇam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.127.3a",
+   "006.127.3b",
+   "006.127.3c"
+  ],
+  "lines_deva": [
+   "यो अङ्ग्यो॒ यः कर्ण्यो॒ यो अ॒क्ष्योर्वि॒सल्प॑कः",
+   "वि वृ॑हामो वि॒सल्प॑कं विद्र॒धं हृ॑दयाम॒यम्",
+   "परा॒ तमज्ञा॑तं॒ यक्ष्म॑मध॒राञ्चं॑ सुवामसि"
+  ],
+  "lines_iast": [
+   "yo aṅgyo̱ yaḥ karṇyo̱ yo a̱kṣyorvi̱salpa̭kaḥ",
+   "vi vṛ̭hāmo vi̱salpa̭kaṃ vidra̱dhaṃ hṛ̭dayāma̱yam",
+   "parā̱ tamajñā̭ta̱ṃ yakṣma̭madha̱rāñca̭ṃ suvāmasi"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   "।",
+   " ॥"
+  ]
+ }
+]

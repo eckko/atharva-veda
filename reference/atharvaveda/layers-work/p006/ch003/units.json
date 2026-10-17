@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.003.1a",
+   "006.003.1b"
+  ],
+  "lines_deva": [
+   "पा॒तं न॑ इन्द्रापूष॒णादि॑तिः॒ पान्तु॑ म॒रुतः॑",
+   "अपां॑ नपात् सिन्धवः स॒प्त पा॑तन॒ पातु॑ नो॒ विष्णु॑रु॒त द्यौः"
+  ],
+  "lines_iast": [
+   "pā̱taṃ na̭ indrāpūṣa̱ṇādi̭ti̱ḥ pāntṷ ma̱ruta̭ḥ",
+   "apā̭ṃ napāt sindhavaḥ sa̱pta pā̭tana̱ pātṷ no̱ viṣṇṷru̱ta dyauḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.003.2a",
+   "006.003.2b"
+  ],
+  "lines_deva": [
+   "पा॒तां नो॒ द्यावा॑पृथि॒वी अ॒भिष्ट॑ये॒ पातु॒ ग्रावा॒ पातु॒ सोमो॑ नो॒ अंह॑सः",
+   "पातु॑ नो दे॒वी सु॒भगा॒ सर॑स्वती॒ पात्व॒ग्निः शि॒वा ये अ॑स्य पा॒यवः॑"
+  ],
+  "lines_iast": [
+   "pā̱tāṃ no̱ dyāvā̭pṛthi̱vī a̱bhiṣṭa̭ye̱ pātu̱ grāvā̱ pātu̱ somo̭ no̱ aṃha̭saḥ",
+   "pātṷ no de̱vī su̱bhagā̱ sara̭svatī̱ pātva̱gniḥ śi̱vā ye a̭sya pā̱yava̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.003.3a",
+   "006.003.3b"
+  ],
+  "lines_deva": [
+   "पा॒तां नो॑ दे॒वाश्विना॑ शु॒भस्पती॑ उ॒षासा॒नक्तो॒त न॑ उरुष्यताम्",
+   "अपां॑ नपा॒दभिह्रुती॒ गय॑स्य चि॒द देव॑ त्वष्टर्व॒र्ध॑य॑ स॒र्वता॑तये"
+  ],
+  "lines_iast": [
+   "pā̱tāṃ no̭ de̱vāśvinā̭ śu̱bhaspatī̭ u̱ṣāsā̱nakto̱ta na̭ uruṣyatām",
+   "apā̭ṃ napā̱dabhihrutī̱ gaya̭sya ci̱da deva̭ tvaṣṭarva̱rdha̭ya̭ sa̱rvatā̭taye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

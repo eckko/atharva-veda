@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.059.1a",
+   "007.059.1b"
+  ],
+  "lines_deva": [
+   "यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्",
+   "वृ॒क्ष इ॑व वि॒द्युता॑ ह॒त आ मूला॒दनु॑ शुष्यतु"
+  ],
+  "lines_iast": [
+   "yo na̱ḥ śapā̱daśa̭pata̱ḥ śapa̭to̱ yaśca̭ na̱ḥ śapā̭t",
+   "vṛ̱kṣa i̭va vi̱dyutā̭ ha̱ta ā mūlā̱danṷ śuṣyatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

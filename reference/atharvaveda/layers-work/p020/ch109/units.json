@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.109.1a",
+   "020.109.1b"
+  ],
+  "lines_deva": [
+   "स्वा॒दोरि॒त्था वि॑षू॒वतो॒ मध्वः॑ पिबन्ति गौ॒र्यः",
+   "या इन्द्रे॑ण स॒याव॑री॒र्वृष्णा॒ मद॑न्ति शो॒भसे॒ वस्वी॒रनु॑ स्व॒राज्य॑म्"
+  ],
+  "lines_iast": [
+   "svā̱dori̱tthā vi̭ṣū̱vato̱ madhva̭ḥ pibanti gau̱ryaḥ",
+   "yā indrḙṇa sa̱yāva̭rī̱rvṛṣṇā̱ mada̭nti śo̱bhase̱ vasvī̱ranṷ sva̱rājya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.109.2a",
+   "020.109.2b"
+  ],
+  "lines_deva": [
+   "ता अ॑स्य पृशना॒युवः॒ सोमं॑ श्रीणन्ति॒ पृश्न॑यः",
+   "प्रि॒या इन्द्र॑स्य धे॒नवो॒ वज्रं॑ हिन्वन्ति॒ साय॑कं॒ वस्वी॒रनु॑ स्व॒राज्य॑म्"
+  ],
+  "lines_iast": [
+   "tā a̭sya pṛśanā̱yuva̱ḥ soma̭ṃ śrīṇanti̱ pṛśna̭yaḥ",
+   "pri̱yā indra̭sya dhe̱navo̱ vajra̭ṃ hinvanti̱ sāya̭ka̱ṃ vasvī̱ranṷ sva̱rājya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.109.3a",
+   "020.109.3b"
+  ],
+  "lines_deva": [
+   "ता अ॑स्य॒ नम॑सा॒ सहः॑ सप॒र्यन्ति॒ प्रचे॑तसः",
+   "व्र॒तान्य॑स्य सश्चिरे पु॒रूणि॑ पू॒र्वचि॑त्तये॒ वस्वी॒रनु॑ स्व॒राज्य॑म्"
+  ],
+  "lines_iast": [
+   "tā a̭sya̱ nama̭sā̱ saha̭ḥ sapa̱ryanti̱ pracḙtasaḥ",
+   "vra̱tānya̭sya saścire pu̱rūṇi̭ pū̱rvaci̭ttaye̱ vasvī̱ranṷ sva̱rājya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

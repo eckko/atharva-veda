@@ -1,0 +1,80 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.110.1"
+  ],
+  "lines_deva": [
+   "इन्द्रा॑य॒ मद्व॑ने सु॒तं परि॑ ष्टोभन्तु नो॒ गिरः॑ । अ॒र्कम॑र्चन्तु का॒रवः॑"
+  ],
+  "lines_iast": [
+   "indrā̭ya̱ madva̭ne su̱taṃ pari̭ ṣṭobhantu no̱ gira̭ḥ | a̱rkama̭rcantu kā̱rava̭ḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.110.2"
+  ],
+  "lines_deva": [
+   "यस्मि॒न् विश्वा॒ अधि॒ श्रियो॒ रण॑न्ति स॒प्त सं॒सदः॑ । इन्द्रं॑ सु॒ते ह॑वामहे"
+  ],
+  "lines_iast": [
+   "yasmi̱n viśvā̱ adhi̱ śriyo̱ raṇa̭nti sa̱pta sa̱ṃsada̭ḥ | indra̭ṃ su̱te ha̭vāmahe"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.110.3"
+  ],
+  "lines_deva": [
+   "त्रिक॑द्रुकेषु॒ चेत॑नं दे॒वासो॑ य॒ज्ञम॑त्नत । तमिद् व॑र्धन्तु नो॒ गिरः॑"
+  ],
+  "lines_iast": [
+   "trika̭drukeṣu̱ ceta̭naṃ de̱vāso̭ ya̱jñama̭tnata | tamid va̭rdhantu no̱ gira̭ḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

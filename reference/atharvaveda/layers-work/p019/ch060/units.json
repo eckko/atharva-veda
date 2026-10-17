@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.060.1a",
+   "019.060.1b"
+  ],
+  "lines_deva": [
+   "वाङ् म॑ आ॒सन् न॒सोः प्रा॒णश्चक्षु॑र॒क्ष्णोः श्रोत्रं॒ कर्ण॑योः",
+   "अप॑लिताः॒ केशा॒ अशो॑णा॒ दन्ता॑ ब॒हु बा॒ह्वोर्बल॑म्"
+  ],
+  "lines_iast": [
+   "vāṅ ma̭ ā̱san na̱soḥ prā̱ṇaścakṣṷra̱kṣṇoḥ śrotra̱ṃ karṇa̭yoḥ",
+   "apa̭litā̱ḥ keśā̱ aśo̭ṇā̱ dantā̭ ba̱hu bā̱hvorbala̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.060.2a",
+   "019.060.2b"
+  ],
+  "lines_deva": [
+   "ऊ॒र्वोरोजो॒ जङ्घ॑योर्ज॒वः पाद॑योः",
+   "प्र॒ति॒ष्ठा अरि॑ष्टानि मे॒ सर्वा॒त्मानि॑भृष्टः"
+  ],
+  "lines_iast": [
+   "ū̱rvorojo̱ jaṅgha̭yorja̱vaḥ pāda̭yoḥ",
+   "pra̱ti̱ṣṭhā ari̭ṣṭāni me̱ sarvā̱tmāni̭bhṛṣṭaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

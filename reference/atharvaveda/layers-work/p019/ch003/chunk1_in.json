@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.003.1a",
+   "019.003.1b"
+  ],
+  "lines_deva": [
+   "दि॒वस्पृ॑थि॒व्याः पर्य॒न्तरि॑क्षा॒द् वन॒स्पति॑भ्यो॒ अध्योष॑धीभ्यः",
+   "यत्र॑यत्र॒ विभृ॑तो जा॒तवे॑दा॒स्तत॑ स्तु॒तो जु॒षमा॑णो न॒ एहि॑"
+  ],
+  "lines_iast": [
+   "di̱vaspṛ̭thi̱vyāḥ parya̱ntari̭kṣā̱d vana̱spati̭bhyo̱ adhyoṣa̭dhībhyaḥ",
+   "yatra̭yatra̱ vibhṛ̭to jā̱tavḙdā̱stata̭ stu̱to ju̱ṣamā̭ṇo na̱ ehi̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.003.2a",
+   "019.003.2b"
+  ],
+  "lines_deva": [
+   "यस्ते॑ अ॒प्सु म॑हि॒मा यो वने॑षु॒ य ओष॑धीषु प॒शुष्व॒प्स्व॑१न्तः",
+   "अग्ने॒ सर्वा॑स्त॒न्वः॑१ सं र॑भस्व॒ ताभि॑र्न॒ एहि॑ द्रविणो॒दा अज॑स्रः"
+  ],
+  "lines_iast": [
+   "yastḙ a̱psu ma̭hi̱mā yo vanḙṣu̱ ya oṣa̭dhīṣu pa̱śuṣva̱psva̭1ntaḥ",
+   "agne̱ sarvā̭sta̱nva̭ḥ1 saṃ ra̭bhasva̱ tābhi̭rna̱ ehi̭ draviṇo̱dā aja̭sraḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.003.3a",
+   "019.003.3b"
+  ],
+  "lines_deva": [
+   "यस्ते॑ दे॒वेषु॑ महि॒मा स्व॒र्गो या ते॑ त॒नूः पि॒तृष्वा॑वि॒वेश॑",
+   "पुष्टि॒र्या ते॑ मनु॒ष्येऽषु पप्र॒थेऽग्ने॒ तया॑ र॒यिम॒स्मासु॑ धेहि"
+  ],
+  "lines_iast": [
+   "yastḙ de̱veṣṷ mahi̱mā sva̱rgo yā tḙ ta̱nūḥ pi̱tṛṣvā̭vi̱veśa̭",
+   "puṣṭi̱ryā tḙ manu̱ṣye'ṣu papra̱the'gne̱ tayā̭ ra̱yima̱smāsṷ dhehi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.003.4a",
+   "019.003.4b"
+  ],
+  "lines_deva": [
+   "श्रुत्क॑र्णाय क॒वये॒ वेद्या॑य॒ वचो॑भिर्वा॒कैरुप॑ यामि रा॒तिम्",
+   "यतो॑ भ॒यमभ॑यं॒ तन्नो॑ अ॒स्त्वव॑ दे॒वानां॑ यज॒ हेडो॑ अग्ने"
+  ],
+  "lines_iast": [
+   "śrutka̭rṇāya ka̱vaye̱ vedyā̭ya̱ vaco̭bhirvā̱kairupa̭ yāmi rā̱tim",
+   "yato̭ bha̱yamabha̭ya̱ṃ tanno̭ a̱stvava̭ de̱vānā̭ṃ yaja̱ heḍo̭ agne"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

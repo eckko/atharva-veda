@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.108.1a",
+   "007.108.1b"
+  ],
+  "lines_deva": [
+   "यो न॑स्ता॒यद् दिप्स॑ति॒ यो न॑ आ॒विः स्वो वि॒द्वानर॑णो वा नो अग्ने",
+   "प्र॒तीच्ये॒त्वर॑णी द॒त्वती॒ तान् मैषा॑मग्ने॒ वास्तु॑ भू॒न्मो अप॑त्यम्"
+  ],
+  "lines_iast": [
+   "yo na̭stā̱yad dipsa̭ti̱ yo na̭ ā̱viḥ svo vi̱dvānara̭ṇo vā no agne",
+   "pra̱tīcye̱tvara̭ṇī da̱tvatī̱ tān maiṣā̭magne̱ vāstṷ bhū̱nmo apa̭tyam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.108.2a",
+   "007.108.2b"
+  ],
+  "lines_deva": [
+   "यो नः॑ सु॒प्ता॑न् जाग्र॑तो वाभि॒दासा॒त् तिष्ठ॑तो वा॒ चर॑तो जातवेदः",
+   "वै॒श्वा॒न॒रेण॑ स॒युजा॑ स॒जोषा॒स्तान् प्र॒तीचो॒ निर्द॑ह जातवेदः"
+  ],
+  "lines_iast": [
+   "yo na̭ḥ su̱ptā̭n jāgra̭to vābhi̱dāsā̱t tiṣṭha̭to vā̱ cara̭to jātavedaḥ",
+   "vai̱śvā̱na̱reṇa̭ sa̱yujā̭ sa̱joṣā̱stān pra̱tīco̱ nirda̭ha jātavedaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.065.1a",
+   "007.065.1b"
+  ],
+  "lines_deva": [
+   "प्र॒ती॒चीन॑फलो॒ हि त्वमपा॑मार्ग रु॒रोहि॑थ",
+   "सर्वा॒न् मच्छ॒पथाँ अधि॒ वरी॑यो यावया इ॒तः"
+  ],
+  "lines_iast": [
+   "pra̱tī̱cīna̭phalo̱ hi tvamapā̭mārga ru̱rohi̭tha",
+   "sarvā̱n maccha̱pathā~ adhi̱ varī̭yo yāvayā i̱taḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.065.2a",
+   "007.065.2b"
+  ],
+  "lines_deva": [
+   "यद् दु॑ष्कृ॒तं यच्छम॑लं॒ यद् वा चेरि॒म पा॒पया॑",
+   "त्वया॒ तद् वि॑श्वतोमु॒खापा॑मा॒र्गाप॑ मृज्महे"
+  ],
+  "lines_iast": [
+   "yad dṷṣkṛ̱taṃ yacchama̭la̱ṃ yad vā ceri̱ma pā̱payā̭",
+   "tvayā̱ tad vi̭śvatomu̱khāpā̭mā̱rgāpa̭ mṛjmahe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.065.3a",
+   "007.065.3b"
+  ],
+  "lines_deva": [
+   "श्या॒वद॑ता कुन॒खिना॑ ब॒ण्डेन॒ यत् स॒हासि॒म",
+   "अपा॑मार्ग॒ त्वया॑ व॒यं सर्वं॒ तदप॑ मृज्महे"
+  ],
+  "lines_iast": [
+   "śyā̱vada̭tā kuna̱khinā̭ ba̱ṇḍena̱ yat sa̱hāsi̱ma",
+   "apā̭mārga̱ tvayā̭ va̱yaṃ sarva̱ṃ tadapa̭ mṛjmahe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

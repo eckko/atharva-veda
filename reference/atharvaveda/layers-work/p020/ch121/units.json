@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.121.1a",
+   "020.121.1b"
+  ],
+  "lines_deva": [
+   "अ॒भि त्वा॑ शूर नोनु॒मोऽदु॑ग्धा इव धे॒नवः॑",
+   "ईशा॑नम॒स्य जग॑तः स्व॒र्दृश॒मीशा॑नमिन्द्र त॒स्थुषः॑"
+  ],
+  "lines_iast": [
+   "a̱bhi tvā̭ śūra nonu̱mo'dṷgdhā iva dhe̱nava̭ḥ",
+   "īśā̭nama̱sya jaga̭taḥ sva̱rdṛśa̱mīśā̭namindra ta̱sthuṣa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.121.2a",
+   "020.121.2b"
+  ],
+  "lines_deva": [
+   "न त्वावां॑ अ॒न्यो दि॒व्यो न पार्थि॑वो॒ न जा॒तो न ज॑निष्यते",
+   "अ॒श्वा॒यन्तो॑ मघवन्निन्द्र वा॒जिनो॑ ग॒व्यन्त॑स्त्वा हवामहे"
+  ],
+  "lines_iast": [
+   "na tvāvā̭ṃ a̱nyo di̱vyo na pārthi̭vo̱ na jā̱to na ja̭niṣyate",
+   "a̱śvā̱yanto̭ maghavannindra vā̱jino̭ ga̱vyanta̭stvā havāmahe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

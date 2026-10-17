@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.084.1a",
+   "006.084.1b"
+  ],
+  "lines_deva": [
+   "यस्या॑स्त आ॒सनि॑ घो॒रे जु॒होम्ये॒षां ब॒द्धाना॑मव॒सर्ज॑नाय॒ कम्",
+   "भूमि॒रिति॑ त्वाभि॒प्रम॑न्वते॒ जना॒ निरृ॑ति॒रिति॑ त्वा॒हं परि॑ वेद स॒र्वतः॑"
+  ],
+  "lines_iast": [
+   "yasyā̭sta ā̱sani̭ gho̱re ju̱homye̱ṣāṃ ba̱ddhānā̭mava̱sarja̭nāya̱ kam",
+   "bhūmi̱riti̭ tvābhi̱prama̭nvate̱ janā̱ nirṛ̭ti̱riti̭ tvā̱haṃ pari̭ veda sa̱rvata̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.084.2a",
+   "006.084.2b"
+  ],
+  "lines_deva": [
+   "भूते॑ ह॒विष्म॑ती भवै॒ष ते॑ भा॒गो यो अ॒स्मासु॑",
+   "मु॒ञ्चेमान॒मूनेन॑सः॒ स्वाहा॑"
+  ],
+  "lines_iast": [
+   "bhūtḙ ha̱viṣma̭tī bhavai̱ṣa tḙ bhā̱go yo a̱smāsṷ",
+   "mu̱ñcemāna̱mūnena̭sa̱ḥ svāhā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.084.3a",
+   "006.084.3b"
+  ],
+  "lines_deva": [
+   "ए॒वो ष्व॑१स्मन्नि॑रृतेऽने॒हा त्वम॑य॒स्मया॒न् वि चृ॑ता बन्धपा॒शान्",
+   "य॒मो मह्यं॒ पुन॒रित् त्वां द॑दाति॒ तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑"
+  ],
+  "lines_iast": [
+   "e̱vo ṣva̭1smanni̭rṛte'ne̱hā tvama̭ya̱smayā̱n vi cṛ̭tā bandhapā̱śān",
+   "ya̱mo mahya̱ṃ puna̱rit tvāṃ da̭dāti̱ tasmai̭ ya̱māya̱ namo̭ astu mṛ̱tyavḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.084.4a",
+   "006.084.4b"
+  ],
+  "lines_deva": [
+   "अ॒य॒स्मये॑ द्रुप॒दे बे॑धिष इ॒हाभिहि॑तो मृ॒त्युभि॒र्ये स॒हस्र॑म्",
+   "य॒मेन॒ त्वं पि॒तृभिः॑ संविदा॒न उ॑त्त॒मं नाक॒मधि॑ रोहये॒मम्"
+  ],
+  "lines_iast": [
+   "a̱ya̱smayḙ drupa̱de bḙdhiṣa i̱hābhihi̭to mṛ̱tyubhi̱rye sa̱hasra̭m",
+   "ya̱mena̱ tvaṃ pi̱tṛbhi̭ḥ saṃvidā̱na ṷtta̱maṃ nāka̱madhi̭ rohaye̱mam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

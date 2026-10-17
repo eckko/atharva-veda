@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.113.1a",
+   "020.113.1b"
+  ],
+  "lines_deva": [
+   "उ॒भयं॑ शृ॒णव॑च्च न॒ इन्द्रो॑ अ॒र्वागि॒दं वचः॑",
+   "स॒त्राच्या॑ म॒घवा॒ सोम॑पीतये धि॒या शवि॑ष्ठ॒ आ ग॑मत्"
+  ],
+  "lines_iast": [
+   "u̱bhaya̭ṃ śṛ̱ṇava̭cca na̱ indro̭ a̱rvāgi̱daṃ vaca̭ḥ",
+   "sa̱trācyā̭ ma̱ghavā̱ soma̭pītaye dhi̱yā śavi̭ṣṭha̱ ā ga̭mat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.113.2a",
+   "020.113.2b"
+  ],
+  "lines_deva": [
+   "तं हि स्व॒राजं॑ वृष॒भं तमोज॑से धि॒षणे॑ निष्टत॒क्षतुः॑",
+   "उ॒तोप॒मानां॑ प्रथ॒मो नि षी॑दसि॒ सोम॑कामं॒ हि ते॒ मनः॑"
+  ],
+  "lines_iast": [
+   "taṃ hi sva̱rāja̭ṃ vṛṣa̱bhaṃ tamoja̭se dhi̱ṣaṇḙ niṣṭata̱kṣatṷḥ",
+   "u̱topa̱mānā̭ṃ pratha̱mo ni ṣī̭dasi̱ soma̭kāma̱ṃ hi te̱ mana̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.074.1a",
+   "006.074.1b"
+  ],
+  "lines_deva": [
+   "सं वः॑ पृच्यन्तां त॒न्वः॑१ सं मनां॑सि॒ समु॑ व्र॒ता",
+   "सं वोऽयं ब्रह्म॑ण॒स्पति॒र्भगः॑ सं वो॑ अजीगमत्"
+  ],
+  "lines_iast": [
+   "saṃ va̭ḥ pṛcyantāṃ ta̱nva̭ḥ1 saṃ manā̭ṃsi̱ samṷ vra̱tā",
+   "saṃ vo'yaṃ brahma̭ṇa̱spati̱rbhaga̭ḥ saṃ vo̭ ajīgamat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.074.2a",
+   "006.074.2b"
+  ],
+  "lines_deva": [
+   "सं॒ज्ञप॑नं वो॒ मन॒सोऽथो॑ सं॒ज्ञप॑नं हृ॒दः",
+   "अथो॒ भग॑स्य॒ यच्छ्रा॒न्तं तेन॒ संज्ञ॑पयामि वः"
+  ],
+  "lines_iast": [
+   "sa̱ṃjñapa̭naṃ vo̱ mana̱so'tho̭ sa̱ṃjñapa̭naṃ hṛ̱daḥ",
+   "atho̱ bhaga̭sya̱ yacchrā̱ntaṃ tena̱ saṃjña̭payāmi vaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.074.3a",
+   "006.074.3b"
+  ],
+  "lines_deva": [
+   "यथा॑दि॒त्या वसु॑भिः संबभू॒वुर्म॒रुद्भि॑रु॒ग्रा अहृ॑णीयमानाः",
+   "एवा त्रि॑णाम॒न्नहृ॑णीयमान इ॒मान् जना॒न्त्संम॑नसस्कृधी॒ह"
+  ],
+  "lines_iast": [
+   "yathā̭di̱tyā vasṷbhiḥ saṃbabhū̱vurma̱rudbhi̭ru̱grā ahṛ̭ṇīyamānāḥ",
+   "evā tri̭ṇāma̱nnahṛ̭ṇīyamāna i̱mān janā̱ntsaṃma̭nasaskṛdhī̱ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

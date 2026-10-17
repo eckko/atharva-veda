@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.105.1a",
+   "007.105.1b"
+  ],
+  "lines_deva": [
+   "अ॒प॒क्राम॒न् पौरु॑षेयाद् वृणा॒नो दैव्यं॒ वचः॑",
+   "प्रणी॑तीर॒भ्याव॑र्तस्व॒ विश्वे॑भिः॒ सखि॑भिः स॒ह"
+  ],
+  "lines_iast": [
+   "a̱pa̱krāma̱n paurṷṣeyād vṛṇā̱no daivya̱ṃ vaca̭ḥ",
+   "praṇī̭tīra̱bhyāva̭rtasva̱ viśvḙbhi̱ḥ sakhi̭bhiḥ sa̱ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

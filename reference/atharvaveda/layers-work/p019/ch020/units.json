@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.020.1a",
+   "019.020.1b"
+  ],
+  "lines_deva": [
+   "अप॒ न्यधुः॒ पौरु॑षेयं व॒धं यमि॑न्द्रा॒ग्नी धा॒ता स॑वि॒ता बृह॒स्पतिः॑",
+   "सोमो॒ राजा॒ वरु॑णो अ॒श्विना॑ य॒मः पू॒षास्मान् परि॑ पातु मृ॒त्योः"
+  ],
+  "lines_iast": [
+   "apa̱ nyadhu̱ḥ paurṷṣeyaṃ va̱dhaṃ yami̭ndrā̱gnī dhā̱tā sa̭vi̱tā bṛha̱spati̭ḥ",
+   "somo̱ rājā̱ varṷṇo a̱śvinā̭ ya̱maḥ pū̱ṣāsmān pari̭ pātu mṛ̱tyoḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.020.2a",
+   "019.020.2b"
+  ],
+  "lines_deva": [
+   "या॑नि॑ च॒कार॒ भुव॑नस्य॒ यस्पतिः॑ प्र॒जाप॑तिर्मात॒रिश्वा॑ प्र॒जाभ्यः॑",
+   "प्र॒दिशो॒ यानि॑ वस॒ते दिश॑श्च॒ तानि॑ मे॒ वर्मा॑णि बहु॒लानि॑ सन्तु"
+  ],
+  "lines_iast": [
+   "yā̭ni̭ ca̱kāra̱ bhuva̭nasya̱ yaspati̭ḥ pra̱jāpa̭tirmāta̱riśvā̭ pra̱jābhya̭ḥ",
+   "pra̱diśo̱ yāni̭ vasa̱te diśa̭śca̱ tāni̭ me̱ varmā̭ṇi bahu̱lāni̭ santu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.020.3a",
+   "019.020.3b"
+  ],
+  "lines_deva": [
+   "यत् ते त॒नूष्वन॑ह्यन्त दे॒वा द्युरा॑जयो दे॒हिनः॑",
+   "इन्द्रो॒ यच्चक्रे वर्म॒ तद॒स्मान् पा॑तु वि॒श्वतः॑"
+  ],
+  "lines_iast": [
+   "yat te ta̱nūṣvana̭hyanta de̱vā dyurā̭jayo de̱hina̭ḥ",
+   "indro̱ yaccakre varma̱ tada̱smān pā̭tu vi̱śvata̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.020.4a",
+   "019.020.4b"
+  ],
+  "lines_deva": [
+   "वर्म॑ मे॒ द्यावा॑पृथि॒वी वर्माह॒र्वर्म॒ सूर्यः॑",
+   "वर्म॑ मे॒ विश्वे॑ दे॒वाः क्र॒न् मा मा प्राप॑त् प्रतीचि॒का"
+  ],
+  "lines_iast": [
+   "varma̭ me̱ dyāvā̭pṛthi̱vī varmāha̱rvarma̱ sūrya̭ḥ",
+   "varma̭ me̱ viśvḙ de̱vāḥ kra̱n mā mā prāpa̭t pratīci̱kā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

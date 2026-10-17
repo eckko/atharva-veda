@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.014.1a",
+   "019.014.1b"
+  ],
+  "lines_deva": [
+   "इ॒दमु॒च्छ्रेयो॑ऽव॒सान॒मागां॑ शि॒वे मे॒ द्यावा॑पृथि॒वी अ॑भूताम्",
+   "अ॒स॒प॒त्नाः प्र॒दिशो॑ मे भवन्तु॒ न वै त्वा॑ द्विष्मो॒ अभ॑यं नो अस्तु"
+  ],
+  "lines_iast": [
+   "i̱damu̱cchreyo̭'va̱sāna̱māgā̭ṃ śi̱ve me̱ dyāvā̭pṛthi̱vī a̭bhūtām",
+   "a̱sa̱pa̱tnāḥ pra̱diśo̭ me bhavantu̱ na vai tvā̭ dviṣmo̱ abha̭yaṃ no astu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

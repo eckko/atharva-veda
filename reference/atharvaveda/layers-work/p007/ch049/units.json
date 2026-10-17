@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.049.1a",
+   "007.049.1b"
+  ],
+  "lines_deva": [
+   "दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये",
+   "याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सु॒हवाः॒ शर्म॑ यच्छन्तु"
+  ],
+  "lines_iast": [
+   "de̱vānā̱ṃ patnī̭ruśa̱tīra̭vantu na̱ḥ prāva̭ntu nastu̱jaye̱ vāja̭sātaye",
+   "yāḥ pārthi̭vāso̱ yā a̱pāmapi̭ vra̱te tā no̭ devīḥ su̱havā̱ḥ śarma̭ yacchantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.049.2a",
+   "007.049.2b"
+  ],
+  "lines_deva": [
+   "उ॒त ग्ना व्य॑न्तु दे॒वप॑त्नीरिन्द्रा॒ण्य॑१ग्नाय्य॒श्विनी॒ राट्",
+   "आ रोद॑सी वरुणा॒नी शृ॑णोतु॒ व्यन्तु॑ दे॒वीर्य ऋ॒तुर्जनी॑नाम्"
+  ],
+  "lines_iast": [
+   "u̱ta gnā vya̭ntu de̱vapa̭tnīrindrā̱ṇya̭1gnāyya̱śvinī̱ rāṭ",
+   "ā roda̭sī varuṇā̱nī śṛ̭ṇotu̱ vyantṷ de̱vīrya ṛ̱turjanī̭nām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

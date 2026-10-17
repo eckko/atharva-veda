@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.011.1a",
+   "007.011.1b"
+  ],
+  "lines_deva": [
+   "यस्ते॒ स्तनः॑ शश॒युर्यो म॑यो॒भूर्यः सु॑म्न॒युः सु॒हवो॒ यः सु॒दत्रः॑",
+   "येन॒ विश्वा॒ पुष्य॑सि॒ वार्या॑णि॒ सर॑स्वति॒ तमि॒ह धात॑वे कः"
+  ],
+  "lines_iast": [
+   "yaste̱ stana̭ḥ śaśa̱yuryo ma̭yo̱bhūryaḥ sṷmna̱yuḥ su̱havo̱ yaḥ su̱datra̭ḥ",
+   "yena̱ viśvā̱ puṣya̭si̱ vāryā̭ṇi̱ sara̭svati̱ tami̱ha dhāta̭ve kaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

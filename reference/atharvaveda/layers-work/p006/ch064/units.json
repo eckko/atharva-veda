@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.064.1a",
+   "006.064.1b"
+  ],
+  "lines_deva": [
+   "सं जा॑नीध्वं॒ सं पृ॑च्यध्वं॒ सं वो॒ मनां॑सि जानताम्",
+   "दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते"
+  ],
+  "lines_iast": [
+   "saṃ jā̭nīdhva̱ṃ saṃ pṛ̭cyadhva̱ṃ saṃ vo̱ manā̭ṃsi jānatām",
+   "de̱vā bhā̱gaṃ yathā̱ pūrvḙ saṃjānā̱nā u̱pāsa̭te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.064.2a",
+   "006.064.2b"
+  ],
+  "lines_deva": [
+   "स॒मा॒नो मन्त्रः॒ समि॑तिः समा॒नी स॑मा॒नं व्र॒तं स॒ह चि॒त्तमे॑षाम्",
+   "स॒मा॒नेन॑ वो ह॒विषा॑ जुहोमि समा॒नं चेतो॑ अभि॒संवि॑शध्वम्"
+  ],
+  "lines_iast": [
+   "sa̱mā̱no mantra̱ḥ sami̭tiḥ samā̱nī sa̭mā̱naṃ vra̱taṃ sa̱ha ci̱ttamḙṣām",
+   "sa̱mā̱nena̭ vo ha̱viṣā̭ juhomi samā̱naṃ ceto̭ abhi̱saṃvi̭śadhvam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.064.3a",
+   "006.064.3b"
+  ],
+  "lines_deva": [
+   "स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः",
+   "स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति"
+  ],
+  "lines_iast": [
+   "sa̱mā̱nī va̱ ākṷ̄tiḥ samā̱nā hṛda̭yāni vaḥ",
+   "sa̱mā̱nama̭stu vo̱ mano̱ yathā̭ va̱ḥ susa̱hāsa̭ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

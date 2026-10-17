@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.140.1a",
+   "006.140.1b"
+  ],
+  "lines_deva": [
+   "यौ व्या॒घ्रवव॑रूढौ जिघ॑त्सतः पि॒तरं॑ मा॒तरं॑ च",
+   "यौ दन्तौ ब्रह्मणस्पते शि॒वौ कृ॑णु जातवेदः"
+  ],
+  "lines_iast": [
+   "yau vyā̱ghravava̭rūḍhau jigha̭tsataḥ pi̱tara̭ṃ mā̱tara̭ṃ ca",
+   "yau dantau brahmaṇaspate śi̱vau kṛ̭ṇu jātavedaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.140.2a",
+   "006.140.2b"
+  ],
+  "lines_deva": [
+   "व्री॒हिम॑त्तं॒ यव॑मत्त॒मथो॒ माष॒मथो॒ तिल॑म्",
+   "ए॒ष वां॑ भा॒गो निहि॑तो रत्न॒धेया॑य दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च"
+  ],
+  "lines_iast": [
+   "vrī̱hima̭tta̱ṃ yava̭matta̱matho̱ māṣa̱matho̱ tila̭m",
+   "e̱ṣa vā̭ṃ bhā̱go nihi̭to ratna̱dheyā̭ya dantau̱ mā hi̭ṃsiṣṭaṃ pi̱tara̭ṃ mā̱tara̭ṃ ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.140.3a",
+   "006.140.3b"
+  ],
+  "lines_deva": [
+   "उप॑हूतौ स॒युजौ॑ स्यो॒नौ दन्तौ॑ सुम॒ङ्गलौ॑",
+   "अ॒न्यत्र॑ वां घो॒रं त॒न्वः॑१ परै॑तु दन्तौ॒ मा हिं॑सिष्टं पि॒तरं॑ मा॒तरं॑ च"
+  ],
+  "lines_iast": [
+   "upa̭hūtau sa̱yujaṷ syo̱nau dantaṷ suma̱ṅgalaṷ",
+   "a̱nyatra̭ vāṃ gho̱raṃ ta̱nva̭ḥ1 parai̭tu dantau̱ mā hi̭ṃsiṣṭaṃ pi̱tara̭ṃ mā̱tara̭ṃ ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

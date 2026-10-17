@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.039.1a",
+   "006.039.1b"
+  ],
+  "lines_deva": [
+   "यशो॑ ह॒विर्व॑र्धता॒मिन्द्र॑जूतं स॒हस्र॑वीर्यं॒ सुभृ॑तं॒ सह॑स्कृतम्",
+   "प्र॒सर्स्रा॑ण॒मनु॑ दी॒र्घाय॒ चक्ष॑से ह॒विष्म॑न्तं मा वर्धय ज्ये॒ष्ठता॑तये"
+  ],
+  "lines_iast": [
+   "yaśo̭ ha̱virva̭rdhatā̱mindra̭jūtaṃ sa̱hasra̭vīrya̱ṃ subhṛ̭ta̱ṃ saha̭skṛtam",
+   "pra̱sarsrā̭ṇa̱manṷ dī̱rghāya̱ cakṣa̭se ha̱viṣma̭ntaṃ mā vardhaya jye̱ṣṭhatā̭taye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.039.2a",
+   "006.039.2b"
+  ],
+  "lines_deva": [
+   "अच्छा॑ न॒ इन्द्रं॑ य॒शसं॒ यशो॑भिर्यश॒स्विनं॑ नमसा॒ना वि॑धेम",
+   "स नो॑ रास्व रा॒ष्ट्रमिन्द्र॑जूतं॒ तस्य॑ ते रा॒तौ य॒शसः॑ स्याम"
+  ],
+  "lines_iast": [
+   "acchā̭ na̱ indra̭ṃ ya̱śasa̱ṃ yaśo̭bhiryaśa̱svina̭ṃ namasā̱nā vi̭dhema",
+   "sa no̭ rāsva rā̱ṣṭramindra̭jūta̱ṃ tasya̭ te rā̱tau ya̱śasa̭ḥ syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.039.3a",
+   "006.039.3b"
+  ],
+  "lines_deva": [
+   "य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत",
+   "य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः"
+  ],
+  "lines_iast": [
+   "ya̱śā indro̭ ya̱śā a̱gnirya̱śāḥ somo̭ ajāyata",
+   "ya̱śā viśva̭sya bhū̱tasyā̱hama̭smi ya̱śasta̭maḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.001.1a",
+   "019.001.1b"
+  ],
+  "lines_deva": [
+   "सं सं स्र॑वन्तु न॒द्यः॑१ सं वाताः॒ सं प॑त॒त्रिणः॑",
+   "य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्येऽण ह॒विषा॑ जुहोमि"
+  ],
+  "lines_iast": [
+   "saṃ saṃ sra̭vantu na̱dya̭ḥ1 saṃ vātā̱ḥ saṃ pa̭ta̱triṇa̭ḥ",
+   "ya̱jñami̱maṃ va̭rdhayatā giraḥ saṃsrā̱vye'ṇa ha̱viṣā̭ juhomi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.001.2a",
+   "019.001.2b"
+  ],
+  "lines_deva": [
+   "इ॒मं होमा॑ य॒ज्ञम॑वते॒मं सं॑स्रावणा उ॒त",
+   "य॒ज्ञमि॒मं व॑र्धयता गिरः संस्रा॒व्येऽण ह॒विषा॑ जुहोमि"
+  ],
+  "lines_iast": [
+   "i̱maṃ homā̭ ya̱jñama̭vate̱maṃ sa̭ṃsrāvaṇā u̱ta",
+   "ya̱jñami̱maṃ va̭rdhayatā giraḥ saṃsrā̱vye'ṇa ha̱viṣā̭ juhomi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.001.3a",
+   "019.001.3b"
+  ],
+  "lines_deva": [
+   "रू॒पंरू॑पं॒ वयो॑वयः सं॒रभ्यै॑नं॒ परि॑ ष्वजे",
+   "य॒ज्ञमि॒मं चत॑स्रः प्र॒दिशो॑ वर्धयन्तु संस्रा॒व्येऽण ह॒विषा॑ जुहोमि"
+  ],
+  "lines_iast": [
+   "rū̱paṃrṷ̄pa̱ṃ vayo̭vayaḥ sa̱ṃrabhyai̭na̱ṃ pari̭ ṣvaje",
+   "ya̱jñami̱maṃ cata̭sraḥ pra̱diśo̭ vardhayantu saṃsrā̱vye'ṇa ha̱viṣā̭ juhomi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

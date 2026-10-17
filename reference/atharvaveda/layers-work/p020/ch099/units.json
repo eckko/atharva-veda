@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.099.1a",
+   "020.099.1b"
+  ],
+  "lines_deva": [
+   "अ॒भि त्वा॑ पू॒र्वपी॑तय॒ इन्द्र॒ स्तोमे॑भिरा॒यवः॑",
+   "स॒मी॒ची॒नास॑ ऋ॒भवः॒ सम॑स्वरन् रु॒द्रा गृ॑णन्त॒ पूर्व्य॑म्"
+  ],
+  "lines_iast": [
+   "a̱bhi tvā̭ pū̱rvapī̭taya̱ indra̱ stomḙbhirā̱yava̭ḥ",
+   "sa̱mī̱cī̱nāsa̭ ṛ̱bhava̱ḥ sama̭svaran ru̱drā gṛ̭ṇanta̱ pūrvya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.099.2a",
+   "020.099.2b"
+  ],
+  "lines_deva": [
+   "अ॒स्येदिन्द्रो॑ वावृधे॒ वृष्ण्यं॒ शवो॒ मदे॑ सु॒तस्य॒ विष्ण॑वि",
+   "अ॒द्या तम॑स्य महि॒मान॑मा॒यवोऽनु॑ ष्टुवन्ति पू॒र्वथा॑"
+  ],
+  "lines_iast": [
+   "a̱syedindro̭ vāvṛdhe̱ vṛṣṇya̱ṃ śavo̱ madḙ su̱tasya̱ viṣṇa̭vi",
+   "a̱dyā tama̭sya mahi̱māna̭mā̱yavo'nṷ ṣṭuvanti pū̱rvathā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.031.1a",
+   "001.031.1b"
+  ],
+  "lines_deva": [
+   "आशा॑नामाशापा॒लेभ्य॑श्च॒तुर्भ्यो॑ अ॒मृते॑भ्यः",
+   "इ॒दं भू॒तस्याध्य॑क्षेभ्यो वि॒धेम॑ ह॒विषा॑ व॒यम्"
+  ],
+  "lines_iast": [
+   "āśā̭nāmāśāpā̱lebhya̭śca̱turbhyo̭ a̱mṛtḙbhyaḥ",
+   "i̱daṃ bhū̱tasyādhya̭kṣebhyo vi̱dhema̭ ha̱viṣā̭ va̱yam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.031.2a",
+   "001.031.2b"
+  ],
+  "lines_deva": [
+   "य आशा॑नामाशापा॒लाश्च॒त्वार॒ स्थन॑ देवाः",
+   "ते नो॒ निरृ॑त्याः॒ पाशे॑भ्यो मु॒ञ्चतांह॑सो अंहसः"
+  ],
+  "lines_iast": [
+   "ya āśā̭nāmāśāpā̱lāśca̱tvāra̱ sthana̭ devāḥ",
+   "te no̱ nirṛ̭tyā̱ḥ pāśḙbhyo mu̱ñcatāṃha̭so aṃhasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.031.3a",
+   "001.031.3b"
+  ],
+  "lines_deva": [
+   "अस्रा॑मस्त्वा ह॒विषा॑ यजा॒म्यश्लो॑णस्त्वा घृ॒तेन॑ जुहोमि",
+   "य आशा॑नामाशापा॒लस्तु॒रीयो॑ दे॒वः स नः॑ सुभू॒तमेह व॑क्षत्"
+  ],
+  "lines_iast": [
+   "asrā̭mastvā ha̱viṣā̭ yajā̱myaślo̭ṇastvā ghṛ̱tena̭ juhomi",
+   "ya āśā̭nāmāśāpā̱lastu̱rīyo̭ de̱vaḥ sa na̭ḥ subhū̱tameha va̭kṣat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.031.4a",
+   "001.031.4b"
+  ],
+  "lines_deva": [
+   "स्व॒स्ति मा॒त्र उ॒त पि॒त्रे नो॑ अस्तु स्व॒स्ति गोभ्यो॒ जग॑ते॒ पुरु॑षेभ्यः",
+   "विश्वं॑ सुभू॒तं सु॑वि॒दत्रं॑ नो अस्तु॒ ज्योगे॒व दृ॑शेम॒ सूर्य॑म्"
+  ],
+  "lines_iast": [
+   "sva̱sti mā̱tra u̱ta pi̱tre no̭ astu sva̱sti gobhyo̱ jaga̭te̱ purṷṣebhyaḥ",
+   "viśva̭ṃ subhū̱taṃ sṷvi̱datra̭ṃ no astu̱ jyoge̱va dṛ̭śema̱ sūrya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

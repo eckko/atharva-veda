@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.087.1a",
+   "006.087.1b"
+  ],
+  "lines_deva": [
+   "आ त्वा॑हार्षम॒न्तर॑भूर्ध्रु॒वस्ति॒ष्ठावि॑चाचलत्",
+   "विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद् रा॒ष्ट्रमधि॑ भ्रशत्"
+  ],
+  "lines_iast": [
+   "ā tvā̭hārṣama̱ntara̭bhūrdhru̱vasti̱ṣṭhāvi̭cācalat",
+   "viśa̭stvā̱ sarvā̭ vāñchantu̱ mā tvad rā̱ṣṭramadhi̭ bhraśat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.087.2a",
+   "006.087.2b"
+  ],
+  "lines_deva": [
+   "इ॒हैवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलत्",
+   "इन्द्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय"
+  ],
+  "lines_iast": [
+   "i̱haivaidhi̱ māpa̭ cyoṣṭhā̱ḥ parva̭ta i̱vāvi̭cācalat",
+   "indra̭ ive̱ha dhru̱vasti̭ṣṭhe̱ha rā̱ṣṭramṷ dhāraya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.087.3a",
+   "006.087.3b"
+  ],
+  "lines_deva": [
+   "इन्द्र॑ ए॒तम॑दीधरत् ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑",
+   "तस्मै॒ सोमो॒ अधि॑ ब्रवद॒यं च॒ ब्रह्म॑ण॒स्पतिः॑"
+  ],
+  "lines_iast": [
+   "indra̭ e̱tama̭dīdharat dhru̱vaṃ dhru̱veṇa̭ ha̱viṣā̭",
+   "tasmai̱ somo̱ adhi̭ bravada̱yaṃ ca̱ brahma̭ṇa̱spati̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

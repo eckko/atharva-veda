@@ -1,0 +1,80 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.122.1"
+  ],
+  "lines_deva": [
+   "रे॒वती॑र्नः सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः । क्षु॒मन्तो॒ याभि॒र्मदे॑म"
+  ],
+  "lines_iast": [
+   "re̱vatī̭rnaḥ sadha̱māda̱ indrḙ santu tu̱vivā̭jāḥ | kṣu̱manto̱ yābhi̱rmadḙma"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.122.2"
+  ],
+  "lines_deva": [
+   "आ घ त्वावा॒न् त्मना॒प्त स्तो॒तृभ्यो॑ धृष्णविया॒नः । ऋ॒णोरक्षं॒ न च॒क्र्योः"
+  ],
+  "lines_iast": [
+   "ā gha tvāvā̱n tmanā̱pta sto̱tṛbhyo̭ dhṛṣṇaviyā̱naḥ | ṛ̱ṇorakṣa̱ṃ na ca̱kryoḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.122.3"
+  ],
+  "lines_deva": [
+   "आ यद् दुवः॑ शतक्रत॒वा कामं॑ जरितॄ॒णाम्। ऋ॒णोरक्षं॒ न शची॑भिः"
+  ],
+  "lines_iast": [
+   "ā yad duva̭ḥ śatakrata̱vā kāma̭ṃ jaritṝ̱ṇām| ṛ̱ṇorakṣa̱ṃ na śacī̭bhiḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

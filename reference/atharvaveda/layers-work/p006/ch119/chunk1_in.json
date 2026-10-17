@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.119.1a",
+   "006.119.1b"
+  ],
+  "lines_deva": [
+   "यददी॑व्यन्नृ॒णम॒हं कृ॒णोम्यदा॑स्यन्नग्न उ॒त सं॑गृ॒णामि॑",
+   "वै॒श्वा॒न॒रो नो॑ अधि॒पा वसि॑ष्ठ॒ उदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्"
+  ],
+  "lines_iast": [
+   "yadadī̭vyannṛ̱ṇama̱haṃ kṛ̱ṇomyadā̭syannagna u̱ta sa̭ṃgṛ̱ṇāmi̭",
+   "vai̱śvā̱na̱ro no̭ adhi̱pā vasi̭ṣṭha̱ udinna̭yāti sukṛ̱tasya̭ lo̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.119.2a",
+   "006.119.2b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒राय॒ प्रति॑ वेदयामि॒ यद्यृ॒णं सं॑ग॒रो दे॒वता॑सु",
+   "स ए॒तान् पाशा॑न् वि॒चृतं॑ वेद॒ सर्वा॒नथ॑ प॒क्वेन॑ स॒ह सं भ॑वेम"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱rāya̱ prati̭ vedayāmi̱ yadyṛ̱ṇaṃ sa̭ṃga̱ro de̱vatā̭su",
+   "sa e̱tān pāśā̭n vi̱cṛta̭ṃ veda̱ sarvā̱natha̭ pa̱kvena̭ sa̱ha saṃ bha̭vema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.119.3a",
+   "006.119.3b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रः प॑वि॒ता मा॑ पुनातु॒ यत् सं॑ग॒रम॑भि॒धावा॑म्या॒शाम्",
+   "अना॑जान॒न् मन॑सा॒ याच॑मानो॒ यत् तत्रैनो॒ अप॒ तत् सु॑वामि"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱raḥ pa̭vi̱tā mā̭ punātu̱ yat sa̭ṃga̱rama̭bhi̱dhāvā̭myā̱śām",
+   "anā̭jāna̱n mana̭sā̱ yāca̭māno̱ yat tatraino̱ apa̱ tat sṷvāmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

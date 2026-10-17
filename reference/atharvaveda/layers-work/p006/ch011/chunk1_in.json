@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.011.1a",
+   "006.011.1b"
+  ],
+  "lines_deva": [
+   "श॒मीम॑श्व॒त्थ आरू॑ढ॒स्तत्र॑ पुं॒सु॑व॑नं कृ॒तम्",
+   "तद् वै पु॒त्रस्य॒ वेद॑नं॒ तत् स्त्री॒ष्वा भ॑रामसि"
+  ],
+  "lines_iast": [
+   "śa̱mīma̭śva̱ttha ārṷ̄ḍha̱statra̭ pu̱ṃsṷva̭naṃ kṛ̱tam",
+   "tad vai pu̱trasya̱ veda̭na̱ṃ tat strī̱ṣvā bha̭rāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.011.2a",
+   "006.011.2b"
+  ],
+  "lines_deva": [
+   "पुं॒सि वै रेतो॑ भवति॒ तत् स्त्रि॒यामनु॑ षिच्यते",
+   "तद् वै पु॒त्रस्य॒ वेद॑नं॒ तत् प्र॒जाप॑तिरब्रवीत्"
+  ],
+  "lines_iast": [
+   "pu̱ṃsi vai reto̭ bhavati̱ tat stri̱yāmanṷ ṣicyate",
+   "tad vai pu̱trasya̱ veda̭na̱ṃ tat pra̱jāpa̭tirabravīt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.011.3a",
+   "006.011.3b"
+  ],
+  "lines_deva": [
+   "प्र॒जाप॑ति॒रनु॑मतिः सिनीवा॒ल्यऽचीक्लृपत्",
+   "स्त्रषू॑यम॒न्यत्र॒ दध॒त् पुंमां॑समु दधदि॒ह"
+  ],
+  "lines_iast": [
+   "pra̱jāpa̭ti̱ranṷmatiḥ sinīvā̱lya'cīklṛpat",
+   "straṣṷ̄yama̱nyatra̱ dadha̱t puṃmā̭ṃsamu dadhadi̱ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

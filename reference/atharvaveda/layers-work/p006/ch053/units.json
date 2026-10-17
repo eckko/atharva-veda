@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.053.1a",
+   "006.053.1b"
+  ],
+  "lines_deva": [
+   "द्यौश्च॑ म इ॒दं पृ॑थि॒वी च॒ प्रचे॑तसौ शु॒क्रो बृ॒हन् दक्षि॑णया पिपर्तु",
+   "अनु॑ स्व॒धा चि॑कितां॒ सोमो॑ अ॒ग्निर्वा॒युर्नः॑ पातु सवि॒ता भग॑श्च"
+  ],
+  "lines_iast": [
+   "dyauśca̭ ma i̱daṃ pṛ̭thi̱vī ca̱ pracḙtasau śu̱kro bṛ̱han dakṣi̭ṇayā pipartu",
+   "anṷ sva̱dhā ci̭kitā̱ṃ somo̭ a̱gnirvā̱yurna̭ḥ pātu savi̱tā bhaga̭śca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.053.2a",
+   "006.053.2b"
+  ],
+  "lines_deva": [
+   "पुनः॑ प्रा॒णः पुन॑रा॒त्मा न॒ ऐतु॒ पुन॒श्चक्षुः॒ पुन॒रसु॑र्न॒ ऐतु॑",
+   "वै॒श्वा॒न॒रो नो॒ अद॑ब्धस्तनू॒पा अ॒न्तस्ति॑ष्ठाति दुरि॒तानि॒ विश्वा॑"
+  ],
+  "lines_iast": [
+   "puna̭ḥ prā̱ṇaḥ puna̭rā̱tmā na̱ aitu̱ puna̱ścakṣu̱ḥ puna̱rasṷrna̱ aitṷ",
+   "vai̱śvā̱na̱ro no̱ ada̭bdhastanū̱pā a̱ntasti̭ṣṭhāti duri̱tāni̱ viśvā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.053.3a",
+   "006.053.3b"
+  ],
+  "lines_deva": [
+   "सं वर्च॑सा॒ पय॑सा॒ सं त॒नूभि॒रग॑न्महि॒ मन॑सा॒ सं शि॒वेन॑",
+   "त्वष्टा॑ नो॒ अत्र॒ वरी॑यः कृणो॒त्वनु॑ नो मार्ष्टु त॒न्वो॒३यद् विरि॑ष्टम्"
+  ],
+  "lines_iast": [
+   "saṃ varca̭sā̱ paya̭sā̱ saṃ ta̱nūbhi̱raga̭nmahi̱ mana̭sā̱ saṃ śi̱vena̭",
+   "tvaṣṭā̭ no̱ atra̱ varī̭yaḥ kṛṇo̱tvanṷ no mārṣṭu ta̱nvo̱3yad viri̭ṣṭam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

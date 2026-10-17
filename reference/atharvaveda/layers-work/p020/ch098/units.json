@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.098.1a",
+   "020.098.1b"
+  ],
+  "lines_deva": [
+   "व॒यमे॑नमि॒दा ह्योपी॑पेमे॒ह व॒ज्रिण॑म्",
+   "तस्मा॑ उ अ॒द्य स॑म॒ना सु॒तं भ॒रा नू॒नं भू॑षत श्रु॒ते"
+  ],
+  "lines_iast": [
+   "va̱yamḙnami̱dā hyopī̭peme̱ha va̱jriṇa̭m",
+   "tasmā̭ u a̱dya sa̭ma̱nā su̱taṃ bha̱rā nū̱naṃ bhṷ̄ṣata śru̱te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.098.2a",
+   "020.098.2b"
+  ],
+  "lines_deva": [
+   "वृक॑श्चिदस्य वार॒ण उ॑रा॒मथि॒रा व॒युने॑षु भूषति",
+   "सेमं नः॒ स्तोमं॑ जुजुषा॒ण आ ग॒हीन्द्र॒ प्र चि॒त्रया॑ धि॒या"
+  ],
+  "lines_iast": [
+   "vṛka̭ścidasya vāra̱ṇa ṷrā̱mathi̱rā va̱yunḙṣu bhūṣati",
+   "semaṃ na̱ḥ stoma̭ṃ jujuṣā̱ṇa ā ga̱hīndra̱ pra ci̱trayā̭ dhi̱yā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.098.3a",
+   "020.098.3b"
+  ],
+  "lines_deva": [
+   "कदू॒ न्व॑१स्याकृ॑त॒मिन्द्र॑स्यास्ति॒ पौंस्य॑म्",
+   "केनो॒ नु कं॒ श्रोम॑तेन॒ न शु॑श्रुवे ज॒नुषः॒ परि॑ वृत्र॒हा"
+  ],
+  "lines_iast": [
+   "kadū̱ nva̭1syākṛ̭ta̱mindra̭syāsti̱ pauṃsya̭m",
+   "keno̱ nu ka̱ṃ śroma̭tena̱ na śṷśruve ja̱nuṣa̱ḥ pari̭ vṛtra̱hā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

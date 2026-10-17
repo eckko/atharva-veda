@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.077.1a",
+   "007.077.1b"
+  ],
+  "lines_deva": [
+   "सांत॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन",
+   "अ॒स्माको॒ती रि॑शादसः"
+  ],
+  "lines_iast": [
+   "sāṃta̭panā i̱daṃ ha̱virmarṷta̱stajjṷjuṣṭana",
+   "a̱smāko̱tī ri̭śādasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.077.2a",
+   "007.077.2b"
+  ],
+  "lines_deva": [
+   "यो नो॒ मर्तो॑ मरुतो दुर्हृणा॒युस्ति॒रश्चि॒त्तानि॑ वसवो॒ जिघां॑सति",
+   "द्रु॒हः पाशा॒न् प्रति॑ मुञ्चतां॒ सस्तपि॑ष्ठेन॒ तप॑सा हन्तना॒ तम्"
+  ],
+  "lines_iast": [
+   "yo no̱ marto̭ maruto durhṛṇā̱yusti̱raści̱ttāni̭ vasavo̱ jighā̭ṃsati",
+   "dru̱haḥ pāśā̱n prati̭ muñcatā̱ṃ sastapi̭ṣṭhena̱ tapa̭sā hantanā̱ tam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.077.3a",
+   "007.077.3b"
+  ],
+  "lines_deva": [
+   "संव॒त्स॒रीणा॑ म॒रुतः॑ स्व॒र्का उ॒रुक्ष॑याः॒ सग॑णा॒ मानु॑षासः",
+   "ते अ॒स्मत् पाशा॒न् प्र मु॑ञ्च॒न्त्वेन॑सः सांतप॒ना म॑त्स॒रा मा॑दयि॒ष्णवः॑"
+  ],
+  "lines_iast": [
+   "saṃva̱tsa̱rīṇā̭ ma̱ruta̭ḥ sva̱rkā u̱rukṣa̭yā̱ḥ saga̭ṇā̱ mānṷṣāsaḥ",
+   "te a̱smat pāśā̱n pra mṷñca̱ntvena̭saḥ sāṃtapa̱nā ma̭tsa̱rā mā̭dayi̱ṣṇava̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.018.1a",
+   "001.018.1b"
+  ],
+  "lines_deva": [
+   "निर्ल॒क्ष्म्यं ऽ लला॒म्यं॑१ निररा॑तिं सुवामसि",
+   "अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि"
+  ],
+  "lines_iast": [
+   "nirla̱kṣmyaṃ ' lalā̱mya̭ṃ1 nirarā̭tiṃ suvāmasi",
+   "atha̱ yā bha̱drā tāni̭ naḥ pra̱jāyā̱ arā̭tiṃ nayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.018.2a",
+   "001.018.2b"
+  ],
+  "lines_deva": [
+   "निरर॑णिं सवि॒ता सा॑विषक् प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा",
+   "निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय"
+  ],
+  "lines_iast": [
+   "nirara̭ṇiṃ savi̱tā sā̭viṣak pa̱dornirhasta̭yo̱rvarṷṇo mi̱tro a̭rya̱mā",
+   "nira̱smabhya̱manṷmatī̱ rarā̭ṇā̱ premāṃ de̱vā a̭sāviṣu̱ḥ saubha̭gāya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.018.3a",
+   "001.018.3b"
+  ],
+  "lines_deva": [
+   "यत् त॑ आ॒त्मनि॑ त॒न्वां ऽ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा",
+   "सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु"
+  ],
+  "lines_iast": [
+   "yat ta̭ ā̱tmani̭ ta̱nvāṃ ' gho̱ramasti̱ yadvā̱ keśḙṣu prati̱cakṣa̭ṇe vā",
+   "sarva̱ṃ tadvā̱cāpa̭ hanmo va̱yaṃ de̱vastvā̭ savi̱tā sṷ̄dayatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.018.4a",
+   "001.018.4b"
+  ],
+  "lines_deva": [
+   "रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त",
+   "वि॒ली॒ढ्यं ऽ लला॒म्यं॑१ ता अ॒स्मन्ना॑शयामसि"
+  ],
+  "lines_iast": [
+   "riśya̭padī̱ṃ vṛṣa̭datīṃ goṣe̱dhāṃ vi̭dha̱māmu̱ta",
+   "vi̱lī̱ḍhyaṃ ' lalā̱mya̭ṃ1 tā a̱smannā̭śayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

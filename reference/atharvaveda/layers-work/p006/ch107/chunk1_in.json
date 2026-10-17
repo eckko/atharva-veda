@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.107.1a",
+   "006.107.1b"
+  ],
+  "lines_deva": [
+   "विश्व॑जित् त्रायमा॒णायै॑ मा॒ परि॑ देहि",
+   "त्राय॑माणे द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पा॒द् यच्च॑ नः॒ स्वम्"
+  ],
+  "lines_iast": [
+   "viśva̭jit trāyamā̱ṇāyai̭ mā̱ pari̭ dehi",
+   "trāya̭māṇe dvi̱pācca̱ sarva̭ṃ no̱ rakṣa̱ catṷṣpā̱d yacca̭ na̱ḥ svam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.107.2a",
+   "006.107.2b"
+  ],
+  "lines_deva": [
+   "त्राय॑माणे विश्व॒जिते॑ मा॒ परि॑ देहि",
+   "विश्व॑जिद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्"
+  ],
+  "lines_iast": [
+   "trāya̭māṇe viśva̱jitḙ mā̱ pari̭ dehi",
+   "viśva̭jid dvi̱pācca̱ sarva̭ṃ no̱ rakṣa̱ catṷṣpād yacca̭ na̱ḥ svam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.107.3a",
+   "006.107.3b"
+  ],
+  "lines_deva": [
+   "विश्व॑जित् कल्या॒ण्यैऽ मा॒ परि॑ देहि",
+   "कल्या॑णि द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्"
+  ],
+  "lines_iast": [
+   "viśva̭jit kalyā̱ṇyai' mā̱ pari̭ dehi",
+   "kalyā̭ṇi dvi̱pācca̱ sarva̭ṃ no̱ rakṣa̱ catṷṣpād yacca̭ na̱ḥ svam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.107.4a",
+   "006.107.4b"
+  ],
+  "lines_deva": [
+   "कल्या॑णि सर्व॒विदे॑ मा॒ परि॑ देहि",
+   "सर्व॑विद् द्वि॒पाच्च॒ सर्वं॑ नो॒ रक्ष॒ चतु॑ष्पाद् यच्च॑ नः॒ स्वम्"
+  ],
+  "lines_iast": [
+   "kalyā̭ṇi sarva̱vidḙ mā̱ pari̭ dehi",
+   "sarva̭vid dvi̱pācca̱ sarva̭ṃ no̱ rakṣa̱ catṷṣpād yacca̭ na̱ḥ svam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

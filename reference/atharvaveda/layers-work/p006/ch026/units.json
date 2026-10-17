@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.026.1a",
+   "006.026.1b"
+  ],
+  "lines_deva": [
+   "अव॑ मा पाप्मन्त्सृज व॒शी सन् मृ॑डयासि नः",
+   "आ मा॑ भ॒द्रस्य॑ लो॒के पा॑प्मन् धे॒ह्यवि॑ह्रुतम्"
+  ],
+  "lines_iast": [
+   "ava̭ mā pāpmantsṛja va̱śī san mṛ̭ḍayāsi naḥ",
+   "ā mā̭ bha̱drasya̭ lo̱ke pā̭pman dhe̱hyavi̭hrutam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.026.2a",
+   "006.026.2b"
+  ],
+  "lines_deva": [
+   "यो नः॑ पाप्म॒न् न जहा॑सि॒ तमु॑ त्वा जहिमो व॒यम्",
+   "प॒थामनु॑ व्या॒वर्त॑ने॒ऽन्यं पा॒प्मानु॑ पद्यताम्"
+  ],
+  "lines_iast": [
+   "yo na̭ḥ pāpma̱n na jahā̭si̱ tamṷ tvā jahimo va̱yam",
+   "pa̱thāmanṷ vyā̱varta̭ne̱'nyaṃ pā̱pmānṷ padyatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.026.3a",
+   "006.026.3b"
+  ],
+  "lines_deva": [
+   "अ॒न्यत्रा॒स्मन्न्युऽच्यतु सहस्रा॒क्षो अम॑र्त्यः",
+   "यं द्वेषा॑म॒ तमृ॑च्छतु॒ यमु॑ द्वि॒ष्मस्तमिज्ज॑हि"
+  ],
+  "lines_iast": [
+   "a̱nyatrā̱smannyu'cyatu sahasrā̱kṣo ama̭rtyaḥ",
+   "yaṃ dveṣā̭ma̱ tamṛ̭cchatu̱ yamṷ dvi̱ṣmastamijja̭hi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

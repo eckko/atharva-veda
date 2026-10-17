@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.043.1a",
+   "007.043.1b"
+  ],
+  "lines_deva": [
+   "शि॒वास्त॒ एका॒ अशि॑वास्त॒ एकाः॒ सर्वा॑ बिभर्षि सुमन॒स्यमा॑नः",
+   "ति॒स्रो वाचो॒ निहि॑ता अ॒न्तर॒स्मिन् तासा॒मेका॒ वि प॑पा॒तानु॒ घोष॑म्"
+  ],
+  "lines_iast": [
+   "śi̱vāsta̱ ekā̱ aśi̭vāsta̱ ekā̱ḥ sarvā̭ bibharṣi sumana̱syamā̭naḥ",
+   "ti̱sro vāco̱ nihi̭tā a̱ntara̱smin tāsā̱mekā̱ vi pa̭pā̱tānu̱ ghoṣa̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.116.1a",
+   "020.116.1b"
+  ],
+  "lines_deva": [
+   "मा भू॑म॒ निष्ट्या॑ इ॒वेन्द्र॒ त्वदर॑णा इव",
+   "वना॑नि॒ न प्र॑जहि॒तान्य॑द्रिवो दु॒रोषा॑सो अमन्महि"
+  ],
+  "lines_iast": [
+   "mā bhṷ̄ma̱ niṣṭyā̭ i̱vendra̱ tvadara̭ṇā iva",
+   "vanā̭ni̱ na pra̭jahi̱tānya̭drivo du̱roṣā̭so amanmahi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.116.2a",
+   "020.116.2b"
+  ],
+  "lines_deva": [
+   "अम॑न्म॒हीद॑ना॒शवो॑ऽनु॒ग्रास॑श्च वृत्रहन्",
+   "सु॒कृत्सु ते॑ मह॒ता शू॑र॒ राध॒सानु॒ स्तोमं॑ मुदीमहि"
+  ],
+  "lines_iast": [
+   "ama̭nma̱hīda̭nā̱śavo̭'nu̱grāsa̭śca vṛtrahan",
+   "su̱kṛtsu tḙ maha̱tā śṷ̄ra̱ rādha̱sānu̱ stoma̭ṃ mudīmahi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.010.1a",
+   "001.010.1b"
+  ],
+  "lines_deva": [
+   "अ॒यं दे॒वाना॒मसु॑रो॒ वि रा॑जति॒ वशा॒ हि स॒त्या वरु॑णस्य॒ राज्ञः॑",
+   "तत॒स्परि॒ ब्रह्म॑णा॒ शाश॑दान उ॒ग्रस्य॑ म॒न्योरुदि॒मं न॑यामि"
+  ],
+  "lines_iast": [
+   "a̱yaṃ de̱vānā̱masṷro̱ vi rā̭jati̱ vaśā̱ hi sa̱tyā varṷṇasya̱ rājña̭ḥ",
+   "tata̱spari̱ brahma̭ṇā̱ śāśa̭dāna u̱grasya̭ ma̱nyorudi̱maṃ na̭yāmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.010.2a",
+   "001.010.2b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते राजन् वरुणास्तु म॒न्यवे॒ विश्वं॒ ह्यु॒ऽग्र निचि॒केषि॑ द्रु॒ग्धम्",
+   "स॒हस्र॑म॒न्यान् प्र सु॑वामि सा॒कं श॒तं जी॑वाति श॒रद॒स्तवा॒यम्"
+  ],
+  "lines_iast": [
+   "nama̭ste rājan varuṇāstu ma̱nyave̱ viśva̱ṃ hyu̱'gra nici̱keṣi̭ dru̱gdham",
+   "sa̱hasra̭ma̱nyān pra sṷvāmi sā̱kaṃ śa̱taṃ jī̭vāti śa̱rada̱stavā̱yam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.010.3a",
+   "001.010.3b"
+  ],
+  "lines_deva": [
+   "यदु॒वक्थानृ॑तं जि॒ह्वया॑ वृजि॒नं ब॒हु",
+   "राज्ञ॑स्त्वा स॒त्यध॑र्मणो मु॒ञ्चामि॒ वरु॑णाद॒हम्"
+  ],
+  "lines_iast": [
+   "yadu̱vakthānṛ̭taṃ ji̱hvayā̭ vṛji̱naṃ ba̱hu",
+   "rājña̭stvā sa̱tyadha̭rmaṇo mu̱ñcāmi̱ varṷṇāda̱ham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.010.4a",
+   "001.010.4b"
+  ],
+  "lines_deva": [
+   "मु॒ञ्चामि॑ त्वा वैश्वान॒राद॑र्ण॒वान्म॑ह॒तस्परि॑",
+   "स॒जा॒तानु॑ग्रे॒हा व॑द॒ ब्रह्म॒ चाप॑ चिकीहि नः"
+  ],
+  "lines_iast": [
+   "mu̱ñcāmi̭ tvā vaiśvāna̱rāda̭rṇa̱vānma̭ha̱taspari̭",
+   "sa̱jā̱tānṷgre̱hā va̭da̱ brahma̱ cāpa̭ cikīhi naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

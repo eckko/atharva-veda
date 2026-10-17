@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.104.1a",
+   "007.104.1b"
+  ],
+  "lines_deva": [
+   "कः पृश्निं धे॒नुं वरु॑णेन द॒त्तामथ॑र्वने सु॒दुघां॒ नित्य॑वत्साम्",
+   "बृह॒स्पति॑ना स॒ख्यंऽ जुषा॒णो य॑थाव॒शं त॒न्वः कल्पयाति"
+  ],
+  "lines_iast": [
+   "kaḥ pṛśniṃ dhe̱nuṃ varṷṇena da̱ttāmatha̭rvane su̱dughā̱ṃ nitya̭vatsām",
+   "bṛha̱spati̭nā sa̱khyaṃ' juṣā̱ṇo ya̭thāva̱śaṃ ta̱nvaḥ kalpayāti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

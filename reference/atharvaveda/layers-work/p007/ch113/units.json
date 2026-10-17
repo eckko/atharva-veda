@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.113.1a",
+   "007.113.1b"
+  ],
+  "lines_deva": [
+   "तृष्टि॑के॒ तृष्ट॑वन्दन॒ उद॒मूं छि॑न्धि तृष्टिके",
+   "यथा॑ कृ॒तद्वि॒ष्टासो॒ऽमुष्मै॑ शे॒प्याव॑ते"
+  ],
+  "lines_iast": [
+   "tṛṣṭi̭ke̱ tṛṣṭa̭vandana̱ uda̱mūṃ chi̭ndhi tṛṣṭike",
+   "yathā̭ kṛ̱tadvi̱ṣṭāso̱'muṣmai̭ śe̱pyāva̭te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.113.2a",
+   "007.113.2b"
+  ],
+  "lines_deva": [
+   "तृ॒ष्टासि॑ तृष्टि॒का वि॒षा वि॑षात॒क्यऽसि",
+   "परि॑वृक्ता॒ यथास॑स्यृष॒भस्य॑ व॒शेव॑"
+  ],
+  "lines_iast": [
+   "tṛ̱ṣṭāsi̭ tṛṣṭi̱kā vi̱ṣā vi̭ṣāta̱kya'si",
+   "pari̭vṛktā̱ yathāsa̭syṛṣa̱bhasya̭ va̱śeva̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

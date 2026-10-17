@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.025.1a",
+   "007.025.1b"
+  ],
+  "lines_deva": [
+   "ययो॒रोज॑सा स्कभि॒ता रजां॑सि॒ यौ वीर्यौऽर्वी॒रत॑मा॒ शवि॑ष्ठा",
+   "यौ पत्ये॑ते॒ अप्र॑तीतौ॒ सहो॑भि॒र्विष्णु॑मग॒न् वरु॑णं पू॒र्वहू॑तिः"
+  ],
+  "lines_iast": [
+   "yayo̱roja̭sā skabhi̱tā rajā̭ṃsi̱ yau vīryau'rvī̱rata̭mā̱ śavi̭ṣṭhā",
+   "yau patyḙte̱ apra̭tītau̱ saho̭bhi̱rviṣṇṷmaga̱n varṷṇaṃ pū̱rvahṷ̄tiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.025.2a",
+   "007.025.2b"
+  ],
+  "lines_deva": [
+   "यस्ये॒दं प्र॒दिशि॒ यद् वि॒रोच॑ते॒ प्र चान॑ति॒ वि च॒ चष्टे॒ शची॑भिः",
+   "पु॒रा दे॒वस्य॒ धर्म॑णा॒ सहो॑भि॒र्विष्णु॑मग॒न् वरु॑णं पू॒र्वहू॑तिः"
+  ],
+  "lines_iast": [
+   "yasye̱daṃ pra̱diśi̱ yad vi̱roca̭te̱ pra cāna̭ti̱ vi ca̱ caṣṭe̱ śacī̭bhiḥ",
+   "pu̱rā de̱vasya̱ dharma̭ṇā̱ saho̭bhi̱rviṣṇṷmaga̱n varṷṇaṃ pū̱rvahṷ̄tiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

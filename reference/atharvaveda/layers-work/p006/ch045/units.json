@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.045.1a",
+   "006.045.1b"
+  ],
+  "lines_deva": [
+   "प॒रोऽपे॑हि मनस्पाप॒ किमश॑स्तानि शंससि",
+   "परे॑हि॒ न त्वा॑ कामये वृ॒क्षां वना॑नि॒ सं च॑र गृ॒हेषु॑ गोषु॑ मे॒ मनः॑"
+  ],
+  "lines_iast": [
+   "pa̱ro'pḙhi manaspāpa̱ kimaśa̭stāni śaṃsasi",
+   "parḙhi̱ na tvā̭ kāmaye vṛ̱kṣāṃ vanā̭ni̱ saṃ ca̭ra gṛ̱heṣṷ goṣṷ me̱ mana̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.045.2a",
+   "006.045.2b"
+  ],
+  "lines_deva": [
+   "अ॒व॒शसा॑ निः॒शसा॒ यत् प॑रा॒शसो॑पारि॒म जाग्र॑तो॒ यत् स्व॒पन्तः॑",
+   "अ॒ग्निर्वि॑श्वा॒न्यप॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद् द॑धातु"
+  ],
+  "lines_iast": [
+   "a̱va̱śasā̭ ni̱ḥśasā̱ yat pa̭rā̱śaso̭pāri̱ma jāgra̭to̱ yat sva̱panta̭ḥ",
+   "a̱gnirvi̭śvā̱nyapa̭ duṣkṛ̱tānyajṷṣṭānyā̱re a̱smad da̭dhātu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.045.3a",
+   "006.045.3b"
+  ],
+  "lines_deva": [
+   "यदि॑न्द्र ब्रह्मणस्प॒तेऽपि॒ मृषा॒ चरा॑मसि",
+   "प्रचे॑ता न आङ्गिर॒सो दु॑रि॒तात् पा॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yadi̭ndra brahmaṇaspa̱te'pi̱ mṛṣā̱ carā̭masi",
+   "pracḙtā na āṅgira̱so dṷri̱tāt pā̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

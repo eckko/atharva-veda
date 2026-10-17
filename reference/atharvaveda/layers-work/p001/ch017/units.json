@@ -1,0 +1,127 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.017.1a",
+   "001.017.1b"
+  ],
+  "lines_deva": [
+   "अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः",
+   "अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः"
+  ],
+  "lines_iast": [
+   "a̱mūryā yanti̭ yo̱ṣito̭ hi̱rā lohi̭tavāsasaḥ",
+   "a̱bhrāta̭ra iva jā̱maya̱stiṣṭha̭ntu ha̱tava̭rcasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.017.2a",
+   "001.017.2b"
+  ],
+  "lines_deva": [
+   "तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे",
+   "क॒नि॒ष्ठि॒का च॒ तिष्ठ॑ति॒ तिष्ठा॒दिद्ध॒मनि॑र्म॒ही"
+  ],
+  "lines_iast": [
+   "tiṣṭhā̭vare̱ tiṣṭha̭ para u̱ta tvaṃ ti̭ṣṭha madhyame",
+   "ka̱ni̱ṣṭhi̱kā ca̱ tiṣṭha̭ti̱ tiṣṭhā̱diddha̱mani̭rma̱hī"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.017.3a",
+   "001.017.3b"
+  ],
+  "lines_deva": [
+   "श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्",
+   "अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत"
+  ],
+  "lines_iast": [
+   "śa̱tasya̭ dha̱manī̭nāṃ sa̱hasra̭sya hi̱rāṇā̭m",
+   "asthu̱rinma̭dhya̱mā i̱māḥ sā̱kamantā̭ araṃsata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.017.4"
+  ],
+  "lines_deva": [
+   "परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्यऽक्रमीत्।तिष्ठ॑ते॒लय॑ता॒ सु क॑म्"
+  ],
+  "lines_iast": [
+   "pari̭ va̱ḥ sika̭tāvatī dha̱nūrbṛ̭ha̱tya'kramīt|tiṣṭha̭te̱laya̭tā̱ su ka̭m"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

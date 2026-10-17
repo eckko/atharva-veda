@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.008.1a",
+   "020.008.1b"
+  ],
+  "lines_deva": [
+   "ए॒वा पा॑हि प्र॒त्नथा॒ मन्द॑तु त्वा श्रु॒धि ब्रह्म॑ वावृ॒धस्वो॒त गी॒र्भिः",
+   "आ॒विः सूर्यं॑ कृणु॒हि पी॑पि॒हीषो॑ ज॒हि शत्रूं॑र॒भि गा इ॑न्द्र तृन्धि"
+  ],
+  "lines_iast": [
+   "e̱vā pā̭hi pra̱tnathā̱ manda̭tu tvā śru̱dhi brahma̭ vāvṛ̱dhasvo̱ta gī̱rbhiḥ",
+   "ā̱viḥ sūrya̭ṃ kṛṇu̱hi pī̭pi̱hīṣo̭ ja̱hi śatrṷ̄ṃra̱bhi gā i̭ndra tṛndhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.008.2a",
+   "020.008.2b"
+  ],
+  "lines_deva": [
+   "अ॒र्वाङेहि॒ सोम॑कामं त्वाहुर॒यं सु॒तस्तस्य॑ पिबा॒ मदा॑य",
+   "उ॒रु॒व्यचा॑ ज॒ठर॒ आ वृ॑षस्व पि॒तेव॑ नः शृणुहि हू॒यमा॑नः"
+  ],
+  "lines_iast": [
+   "a̱rvāṅehi̱ soma̭kāmaṃ tvāhura̱yaṃ su̱tastasya̭ pibā̱ madā̭ya",
+   "u̱ru̱vyacā̭ ja̱ṭhara̱ ā vṛ̭ṣasva pi̱teva̭ naḥ śṛṇuhi hū̱yamā̭naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.008.3a",
+   "020.008.3b"
+  ],
+  "lines_deva": [
+   "आपू॑र्णो अस्य क॒लशः॒ स्वाहा॒ सेक्ते॑व॒ कोशं॑ सिसिचे॒ पिब॑ध्यै",
+   "समु॑ प्रि॒या आव॑वृत्र॒न् मदा॑य प्रदक्षि॒णिद॒भि सोमा॑स॒ इन्द्र॑म्"
+  ],
+  "lines_iast": [
+   "āpṷ̄rṇo asya ka̱laśa̱ḥ svāhā̱ sektḙva̱ kośa̭ṃ sisice̱ piba̭dhyai",
+   "samṷ pri̱yā āva̭vṛtra̱n madā̭ya pradakṣi̱ṇida̱bhi somā̭sa̱ indra̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

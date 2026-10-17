@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.099.1a",
+   "007.099.1b"
+  ],
+  "lines_deva": [
+   "परि॑ स्तृणीहि॒ परि॑ धेहि॒ वेदिं॒ मा जा॒मिं मो॑षीरमु॒या शया॑नाम्",
+   "हो॒तृ॒षद॑नं हरि॑तं हिर॒ण्ययं॑ नि॒ष्का ए॒ते यज॑मानस्य लो॒के"
+  ],
+  "lines_iast": [
+   "pari̭ stṛṇīhi̱ pari̭ dhehi̱ vedi̱ṃ mā jā̱miṃ mo̭ṣīramu̱yā śayā̭nām",
+   "ho̱tṛ̱ṣada̭naṃ hari̭taṃ hira̱ṇyaya̭ṃ ni̱ṣkā e̱te yaja̭mānasya lo̱ke"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

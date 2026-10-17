@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.115.1a",
+   "006.115.1b"
+  ],
+  "lines_deva": [
+   "यद् वि॒द्वांसो॒ यदवि॑द्वांस॒ एनां॑सि चकृ॒मा व॒यम्",
+   "यू॒यं न॒स्तस्मा॑न्मुञ्चत॒ विश्वे॑ देवाः सजोषसः"
+  ],
+  "lines_iast": [
+   "yad vi̱dvāṃso̱ yadavi̭dvāṃsa̱ enā̭ṃsi cakṛ̱mā va̱yam",
+   "yū̱yaṃ na̱stasmā̭nmuñcata̱ viśvḙ devāḥ sajoṣasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.115.2a",
+   "006.115.2b"
+  ],
+  "lines_deva": [
+   "यदि॒ जाग्र॒द् यदि॒ स्वप॒न्नेन॑ एन॒स्योऽक॑रम्",
+   "भू॒तं मा॒ तस्मा॒द् भव्यं॑ च द्रुप॒दादि॑व मुञ्चताम्"
+  ],
+  "lines_iast": [
+   "yadi̱ jāgra̱d yadi̱ svapa̱nnena̭ ena̱syo'ka̭ram",
+   "bhū̱taṃ mā̱ tasmā̱d bhavya̭ṃ ca drupa̱dādi̭va muñcatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.115.3a",
+   "006.115.3b"
+  ],
+  "lines_deva": [
+   "द्रु॒प॒दादि॑व मुमुचा॒नः स्वि॒न्नः स्ना॒त्वा मला॑दिव",
+   "पू॒तं प॒वित्रे॑णे॒वाज्यं॒ विश्वे॑ शुम्भन्तु॒ मैन॑सः"
+  ],
+  "lines_iast": [
+   "dru̱pa̱dādi̭va mumucā̱naḥ svi̱nnaḥ snā̱tvā malā̭diva",
+   "pū̱taṃ pa̱vitrḙṇe̱vājya̱ṃ viśvḙ śumbhantu̱ maina̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

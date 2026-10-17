@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.068.1a",
+   "019.068.1b"
+  ],
+  "lines_deva": [
+   "अव्य॑सश्च॒ व्यच॑सश्च॒ बिलं॒ वि ष्या॑मि मा॒यया॑",
+   "ताभ्या॑मु॒द्धृत्य॒ वेद॒मथ॒ कर्मा॑णि कृण्महे"
+  ],
+  "lines_iast": [
+   "avya̭saśca̱ vyaca̭saśca̱ bila̱ṃ vi ṣyā̭mi mā̱yayā̭",
+   "tābhyā̭mu̱ddhṛtya̱ veda̱matha̱ karmā̭ṇi kṛṇmahe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

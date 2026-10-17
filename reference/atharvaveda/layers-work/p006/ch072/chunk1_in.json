@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.072.1a",
+   "006.072.1b"
+  ],
+  "lines_deva": [
+   "यथा॑सि॒तः प्र॒थय॑ते॒ वशाँ॒ अनु॒ वपूं॑षि कृ॒ण्वन्नसु॑रस्य मा॒यया॑",
+   "ए॒वा ते॒ शेपः॒ सह॑सा॒यम॒र्कोऽङ्गे॒नाङ्गं॒ संस॑मकं कृणोतु"
+  ],
+  "lines_iast": [
+   "yathā̭si̱taḥ pra̱thaya̭te̱ vaśā̱~ anu̱ vapṷ̄ṃṣi kṛ̱ṇvannasṷrasya mā̱yayā̭",
+   "e̱vā te̱ śepa̱ḥ saha̭sā̱yama̱rko'ṅge̱nāṅga̱ṃ saṃsa̭makaṃ kṛṇotu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.072.2a",
+   "006.072.2b"
+  ],
+  "lines_deva": [
+   "यथा॒ पस॑स्तायाद॒रं वाते॑न स्थूल॒भं कृ॒तम्",
+   "याव॒त् पर॑स्वतः॒ पस॒स्ताव॒त् ते वर्धतां॒ पसः॑"
+  ],
+  "lines_iast": [
+   "yathā̱ pasa̭stāyāda̱raṃ vātḙna sthūla̱bhaṃ kṛ̱tam",
+   "yāva̱t para̭svata̱ḥ pasa̱stāva̱t te vardhatā̱ṃ pasa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.072.3a",
+   "006.072.3b"
+  ],
+  "lines_deva": [
+   "या॒व॒द॒ङ्गीनं॒ पार॑स्वतं॒ हास्ति॑नं॒ गार्द॑भं च॒ यत्",
+   "याव॒दश्वस्य वा॒जिन॒स्ताव॑त् ते वर्धतां॒ पसः॑"
+  ],
+  "lines_iast": [
+   "yā̱va̱da̱ṅgīna̱ṃ pāra̭svata̱ṃ hāsti̭na̱ṃ gārda̭bhaṃ ca̱ yat",
+   "yāva̱daśvasya vā̱jina̱stāva̭t te vardhatā̱ṃ pasa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

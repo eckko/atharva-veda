@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.031.1a",
+   "006.031.1b"
+  ],
+  "lines_deva": [
+   "आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः",
+   "पि॒तरं॑ च प्र॒यन्त्स्वः"
+  ],
+  "lines_iast": [
+   "āyaṃ gauḥ pṛśni̭rakramī̱dasa̭danmā̱tara̭ṃ pu̱raḥ",
+   "pi̱tara̭ṃ ca pra̱yantsvaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.031.2a",
+   "006.031.2b"
+  ],
+  "lines_deva": [
+   "अ॒न्तश्च॑रति रोच॒ना अ॒स्य प्रा॒णाद॑पान॒तः",
+   "व्यऽख्यन्महि॒षः स्वः"
+  ],
+  "lines_iast": [
+   "a̱ntaśca̭rati roca̱nā a̱sya prā̱ṇāda̭pāna̱taḥ",
+   "vya'khyanmahi̱ṣaḥ svaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.031.3a",
+   "006.031.3b"
+  ],
+  "lines_deva": [
+   "त्रिं॒शद् धामा॒ वि रा॑जति॒ वाक् प॑त॒ङ्गो अ॑शिश्रियत्",
+   "प्रति॒ वस्तो॒रह॒र्द्युभिः॑"
+  ],
+  "lines_iast": [
+   "tri̱ṃśad dhāmā̱ vi rā̭jati̱ vāk pa̭ta̱ṅgo a̭śiśriyat",
+   "prati̱ vasto̱raha̱rdyubhi̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

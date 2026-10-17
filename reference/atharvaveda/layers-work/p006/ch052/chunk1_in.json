@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.052.1a",
+   "006.052.1b"
+  ],
+  "lines_deva": [
+   "उत् सूर्यो॑ दि॒व ए॑ति पु॒रो रक्षां॑सि नि॒जूर्व॑न्",
+   "आ॒दि॒त्यः पर्वतेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा"
+  ],
+  "lines_iast": [
+   "ut sūryo̭ di̱va ḙti pu̱ro rakṣā̭ṃsi ni̱jūrva̭n",
+   "ā̱di̱tyaḥ parvatebhyo vi̱śvadṛ̭ṣṭo adṛṣṭa̱hā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.052.2a",
+   "006.052.2b"
+  ],
+  "lines_deva": [
+   "नि गावो॑ गो॒ष्ठे अ॑सद॒न् नि मृ॒गासो॑ अविक्षत",
+   "न्यू॒३र्मयो॑ न॒दीनं॒ न्य॑१दृष्टा॑ अलिप्सत"
+  ],
+  "lines_iast": [
+   "ni gāvo̭ go̱ṣṭhe a̭sada̱n ni mṛ̱gāso̭ avikṣata",
+   "nyū̱3rmayo̭ na̱dīna̱ṃ nya̭1dṛṣṭā̭ alipsata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.052.3a",
+   "006.052.3b"
+  ],
+  "lines_deva": [
+   "आ॒यु॒र्ददं॑ विप॒श्चितं॑ श्रु॒तां कण्व॑स्य वी॒रुध॑म्",
+   "आभा॑रिषं वि॒श्वभे॑षजीम॒स्यादृष्टा॒न् नि श॑मयत्"
+  ],
+  "lines_iast": [
+   "ā̱yu̱rdada̭ṃ vipa̱ścita̭ṃ śru̱tāṃ kaṇva̭sya vī̱rudha̭m",
+   "ābhā̭riṣaṃ vi̱śvabhḙṣajīma̱syādṛṣṭā̱n ni śa̭mayat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

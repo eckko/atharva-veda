@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.030.1a",
+   "001.030.1b"
+  ],
+  "lines_deva": [
+   "विश्वे॑ देवा॒ वस॑वो॒ रक्ष॑ते॒ममु॒तादि॑त्या जागृ॒त यू॒यम॒स्मिन्",
+   "मेमं सना॑भिरु॒त वा॒न्यना॑भि॒र्मेमं प्राप॒त् पौरु॑षेयो व॒धो यः"
+  ],
+  "lines_iast": [
+   "viśvḙ devā̱ vasa̭vo̱ rakṣa̭te̱mamu̱tādi̭tyā jāgṛ̱ta yū̱yama̱smin",
+   "memaṃ sanā̭bhiru̱ta vā̱nyanā̭bhi̱rmemaṃ prāpa̱t paurṷṣeyo va̱dho yaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.030.2a",
+   "001.030.2b"
+  ],
+  "lines_deva": [
+   "ये वो॑ देवाः पि॒तरो॒ ये च॑ पु॒त्राः सचे॑तसो मे शृणुते॒दमु॒क्तम्",
+   "सर्वे॑भ्यो वः॒ प॑रि ददाम्ये॒तं स्व॒स्त्येऽनं ज॒रसे॑ वहाथ"
+  ],
+  "lines_iast": [
+   "ye vo̭ devāḥ pi̱taro̱ ye ca̭ pu̱trāḥ sacḙtaso me śṛṇute̱damu̱ktam",
+   "sarvḙbhyo va̱ḥ pa̭ri dadāmye̱taṃ sva̱stye'naṃ ja̱rasḙ vahātha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.030.3a",
+   "001.030.3b"
+  ],
+  "lines_deva": [
+   "ये दे॑वा दि॒वि ष्ठ ये पृ॑थि॒व्यां ये अ॒न्तरि॑क्ष॒ ओष॑धीषु प॒शुष्व॒प्स्व॑१न्तः",
+   "ते कृ॑णुत ज॒रस॒मायु॑र॒स्मै श॒तम॒न्यान् परि॑ वृणक्तु मृ॒त्यून्"
+  ],
+  "lines_iast": [
+   "ye dḙvā di̱vi ṣṭha ye pṛ̭thi̱vyāṃ ye a̱ntari̭kṣa̱ oṣa̭dhīṣu pa̱śuṣva̱psva̭1ntaḥ",
+   "te kṛ̭ṇuta ja̱rasa̱māyṷra̱smai śa̱tama̱nyān pari̭ vṛṇaktu mṛ̱tyūn"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.030.4a",
+   "001.030.4b"
+  ],
+  "lines_deva": [
+   "येषां॑ प्रया॒जा उ॒त वा॑नुया॒जा हु॒तभा॑गा अहु॒ताद॑श्च दे॒वाः",
+   "येषां॑ वः॒ पञ्च॑ प्र॒दिशो॒ विभ॑क्ता॒स्तान् वो अ॒स्मै स॑त्र॒सदः॑ कृणोमि"
+  ],
+  "lines_iast": [
+   "yeṣā̭ṃ prayā̱jā u̱ta vā̭nuyā̱jā hu̱tabhā̭gā ahu̱tāda̭śca de̱vāḥ",
+   "yeṣā̭ṃ va̱ḥ pañca̭ pra̱diśo̱ vibha̭ktā̱stān vo a̱smai sa̭tra̱sada̭ḥ kṛṇomi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

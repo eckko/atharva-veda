@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.008.1a",
+   "007.008.1b"
+  ],
+  "lines_deva": [
+   "भ॒द्रादधि॒ श्रेयः॒ प्रेहि॒ बृह॒स्पतिः॑ पुरए॒ता ते॑ अस्तु",
+   "अथे॒मम॒स्या वर॒ आ पृ॑थि॒व्या आ॒रेश॑त्रुं कृणुहि॒ सर्व॑वीरम्"
+  ],
+  "lines_iast": [
+   "bha̱drādadhi̱ śreya̱ḥ prehi̱ bṛha̱spati̭ḥ purae̱tā tḙ astu",
+   "athe̱mama̱syā vara̱ ā pṛ̭thi̱vyā ā̱reśa̭truṃ kṛṇuhi̱ sarva̭vīram"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

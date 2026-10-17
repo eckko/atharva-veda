@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.090.1a",
+   "006.090.1b"
+  ],
+  "lines_deva": [
+   "यां ते॑ रु॒द्र इषु॒मास्य॒दङ्गे॑भ्यो॒ हृद॑याय च",
+   "इ॒दं ताम॒द्य त्वद् व॒यं विषू॑चीं॒ वि वृ॑हामसि"
+  ],
+  "lines_iast": [
+   "yāṃ tḙ ru̱dra iṣu̱māsya̱daṅgḙbhyo̱ hṛda̭yāya ca",
+   "i̱daṃ tāma̱dya tvad va̱yaṃ viṣṷ̄cī̱ṃ vi vṛ̭hāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.090.2a",
+   "006.090.2b"
+  ],
+  "lines_deva": [
+   "यास्ते॑ श॒तं ध॒मन॒योऽङ्गा॒न्यनु॒ विष्ठि॑ताः",
+   "तासां॑ ते॒ सर्वा॑सां व॒यं निर्वि॒षाणि॑ ह्वयामसि"
+  ],
+  "lines_iast": [
+   "yāstḙ śa̱taṃ dha̱mana̱yo'ṅgā̱nyanu̱ viṣṭhi̭tāḥ",
+   "tāsā̭ṃ te̱ sarvā̭sāṃ va̱yaṃ nirvi̱ṣāṇi̭ hvayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.090.3a",
+   "006.090.3b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते रु॒द्रास्य॑ते॒ नमः॒ प्रति॑हितायै",
+   "नमो॑ विसृ॒ज्यमा॑नायै॒ नमो॒ निप॑तितायै"
+  ],
+  "lines_iast": [
+   "nama̭ste ru̱drāsya̭te̱ nama̱ḥ prati̭hitāyai",
+   "namo̭ visṛ̱jyamā̭nāyai̱ namo̱ nipa̭titāyai"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

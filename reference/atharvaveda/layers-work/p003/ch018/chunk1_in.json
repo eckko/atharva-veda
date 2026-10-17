@@ -1,0 +1,200 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "003.018.1a",
+   "003.018.1b"
+  ],
+  "lines_deva": [
+   "इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधां॒ बल॑वत्तमाम्",
+   "यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संवि॒न्दते॒ पति॑म्"
+  ],
+  "lines_iast": [
+   "i̱māṃ kha̭nā̱myoṣa̭dhiṃ vī̱rudhā̱ṃ bala̭vattamām",
+   "yayā̭ sa̱patnī̱ṃ bādha̭te̱ yayā̭ saṃvi̱ndate̱ pati̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "003.018.2a",
+   "003.018.2b"
+  ],
+  "lines_deva": [
+   "उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति",
+   "स॒पत्नीं॑ मे॒ परा॑ णुद॒ पतिं॑ मे॒ केव॑लं कृधि"
+  ],
+  "lines_iast": [
+   "uttā̭naparṇe̱ subha̭ge̱ deva̭jūte̱ saha̭svati",
+   "sa̱patnī̭ṃ me̱ parā̭ ṇuda̱ pati̭ṃ me̱ keva̭laṃ kṛdhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "003.018.3a",
+   "003.018.3b"
+  ],
+  "lines_deva": [
+   "न॒हि ते॒ नाम॑ ज॒ग्राह॒ नो अ॒स्मिन् र॑मसे॒ पतौ॑",
+   "परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि"
+  ],
+  "lines_iast": [
+   "na̱hi te̱ nāma̭ ja̱grāha̱ no a̱smin ra̭mase̱ pataṷ",
+   "parā̭me̱va pa̭rā̱vata̭ṃ sa̱patnī̭ṃ gamayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "003.018.4a",
+   "003.018.4b"
+  ],
+  "lines_deva": [
+   "उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः",
+   "अ॒धः स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः"
+  ],
+  "lines_iast": [
+   "utta̭rā̱hamṷttara̱ utta̱redutta̭rābhyaḥ",
+   "a̱dhaḥ sa̱patnī̱ yā mamādha̭rā̱ sādha̭rābhyaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "003.018.5a",
+   "003.018.5b"
+  ],
+  "lines_deva": [
+   "अ॒हम॑स्मि॒ सह॑मा॒नाथो॒ त्वम॑सि सास॒हिः",
+   "उ॒भे सह॑स्वती भू॒त्वा स॒पत्नीं॑ मे सहावहै"
+  ],
+  "lines_iast": [
+   "a̱hama̭smi̱ saha̭mā̱nātho̱ tvama̭si sāsa̱hiḥ",
+   "u̱bhe saha̭svatī bhū̱tvā sa̱patnī̭ṃ me sahāvahai"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "003.018.6a",
+   "003.018.6b"
+  ],
+  "lines_deva": [
+   "अ॒भि ते॑ऽधां॒ सह॑माना॒मुप॑ तेऽधां॒ सही॑यसीम्",
+   "मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व धावतु"
+  ],
+  "lines_iast": [
+   "a̱bhi tḙ'dhā̱ṃ saha̭mānā̱mupa̭ te'dhā̱ṃ sahī̭yasīm",
+   "māmanu̱ pra te̱ mano̭ va̱tsaṃ gauri̭va dhāvatu pa̱thā vāri̭va dhāvatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

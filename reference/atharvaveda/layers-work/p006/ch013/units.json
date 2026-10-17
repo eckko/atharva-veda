@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.013.1a",
+   "006.013.1b"
+  ],
+  "lines_deva": [
+   "नमो॑ देवव॒धेभ्यो॒ नमो॑ राजव॒धेभ्यः॑",
+   "अथो॒ ये विश्या॑नां व॒धास्तेभ्यो॑ मृत्यो॒ नमो॑ऽस्तु ते"
+  ],
+  "lines_iast": [
+   "namo̭ devava̱dhebhyo̱ namo̭ rājava̱dhebhya̭ḥ",
+   "atho̱ ye viśyā̭nāṃ va̱dhāstebhyo̭ mṛtyo̱ namo̭'stu te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.013.2a",
+   "006.013.2b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते अधिवा॒काय॑ परावा॒काय॑ ते॒ नमः॑",
+   "सु॒म॒त्यै मृ॑त्यो ते॒ नमो॑ दुर्म॒त्यै त॑ इ॒दं नमः॑"
+  ],
+  "lines_iast": [
+   "nama̭ste adhivā̱kāya̭ parāvā̱kāya̭ te̱ nama̭ḥ",
+   "su̱ma̱tyai mṛ̭tyo te̱ namo̭ durma̱tyai ta̭ i̱daṃ nama̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.013.3a",
+   "006.013.3b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते यातु॒धाने॑भ्यो॒ नम॑स्ते भेष॒जेभ्यः॑",
+   "नम॑स्ते मृत्यो॒ मूले॑भ्यो ब्राह्म॒णेभ्य॑ इ॒दं नमः॑"
+  ],
+  "lines_iast": [
+   "nama̭ste yātu̱dhānḙbhyo̱ nama̭ste bheṣa̱jebhya̭ḥ",
+   "nama̭ste mṛtyo̱ mūlḙbhyo brāhma̱ṇebhya̭ i̱daṃ nama̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

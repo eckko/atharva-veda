@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.016.1a",
+   "006.016.1b"
+  ],
+  "lines_deva": [
+   "आब॑यो॒ अना॑बयो॒ रस॑स्त उ॒ग्र आ॑बयो",
+   "आ ते॑ कर॒म्भम॑द्मसि"
+  ],
+  "lines_iast": [
+   "āba̭yo̱ anā̭bayo̱ rasa̭sta u̱gra ā̭bayo",
+   "ā tḙ kara̱mbhama̭dmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.016.2a",
+   "006.016.2b"
+  ],
+  "lines_deva": [
+   "वि॒हह्लो॒ नाम॑ ते पि॒ता म॒दाव॑ती॒ नाम॑ ते मा॒ता",
+   "स हि॑न॒ त्वम॑सि॒ यस्त्वमा॒त्मान॒माव॑यः"
+  ],
+  "lines_iast": [
+   "vi̱hahlo̱ nāma̭ te pi̱tā ma̱dāva̭tī̱ nāma̭ te mā̱tā",
+   "sa hi̭na̱ tvama̭si̱ yastvamā̱tmāna̱māva̭yaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.016.3a",
+   "006.016.3b"
+  ],
+  "lines_deva": [
+   "तौवि॑लि॒केऽवे॑ल॒यावा॒यमै॑ल॒ब ऐ॑लयीत्",
+   "ब॒भ्रुश्च॑ ब॒भ्रुक॑र्ण॒श्चापे॑हि॒ निरा॑ल"
+  ],
+  "lines_iast": [
+   "tauvi̭li̱ke'vḙla̱yāvā̱yamai̭la̱ba ai̭layīt",
+   "ba̱bhruśca̭ ba̱bhruka̭rṇa̱ścāpḙhi̱ nirā̭la"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.016.4a",
+   "006.016.4b"
+  ],
+  "lines_deva": [
+   "अ॒ल॒साला॑सि॒ पूर्व॑ सि॒लाञ्जा॑ला॒स्युत्त॑रा",
+   "नी॒ला॒ग॒ल॒साला॑"
+  ],
+  "lines_iast": [
+   "a̱la̱sālā̭si̱ pūrva̭ si̱lāñjā̭lā̱syutta̭rā",
+   "nī̱lā̱ga̱la̱sālā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

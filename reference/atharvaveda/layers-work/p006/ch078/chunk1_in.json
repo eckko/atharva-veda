@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.078.1a",
+   "006.078.1b"
+  ],
+  "lines_deva": [
+   "तेन॑ भू॒तेन॑ ह॒विषा॒यमा प्या॑यतां॑ पुनः॑",
+   "जा॒यां याम॑स्मा॒ आवा॑क्षु॒स्तां रसे॑ना॒भि व॑र्धताम्"
+  ],
+  "lines_iast": [
+   "tena̭ bhū̱tena̭ ha̱viṣā̱yamā pyā̭yatā̭ṃ puna̭ḥ",
+   "jā̱yāṃ yāma̭smā̱ āvā̭kṣu̱stāṃ rasḙnā̱bhi va̭rdhatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.078.2a",
+   "006.078.2b"
+  ],
+  "lines_deva": [
+   "अ॒भि व॑र्धतां॒ पय॑सा॒भि रा॒ष्ट्रेण॑ वर्धताम्",
+   "र॒य्या स॒हस्र॑वर्चसे॒मौ स्तामनु॑पक्षितौ"
+  ],
+  "lines_iast": [
+   "a̱bhi va̭rdhatā̱ṃ paya̭sā̱bhi rā̱ṣṭreṇa̭ vardhatām",
+   "ra̱yyā sa̱hasra̭varcase̱mau stāmanṷpakṣitau"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.078.3a",
+   "006.078.3b"
+  ],
+  "lines_deva": [
+   "त्वष्टा॑ जा॒याम॑जनय॒त् त्वष्टा॑स्यै॒ त्वां पति॑म्",
+   "त्वष्टा॑ स॒हस्र॒मायूं॑षि दी॒र्घमायुः॑ कृणोतु वाम्"
+  ],
+  "lines_iast": [
+   "tvaṣṭā̭ jā̱yāma̭janaya̱t tvaṣṭā̭syai̱ tvāṃ pati̭m",
+   "tvaṣṭā̭ sa̱hasra̱māyṷ̄ṃṣi dī̱rghamāyṷḥ kṛṇotu vām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.008.1a",
+   "006.008.1b"
+  ],
+  "lines_deva": [
+   "यथा॑ वृ॒क्षं लिबु॑जा सम॒न्तं प॑रिषस्व॒जे",
+   "ए॒वा परि॑ ष्वजस्व॒ मां यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑"
+  ],
+  "lines_iast": [
+   "yathā̭ vṛ̱kṣaṃ libṷjā sama̱ntaṃ pa̭riṣasva̱je",
+   "e̱vā pari̭ ṣvajasva̱ māṃ yathā̱ māṃ kā̱minyaso̱ yathā̱ mannāpa̭gā̱ asa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.008.2a",
+   "006.008.2b"
+  ],
+  "lines_deva": [
+   "यथा॑ सुप॒र्णः प्र॒पत॑न् प॒क्षौ नि॒हन्ति॒ भूम्या॑म्",
+   "ए॒वा नि ह॑न्मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑"
+  ],
+  "lines_iast": [
+   "yathā̭ supa̱rṇaḥ pra̱pata̭n pa̱kṣau ni̱hanti̱ bhūmyā̭m",
+   "e̱vā ni ha̭nmi te̱ mano̱ yathā̱ māṃ kā̱minyaso̱ yathā̱ mannāpa̭gā̱ asa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.008.3a",
+   "006.008.3b"
+  ],
+  "lines_deva": [
+   "यथे॒मे द्यावा॑पृथि॒वी स॒द्यः प॒र्येति॒ सूर्यः॑",
+   "ए॒वा पर्ये॑मि ते॒ मनो॒ यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑"
+  ],
+  "lines_iast": [
+   "yathe̱me dyāvā̭pṛthi̱vī sa̱dyaḥ pa̱ryeti̱ sūrya̭ḥ",
+   "e̱vā paryḙmi te̱ mano̱ yathā̱ māṃ kā̱minyaso̱ yathā̱ mannāpa̭gā̱ asa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

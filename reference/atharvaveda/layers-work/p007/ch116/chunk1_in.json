@@ -1,0 +1,61 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.116.1a",
+   "007.116.1b"
+  ],
+  "lines_deva": [
+   "नमो॑ रू॒राय॒ च्यव॑नाय॒ नोद॑नाय धृ॒ष्णवे॑",
+   "नमः॑ शी॒ताय॑ पूर्वकाम॒कृत्व॑ने"
+  ],
+  "lines_iast": [
+   "namo̭ rū̱rāya̱ cyava̭nāya̱ noda̭nāya dhṛ̱ṣṇavḙ",
+   "nama̭ḥ śī̱tāya̭ pūrvakāma̱kṛtva̭ne"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.116.2"
+  ],
+  "lines_deva": [
+   "यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येती॒मं म॒ण्डूकम॒भ्येऽत्वव्र॒तः"
+  ],
+  "lines_iast": [
+   "yo a̭nye̱dyurṷbhaya̱dyura̱bhyetī̱maṃ ma̱ṇḍūkama̱bhye'tvavra̱taḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

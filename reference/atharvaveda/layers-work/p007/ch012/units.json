@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.012.1a",
+   "007.012.1b"
+  ],
+  "lines_deva": [
+   "स॒भा च॑ मा॒ समि॑तिश्चावतां प्र॒जाप॑तेर्दुहि॒तरौ॑ संविदा॒ने",
+   "येना॑ सं॒गच्छा॒ उप॑ मा॒ स शि॑क्षा॒च्चारु॑ वदानि पितरः॒ संग॑तेषु"
+  ],
+  "lines_iast": [
+   "sa̱bhā ca̭ mā̱ sami̭tiścāvatāṃ pra̱jāpa̭terduhi̱taraṷ saṃvidā̱ne",
+   "yenā̭ sa̱ṃgacchā̱ upa̭ mā̱ sa śi̭kṣā̱ccārṷ vadāni pitara̱ḥ saṃga̭teṣu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.012.2a",
+   "007.012.2b"
+  ],
+  "lines_deva": [
+   "वि॒द्म ते॑ सभे॒ नाम॑ न॒रिष्टा॒ नाम॒ वा अ॑सि",
+   "ये ते॒ के च॑ सभा॒सद॒स्ते मे॑ सन्तु॒ सवा॑चसः"
+  ],
+  "lines_iast": [
+   "vi̱dma tḙ sabhe̱ nāma̭ na̱riṣṭā̱ nāma̱ vā a̭si",
+   "ye te̱ ke ca̭ sabhā̱sada̱ste mḙ santu̱ savā̭casaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.012.3a",
+   "007.012.3b"
+  ],
+  "lines_deva": [
+   "ए॒षाम॒हं स॒मासी॑नानां॒ वर्चो॑ वि॒ज्ञान॒मा द॑दे",
+   "अ॒स्याः सर्व॑स्याः सं॒सदो॒ मामि॑न्द्र भ॒गिनं॑ कृणु"
+  ],
+  "lines_iast": [
+   "e̱ṣāma̱haṃ sa̱māsī̭nānā̱ṃ varco̭ vi̱jñāna̱mā da̭de",
+   "a̱syāḥ sarva̭syāḥ sa̱ṃsado̱ māmi̭ndra bha̱gina̭ṃ kṛṇu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.012.4a",
+   "007.012.4b"
+  ],
+  "lines_deva": [
+   "यद् वो॒ मनः॒ परा॑गतं॒ यद् ब॒द्धमि॒ह वे॒ह वा॑",
+   "तद् व॒ आ व॑र्तयामसि॒ मयि॑ वो रमतां॒ मनः॑"
+  ],
+  "lines_iast": [
+   "yad vo̱ mana̱ḥ parā̭gata̱ṃ yad ba̱ddhami̱ha ve̱ha vā̭",
+   "tad va̱ ā va̭rtayāmasi̱ mayi̭ vo ramatā̱ṃ mana̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

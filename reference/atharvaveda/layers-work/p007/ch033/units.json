@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.033.1a",
+   "007.033.1b"
+  ],
+  "lines_deva": [
+   "सं मा॑ सिञ्चन्तु म॒रुतः॒ सं पू॒षा सं बृह॒स्पतिः॑",
+   "सं मा॒यम॒ग्निः सि॑ञ्चतु प्र॒जया॑ च॒ धने॑न च दी॒र्घमायुः॑ कृणोतु मे"
+  ],
+  "lines_iast": [
+   "saṃ mā̭ siñcantu ma̱ruta̱ḥ saṃ pū̱ṣā saṃ bṛha̱spati̭ḥ",
+   "saṃ mā̱yama̱gniḥ si̭ñcatu pra̱jayā̭ ca̱ dhanḙna ca dī̱rghamāyṷḥ kṛṇotu me"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

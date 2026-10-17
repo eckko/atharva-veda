@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.052.1a",
+   "007.052.1b"
+  ],
+  "lines_deva": [
+   "सं॒ज्ञानं॑ नः॒ स्वेभिः॑ सं॒ज्ञान॒मर॑णेभिः",
+   "सं॒ज्ञान॑मश्विना यु॒वमि॒हास्मासु॒ नि य॑च्छतम्"
+  ],
+  "lines_iast": [
+   "sa̱ṃjñāna̭ṃ na̱ḥ svebhi̭ḥ sa̱ṃjñāna̱mara̭ṇebhiḥ",
+   "sa̱ṃjñāna̭maśvinā yu̱vami̱hāsmāsu̱ ni ya̭cchatam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.052.2a",
+   "007.052.2b"
+  ],
+  "lines_deva": [
+   "सं जा॑नामहै॒ मन॑सा॒ सं चि॑कि॒त्वा मा यु॑ष्महि॒ मन॑सा॒ दैव्ये॑न",
+   "मा घोषा॒ उत् स्थु॑र्बहु॒ले वि॒निर्ह॑ते॒ मेषुः॑ पप्त॒दिन्द्र॒स्याह॒न्याग॑ते"
+  ],
+  "lines_iast": [
+   "saṃ jā̭nāmahai̱ mana̭sā̱ saṃ ci̭ki̱tvā mā yṷṣmahi̱ mana̭sā̱ daivyḙna",
+   "mā ghoṣā̱ ut sthṷrbahu̱le vi̱nirha̭te̱ meṣṷḥ papta̱dindra̱syāha̱nyāga̭te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

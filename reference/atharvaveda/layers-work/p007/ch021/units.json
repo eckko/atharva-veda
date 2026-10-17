@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.021.1a",
+   "007.021.1b"
+  ],
+  "lines_deva": [
+   "स॒मेत॒ विश्वे॒ वच॑सा॒ पतिं॑ दि॒व एको॑ वि॒भूरति॑थि॒र्जना॑नाम्",
+   "स पू॒र्व्यो नूत॑नमा॒विवा॑सत् तं व॑र्त॒निरनु॑ वावृत॒ एक॒मित् पु॒रु"
+  ],
+  "lines_iast": [
+   "sa̱meta̱ viśve̱ vaca̭sā̱ pati̭ṃ di̱va eko̭ vi̱bhūrati̭thi̱rjanā̭nām",
+   "sa pū̱rvyo nūta̭namā̱vivā̭sat taṃ va̭rta̱niranṷ vāvṛta̱ eka̱mit pu̱ru"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

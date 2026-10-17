@@ -1,0 +1,127 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.083.1a",
+   "006.083.1b"
+  ],
+  "lines_deva": [
+   "अप॑चितः॒ प्र प॑तत सुप॒र्णो व॑स॒तेरि॑व",
+   "सूर्यः॑ कृ॒णोतु॑ भेष॒जं च॒न्द्रमा॒ वोऽपो॑च्छतु"
+  ],
+  "lines_iast": [
+   "apa̭cita̱ḥ pra pa̭tata supa̱rṇo va̭sa̱teri̭va",
+   "sūrya̭ḥ kṛ̱ṇotṷ bheṣa̱jaṃ ca̱ndramā̱ vo'po̭cchatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.083.2a",
+   "006.083.2b"
+  ],
+  "lines_deva": [
+   "एन्येका॒ श्येन्येका॑ कृ॒ष्णैका॒ रोहि॑णी॒ द्वे",
+   "सर्वा॑सामग्रभं॒ नामावी॑रघ्नी॒रपे॑तन"
+  ],
+  "lines_iast": [
+   "enyekā̱ śyenyekā̭ kṛ̱ṣṇaikā̱ rohi̭ṇī̱ dve",
+   "sarvā̭sāmagrabha̱ṃ nāmāvī̭raghnī̱rapḙtana"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.083.3a",
+   "006.083.3b"
+  ],
+  "lines_deva": [
+   "अ॒सूति॑का रामाय॒ण्यऽप॒चित् प्र प॑तिष्यति",
+   "ग्लरि॒तः प्र प॑तिष्यति॒ स ग॑लु॒न्तो न॑शिष्यति"
+  ],
+  "lines_iast": [
+   "a̱sūti̭kā rāmāya̱ṇya'pa̱cit pra pa̭tiṣyati",
+   "glari̱taḥ pra pa̭tiṣyati̱ sa ga̭lu̱nto na̭śiṣyati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.083.4"
+  ],
+  "lines_deva": [
+   "वी॒हि स्वामाहु॑तिं जुषा॒णो मन॑सा॒ स्वाहा॒ मन॑सा॒ यदि॒दं जु॒होमि॑"
+  ],
+  "lines_iast": [
+   "vī̱hi svāmāhṷtiṃ juṣā̱ṇo mana̭sā̱ svāhā̱ mana̭sā̱ yadi̱daṃ ju̱homi̭"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

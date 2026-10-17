@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.138.1a",
+   "006.138.1b"
+  ],
+  "lines_deva": [
+   "त्वं वी॒रुधां॒ श्रेष्ठ॑तमाभिश्रु॒तास्यो॑षधे",
+   "इ॒मं मे॑ अ॒द्य पुरु॑षं क्ली॒बमो॑प॒शिनं॑ कृधि"
+  ],
+  "lines_iast": [
+   "tvaṃ vī̱rudhā̱ṃ śreṣṭha̭tamābhiśru̱tāsyo̭ṣadhe",
+   "i̱maṃ mḙ a̱dya purṷṣaṃ klī̱bamo̭pa̱śina̭ṃ kṛdhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.138.2a",
+   "006.138.2b"
+  ],
+  "lines_deva": [
+   "क्ली॒बं कृ॑ध्योप॒शिन॒मथो॑ कुरी॒रिणं॑ कृधि",
+   "अथा॒स्येन्द्रो॒ ग्राव॑भ्यामु॒भे भि॑नत्त्वा॒ण्ड्यौऽ"
+  ],
+  "lines_iast": [
+   "klī̱baṃ kṛ̭dhyopa̱śina̱matho̭ kurī̱riṇa̭ṃ kṛdhi",
+   "athā̱syendro̱ grāva̭bhyāmu̱bhe bhi̭nattvā̱ṇḍyau'"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.138.3a",
+   "006.138.3b"
+  ],
+  "lines_deva": [
+   "क्लीब॑ क्ली॒बं त्वा॑करं॒ वध्रे॒ वध्रिं॑ त्वाकर॒मर॑सार॒सं त्वा॑करम्",
+   "कु॒रीर॑मस्य शी॒र्षणि॒ कुम्बं॑ चाधि॒निद॑ध्मसि"
+  ],
+  "lines_iast": [
+   "klība̭ klī̱baṃ tvā̭kara̱ṃ vadhre̱ vadhri̭ṃ tvākara̱mara̭sāra̱saṃ tvā̭karam",
+   "ku̱rīra̭masya śī̱rṣaṇi̱ kumba̭ṃ cādhi̱nida̭dhmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.138.4a",
+   "006.138.4b"
+  ],
+  "lines_deva": [
+   "ये ते॑ ना॒ड्यौऽदे॒वकृ॑ते॒ ययो॒स्तिष्ठ॑ति॒ वृष्ण्य॑म्",
+   "ते ते॑ भिनद्मि॒ शम्य॑या॒मुष्या॒ अधि॑ मु॒ष्कयोः॑"
+  ],
+  "lines_iast": [
+   "ye tḙ nā̱ḍyau'de̱vakṛ̭te̱ yayo̱stiṣṭha̭ti̱ vṛṣṇya̭m",
+   "te tḙ bhinadmi̱ śamya̭yā̱muṣyā̱ adhi̭ mu̱ṣkayo̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "006.138.5a",
+   "006.138.5b"
+  ],
+  "lines_deva": [
+   "यथा॑ न॒डं क॒शिपु॑ने॒ स्त्रियो॑ भि॒न्दन्त्यश्म॑ना",
+   "ए॒वा भि॑नद्मि ते॒ शेपो॒ऽमुष्या॒ अधि॑ मु॒ष्कयोः॑"
+  ],
+  "lines_iast": [
+   "yathā̭ na̱ḍaṃ ka̱śipṷne̱ striyo̭ bhi̱ndantyaśma̭nā",
+   "e̱vā bhi̭nadmi te̱ śepo̱'muṣyā̱ adhi̭ mu̱ṣkayo̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

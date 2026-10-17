@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.111.1a",
+   "006.111.1b"
+  ],
+  "lines_deva": [
+   "इ॒मं मे॑ अग्ने॒ पुरु॑षं मुमुग्ध्य॒यं यो ब॒द्धः सुय॑तो॒ लाल॑पीति",
+   "अतोऽधि॑ ते कृणवद् भाग॒धेयं॑ य॒दानु॑न्मदि॒तोऽस॑ति"
+  ],
+  "lines_iast": [
+   "i̱maṃ mḙ agne̱ purṷṣaṃ mumugdhya̱yaṃ yo ba̱ddhaḥ suya̭to̱ lāla̭pīti",
+   "ato'dhi̭ te kṛṇavad bhāga̱dheya̭ṃ ya̱dānṷnmadi̱to'sa̭ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.111.2a",
+   "006.111.2b"
+  ],
+  "lines_deva": [
+   "अ॒ग्निष्टे॒ नि श॑मयतु॒ यदि॑ ते॒ मन॒ उद्यु॑तम्",
+   "कृ॒णोमि॑ वि॒द्वान् भे॑ष॒जं यदानु॑न्मदि॒तोऽस॑सि"
+  ],
+  "lines_iast": [
+   "a̱gniṣṭe̱ ni śa̭mayatu̱ yadi̭ te̱ mana̱ udyṷtam",
+   "kṛ̱ṇomi̭ vi̱dvān bhḙṣa̱jaṃ yadānṷnmadi̱to'sa̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.111.3a",
+   "006.111.3b"
+  ],
+  "lines_deva": [
+   "दे॒वै॒न॒सादुन्म॑दित॒मुन्म॑त्तं॒ रक्ष॑स॒स्परि॑",
+   "कृ॒णोमि॑ वि॒द्वान् भे॑ष॒जं यदानु॑न्मदि॒तोऽस॑ति"
+  ],
+  "lines_iast": [
+   "de̱vai̱na̱sādunma̭dita̱munma̭tta̱ṃ rakṣa̭sa̱spari̭",
+   "kṛ̱ṇomi̭ vi̱dvān bhḙṣa̱jaṃ yadānṷnmadi̱to'sa̭ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.111.4a",
+   "006.111.4b"
+  ],
+  "lines_deva": [
+   "पुन॑स्त्वा दुरप्स॒रसः॒ पुन॒रिन्द्रः॒ पुन॒र्भगः॑",
+   "पुन॑स्त्वा दु॒र्विश्वे॑ दे॒वा यथानु॑न्मदि॒तोऽस॑सि"
+  ],
+  "lines_iast": [
+   "puna̭stvā durapsa̱rasa̱ḥ puna̱rindra̱ḥ puna̱rbhaga̭ḥ",
+   "puna̭stvā du̱rviśvḙ de̱vā yathānṷnmadi̱to'sa̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

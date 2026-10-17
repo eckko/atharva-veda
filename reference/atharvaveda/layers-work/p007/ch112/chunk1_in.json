@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.112.1a",
+   "007.112.1b"
+  ],
+  "lines_deva": [
+   "शुम्भ॑नी॒ द्यावा॑पृथि॒वी अन्ति॑सुम्ने॒ महि॑व्रते",
+   "आपः॑ स॒प्त सु॑स्रुवुर्दे॒वीस्ता नो॑ मुञ्च॒न्त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "śumbha̭nī̱ dyāvā̭pṛthi̱vī anti̭sumne̱ mahi̭vrate",
+   "āpa̭ḥ sa̱pta sṷsruvurde̱vīstā no̭ muñca̱ntvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.112.2a",
+   "007.112.2b"
+  ],
+  "lines_deva": [
+   "मु॒ञ्चन्तु॑ मा शप॒थ्या॒३दथो॑ वरु॒ण्याऽदु॒त",
+   "अथो॑ य॒मस्य॒ पड्वी॑शा॒द् विश्व॑स्माद् देवकिल्बि॒षात्"
+  ],
+  "lines_iast": [
+   "mu̱ñcantṷ mā śapa̱thyā̱3datho̭ varu̱ṇyā'du̱ta",
+   "atho̭ ya̱masya̱ paḍvī̭śā̱d viśva̭smād devakilbi̱ṣāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

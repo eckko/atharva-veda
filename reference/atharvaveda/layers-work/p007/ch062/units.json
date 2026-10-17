@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.062.1a",
+   "007.062.1b"
+  ],
+  "lines_deva": [
+   "अ॒यम॒ग्निः सत्प॑तिर्वृ॒द्धवृ॑ष्णो र॒थीव॑ प॒त्तीन॑जयत् पु॒रोहि॑तः",
+   "नाभा॑ पृथि॒व्यां निहि॑तो॒ दवि॑द्युतदधस्प॒दं कृ॑णुतां॒ ये पृ॑त॒न्यवः॑"
+  ],
+  "lines_iast": [
+   "a̱yama̱gniḥ satpa̭tirvṛ̱ddhavṛ̭ṣṇo ra̱thīva̭ pa̱ttīna̭jayat pu̱rohi̭taḥ",
+   "nābhā̭ pṛthi̱vyāṃ nihi̭to̱ davi̭dyutadadhaspa̱daṃ kṛ̭ṇutā̱ṃ ye pṛ̭ta̱nyava̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

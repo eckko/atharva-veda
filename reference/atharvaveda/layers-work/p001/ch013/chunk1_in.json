@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.013.1a",
+   "001.013.1b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे",
+   "नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि"
+  ],
+  "lines_iast": [
+   "nama̭ste astu vi̱dyute̱ nama̭ste stanayi̱tnave",
+   "nama̭ste a̱stvaśma̭ne̱ yenā̭ dū̱ḍāśe̱ asya̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.013.2a",
+   "001.013.2b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि",
+   "मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि"
+  ],
+  "lines_iast": [
+   "nama̭ste pravato napā̱dyata̱stapa̭ḥ sa̱mūha̭si",
+   "mṛ̱ḍayā̭ nasta̱nūbhyo̱ maya̭sto̱kebhya̭skṛdhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.013.3a",
+   "001.013.3b"
+  ],
+  "lines_deva": [
+   "प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः",
+   "वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत् स॑मु॒द्रे अ॒न्तर्नि॑हि॑तासि॒ नाभिः॑"
+  ],
+  "lines_iast": [
+   "prava̭to napā̱nnama̭ e̱vāstu̱ tubhya̱ṃ nama̭ste he̱taye̱ tapṷṣe ca kṛṇmaḥ",
+   "vi̱dma te̱ dhāma̭ para̱maṃ guhā̱ yat sa̭mu̱dre a̱ntarni̭hi̭tāsi̱ nābhi̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.013.4a",
+   "001.013.4b"
+  ],
+  "lines_deva": [
+   "यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्",
+   "सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि"
+  ],
+  "lines_iast": [
+   "yāṃ tvā̭ de̱vā asṛ̭janta̱ viśva̱ iṣṷṃ kṛṇvā̱nā asa̭nāya dhṛ̱ṣṇum",
+   "sā no̭ mṛḍa vi̱dathḙ gṛṇā̱nā tasyai̭ te̱ namo̭ astu devi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

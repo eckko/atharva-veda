@@ -1,0 +1,266 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "004.002.1a",
+   "004.002.1b"
+  ],
+  "lines_deva": [
+   "य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषं॒ यस्य॑ दे॒वाः",
+   "यो॒३स्येशे॑ द्वि॒पदो॒ यश्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "ya ā̭tma̱dā ba̭la̱dā yasya̱ viśva̭ u̱pāsa̭te pra̱śiṣa̱ṃ yasya̭ de̱vāḥ",
+   "yo̱3syeśḙ dvi̱pado̱ yaścatṷṣpada̱ḥ kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "004.002.2a",
+   "004.002.2b"
+  ],
+  "lines_deva": [
+   "यः प्रा॑ण॒तो नि॑मिष॒तो म॑हित्वैको॒ राजा॒ जग॑तो ब॒भूव॑",
+   "यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "yaḥ prā̭ṇa̱to ni̭miṣa̱to ma̭hitvaiko̱ rājā̱ jaga̭to ba̱bhūva̭",
+   "yasya̭ chā̱yāmṛta̱ṃ yasya̭ mṛ̱tyuḥ kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "004.002.3a",
+   "004.002.3b"
+  ],
+  "lines_deva": [
+   "यं क्रन्द॑सी॒ अव॑तश्चस्कभा॒ने भि॒यसा॑ने॒ रोद॑सी॒ अह्व॑येथाम्",
+   "यस्या॒सौ पन्था॒ रज॑सो वि॒मानः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "yaṃ kranda̭sī̱ ava̭taścaskabhā̱ne bhi̱yasā̭ne̱ roda̭sī̱ ahva̭yethām",
+   "yasyā̱sau panthā̱ raja̭so vi̱māna̱ḥ kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "004.002.4a",
+   "004.002.4b"
+  ],
+  "lines_deva": [
+   "यस्य॒ द्यौरु॒र्वी पृ॑थि॒वी च॑ म॒ही यस्या॒द उ॒र्व॑१न्तरि॑क्षम्",
+   "यस्या॒सौ सूरो॒ वित॑तो महि॒त्वा कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "yasya̱ dyauru̱rvī pṛ̭thi̱vī ca̭ ma̱hī yasyā̱da u̱rva̭1ntari̭kṣam",
+   "yasyā̱sau sūro̱ vita̭to mahi̱tvā kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "004.002.5a",
+   "004.002.5b"
+  ],
+  "lines_deva": [
+   "यस्य॒ विश्वे॑ हि॒मव॑न्तो महि॒त्वा स॑मु॒द्रे यस्य॑ र॒सामिदा॒हुः",
+   "इ॒माश्च॑ प्र॒दिशो॒ यस्य॒ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "yasya̱ viśvḙ hi̱mava̭nto mahi̱tvā sa̭mu̱dre yasya̭ ra̱sāmidā̱huḥ",
+   "i̱māśca̭ pra̱diśo̱ yasya̱ bā̱hū kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "004.002.6a",
+   "004.002.6b"
+  ],
+  "lines_deva": [
+   "आपो॒ अग्रे॒ विश्व॑माव॒न् गर्भं॒ दधा॑ना अ॒मृता॑ ऋत॒ज्ञाः",
+   "यासु॑ दे॒वीष्वधि॑ दे॒व आ॑सी॒त् कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "āpo̱ agre̱ viśva̭māva̱n garbha̱ṃ dadhā̭nā a̱mṛtā̭ ṛta̱jñāḥ",
+   "yāsṷ de̱vīṣvadhi̭ de̱va ā̭sī̱t kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "004.002.7a",
+   "004.002.7b"
+  ],
+  "lines_deva": [
+   "हि॒र॒ण्य॒ग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत्",
+   "स दा॑धार पृथि॒वीमु॒त द्यां कस्मै दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "hi̱ra̱ṇya̱ga̱rbhaḥ sama̭varta̱tāgrḙ bhū̱tasya̭ jā̱taḥ pati̱reka̭ āsīt",
+   "sa dā̭dhāra pṛthi̱vīmu̱ta dyāṃ kasmai de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "004.002.8a",
+   "004.002.8b"
+  ],
+  "lines_deva": [
+   "आपो॑ व॒त्सं ज॒नय॑न्ती॒र्गर्भ॒मग्रे॒ समै॑रयन्",
+   "तस्यो॒त जाय॑मान॒स्योल्ब॑ आसीद्धिर॒ण्ययः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "āpo̭ va̱tsaṃ ja̱naya̭ntī̱rgarbha̱magre̱ samai̭rayan",
+   "tasyo̱ta jāya̭māna̱syolba̭ āsīddhira̱ṇyaya̱ḥ kasmai̭ de̱vāya̭ ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

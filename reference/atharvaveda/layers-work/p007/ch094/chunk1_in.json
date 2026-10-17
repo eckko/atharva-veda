@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.094.1a",
+   "007.094.1b"
+  ],
+  "lines_deva": [
+   "ध्रु॒वं ध्रु॒वेण॑ ह॒विषाव॒ सोमं॑ नयामसि",
+   "यथा॑ न॒ इन्द्रः॒ केव॑ली॒र्विशः॒ संम॑नस॒स्कर॑त्"
+  ],
+  "lines_iast": [
+   "dhru̱vaṃ dhru̱veṇa̭ ha̱viṣāva̱ soma̭ṃ nayāmasi",
+   "yathā̭ na̱ indra̱ḥ keva̭lī̱rviśa̱ḥ saṃma̭nasa̱skara̭t"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

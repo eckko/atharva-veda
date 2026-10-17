@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.096.1a",
+   "007.096.1b"
+  ],
+  "lines_deva": [
+   "अस॑द॒न् गावः॒ सद॒नेऽप॑प्तद् वस॒तिं वयः॑",
+   "आ॒स्थाने॒ पर्व॑ता अस्थुः॒ स्थाम्नि॑ वृ॒क्काव॑तिष्ठिपम्"
+  ],
+  "lines_iast": [
+   "asa̭da̱n gāva̱ḥ sada̱ne'pa̭ptad vasa̱tiṃ vaya̭ḥ",
+   "ā̱sthāne̱ parva̭tā asthu̱ḥ sthāmni̭ vṛ̱kkāva̭tiṣṭhipam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

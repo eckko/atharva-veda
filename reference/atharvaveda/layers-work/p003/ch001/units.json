@@ -1,0 +1,200 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "003.001.1a",
+   "003.001.1b"
+  ],
+  "lines_deva": [
+   "अ॒ग्निर्नः॒ शत्रू॒न् प्रत्ये॑तु वि॒द्वान् प्र॑ति॒दह॑न्न॒भिश॑स्ति॒मरा॑तिम्",
+   "स सेनां॑ मोहयतु॒ परे॑षां॒ निर्ह॑स्तांश्च कृणवज्जा॒तवे॑दाः"
+  ],
+  "lines_iast": [
+   "a̱gnirna̱ḥ śatrū̱n pratyḙtu vi̱dvān pra̭ti̱daha̭nna̱bhiśa̭sti̱marā̭tim",
+   "sa senā̭ṃ mohayatu̱ parḙṣā̱ṃ nirha̭stāṃśca kṛṇavajjā̱tavḙdāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "003.001.2a",
+   "003.001.2b"
+  ],
+  "lines_deva": [
+   "यू॒यमु॒ग्रा म॑रुत ई॒दृशे॑ स्था॒भि प्रेत॑ मृ॒णत॒ सह॑ध्वम्",
+   "अमी॑मृण॒न् वस॑वो नाथि॒ता इ॒मे अ॒ग्निर्ह्येऽषां दू॒तः प्र॒त्येतु॑ वि॒द्वान्"
+  ],
+  "lines_iast": [
+   "yū̱yamu̱grā ma̭ruta ī̱dṛśḙ sthā̱bhi preta̭ mṛ̱ṇata̱ saha̭dhvam",
+   "amī̭mṛṇa̱n vasa̭vo nāthi̱tā i̱me a̱gnirhye'ṣāṃ dū̱taḥ pra̱tyetṷ vi̱dvān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "003.001.3a",
+   "003.001.3b"
+  ],
+  "lines_deva": [
+   "अ॒मि॒त्र॒से॒नां॑ मघवन्न॒स्मान् छ॑त्रूय॒तीम॒भि",
+   "यु॒वं तानि॑न्द्र वृत्रहन्न॒ग्निश्च॑ दहतं॒ प्रति॑"
+  ],
+  "lines_iast": [
+   "a̱mi̱tra̱se̱nā̭ṃ maghavanna̱smān cha̭trūya̱tīma̱bhi",
+   "yu̱vaṃ tāni̭ndra vṛtrahanna̱gniśca̭ dahata̱ṃ prati̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "003.001.4a",
+   "003.001.4b"
+  ],
+  "lines_deva": [
+   "प्रसू॑त इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न्",
+   "ज॒हि प्र॒तीचो॑ अ॒नूचः॒ परा॑चो॒ विष्व॑क् स॒त्यं कृ॑णुहि चि॒त्तमे॑षाम्"
+  ],
+  "lines_iast": [
+   "prasṷ̄ta indra pra̱vatā̱ hari̭bhyā̱ṃ pra te̱ vajra̭ḥ pramṛ̱ṇannḙtu̱ śatrṷ̄n",
+   "ja̱hi pra̱tīco̭ a̱nūca̱ḥ parā̭co̱ viṣva̭k sa̱tyaṃ kṛ̭ṇuhi ci̱ttamḙṣām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "003.001.5a",
+   "003.001.5b"
+  ],
+  "lines_deva": [
+   "इन्द्र॒ सेनां॑ मोहया॒मित्रा॑णाम्",
+   "अ॒ग्नेर्वात॑स्य॒ ध्राज्या॒ तान् विषू॑चो॒ वि ना॑शय"
+  ],
+  "lines_iast": [
+   "indra̱ senā̭ṃ mohayā̱mitrā̭ṇām",
+   "a̱gnervāta̭sya̱ dhrājyā̱ tān viṣṷ̄co̱ vi nā̭śaya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "003.001.6a",
+   "003.001.6b"
+  ],
+  "lines_deva": [
+   "इन्द्रः॒ सेनां॑ मोहयतु म॒रुतो॑ घ्न॒न्त्वोज॑सा",
+   "चक्षूं॑स्य॒ग्निरा द॑त्तां॒ पुन॑रेतु॒ परा॑जिता"
+  ],
+  "lines_iast": [
+   "indra̱ḥ senā̭ṃ mohayatu ma̱ruto̭ ghna̱ntvoja̭sā",
+   "cakṣṷ̄ṃsya̱gnirā da̭ttā̱ṃ puna̭retu̱ parā̭jitā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

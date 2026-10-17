@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.035.1a",
+   "007.035.1b"
+  ],
+  "lines_deva": [
+   "प्रान्यान्त्स॒पत्ना॒न्त्सह॑सा॒ सह॑स्व॒ प्रत्यजा॑तान् जातवेदो नुदस्व",
+   "इ॒दं रा॒ष्ट्रं पि॑पृ॒हि सौभ॑गाय॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः"
+  ],
+  "lines_iast": [
+   "prānyāntsa̱patnā̱ntsaha̭sā̱ saha̭sva̱ pratyajā̭tān jātavedo nudasva",
+   "i̱daṃ rā̱ṣṭraṃ pi̭pṛ̱hi saubha̭gāya̱ viśva̭ ena̱manṷ madantu de̱vāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.035.2a",
+   "007.035.2b"
+  ],
+  "lines_deva": [
+   "इ॒मा यास्ते॑ श॒तं हि॒राः स॒हस्रं॑ ध॒मनी॑रु॒त",
+   "तासां॑ ते॒ सर्वा॑साम॒हमश्म॑ना॒ बिल॒मप्य॑धाम्"
+  ],
+  "lines_iast": [
+   "i̱mā yāstḙ śa̱taṃ hi̱rāḥ sa̱hasra̭ṃ dha̱manī̭ru̱ta",
+   "tāsā̭ṃ te̱ sarvā̭sāma̱hamaśma̭nā̱ bila̱mapya̭dhām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.035.3a",
+   "007.035.3b"
+  ],
+  "lines_deva": [
+   "परं॒ योने॒रव॑रं ते कृणोमि॒ मा त्वा॑ प्र॒जाभि भू॒न्मोत सूनुः॑",
+   "अ॒स्वं॑१ त्वाप्र॑जसं कृणो॒म्यश्मा॑नं ते अपि॒धानं कृणोमि"
+  ],
+  "lines_iast": [
+   "para̱ṃ yone̱rava̭raṃ te kṛṇomi̱ mā tvā̭ pra̱jābhi bhū̱nmota sūnṷḥ",
+   "a̱sva̭ṃ1 tvāpra̭jasaṃ kṛṇo̱myaśmā̭naṃ te api̱dhānaṃ kṛṇomi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

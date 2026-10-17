@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.086.1a",
+   "007.086.1b"
+  ],
+  "lines_deva": [
+   "त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म्",
+   "हु॒वे नु श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति न॒ इन्द्रो॑ म॒घवा॑न् कृणोतु"
+  ],
+  "lines_iast": [
+   "trā̱tāra̱mindra̭mavi̱tāra̱mindra̱ṃ havḙhave su̱hava̱ṃ śūra̱mindra̭m",
+   "hu̱ve nu śa̱kraṃ pṷruhū̱tamindra̭ṃ sva̱sti na̱ indro̭ ma̱ghavā̭n kṛṇotu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

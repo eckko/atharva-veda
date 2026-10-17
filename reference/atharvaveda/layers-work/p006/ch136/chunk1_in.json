@@ -1,0 +1,94 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.136.1a",
+   "006.136.1b"
+  ],
+  "lines_deva": [
+   "दे॒वी दे॒व्यामधि॑ जा॒ता पृ॑थि॒व्याम॑स्योषधे",
+   "तां त्वा॑ नितत्नि॒ केशे॑भ्यो॒ दृंह॑णाय खनामसि"
+  ],
+  "lines_iast": [
+   "de̱vī de̱vyāmadhi̭ jā̱tā pṛ̭thi̱vyāma̭syoṣadhe",
+   "tāṃ tvā̭ nitatni̱ keśḙbhyo̱ dṛṃha̭ṇāya khanāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.136.2"
+  ],
+  "lines_deva": [
+   "दृंह॑ प्र॒त्नान् ज॒नयाजा॑तान् जा॒तानु॒ वर्षी॑यसस्कृधि"
+  ],
+  "lines_iast": [
+   "dṛṃha̭ pra̱tnān ja̱nayājā̭tān jā̱tānu̱ varṣī̭yasaskṛdhi"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.136.3a",
+   "006.136.3b"
+  ],
+  "lines_deva": [
+   "यस्ते॒ केशो॑ऽव॒पद्य॑ते॒ समू॑लो॒ यश्च॑ वृ॒श्चते॑",
+   "इ॒दं तं वि॒श्वभे॑षज्या॒भि षि॑ञ्चामि वी॒रुधा॑"
+  ],
+  "lines_iast": [
+   "yaste̱ keśo̭'va̱padya̭te̱ samṷ̄lo̱ yaśca̭ vṛ̱ścatḙ",
+   "i̱daṃ taṃ vi̱śvabhḙṣajyā̱bhi ṣi̭ñcāmi vī̱rudhā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

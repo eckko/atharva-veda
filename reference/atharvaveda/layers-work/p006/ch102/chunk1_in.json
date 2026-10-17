@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.102.1a",
+   "006.102.1b"
+  ],
+  "lines_deva": [
+   "यथा॒यं वा॒हो अ॑श्विना स॒मैति॒ सं च॒ वर्त॑ते",
+   "ए॒वा माम॒भि ते॒ मनः॑ स॒मैतु॒ सं च॑ वर्तताम्"
+  ],
+  "lines_iast": [
+   "yathā̱yaṃ vā̱ho a̭śvinā sa̱maiti̱ saṃ ca̱ varta̭te",
+   "e̱vā māma̱bhi te̱ mana̭ḥ sa̱maitu̱ saṃ ca̭ vartatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.102.2a",
+   "006.102.2b"
+  ],
+  "lines_deva": [
+   "आहं खि॑दामि ते॒ मनो॑ राजा॒श्वः पृ॒ष्ट्यामि॑व",
+   "रे॒ष्मच्छि॑न्नं॒ यथा॒ तृणं॒ मयि॑ ते वेष्टतां॒ मनः॑"
+  ],
+  "lines_iast": [
+   "āhaṃ khi̭dāmi te̱ mano̭ rājā̱śvaḥ pṛ̱ṣṭyāmi̭va",
+   "re̱ṣmacchi̭nna̱ṃ yathā̱ tṛṇa̱ṃ mayi̭ te veṣṭatā̱ṃ mana̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.102.3a",
+   "006.102.3b"
+  ],
+  "lines_deva": [
+   "आञ्ज॑नस्य म॒दुघ॑स्य॒ कुष्ठ॑स्य॒ नल॑दस्य च",
+   "तु॒रो भग॑स्य॒ हस्ता॑भ्यामनु॒रोध॑न॒मुद् भ॑रे"
+  ],
+  "lines_iast": [
+   "āñja̭nasya ma̱dugha̭sya̱ kuṣṭha̭sya̱ nala̭dasya ca",
+   "tu̱ro bhaga̭sya̱ hastā̭bhyāmanu̱rodha̭na̱mud bha̭re"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

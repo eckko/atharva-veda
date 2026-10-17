@@ -1,0 +1,422 @@
+[
+ {
+  "id": "009.004.13a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Genitive बृहस्पतेः is required by the sense (the hips were Brihaspati's)."
+ },
+ {
+  "id": "001.031.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सुभूतम् is a regular compound (well-being), sense and grammar fine."
+ },
+ {
+  "id": "010.006.24b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महसा भूत्या सह (with glory and prosperity) is grammatical and sensible."
+ },
+ {
+  "id": "013.001.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Nominative रोहितः before आ loses visarga; accent matches रोहि॑तः in the previous line."
+ },
+ {
+  "id": "001.007.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Causative वि लापय is confirmed by वि लपन्तु in the next line."
+ },
+ {
+  "id": "001.013.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अस्यसि (you hurl) with येन is correct second person present."
+ },
+ {
+  "id": "004.021.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मा ... ईशत is a regular prohibitive injunctive (let no thief have power over you)."
+ },
+ {
+  "id": "012.001.44a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ददातु (let her give) is correct; ददातु/दधातु are both valid readings."
+ },
+ {
+  "id": "004.006.5b",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "अ॒पा॒ष्ठाच्छृङ्गा॒त्कुल्म॑ला॒न्निर॑वोचमहं वि॒षम् ॥",
+  "why": "anudātta on वि followed directly by svarita on ष is an impossible accent sequence; the neighbouring lines write वि॒षम्."
+ },
+ {
+  "id": "020.021.1b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.029.4",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.056.5a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.057.9",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.063.3a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.070.18",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.071.10",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "असृ॑ग्रमिन्द्र ते॒ गिरः॒ प्रति॒ त्वामुद॑हासत । अजो॑षा वृष॒भं पति॑म् ॥",
+  "why": "प्रति॒त्वाम् is two words typed without the word space the edition uses elsewhere."
+ },
+ {
+  "id": "020.087.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.088.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.089.8a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.093.9",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "अ॒भि प्र गोप॑तिं गि॒रेन्द्र॑मर्च॒ यथा॑ वि॒दे। सू॒नुं स॒त्यस्य॒ सत्प॑तिम् ॥",
+  "why": "सूतुम् is not a recognisable word; सूनुं सत्यस्य (son of truth) fits the sense, but the correction is not visible from the given lines."
+ },
+ {
+  "id": "020.094.5a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.125.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.128.10a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.129.3",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.131.1",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "020.140.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "001.021.3a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "002.013.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "003.001.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "003.026.6b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "004.010.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "004.019.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "005.009.1",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "005.012.10b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "005.016.10",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "005.025.6a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "005.030.16b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.013.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.039.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.045.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.076.1b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.080.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.095.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "006.136.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "007.069.1c",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "007.099.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "008.007.21a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "008.010.12m",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "009.001.12b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "009.001.19a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "009.005.17a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "009.005.36a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "009.009.6b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "009.010.23b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "010.001.28b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "010.005.31b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "010.007.14a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "010.008.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "010.008.13a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ },
+ {
+  "id": "011.002.10b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accent sequence are regular; nothing wrong visible."
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.072.1a",
+   "020.072.1b",
+   "020.072.1c"
+  ],
+  "lines_deva": [
+   "विश्वे॑षु॒ हि त्वा॒ सव॑नेषु तु॒ञ्जते॑ समा॒नमेकं॒ वृष॑मण्यवः॒ पृथ॒क् स्वः सनि॒ष्यवः॒ पृथक्",
+   "तं त्वा॒ नावं॒ न प॒र्षणिं॑ शू॒षस्य॑ धु॒रि धी॑महि",
+   "इन्द्रं॒ न य॒ज्ञैश्च॒तय॑न्त आ॒यव॒ स्तोमे॑भि॒रिन्द्र॑मा॒यवः॑"
+  ],
+  "lines_iast": [
+   "viśvḙṣu̱ hi tvā̱ sava̭neṣu tu̱ñjatḙ samā̱nameka̱ṃ vṛṣa̭maṇyava̱ḥ pṛtha̱k svaḥ sani̱ṣyava̱ḥ pṛthak",
+   "taṃ tvā̱ nāva̱ṃ na pa̱rṣaṇi̭ṃ śū̱ṣasya̭ dhu̱ri dhī̭mahi",
+   "indra̱ṃ na ya̱jñaiśca̱taya̭nta ā̱yava̱ stomḙbhi̱rindra̭mā̱yava̭ḥ"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.072.2a",
+   "020.072.2b",
+   "020.072.2c"
+  ],
+  "lines_deva": [
+   "वि त्वा॑ ततस्रे मिथु॒ना अ॑व॒स्यवो॑ व्र॒जस्य॑ सा॒ता गव्य॑स्य निः॒सृजः॒ सक्ष॑न्त इन्द्र निः॒सृजः॑",
+   "यद् ग॒व्यन्ता॒ द्वा जना॒ स्व॑१र्यन्ता॑ स॒मूह॑सि",
+   "आ॒विष्करि॑क्र॒द् वृष॑णं सचा॒भुवं॒ वज्र॑मिन्द्र सचा॒भुव॑म्"
+  ],
+  "lines_iast": [
+   "vi tvā̭ tatasre mithu̱nā a̭va̱syavo̭ vra̱jasya̭ sā̱tā gavya̭sya ni̱ḥsṛja̱ḥ sakṣa̭nta indra ni̱ḥsṛja̭ḥ",
+   "yad ga̱vyantā̱ dvā janā̱ sva̭1ryantā̭ sa̱mūha̭si",
+   "ā̱viṣkari̭kra̱d vṛṣa̭ṇaṃ sacā̱bhuva̱ṃ vajra̭mindra sacā̱bhuva̭m"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.072.3a",
+   "020.072.3b",
+   "020.072.3c"
+  ],
+  "lines_deva": [
+   "उ॒तो नो॑ अ॒स्या उ॒षसो॑ जु॒षेत॒ ह्य॑१र्कस्य॑ बोधि ह॒विषो॒ हवी॑मभिः॒ स्व॑र्षाता॒ हवी॑मभिः",
+   "यदि॑न्द्र॒ हन्त॑वे॒ मृघो॒ वृषा॑ वज्रिं॒ चिके॑तसि",
+   "आ मे॑ अ॒स्य वे॒धसो॒ नवी॑यसो॒ मन्म॑ श्रुधि॒ नवी॑यसः"
+  ],
+  "lines_iast": [
+   "u̱to no̭ a̱syā u̱ṣaso̭ ju̱ṣeta̱ hya̭1rkasya̭ bodhi ha̱viṣo̱ havī̭mabhi̱ḥ sva̭rṣātā̱ havī̭mabhiḥ",
+   "yadi̭ndra̱ hanta̭ve̱ mṛgho̱ vṛṣā̭ vajri̱ṃ cikḙtasi",
+   "ā mḙ a̱sya ve̱dhaso̱ navī̭yaso̱ manma̭ śrudhi̱ navī̭yasaḥ"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ }
+]

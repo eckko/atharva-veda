@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.072.1a",
+   "019.072.1b"
+  ],
+  "lines_deva": [
+   "यस्मा॒त् कोशा॑दु॒दभ॑राम॒ वेदं॒ तस्मि॑न्न॒न्तरव॑ दध्म एनम्",
+   "कृ॒तमि॒ष्टं ब्रह्म॑णो वी॒र्येण॑ तेन॑ मा देवा॒स्तप॑सावते॒ह"
+  ],
+  "lines_iast": [
+   "yasmā̱t kośā̭du̱dabha̭rāma̱ veda̱ṃ tasmi̭nna̱ntarava̭ dadhma enam",
+   "kṛ̱tami̱ṣṭaṃ brahma̭ṇo vī̱ryeṇa̭ tena̭ mā devā̱stapa̭sāvate̱ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

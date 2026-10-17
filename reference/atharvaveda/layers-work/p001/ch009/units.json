@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.009.1a",
+   "001.009.1b"
+  ],
+  "lines_deva": [
+   "अ॒स्मिन् वसु॒ वस॑वो धारय॒न्त्विन्द्रः॑ पू॒षा वरु॑णो मि॒त्रो अ॒ग्निः",
+   "इ॒ममा॑दि॒त्या उ॒त॒ विश्वे॑ च दे॒वा उत्त॑रस्मि॒न् ज्योति॑षि धारयन्तु"
+  ],
+  "lines_iast": [
+   "a̱smin vasu̱ vasa̭vo dhāraya̱ntvindra̭ḥ pū̱ṣā varṷṇo mi̱tro a̱gniḥ",
+   "i̱mamā̭di̱tyā u̱ta̱ viśvḙ ca de̱vā utta̭rasmi̱n jyoti̭ṣi dhārayantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.009.2a",
+   "001.009.2b"
+  ],
+  "lines_deva": [
+   "अ॒स्य दे॑वाः प्र॒दिशि॒ ज्यो॑तिरस्तु॒ सूर्यो॑ अ॒ग्निरु॒त वा॒ हिर॑ण्यम्",
+   "स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम्"
+  ],
+  "lines_iast": [
+   "a̱sya dḙvāḥ pra̱diśi̱ jyo̭tirastu̱ sūryo̭ a̱gniru̱ta vā̱ hira̭ṇyam",
+   "sa̱patnā̭ a̱smadadha̭re bhavantūtta̱maṃ nāka̱madhi̭ rohaye̱mam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.009.3a",
+   "001.009.3b"
+  ],
+  "lines_deva": [
+   "येनेन्द्रा॑य स॒मभ॑रः॒ पयां॑स्युत्त॒मेन॒ ब्रह्म॑णा जातवेदः",
+   "तेन॒ त्वम॑ग्न इ॒ह व॑र्धये॒मं स॑जा॒तानां॒ श्रैष्ठ्य॒ आ धे॑ह्येनम्"
+  ],
+  "lines_iast": [
+   "yenendrā̭ya sa̱mabha̭ra̱ḥ payā̭ṃsyutta̱mena̱ brahma̭ṇā jātavedaḥ",
+   "tena̱ tvama̭gna i̱ha va̭rdhaye̱maṃ sa̭jā̱tānā̱ṃ śraiṣṭhya̱ ā dhḙhyenam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.009.4a",
+   "001.009.4b"
+  ],
+  "lines_deva": [
+   "ऐषां॑ य॒ज्ञमु॒त वर्चो॑ ददे॒ऽहं रा॒यस्पोष॑मु॒त चि॒त्तान्य॑ग्ने",
+   "स॒पत्ना॑ अ॒स्मदध॑रे भवन्तूत्त॒मं नाक॒मधि॑ रोहये॒मम्"
+  ],
+  "lines_iast": [
+   "aiṣā̭ṃ ya̱jñamu̱ta varco̭ dade̱'haṃ rā̱yaspoṣa̭mu̱ta ci̱ttānya̭gne",
+   "sa̱patnā̭ a̱smadadha̭re bhavantūtta̱maṃ nāka̱madhi̭ rohaye̱mam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

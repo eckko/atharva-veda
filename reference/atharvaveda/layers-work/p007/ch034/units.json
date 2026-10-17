@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.034.1a",
+   "007.034.1b"
+  ],
+  "lines_deva": [
+   "अग्ने॑ जा॒तान् प्र णु॑दा मे स॒पत्ना॒न् प्रत्यजा॑तान् जातवेदो नुदस्व",
+   "अ॒ध॒स्प॒दं कृ॑णुष्व॒ ये पृ॑त॒न्यवोऽना॑गस॒स्ते व॒यमदि॑तये स्याम"
+  ],
+  "lines_iast": [
+   "agnḙ jā̱tān pra ṇṷdā me sa̱patnā̱n pratyajā̭tān jātavedo nudasva",
+   "a̱dha̱spa̱daṃ kṛ̭ṇuṣva̱ ye pṛ̭ta̱nyavo'nā̭gasa̱ste va̱yamadi̭taye syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

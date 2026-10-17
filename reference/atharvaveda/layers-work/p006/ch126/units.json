@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.126.1a",
+   "006.126.1b"
+  ],
+  "lines_deva": [
+   "उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ वन्वतां॒ विष्ठि॑तं जग॑त्",
+   "स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद् दवी॑यो॒ अप॑ सेध॒ शत्रू॑न्"
+  ],
+  "lines_iast": [
+   "upa̭ śvāsaya pṛthi̱vīmu̱ta dyāṃ pṷru̱trā tḙ vanvatā̱ṃ viṣṭhi̭taṃ jaga̭t",
+   "sa dṷndubhe sa̱jūrindrḙṇa de̱vairdū̱rād davī̭yo̱ apa̭ sedha̱ śatrṷ̄n"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.126.2a",
+   "006.126.2b"
+  ],
+  "lines_deva": [
+   "आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॑ अ॒भि ष्ट॑न दुरि॒ता बाध॑मानः",
+   "अप॑ सेध दुन्दुभे दु॒च्छुना॑मि॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व"
+  ],
+  "lines_iast": [
+   "ā kra̭ndaya̱ bala̱mojo̭ na̱ ā dhā̭ a̱bhi ṣṭa̭na duri̱tā bādha̭mānaḥ",
+   "apa̭ sedha dundubhe du̱cchunā̭mi̱ta indra̭sya mu̱ṣṭira̭si vī̱ḍaya̭sva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.126.3a",
+   "006.126.3b"
+  ],
+  "lines_deva": [
+   "प्रामूं ज॑या॒भी॒३मे ज॑यन्तु केतु॒मद् दु॑न्दुभिर्वा॑वदीतु",
+   "समश्व॑पर्णाः पतन्तु नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु"
+  ],
+  "lines_iast": [
+   "prāmūṃ ja̭yā̱bhī̱3me ja̭yantu ketu̱mad dṷndubhirvā̭vadītu",
+   "samaśva̭parṇāḥ patantu no̱ naro̱'smāka̭mindra ra̱thino̭ jayantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

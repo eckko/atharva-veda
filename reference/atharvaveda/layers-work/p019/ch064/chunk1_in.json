@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.064.1a",
+   "019.064.1b"
+  ],
+  "lines_deva": [
+   "अग्ने॑ स॒मिध॒माहा॑र्षं बृह॒ते जा॒तवे॑दसे",
+   "स मे॑ श्र॒द्धां च॑ मे॒धां च॑ जा॒तवे॑दाः॒ प्र य॑च्छतु"
+  ],
+  "lines_iast": [
+   "agnḙ sa̱midha̱māhā̭rṣaṃ bṛha̱te jā̱tavḙdase",
+   "sa mḙ śra̱ddhāṃ ca̭ me̱dhāṃ ca̭ jā̱tavḙdā̱ḥ pra ya̭cchatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.064.2a",
+   "019.064.2b"
+  ],
+  "lines_deva": [
+   "इ॒ध्मेन॑ त्वा जातवेदः स॒मिधा॑ वर्धयामसि",
+   "तथा॒ त्वम॒स्मान् व॑र्धय प्र॒जया॑ च॒ धने॑न च"
+  ],
+  "lines_iast": [
+   "i̱dhmena̭ tvā jātavedaḥ sa̱midhā̭ vardhayāmasi",
+   "tathā̱ tvama̱smān va̭rdhaya pra̱jayā̭ ca̱ dhanḙna ca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.064.3a",
+   "019.064.3b"
+  ],
+  "lines_deva": [
+   "यद॑ग्ने॒ यानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑",
+   "सर्वं॒ तद॑स्तु मे शि॒वं तज्जु॑षस्व यविष्ठ्य"
+  ],
+  "lines_iast": [
+   "yada̭gne̱ yāni̱ kāni̭ ci̱dā te̱ dārṷ̄ṇi da̱dhmasi̭",
+   "sarva̱ṃ tada̭stu me śi̱vaṃ tajjṷṣasva yaviṣṭhya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.064.4a",
+   "019.064.4b"
+  ],
+  "lines_deva": [
+   "ए॒तास्ते॑ अग्ने स॒मिध॒स्त्वमि॒द्धः स॒मिद् भव",
+   "आयु॑र॒स्मासु॑ धेह्यमृत॒त्वमा॑चा॒र्याय"
+  ],
+  "lines_iast": [
+   "e̱tāstḙ agne sa̱midha̱stvami̱ddhaḥ sa̱mid bhava",
+   "āyṷra̱smāsṷ dhehyamṛta̱tvamā̭cā̱ryāya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

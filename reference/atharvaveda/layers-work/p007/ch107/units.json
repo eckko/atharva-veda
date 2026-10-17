@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.107.1a",
+   "007.107.1b"
+  ],
+  "lines_deva": [
+   "अव॑ दि॒वस्ता॑रयन्ति स॒प्त सूर्य॑स्य र॒श्मयः॑",
+   "आपः॑ समु॒द्रिया॒ धारा॒स्तास्ते॑ श॒ल्यम॑सिस्रसन्"
+  ],
+  "lines_iast": [
+   "ava̭ di̱vastā̭rayanti sa̱pta sūrya̭sya ra̱śmaya̭ḥ",
+   "āpa̭ḥ samu̱driyā̱ dhārā̱stāstḙ śa̱lyama̭sisrasan"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

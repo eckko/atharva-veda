@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.085.1a",
+   "006.085.1b"
+  ],
+  "lines_deva": [
+   "व॒र॒णो वा॑रयाता अ॒यं दे॒वो वन॒स्पतिः॑",
+   "यक्ष्मो॒ यो अ॒स्मिन्नावि॑ष्ट॒स्तमु॑ दे॒वा अ॑वीवरन्"
+  ],
+  "lines_iast": [
+   "va̱ra̱ṇo vā̭rayātā a̱yaṃ de̱vo vana̱spati̭ḥ",
+   "yakṣmo̱ yo a̱sminnāvi̭ṣṭa̱stamṷ de̱vā a̭vīvaran"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.085.2a",
+   "006.085.2b"
+  ],
+  "lines_deva": [
+   "इन्द्र॑स्य॒ वच॑सा व॒यं मि॒त्रस्य॒ वरु॑णस्य च",
+   "दे॒वानां॒ सर्वे॑षां वा॒चा यक्ष्मं॑ ते वारयामहे"
+  ],
+  "lines_iast": [
+   "indra̭sya̱ vaca̭sā va̱yaṃ mi̱trasya̱ varṷṇasya ca",
+   "de̱vānā̱ṃ sarvḙṣāṃ vā̱cā yakṣma̭ṃ te vārayāmahe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.085.3a",
+   "006.085.3b"
+  ],
+  "lines_deva": [
+   "यथा॑ वृ॒त्र इ॒मा आप॑स्त॒स्तम्भ॑ वि॒श्वधा॑ य॒तीः",
+   "ए॒वा ते॑ अ॒ग्निना॒ यक्ष्मं॑ वैश्वान॒रेण॑ वारये"
+  ],
+  "lines_iast": [
+   "yathā̭ vṛ̱tra i̱mā āpa̭sta̱stambha̭ vi̱śvadhā̭ ya̱tīḥ",
+   "e̱vā tḙ a̱gninā̱ yakṣma̭ṃ vaiśvāna̱reṇa̭ vāraye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

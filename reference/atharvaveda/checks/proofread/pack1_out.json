@@ -1,0 +1,369 @@
+[
+ {
+  "id": "020.134.1",
+  "kind": "stray",
+  "verdict": "ok",
+  "why": "The ' – ' separates the fixed refrain from the varying second half in all six 20.134 lines alike; it is the edition's own mark, not a typing slip."
+ },
+ {
+  "id": "020.134.2",
+  "kind": "stray",
+  "verdict": "ok",
+  "why": "The ' – ' separates the fixed refrain from the varying second half in all six 20.134 lines alike; it is the edition's own mark, not a typing slip."
+ },
+ {
+  "id": "020.134.3",
+  "kind": "stray",
+  "verdict": "ok",
+  "why": "The ' – ' separates the fixed refrain from the varying second half in all six 20.134 lines alike; it is the edition's own mark, not a typing slip."
+ },
+ {
+  "id": "020.134.4",
+  "kind": "stray",
+  "verdict": "ok",
+  "why": "The ' – ' separates the fixed refrain from the varying second half in all six 20.134 lines alike; it is the edition's own mark, not a typing slip."
+ },
+ {
+  "id": "020.134.5",
+  "kind": "stray",
+  "verdict": "ok",
+  "why": "The ' – ' separates the fixed refrain from the varying second half in all six 20.134 lines alike; it is the edition's own mark, not a typing slip."
+ },
+ {
+  "id": "020.134.6",
+  "kind": "stray",
+  "verdict": "ok",
+  "why": "The ' – ' separates the fixed refrain from the varying second half in all six 20.134 lines alike; it is the edition's own mark, not a typing slip."
+ },
+ {
+  "id": "004.001.1b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "स बु॒ध्न्याऽउप॒माअ॑स्य वि॒ष्ठाः स॒तश्च॒ योनि॒मस॑तश्च॒ वि व॑ः ॥",
+  "why": "U+E003 stands where grammar needs a visarga (the word is a nominative/plural ending before a pause or consonant); replace it with ः."
+ },
+ {
+  "id": "004.001.3b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "ब्रह्म॒ ब्रह्म॑ण॒ उज्ज॑भार॒ मध्या॑न्नी॒चैरु॒च्चैः स्व॒धा अ॒भि प्र त॑स्थौ ॥",
+  "why": "U+E003 stands where grammar needs a visarga (the word is a nominative/plural ending before a pause or consonant); replace it with ः."
+ },
+ {
+  "id": "004.001.4b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "म॒हान् म॒ही अस्क॑भाय॒द् वि जा॒तो द्यां सद्म॒ पार्थि॑वं च॒ रज॑ः ॥",
+  "why": "U+E003 stands where grammar needs a visarga (the word is a nominative/plural ending before a pause or consonant); replace it with ः."
+ },
+ {
+  "id": "004.001.5b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "अह॒र्यच्छुक्रं ज्योति॑षो॒ जनि॒ष्टाथ॑ द्यु॒मन्तो॒ वि व॑सन्तु॒ विप्रा॑ः ॥",
+  "why": "U+E003 stands where grammar needs a visarga (the word is a nominative/plural ending before a pause or consonant); replace it with ः."
+ },
+ {
+  "id": "004.001.7b",
+  "kind": "stray",
+  "verdict": "error",
+  "suggest": "त्वं विश्वे॑षां जनि॒ता यथास॑ः क॒विर्दे॒वो न दभा॑यत् स्व॒धावा॑न् ॥",
+  "why": "U+E003 stands where grammar needs a visarga (the word is a nominative/plural ending before a pause or consonant); replace it with ः."
+ },
+ {
+  "id": "014.001.15a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "वरेयं (wooing) is the right word with सूर्यामुप; not वयं."
+ },
+ {
+  "id": "013.001.39a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "सन्निह = सन् + इह, regular sandhi."
+ },
+ {
+  "id": "006.058.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "यथाप = यथा + आपः with ओषधीषु; correct sandhi."
+ },
+ {
+  "id": "007.037.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "यथासो = यथा + असः (2sg subjunctive); correct."
+ },
+ {
+  "id": "012.004.34a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "यथाज्यं = यथा + आज्यं; correct sandhi."
+ },
+ {
+  "id": "019.031.9a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "यथाग्रे = यथा + अग्रे; correct sandhi."
+ },
+ {
+  "id": "006.087.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "इवेह = इव + इह; correct sandhi."
+ },
+ {
+  "id": "002.008.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अपेयं = अप + इयं (रात्री); correct sandhi."
+ },
+ {
+  "id": "002.012.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "Vocative dual द्यावा॑पृथिवी takes the accent on the first syllable only; the form is right."
+ },
+ {
+  "id": "020.062.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवास्त = देवासः + ते, regular Vedic plural with sandhi."
+ },
+ {
+  "id": "020.067.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवाच्या (instrumental of देवाञ्च्) is a genuine word; nothing wrong."
+ },
+ {
+  "id": "020.126.21a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "सुविता (well-being) fits the sense; not सविता."
+ },
+ {
+  "id": "002.009.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवास्ते = देवासः + ते, regular Vedic plural with sandhi."
+ },
+ {
+  "id": "003.004.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "सजाताः (kinsmen) is the subject of यन्तु; correct."
+ },
+ {
+  "id": "004.036.9a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "लपिताः (chattering) is a rare but genuine form."
+ },
+ {
+  "id": "010.008.35a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवाश्च = देवाः + च; ऽ marks the edition's vowel hiatus, as elsewhere."
+ },
+ {
+  "id": "012.005.36",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "पिशिता (being cut up) fits the series of participles; correct."
+ },
+ {
+  "id": "002.011.3a",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "प्रति॒ तम॒भि च॑र॒ यो॒३स्मान् द्वेष्टि॒ यं व॒यं द्वि॒ष्मः ।",
+  "why": "The edition writes the pluta of this formula as यो॒३स्मान् (45x); ऽ here is a typing inconsistency."
+ },
+ {
+  "id": "001.030.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "प्रयाजाः (fore-offerings) pairs with अनुयाजाः in the same line."
+ },
+ {
+  "id": "005.025.6b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "यदिन्द्रो = यद् + इन्द्रः, correct sandhi."
+ },
+ {
+  "id": "006.005.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "इन्द्रेमं = इन्द्र + इमं, correct sandhi."
+ },
+ {
+  "id": "013.001.27b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अस्त्वग्निः = अस्तु + अग्निः, correct sandhi."
+ },
+ {
+  "id": "020.092.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "इदिह = इद् + इह; ऽ marks the hiatus in अभि अनूषत, the edition's style."
+ },
+ {
+  "id": "001.018.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवस्त्वा = देवः + त्वा; sense and sandhi correct."
+ },
+ {
+  "id": "003.003.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "इन्द्रमा = इन्द्रम् + आ (with च्यावयन्तु); correct."
+ },
+ {
+  "id": "006.029.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "इदमा = इदम् + आ (with ससद्यात्); correct."
+ },
+ {
+  "id": "007.060.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "भवता is the 2pl imperative addressed with मया सह; correct."
+ },
+ {
+  "id": "008.002.25a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "जीवति with सर्वः is the right verb; the line is fine."
+ },
+ {
+  "id": "008.008.11b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "भवस्य (genitive of भव) is a genuine form; nothing wrong."
+ },
+ {
+  "id": "010.003.13b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "पूर्वान् pairs with अपरान् in the same line; correct."
+ },
+ {
+  "id": "011.003.51",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "ए॒ष वा ओ॑द॒नः सर्वा॑ङ्गः॒ सर्व॑परुः॒ सर्व॑तनूः ॥",
+  "why": "Udatta mark missing on सर्व॑परुः, which the next line and the other 35 occurrences carry."
+ },
+ {
+  "id": "012.003.12b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवते is the dual with पचतः; correct."
+ },
+ {
+  "id": "014.001.49a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवस्ते = देवः + ते, correct sandhi."
+ },
+ {
+  "id": "015.013.13",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "देवतां is the accusative with वासय; correct."
+ },
+ {
+  "id": "020.088.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "हविर्भिः is a regular instrumental plural; correct."
+ },
+ {
+  "id": "006.015.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "हविषां is the genitive plural with उत्तमः; correct."
+ },
+ {
+  "id": "008.003.15a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "क्रविषा (raw flesh) fits पौरुषेयेण; correct."
+ },
+ {
+  "id": "011.001.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अंशान् (shares) fits वि भजामि; correct."
+ },
+ {
+  "id": "004.036.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अन्यान् with दिप्सतः is correct."
+ },
+ {
+  "id": "006.029.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अमून् (those) fits the sense; correct."
+ },
+ {
+  "id": "007.073.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अघ्न्येयं = अघ्न्या + इयं; correct sandhi."
+ },
+ {
+  "id": "007.109.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अक्षान् (dice) fits आलभे; correct."
+ },
+ {
+  "id": "011.009.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "असीन् (swords) fits परशून् आयुधं; correct."
+ },
+ {
+  "id": "007.077.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "मुञ्चतां is a 3pl imperative with पाशान्; correct."
+ },
+ {
+  "id": "005.017.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "प्रहेया (to be sent) fits न दूताय; correct."
+ },
+ {
+  "id": "006.028.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "परीमे = परि + इमे with the pluta mark; correct."
+ },
+ {
+  "id": "012.003.44a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "प्रति वेदयामि (I announce) fits the sense; correct."
+ },
+ {
+  "id": "013.002.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "अमोचि (aorist passive) fits शुक्रः; correct."
+ },
+ {
+  "id": "014.002.49b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "सादयामि (I set) fits स्थाणौ अधि; correct."
+ }
+]

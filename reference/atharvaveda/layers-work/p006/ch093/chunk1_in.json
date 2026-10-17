@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.093.1a",
+   "006.093.1b"
+  ],
+  "lines_deva": [
+   "य॒मो मृ॒त्युर॑घमा॒रो नि॑रृ॒थो ब॒भ्रुः श॒र्वोऽस्ता॒ नील॑शिखण्डः",
+   "दे॒व॒ज॒नाः सेन॑योत्तस्थि॒वांस॒स्ते अ॒स्माकं॒ परि॑ वृञ्जन्तु वी॒रान्"
+  ],
+  "lines_iast": [
+   "ya̱mo mṛ̱tyura̭ghamā̱ro ni̭rṛ̱tho ba̱bhruḥ śa̱rvo'stā̱ nīla̭śikhaṇḍaḥ",
+   "de̱va̱ja̱nāḥ sena̭yottasthi̱vāṃsa̱ste a̱smāka̱ṃ pari̭ vṛñjantu vī̱rān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.093.2a",
+   "006.093.2b"
+  ],
+  "lines_deva": [
+   "मन॑सा॒ होमै॒र्हर॑सा घृ॒तेन॑ श॒र्वायास्त्र॑ उ॒त राज्ञे॑ भ॒वाय॑",
+   "न॒म॒स्येऽभ्यो॒ नम॑ एभ्यः कृणोम्य॒न्यत्रा॒स्मद॒घवि॑षा नयन्तु"
+  ],
+  "lines_iast": [
+   "mana̭sā̱ homai̱rhara̭sā ghṛ̱tena̭ śa̱rvāyāstra̭ u̱ta rājñḙ bha̱vāya̭",
+   "na̱ma̱sye'bhyo̱ nama̭ ebhyaḥ kṛṇomya̱nyatrā̱smada̱ghavi̭ṣā nayantu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.093.3a",
+   "006.093.3b"
+  ],
+  "lines_deva": [
+   "त्राय॑ध्वं नो अ॒घवि॑षाभ्यो व॒धाद् विश्वे॑ देवा मरुतो विश्ववेदसः",
+   "अ॒ग्नीषोमा॒ वरु॑णः पू॒तद॑क्षा वातापर्ज॒न्ययोः॑ सुम॒तौ स्या॑म"
+  ],
+  "lines_iast": [
+   "trāya̭dhvaṃ no a̱ghavi̭ṣābhyo va̱dhād viśvḙ devā maruto viśvavedasaḥ",
+   "a̱gnīṣomā̱ varṷṇaḥ pū̱tada̭kṣā vātāparja̱nyayo̭ḥ suma̱tau syā̭ma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

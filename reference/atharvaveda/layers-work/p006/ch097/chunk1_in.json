@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.097.1a",
+   "006.097.1b"
+  ],
+  "lines_deva": [
+   "अ॒भि॒भूर्य॒ज्ञो अ॑भि॒भूर॒ग्निर॑भि॒भूः सोमो॑ अभि॒भूरिन्द्रः॑",
+   "अ॒भ्य॑हं विश्वाः॒ पृत॑ना॒ यथासा॑न्ये॒वा वि॑धेमा॒ग्निहो॑त्रा इ॒दं ह॒विः"
+  ],
+  "lines_iast": [
+   "a̱bhi̱bhūrya̱jño a̭bhi̱bhūra̱gnira̭bhi̱bhūḥ somo̭ abhi̱bhūrindra̭ḥ",
+   "a̱bhya̭haṃ viśvā̱ḥ pṛta̭nā̱ yathāsā̭nye̱vā vi̭dhemā̱gniho̭trā i̱daṃ ha̱viḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.097.2a",
+   "006.097.2b"
+  ],
+  "lines_deva": [
+   "स्व॒धास्तु॑ मित्रावरुणा विपश्चिता प्र॒जाव॑त् क्ष॒त्रं मधु॑ने॒ह पि॑न्वतम्",
+   "बाधे॑थां दू॒रं निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुक्तम॒स्मत्"
+  ],
+  "lines_iast": [
+   "sva̱dhāstṷ mitrāvaruṇā vipaścitā pra̱jāva̭t kṣa̱traṃ madhṷne̱ha pi̭nvatam",
+   "bādhḙthāṃ dū̱raṃ nirṛ̭tiṃ parā̱caiḥ kṛ̱taṃ ci̱dena̱ḥ pra mṷmuktama̱smat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.097.3a",
+   "006.097.3b"
+  ],
+  "lines_deva": [
+   "इ॒मं वी॒रमनु॑ हर्षध्वमु॒ग्रमिन्द्रं॑ सखायो॒ अनु॒ सं र॑भध्वम्",
+   "ग्रा॒म॒जितं॑ गो॒जितं॒ वज्र॑बाहुं॒ जय॑न्त॒मज्म॑ प्रमृ॒णन्त॒मोज॑सा"
+  ],
+  "lines_iast": [
+   "i̱maṃ vī̱ramanṷ harṣadhvamu̱gramindra̭ṃ sakhāyo̱ anu̱ saṃ ra̭bhadhvam",
+   "grā̱ma̱jita̭ṃ go̱jita̱ṃ vajra̭bāhu̱ṃ jaya̭nta̱majma̭ pramṛ̱ṇanta̱moja̭sā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

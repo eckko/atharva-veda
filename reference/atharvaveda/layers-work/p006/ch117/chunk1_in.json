@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.117.1a",
+   "006.117.1b"
+  ],
+  "lines_deva": [
+   "अ॒प॒मित्य॒मप्र॑तीत्तं॒ यदस्मि॑ य॒मस्य॒ येन॑ ब॒लिना॒ चरा॑मि",
+   "इ॒दं तद॑ग्ने अनृ॒णो भ॑वामि॒ त्वं पाशा॑न् वि॒चृतं॑ वेत्थ॒ सर्वा॑न्"
+  ],
+  "lines_iast": [
+   "a̱pa̱mitya̱mapra̭tītta̱ṃ yadasmi̭ ya̱masya̱ yena̭ ba̱linā̱ carā̭mi",
+   "i̱daṃ tada̭gne anṛ̱ṇo bha̭vāmi̱ tvaṃ pāśā̭n vi̱cṛta̭ṃ vettha̱ sarvā̭n"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.117.2a",
+   "006.117.2b"
+  ],
+  "lines_deva": [
+   "इ॒हैव सन्तः॒ प्रति॑ दद्म एनज्जी॒वा जी॒वेभ्यो॒ नि ह॑राम एनत्",
+   "अ॒प॒मित्य॑ धा॒न्यं॑१ यज्ज॒घसा॒हमि॒दं तद॑ग्ने अनृ॒णो भ॑वामि"
+  ],
+  "lines_iast": [
+   "i̱haiva santa̱ḥ prati̭ dadma enajjī̱vā jī̱vebhyo̱ ni ha̭rāma enat",
+   "a̱pa̱mitya̭ dhā̱nya̭ṃ1 yajja̱ghasā̱hami̱daṃ tada̭gne anṛ̱ṇo bha̭vāmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.117.3a",
+   "006.117.3b"
+  ],
+  "lines_deva": [
+   "अ॒नृ॒णा अ॒स्मिन्न॑नृ॒णाः पर॑स्मिन् तृ॒तीये॑ लो॒के अ॑नृ॒णाः स्या॑म",
+   "ये दे॑व॒यानाः॑ पितृ॒याणा॑श्च लो॒काः सर्वा॑न् प॒थो अ॑नृ॒णा आ क्षि॑येम"
+  ],
+  "lines_iast": [
+   "a̱nṛ̱ṇā a̱sminna̭nṛ̱ṇāḥ para̭smin tṛ̱tīyḙ lo̱ke a̭nṛ̱ṇāḥ syā̭ma",
+   "ye dḙva̱yānā̭ḥ pitṛ̱yāṇā̭śca lo̱kāḥ sarvā̭n pa̱tho a̭nṛ̱ṇā ā kṣi̭yema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,108 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.090.1a",
+   "007.090.1b"
+  ],
+  "lines_deva": [
+   "अपि॑ वृश्च पुराण॒वद् व्र॒तते॑रिव गुष्पि॒तम्",
+   "ओजो॑ दा॒स्यस्य॑ दम्भय"
+  ],
+  "lines_iast": [
+   "api̭ vṛśca purāṇa̱vad vra̱tatḙriva guṣpi̱tam",
+   "ojo̭ dā̱syasya̭ dambhaya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.090.2a",
+   "007.090.2b"
+  ],
+  "lines_deva": [
+   "व॒यं तद॑स्य॒ सम्भृ॑तं॒ वस्विन्द्रे॑ण॒ वि भ॑जामहै",
+   "म्ला॒पया॑मि भ्र॒जः शि॒भ्रं वरु॑णस्य व्र॒तेन॑ ते"
+  ],
+  "lines_iast": [
+   "va̱yaṃ tada̭sya̱ sambhṛ̭ta̱ṃ vasvindrḙṇa̱ vi bha̭jāmahai",
+   "mlā̱payā̭mi bhra̱jaḥ śi̱bhraṃ varṷṇasya vra̱tena̭ te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.090.3a",
+   "007.090.3b",
+   "007.090.3c"
+  ],
+  "lines_deva": [
+   "यथा॒ शेपो॑ अ॒पाया॑तै स्त्री॒षु चास॒दना॑वयाः",
+   "अ॒व॒स्थस्य॑ क्न॒दीव॑तः शाङ्-कु॒रस्य॑ नितो॒दिनः॑",
+   "यदात॑त॒मव॒ तत् त॑नु॒ यदुत्त॑तं॒ नि तत् त॑नु"
+  ],
+  "lines_iast": [
+   "yathā̱ śepo̭ a̱pāyā̭tai strī̱ṣu cāsa̱danā̭vayāḥ",
+   "a̱va̱sthasya̭ kna̱dīva̭taḥ śāṅ-ku̱rasya̭ nito̱dina̭ḥ",
+   "yadāta̭ta̱mava̱ tat ta̭nu̱ yadutta̭ta̱ṃ ni tat ta̭nu"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.002.1a",
+   "019.002.1b"
+  ],
+  "lines_deva": [
+   "शं त॒ आपो॑ हैमव॒तीः शमु॑ ते सन्तू॒त्स्याः",
+   "शं ते॑ सनि॒ष्यदा॒ आपः॒ शमु॑ ते सन्तु व॒र्ष्याः"
+  ],
+  "lines_iast": [
+   "śaṃ ta̱ āpo̭ haimava̱tīḥ śamṷ te santū̱tsyāḥ",
+   "śaṃ tḙ sani̱ṣyadā̱ āpa̱ḥ śamṷ te santu va̱rṣyāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.002.2a",
+   "019.002.2b"
+  ],
+  "lines_deva": [
+   "शं त॒ आपो॑ धन्व॒न्याः॒३ शं ते॑ सन्त्वनू॒प्याः",
+   "शं ते॑ खनि॒त्रिमा॒ आपः॒ शं याः कु॒म्भेभि॒राभृ॑ताः"
+  ],
+  "lines_iast": [
+   "śaṃ ta̱ āpo̭ dhanva̱nyā̱ḥ3 śaṃ tḙ santvanū̱pyāḥ",
+   "śaṃ tḙ khani̱trimā̱ āpa̱ḥ śaṃ yāḥ ku̱mbhebhi̱rābhṛ̭tāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.002.3a",
+   "019.002.3b"
+  ],
+  "lines_deva": [
+   "अ॒न॒भ्रयः॒ खन॑माना॒ विप्रा॑ गम्भी॒रे अ॒पसः॑",
+   "भि॒षग्भ्यो॑ भि॒षक्त॑रा॒ आपो॒ अच्छा॑ वदामसि"
+  ],
+  "lines_iast": [
+   "a̱na̱bhraya̱ḥ khana̭mānā̱ viprā̭ gambhī̱re a̱pasa̭ḥ",
+   "bhi̱ṣagbhyo̭ bhi̱ṣakta̭rā̱ āpo̱ acchā̭ vadāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.002.4a",
+   "019.002.4b"
+  ],
+  "lines_deva": [
+   "अ॒पामह॑ दि॒व्याऽनाम॒पां स्रो॑त॒स्याऽनाम्",
+   "अ॒पामह॑ प्र॒णेज॒नेऽश्वा॑ भवथ वा॒जिनः॑"
+  ],
+  "lines_iast": [
+   "a̱pāmaha̭ di̱vyā'nāma̱pāṃ sro̭ta̱syā'nām",
+   "a̱pāmaha̭ pra̱ṇeja̱ne'śvā̭ bhavatha vā̱jina̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "019.002.5a",
+   "019.002.5b"
+  ],
+  "lines_deva": [
+   "ता अ॒पः शि॒वा अ॒पोऽय॑क्ष्मं॒कर॑णीर॒पः",
+   "यथै॒व तृ॑प्यते॒ मय॒स्तास्त॒ आ द॑त्त भेष॒जीः"
+  ],
+  "lines_iast": [
+   "tā a̱paḥ śi̱vā a̱po'ya̭kṣma̱ṃkara̭ṇīra̱paḥ",
+   "yathai̱va tṛ̭pyate̱ maya̱stāsta̱ ā da̭tta bheṣa̱jīḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

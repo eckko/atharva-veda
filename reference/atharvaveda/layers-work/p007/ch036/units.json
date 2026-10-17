@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.036.1a",
+   "007.036.1b"
+  ],
+  "lines_deva": [
+   "अ॒क्ष्यौऽनौ॒ मधु॑संकाशे॒ अनी॑कं नौ स॒मञ्ज॑नम्",
+   "अ॒न्तः कृ॑ष्णुष्व॒ मां हृ॒दि मन॒ इन्नौ॑ स॒हास॑ति"
+  ],
+  "lines_iast": [
+   "a̱kṣyau'nau̱ madhṷsaṃkāśe̱ anī̭kaṃ nau sa̱mañja̭nam",
+   "a̱ntaḥ kṛ̭ṣṇuṣva̱ māṃ hṛ̱di mana̱ innaṷ sa̱hāsa̭ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

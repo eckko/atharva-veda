@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.058.1a",
+   "020.058.1b"
+  ],
+  "lines_deva": [
+   "श्राय॑न्त इव॒ सूर्यं॒ विश्वेदिन्द्र॑स्य भक्षत",
+   "वसू॑नि जा॒ते जन॑मान॒ ओज॑सा॒ प्रति॑ भा॒गं न दी॑धिम"
+  ],
+  "lines_iast": [
+   "śrāya̭nta iva̱ sūrya̱ṃ viśvedindra̭sya bhakṣata",
+   "vasṷ̄ni jā̱te jana̭māna̱ oja̭sā̱ prati̭ bhā̱gaṃ na dī̭dhima"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.058.2a",
+   "020.058.2b"
+  ],
+  "lines_deva": [
+   "अन॑र्शरातिं वसु॒दामुप॑ स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः॑",
+   "सो अ॑स्य॒ कामं॑ विध॒तो न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न्"
+  ],
+  "lines_iast": [
+   "ana̭rśarātiṃ vasu̱dāmupa̭ stuhi bha̱drā indra̭sya rā̱taya̭ḥ",
+   "so a̭sya̱ kāma̭ṃ vidha̱to na ro̭ṣati̱ mano̭ dā̱nāya̭ co̱daya̭n"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.058.3a",
+   "020.058.3b"
+  ],
+  "lines_deva": [
+   "बण्म॒हाँ अ॑सि सूर्य॒ बडा॑दित्य म॒हाँ अ॑सि",
+   "म॒हस्ते॑ स॒तो म॑हि॒मा प॑नस्यते॒ऽद्धा दे॑व म॒हाँ अ॑सि"
+  ],
+  "lines_iast": [
+   "baṇma̱hā~ a̭si sūrya̱ baḍā̭ditya ma̱hā~ a̭si",
+   "ma̱hastḙ sa̱to ma̭hi̱mā pa̭nasyate̱'ddhā dḙva ma̱hā~ a̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "020.058.4a",
+   "020.058.4b"
+  ],
+  "lines_deva": [
+   "बट् सू॑र्य॒ श्रव॑सा म॒हाँ अ॑सि स॒त्रा दे॑व म॒हाँ अ॑सि",
+   "म॒ह्ना दे॒वाना॑मसु॒र्यः पु॒रोहि॑तो वि॒भु ज्योति॒रदा॑भ्यम्"
+  ],
+  "lines_iast": [
+   "baṭ sṷ̄rya̱ śrava̭sā ma̱hā~ a̭si sa̱trā dḙva ma̱hā~ a̭si",
+   "ma̱hnā de̱vānā̭masu̱ryaḥ pu̱rohi̭to vi̱bhu jyoti̱radā̭bhyam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]
