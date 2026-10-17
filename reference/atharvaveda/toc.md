@@ -4,7 +4,7 @@
 - Subject and purpose of the book: a collection of Vedic hymns and prose passages (mantras) for healing, protection, kingship, domestic rites, cosmology and speculation (inferred from the sukta titles and header lines of source S1; the text itself does not state a purpose)
 - Base edition: Vedic Heritage Portal (vedicheritage.gov.in) Śaunaka Saṃhitā text with Vedic accents, as published in the DharmicData JSON dataset (source S1 in sources.md). The printed edition behind the portal is not named in S1.
 - Mapping: part = kāṇḍa, chapter = sūkta, verse = mantra (IDs are `PPP.CCC.V`, 3-digit part and chapter because kāṇḍas 6, 7 and 20 have more than 99 sūktas)
-- Totals: 20 parts, 736 chapters, 6168 verses extracted (traditional: unknown; Atharvaveda is usually described as about 730 hymns and about 6,000 mantras, not checked against a printed edition)
+- Totals: 20 parts, 736 chapters, 6169 verses extracted (traditional: unknown; Atharvaveda is usually described as about 730 hymns and about 6,000 mantras, not checked against a printed edition)
 
 Sūkta titles in the `Sanskrit name` column are the first line of each sūkta in S1 (`--` where S1 has none). The `Purpose` column is the start of S1's ṛṣi / devatā / chandas line (full lines in `sukta-headers.md`); S1 header text is the portal's, not ours. English names are not given (they would be our own translation). `Verses (traditional)` is `unknown` throughout because no edition with verse counts has been checked yet.
 
@@ -182,7 +182,7 @@ Purpose: sūktas 1 to 40 (40 sūktas, 331 mantras extracted); no kāṇḍa-leve
 
 ## Part 005: काण्ड 5 (Kāṇḍa 5)
 
-Purpose: sūktas 1 to 31 (31 sūktas, 375 mantras extracted); no kāṇḍa-level purpose is stated in S1 (inferred: see sūkta titles)
+Purpose: sūktas 1 to 31 (31 sūktas, 376 mantras extracted); no kāṇḍa-level purpose is stated in S1 (inferred: see sūkta titles)
 
 | Part | Chapter | Sanskrit name | English name | Purpose | Verses (extracted) | Verses (traditional) | File | Status |
 |---|---|---|---|---|---|---|---|---|
@@ -215,7 +215,7 @@ Purpose: sūktas 1 to 31 (31 sūktas, 375 mantras extracted); no kāṇḍa-leve
 | 005 | 027 | अग्निः | -- | १-१२ ब्रह्म। अग्निः। १ बृहतीगर्भा त्रिष्टुप्, २ द्विपदा साम्नी भुरिगनुष्टुप्, ३ द्विपदार्ची बृहती, ४ द्विपदा स… | 12 | unknown | text/p005.md | extracted |
 | 005 | 028 | दीर्घायुः | -- | १-१४ अथर्वा। त्रिवृत्, अग्न्यादयः। त्रिष्टुप्, ६ पञ्चपदातिशक्वरी, ७,९-१०,१२ ककुम्मत्यनुष्टुप् १३ पुरउष्णिक्। | 14 | unknown | text/p005.md | extracted |
 | 005 | 029 | रक्षोघ्नम् | -- | १-१५ चातनः। जातवेदाः, मन्त्रोक्ताः। त्रिष्टुप्, ३ त्रिपदा विराण्नाम गायत्री, ५ पुरोऽतिजगती विराड्-जगती,१२-१५ अ… | 15 | unknown | text/p005.md | extracted |
-| 005 | 030 | दीघायुष्यम् | -- | १-१७ उन्मोचनः (आयुष्कामः)। आयुष्यम्। अनुष्टुप्, १ पथ्यापङ्क्तिः, ९ भुरिक्, १२ चतुष्पदा विराड्-जगती, १४ विराट-प… | 16 | unknown | text/p005.md | extracted |
+| 005 | 030 | दीघायुष्यम् | -- | १-१७ उन्मोचनः (आयुष्कामः)। आयुष्यम्। अनुष्टुप्, १ पथ्यापङ्क्तिः, ९ भुरिक्, १२ चतुष्पदा विराड्-जगती, १४ विराट-प… | 17 | unknown | text/p005.md | extracted |
 | 005 | 031 | कृत्यापरिहरणम् | -- | १-१२ शक्रः। कृत्यादूषणम्। अनुष्टुप्, ११ बृहतीगर्भा अनुष्टुप्, १२ पथ्याबृहती। | 12 | unknown | text/p005.md | extracted |
 
 ## Part 006: काण्ड 6 (Kāṇḍa 6)
@@ -566,7 +566,7 @@ Purpose: sūktas 1 to 5 (5 sūktas, 304 mantras extracted); no kāṇḍa-level 
 
 | Part | Chapter | Sanskrit name | English name | Purpose | Verses (extracted) | Verses (traditional) | File | Status |
 |---|---|---|---|---|---|---|---|---|
-| 012 | 001 | भूमिसूक्तम् | -- | -- | 63 | unknown | text/p012.md | extracted |
+| 012 | 001 | भूमिसूक्तम् | -- | १-६३ अथर्वा। भूमिः।त्रिष्टुप्, २ भुरिक्, ४-६, १०,३८ त्र्यवसाना षट्-पदा जगती, ७ प्रस्तारपङ्क्तिः, ८, ११ त्र्यवo… | 63 | unknown | text/p012.md | extracted |
 | 012 | 002 | -- | -- | १-५५ भृगुः। अग्निः, मन्त्रोक्ताः, २१-३३ मृत्युः। त्रिष्टुप्, २, ५, १२-२०, ३४-३६, ३८-४१- ४३, ५१, ५४ अनुष्टुप् (… | 55 | unknown | text/p012.md | extracted |
 | 012 | 003 | स्वर्गैदनः | -- | १-६० यमः। स्वर्गः, ओदनः, अग्निः। त्रिष्टुप्, १, ४२-४३, ४७ भुरिक्, ८, १२, २१-२२, २४ जगती, १३, १७ स्वराडार्षी पङ… | 60 | unknown | text/p012.md | extracted |
 | 012 | 004 | वशा गौः | -- | १-५३ कश्यपः। वशा। अनुष्टुप्, ७ भुरिक्, २० विराट्, ३१ उष्णिग्बृहतीगर्भा, ४२ बृहतीगर्भा। | 53 | unknown | text/p012.md | extracted |

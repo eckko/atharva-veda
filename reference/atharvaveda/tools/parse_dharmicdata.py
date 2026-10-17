@@ -25,7 +25,7 @@ from pathlib import Path
 
 DIGITS = str.maketrans("०१२३४५६७८९", "0123456789")
 # a verse-end marker at the end of a line: danda(s), number, danda(s)
-END_NUM = re.compile(r"\s*[॥।]{1,2}\s*([०-९]+)\s*[॥।]{0,2}\s*$")
+END_NUM = re.compile(r"\s*[॥।]{1,2}\s*([०-९]+)\s*[॥।]{0,2}([0-9]?)\s*$")
 STD_END = re.compile(r"॥\s*[०-९]+\s*॥\s*$")
 END_PLAIN = re.compile(r"॥\s*$")       # closing ॥ without a number
 ACCENTS = "॒॑॓॔"  # udatta, anudatta, and the two others
@@ -45,12 +45,11 @@ def split_sukta(text):
     body     mantra lines
     interior non-mantra lines found between mantra lines: [(index in body
              where it occurred, text)]
-    latin    lines with Latin letters (left out)
+    latin    mantra lines containing Latin letters (none expected)
     """
     lines = [unicodedata.normalize("NFC", x).strip() for x in text.split("\n")]
     lines = [x for x in lines if x]
-    latin = [x for x in lines if LATIN.search(x)]
-    lines = [x for x in lines if not LATIN.search(x)]
+    latin = []
     start = 0
     while start < len(lines) and not is_verse_line(lines[start]):
         start += 1
@@ -59,6 +58,8 @@ def split_sukta(text):
     for line in rest:
         if is_verse_line(line):
             body.append(line)
+            if LATIN.search(line):
+                latin.append(line)
         else:
             interior.append((len(body), line))
     return header, body, interior, latin
@@ -128,6 +129,12 @@ def main(raw_dir, out_dir):
                     rows.append((f"{pid}.{v}{suffix}", clean(line)))
                 if STD_END.search(vlines[-1]) is None and label is not None:
                     nonstd.append(f"{v}")
+                found = END_NUM.search(vlines[-1])
+                if found and found.group(2):
+                    issues.append((f"{pid}.{v}", "possible-typo",
+                                   f"stray character '{found.group(2)}' after "
+                                   "the verse-end marker in source; removed "
+                                   "from the text along with the marker"))
             if nonstd:
                 issues.append((pid, "possible-typo",
                                f"{len(nonstd)} verse-end marker(s) not in the "

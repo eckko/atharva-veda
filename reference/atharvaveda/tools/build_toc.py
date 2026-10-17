@@ -71,8 +71,8 @@ def main(parse_dir, book_dir):
     heads = ["# Sūkta headers as in source S1",
              "",
              "One block per sūkta: ID, title line, then the ṛṣi / devatā / "
-             "chandas lines exactly as S1 has them (NFC-normalised, Latin "
-             "footer lines removed). Interior header lines (paryāya marks and "
+             "chandas lines exactly as S1 has them (NFC-normalised). "
+             "Interior header lines (paryāya marks and "
              "metre notes inside a sūkta) are listed in `ISSUES.md`.",
              ""]
     by_kanda = {}
