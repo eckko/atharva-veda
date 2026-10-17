@@ -1,0 +1,320 @@
+[
+ {
+  "n": "5",
+  "field": "english",
+  "old": "I call upon Indra by his praiseworthy name: the all-overcoming, the overcoming, the victorious, the very mighty one; the overcoming one, winner of strength, winner of light, winner of cattle, winner of treasures. May I be dear to my equals.",
+  "new": "I call upon Indra by his praiseworthy name: the all-overcoming, the overcoming, the victorious, the very mighty one; the overcoming one, winner of strength, winner of light, winner of cattle, winner of treasures. May I be dear to equals.",
+  "why": "reviewer (minor): 'my' is not in the text (samānānām 'of equals')."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Rise up, rise up, O Sūrya; rise up to me with splendour. Let the one who hates me be subdued to me, and may I not be subdued to the one who hates. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "new": "Rise up, rise up, O Sūrya; rise up to me with splendour. And let the one who hates be subdued to me, and may I not be subdued to the one who hates. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "why": "reviewer (minor): 'ca' (and) is dropped and 'me' is added after 'hates' (dviṣan has no object; the second clause correctly says 'the one who hates' without 'me')."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे सूर्य, उदित हो, उदित हो; तेज के साथ मेरी ओर उदित हो। जो मुझसे द्वेष करता है वह मेरे वश में हो, और मैं द्वेष करने वाले के वश में न होऊँ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे सूर्य, उदित हो, उदित हो; तेज के साथ मेरी ओर उदित हो। और जो द्वेष करता है वह मेरे वश में हो, और मैं द्वेष करने वाले के वश में न होऊँ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): Same: 'ca' dropped, 'मुझसे' added."
+ },
+ {
+  "n": "6",
+  "field": "text_flags.0.why",
+  "old": "Devanagari and later units read ṇ (वी॒र्याऽणि); printed n looks like a typo",
+  "new": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi",
+  "why": "reviewer (minor): The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे सूर्य, उदित हो, उदित हो; तेज के साथ मेरी ओर उदित हो। और जो द्वेष करता है वह मेरे वश में हो, और मैं द्वेष करने वाले के वश में न होऊँ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे सूर्य, उदित हो, उदित हो; तेज के साथ मेरी ओर उदित हो। और जो द्वेष करता है वह मेरे वश में हो, और मैं द्वेष करने वाले के वश में न होऊँ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "7",
+  "field": "text_flags.0.why",
+  "old": "Devanagari and later units read ṇ (वी॒र्याऽणि); printed n looks like a typo",
+  "new": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi",
+  "why": "reviewer (minor): The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे सूर्य, उदित हो, उदित हो; तेज के साथ मेरी ओर उदित हो। जिन्हें मैं देखता हूँ और जिन्हें नहीं देखता, उनमें मेरे लिए सद्भाव उत्पन्न करो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे सूर्य, उदित हो, उदित हो; तेज के साथ मेरी ओर उदित हो। जिन्हें मैं देखता हूँ और जिन्हें नहीं देखता, उनमें मेरे लिए सद्भाव उत्पन्न करो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "8",
+  "field": "text_flags.0.why",
+  "old": "Devanagari and later units read ṇ (वी॒र्याऽणि); printed n looks like a typo",
+  "new": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi",
+  "why": "reviewer (minor): The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). The addressee is not named. 'hitvāśastiṃ' read as hitvā + aśastim (aśasti 'imprecation, ill speech'); an alternative is āśasti. 'apsva1ntarye': the digit 1 is a svarita notation, not a word.",
+  "new": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). The addressee is not named. 'hitvāśastiṃ' read as hitvā + aśastim (aśasti 'imprecation, ill speech'); an alternative is āśasti. 'apsva1ntarye': the digit 1 is a svarita notation, not a word. 'sa' (that one) is not translated separately; it only points back to the addressee ('you, such as you are').",
+  "why": "reviewer (minor): The word is glossed but not translated in Hindi or English; the omission is silent."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जो पाश धारण करने वाले यहाँ जलों के भीतर, प्रवाह में पास खड़े रहते हैं, वे तुम्हें हानि न पहुँचाएँ। अभिशाप को छोड़कर तुम इस स्वर्ग पर चढ़े हो; तुम हम पर कृपालु हो; हम तुम्हारी सुमति में रहें। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "जो पाश धारण करने वाले यहाँ जलों के भीतर, प्रवाह में पास खड़े रहते हैं, वे तुम्हें हानि न पहुँचाएँ। अभिशाप को छोड़कर तुम इस स्वर्ग पर चढ़े हो; तुम हम पर कृपालु हो; हम तुम्हारी सुमति में रहें। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "9",
+  "field": "text_flags.0.why",
+  "old": "Devanagari and later units read ṇ (वी॒र्याऽणि); printed n looks like a typo",
+  "new": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi",
+  "why": "reviewer (minor): The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम हमें महान् सौभाग्य के लिए अहिंसित किरणों से चारों ओर से बचाओ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे इन्द्र, तुम हमें महान् सौभाग्य के लिए अहिंसित किरणों से चारों ओर से बचाओ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम कल्याणकारी सहायताओं से हमारे लिए अत्यन्त सुखकारी बनो: आकाश के त्रिदिव पर चढ़ते हुए, स्तुति पाते हुए, सोम पीने के लिए, प्रिय धाम वाले, कल्याण के लिए। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे इन्द्र, तुम कल्याणकारी सहायताओं से हमारे लिए अत्यन्त सुखकारी बनो: आकाश के त्रिदिव पर चढ़ते हुए, स्तुति पाते हुए, सोम पीने के लिए, प्रिय धाम वाले, कल्याण के लिए। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). sarva-vit may also mean 'all-possessing'; erayasva 'stir up, send forth' (object: stoma) is somewhat uncertain in sense.",
+  "new": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). sarva-vit may also mean 'all-possessing'; erayasva 'stir up, send forth' (object: stoma) is somewhat uncertain in sense. 'sa' (that one) is not translated separately; it only points back to the addressee ('you, such as you are').",
+  "why": "reviewer (minor): The word is glossed but not translated in Hindi or English; the omission is silent."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम सबको जीतने वाले, सब कुछ जानने वाले, बहुतों द्वारा पुकारे गए हो: तुम, हे इन्द्र। हे इन्द्र, तुम इस सरलता से पुकारी जाने वाली स्तुति को प्रेरित करो। तुम हम पर कृपालु हो; हम तुम्हारी सुमति में रहें। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे इन्द्र, तुम सबको जीतने वाले, सब कुछ जानने वाले, बहुतों द्वारा पुकारे गए हो: तुम, हे इन्द्र। हे इन्द्र, तुम इस सरलता से पुकारी जाने वाली स्तुति को प्रेरित करो। तुम हम पर कृपालु हो; हम तुम्हारी सुमति में रहें। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). 'saṃcharma' = saṃ + śarma (ś written ch after ṃ); saṃ is taken with yaccha ('grant fully'), though 'saṃ' as 'welfare' is also possible. brahman = sacred utterance (or priestly power).",
+  "new": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). 'saṃcharma' = saṃ + śarma (ś written ch after ṃ); saṃ is taken with yaccha ('grant fully'), though 'saṃ' as 'welfare' is also possible. brahman = sacred utterance (or priestly power). 'sa' (that one) is not translated separately; it only points back to the addressee ('you, such as you are').",
+  "why": "reviewer (minor): The word is glossed but not translated in Hindi or English; the omission is silent."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "saṃ",
+  "old": "wholly",
+  "new": "preverb with yaccha (saṃ-√yam, 'hold out, grant'); not translated separately",
+  "why": "reviewer (minor): 'wholly' is not supported; saṃ here is a preverb with yaccha (saṃ-√yam) or the noun śaṃ-type 'welfare', and the translation omits it."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "तुम द्युलोक और पृथ्वी पर अहिंसित हो; अन्तरिक्ष में वे तुम्हारी महिमा को नहीं पा सके। अहिंसित ब्रह्म से बढ़ते हुए तुम, हे इन्द्र, स्वर्ग में हमें आश्रय दो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "तुम द्युलोक और पृथ्वी पर अहिंसित हो; अन्तरिक्ष में वे तुम्हारी महिमा को नहीं पा सके। अहिंसित ब्रह्म से बढ़ते हुए तुम, हे इन्द्र, स्वर्ग में हमें आश्रय दो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम्हारा जो शरीर जलों में है, जो पृथ्वी पर है, जो अग्नि के भीतर है, और हे इन्द्र, जो पवित्र करने वाले, प्रकाश पाने वाले में है: जिस शरीर से तुमने अन्तरिक्ष को व्याप्त किया, हे इन्द्र, उसी शरीर से हमें आश्रय दो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे इन्द्र, तुम्हारा जो शरीर जलों में है, जो पृथ्वी पर है, जो अग्नि के भीतर है, और हे इन्द्र, जो पवित्र करने वाले, प्रकाश पाने वाले में है: जिस शरीर से तुमने अन्तरिक्ष को व्याप्त किया, हे इन्द्र, उस शरीर से हमें आश्रय दो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): 'उसी' adds emphasis ('that very'); tayā is just 'by that'."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम्हारा जो शरीर जलों में है, जो पृथ्वी पर है, जो अग्नि के भीतर है, और हे इन्द्र, जो पवित्र करने वाले, प्रकाश पाने वाले में है: जिस शरीर से तुमने अन्तरिक्ष को व्याप्त किया, हे इन्द्र, उस शरीर से हमें आश्रय दो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे इन्द्र, तुम्हारा जो शरीर जलों में है, जो पृथ्वी पर है, जो अग्नि के भीतर है, और हे इन्द्र, जो पवित्र करने वाले, प्रकाश पाने वाले में है: जिस शरीर से तुमने अन्तरिक्ष को व्याप्त किया, हे इन्द्र, उस शरीर से हमें आश्रय दो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे इन्द्र, ब्रह्म से तुम्हें बढ़ाते हुए ऋषि प्रार्थना करते हुए सत्र में बैठे। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "हे इन्द्र, ब्रह्म से तुम्हें बढ़ाते हुए ऋषि प्रार्थना करते हुए सत्र में बैठे। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). 'tṛtaṃ' is unclear (possibly 'the third', a name, or a corruption); left as printed and untranslated. Whether vidatham svarvidam qualify utsam or stand as separate objects is uncertain. Unit has two printed lines.",
+  "new": "REFRAIN: the lines beginning 'taved viṣṇo bahudhā vīryāṇi' and 'tvaṃ naḥ pṛṇīhi' recur in many units and are translated each time as printed; sudhā (sudhāyām) is rendered 'good abode' (alternatives: good support/nourishment). 'tṛtaṃ' is unclear (possibly 'the third', a name, or a corruption); left as printed and untranslated. Whether vidatham svarvidam qualify utsam or stand as separate objects is uncertain. Unit has two printed lines. 'tvaṃ tṛtaṃ' has no verb; 'you go around' in the first clause is carried over from pary eṣi and is an assumption.",
+  "why": "reviewer (minor): The first clause 'tvaṃ tṛtaṃ' has no verb of its own; the translation silently extends 'pary eṣi' to it ('You go around the tṛta'). That is an assumption, not text."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "तुम तृत के चारों ओर जाते हो; तुम हजार धाराओं वाले स्रोत के, विदथ के, प्रकाश पाने वाले के चारों ओर जाते हो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "तुम तृत के चारों ओर जाते हो; तुम हजार धाराओं वाले स्रोत के, विदथ के, प्रकाश पाने वाले के चारों ओर जाते हो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "तुम चारों दिशाओं की रक्षा करते हो; अपनी ज्वाला से दोनों आकाशों में चमकते हो। तुम इन सब भुवनों पर स्थित हो; जानते हुए तुम ऋत के मार्ग का अनुसरण करते हो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "तुम चारों दिशाओं की रक्षा करते हो; अपनी ज्वाला से दोनों आकाशों में चमकते हो। तुम इन सब भुवनों पर स्थित हो; जानते हुए तुम ऋत के मार्ग का अनुसरण करते हो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "With five, turned away, you burn; with one, turned hither, you go against imprecation on a fair day, repelling it. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "new": "With five, turned away, you burn; with one, turned hither, you go to imprecation on a fair day, repelling. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "why": "reviewer (minor): 'go against' and 'repelling it' are interpretation; aśastim eṣi is literally 'you go to/approach imprecation', and bādhamānaḥ has no printed object."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "पाँच के साथ, परे मुड़े हुए, तुम तपते हो; एक के साथ, इधर मुड़े हुए, तुम शुभ दिन में अभिशाप को दूर हटाते हुए उसकी ओर जाते हो। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "पाँच के साथ, परे मुड़े हुए, तुम तपते हो; एक के साथ, इधर मुड़े हुए, तुम शुभ दिन में अभिशाप के पास जाते हो, दूर हटाते हुए। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): Same: 'उसकी ओर' and 'को दूर हटाते' make the reading firmer than the text."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "पाँच के साथ, परे मुड़े हुए, तुम तपते हो; एक के साथ, इधर मुड़े हुए, तुम शुभ दिन में अभिशाप के पास जाते हो, दूर हटाते हुए। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "पाँच के साथ, परे मुड़े हुए, तुम तपते हो; एक के साथ, इधर मुड़े हुए, तुम शुभ दिन में अभिशाप के पास जाते हो, दूर हटाते हुए। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "तुम इन्द्र हो, तुम महेन्द्र हो, तुम लोक हो, तुम प्रजापति हो। तुम्हारे लिए यज्ञ फैलाया जाता है; तुम्हें होम करने वाले आहुति देते हैं। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "तुम इन्द्र हो, तुम महेन्द्र हो, तुम लोक हो, तुम प्रजापति हो। तुम्हारे लिए यज्ञ फैलाया जाता है; तुम्हें होम करने वाले आहुति देते हैं। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "In what is not, what is has its footing; in what is, what has been has its footing. What has been is placed in what will be; what will be has its footing in what has been. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "new": "In what is not, what is has its footing; in what is, what has been has its footing. What has been is indeed placed in what will be; what will be has its footing in what has been. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "why": "reviewer (minor): 'ha' (indeed) is glossed but dropped from both translations."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "जो नहीं है उसमें जो है वह प्रतिष्ठित है; जो है उसमें जो हो चुका है वह प्रतिष्ठित है। जो हो चुका है वह जो होगा उसमें रखा है; जो होगा वह जो हो चुका है उसमें प्रतिष्ठित है। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "जो नहीं है उसमें जो है वह प्रतिष्ठित है; जो है उसमें जो हो चुका है वह प्रतिष्ठित है। जो हो चुका है वह निश्चय ही जो होगा उसमें रखा है; जो होगा वह जो हो चुका है उसमें प्रतिष्ठित है। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): 'ha' dropped."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "जो नहीं है उसमें जो है वह प्रतिष्ठित है; जो है उसमें जो हो चुका है वह प्रतिष्ठित है। जो हो चुका है वह निश्चय ही जो होगा उसमें रखा है; जो होगा वह जो हो चुका है उसमें प्रतिष्ठित है। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "जो नहीं है उसमें जो है वह प्रतिष्ठित है; जो है उसमें जो हो चुका है वह प्रतिष्ठित है। जो हो चुका है वह निश्चय ही जो होगा उसमें रखा है; जो होगा वह जो हो चुका है उसमें प्रतिष्ठित है। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "bhrājatā: instrumental 'by radiance' (stem bhrājat-/bhrājatā); sense clear, form uncertain.",
+  "new": "bhrājatā: instrumental 'by radiance' (stem bhrājat-/bhrājatā); sense clear, form uncertain. 'sa' in 'sa yathā' is a pleonastic/correlative particle and is not translated separately.",
+  "why": "reviewer (minor): 'sa' is glossed 'he, that one' but is not translated; here it is a correlative/pleonastic particle ('so, just as')."
+ },
+ {
+  "n": "20",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Notes admit the form of bhrājatā is uncertain, yet confidence is 'high'."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "brāhmaṇa-varcasa: 'priestly/Brahmin splendour' (brāhmaṇa as 'of the priestly class or of brahman').",
+  "new": "brāhmaṇa-varcasa: 'priestly/Brahmin splendour' (brāhmaṇa as 'of the priestly class or of brahman'). 'sa' in 'sa yathā' is a pleonastic/correlative particle and is not translated separately.",
+  "why": "reviewer (minor): 'sa' is glossed 'he, that one' but is not translated; here it is a correlative/pleonastic particle ('so, just as')."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "ruciṣīya",
+  "old": "1 sg. opt. mid. √ruc",
+  "new": "1 sg. prec. mid. √ruc",
+  "why": "reviewer (minor): Labelled 'opt. mid.'; the -ṣīya form is the middle precative (benedictive), as bhūyāsam and bhrājyāsam are labelled 'prec.'."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "उदय होते हुए को नमस्कार, ऊपर उठते हुए को नमस्कार, उदित हुए को नमस्कार। विशेष शासक को नमस्कार, स्वयं शासन करने वाले को नमस्कार, सम्राट् को नमस्कार।",
+  "new": "उदय होते हुए को नमस्कार, ऊपर उठते हुए को नमस्कार, उदित हुए को नमस्कार। दूर तक शासन करने वाले को नमस्कार, स्वयं शासन करने वाले को नमस्कार, सम्राट् को नमस्कार।",
+  "why": "reviewer (error): virāj is rendered 'wide ruler' in English but Hindi 'विशेष शासक' means 'special ruler'; vi- here is 'widely', not 'special'."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "अस्त की ओर जाते हुए को नमस्कार, अस्त होने वाले को नमस्कार, अस्त हुए को नमस्कार। विशेष शासक को नमस्कार, स्वयं शासन करने वाले को नमस्कार, सम्राट् को नमस्कार।",
+  "new": "अस्त की ओर जाते हुए को नमस्कार, अस्त होने वाले को नमस्कार, अस्त हुए को नमस्कार। दूर तक शासन करने वाले को नमस्कार, स्वयं शासन करने वाले को नमस्कार, सम्राट् को नमस्कार।",
+  "why": "reviewer (error): virāj is rendered 'wide ruler' in English but Hindi 'विशेष शासक' means 'special ruler'; vi- here is 'widely', not 'special'."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "This Āditya has risen together with all his heat, subduing my rivals for me; and may I not be subdued to the one who hates me. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "new": "This Āditya has risen together with all his heat, subduing my rivals for me; and may I not be subdued to the one who hates. Yours indeed, O Viṣṇu, are the manifold heroic deeds. You, fill us with cattle of every form; set me in the good abode, in the highest sky.",
+  "why": "reviewer (minor): 'me' added; dviṣate is just 'to the hater' (Hindi correctly omits it)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "यह आदित्य अपने समस्त तप के साथ उदित हुआ है, मेरे लिए शत्रुओं को वश में करता हुआ; और मैं द्वेष करने वाले के वश में न होऊँ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम आधार में, परम आकाश में स्थापित करो।",
+  "new": "यह आदित्य अपने समस्त तप के साथ उदित हुआ है, मेरे लिए शत्रुओं को वश में करता हुआ; और मैं द्वेष करने वाले के वश में न होऊँ। हे विष्णु, तुम्हारे ही अनेक प्रकार के वीर-कर्म हैं। तुम हमें सब रूपों वाले पशुओं से पूर्ण करो; मुझे उत्तम निवास में, परम आकाश में स्थापित करो।",
+  "why": "reviewer (minor): English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice)."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Wrapped round by Prajāpati, with brahman as armour, with the light and splendour of Kaśyapa, may I move about reaching old age, of accomplished valour, far-reaching, a thousand years in life, a doer of good.",
+  "new": "Wrapped round by Prajāpati, with brahman as armour, with the light and splendour of Kaśyapa, may I move about reaching old age, of accomplished valour, far-reaching, thousand-lived, a doer of good.",
+  "why": "reviewer (minor): 'years' is added; sahasrāyuḥ is 'thousand-lived' / 'having a thousandfold life'."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "प्रजापति से आवृत, ब्रह्म को कवच बनाकर, कश्यप के ज्योति और तेज से, मैं वृद्धावस्था तक पहुँचने वाला, पूर्ण पराक्रम वाला, विस्तृत, हजार वर्ष की आयु वाला और सत्कर्म करने वाला होकर विचरूँ।",
+  "new": "प्रजापति से आवृत, ब्रह्म को कवच बनाकर, कश्यप के ज्योति और तेज से, मैं वृद्धावस्था तक पहुँचने वाला, पूर्ण पराक्रम वाला, विस्तृत, हजार आयु वाला और सत्कर्म करने वाला होकर विचरूँ।",
+  "why": "reviewer (minor): 'वर्ष' added."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Surrounded with brahman as armour, with the light and splendour of Kaśyapa, I: let not the arrows reach me, the divine ones, and the human ones that are let loose against me for slaying.",
+  "new": "I am surrounded with brahman as armour, with the light and splendour of Kaśyapa: let not the arrows reach me, the divine ones, and the human ones that are let loose against me for slaying.",
+  "why": "reviewer (minor): The stray 'I:' mirrors aham mechanically and reads as garbled English."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Guarded by order and by all the seasons, guarded by what has been and by what will be, I. Let not evil reach me, nor death; I conceal myself within, by the flood of speech.",
+  "new": "Guarded by order and by all the seasons, guarded by what has been and by what will be am I. Let not evil reach me, nor death; I conceal myself within, by the flood of speech.",
+  "why": "reviewer (minor): Stray 'I.' fragment, same pattern as unit 28."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "ऋत से और सब ऋतुओं से रक्षित, भूत और भविष्य से रक्षित मैं हूँ। मुझ तक पाप न पहुँचे, और मृत्यु भी नहीं; मैं वाणी के जल के भीतर स्वयं को छिपाता हूँ।",
+  "new": "ऋत से और सब ऋतुओं से रक्षित, भूत और भविष्य से रक्षित मैं हूँ। मुझ तक पाप न पहुँचे, और मृत्यु भी नहीं; मैं भीतर वाणी के प्रवाह से स्वयं को छिपाता हूँ।",
+  "why": "reviewer (minor): English says 'flood' (salila), Hindi says 'जल' and moves 'within' onto the phrase; unit 8 uses 'प्रवाह' for salila. Keep it consistent with the English word order."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "nudatām",
+  "old": "3 sg. imv. √nud",
+  "new": "3 sg. imv. mid. √nud",
+  "why": "reviewer (minor): Label '3 sg. imv.' omits voice; nudatām is the middle 3 sg. imperative (active would be nudatu)."
+ }
+]
