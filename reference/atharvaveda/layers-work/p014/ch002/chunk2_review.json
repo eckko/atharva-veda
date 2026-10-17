@@ -1,0 +1,847 @@
+{
+ "units": [
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "your hand / your wife",
+     "problem": "'your' is added; the text has only hastam and jāyām (no possessive).",
+     "fix": "Mount; place the hand upon the thigh; embrace the wife with a kindly mind.",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "place your hand",
+      "new": "place the hand"
+     }
+    },
+    {
+     "field": "english",
+     "where": "your wife",
+     "problem": "same: possessive added.",
+     "fix": "embrace the wife",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "embrace your wife",
+      "new": "embrace the wife"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "this world of your husband",
+     "problem": "'your' added; patilokam is 'husband's world'.",
+     "fix": "enter this world of the husband",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "this world of your husband",
+      "new": "this world of the husband"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anaktu / 'unite'",
+     "problem": "gloss says 'anoint' but Hindi/English say 'unite' (भली-भाँति जोड़े); sam-√añj also means anoint/adorn. Gloss and translation disagree. Note records it, but pick one rendering and mention the other.",
+     "fix": "Keep 'unite' only if the note states that gloss 'anoint (together)' is the literal sense; or render 'anoint you together' in both languages.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो इसे जानकार ब्रह्मा को देता है",
+     "problem": "'जानकार' attaches the participle cikituṣe to the giver ('having known it, gives'). cikituṣe is dative and agrees with brahmaṇe: 'to the knowing brahman'. Sense changed.",
+     "fix": "जो जानने वाले ब्रह्मा को देता है",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो इसे जानकार ब्रह्मा को देता है",
+      "new": "जो जानने वाले ब्रह्मा को देता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राक्षसों",
+     "problem": "GLOSSARY: keep the word rakṣas (not rākṣasa).",
+     "fix": "रक्षसों और शय्याओं को नष्ट करता है",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राक्षसों और शय्याओं",
+      "new": "रक्षसों और शय्याओं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "brahman / brahmabhāga",
+     "problem": "'brahman' (priest) is used without the alternative GLOSSARY asks for in notes (brahman n. 'sacred utterance'; Brahmā).",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "append_note",
+      "text": "'brahman' in brahmabhāgam and brahmaṇe is taken as the priest (Brahmā/brahman-priest); the neuter 'sacred utterance' is an alternative."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Bound together",
+     "problem": "'together' is added; badhyamānau is only 'being bound'.",
+     "fix": "Bound from the pleasant womb (seat)",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "Bound together from the pleasant womb",
+      "new": "Bound from the pleasant womb"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उत्तम मार्ग वाले",
+     "problem": "Hindi says 'having a good path' but gloss/English say 'faring well' for sugū. Inconsistent renderings.",
+     "fix": "सुगमता से चलने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तम मार्ग वाले",
+      "new": "सुगमता से चलने वाले"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "syonāt / yoneḥ",
+     "problem": "Gender labels disagree: adjective syonāt is labelled n. but agrees with yoneḥ labelled f. An adjective cannot agree with a noun of another gender; yoni is frequently masculine in Vedic. Label both m. abl. sg. (or note the discrepancy).",
+     "fix": "syonāt m. abl. sg.; yoneḥ m. abl. sg.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "agām",
+     "problem": "agām is the root aorist 1 sg. of √gam, not √gā.",
+     "fix": "1 sg. root aor. √gam",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "word",
+      "match_w": "agām",
+      "field": "gram",
+      "value": "1 sg. root aor. √gam"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "all that exists",
+     "problem": "'all' is added; bhūtasya is 'of what exists/of beings'.",
+     "fix": "those who are attentive to what exists",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "english",
+      "old": "attentive to all that exists",
+      "new": "attentive to what exists"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्राणिमात्र",
+     "problem": "'प्राणिमात्र' (every living being) adds 'all' and narrows bhūta to living things.",
+     "fix": "जो विद्यमान के विषय में सावधान हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्राणिमात्र के विषय में सावधान",
+      "new": "विद्यमान के विषय में सावधान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अन्धकार दूर हट जाए",
+     "problem": "ucchatu (ud-√vas, 'dawn/shine forth') is dropped in Hindi; English keeps 'shine away'.",
+     "fix": "हमसे अन्धकार चमककर दूर हो जाए",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ṷ mark",
+     "problem": "The note calls ṷ a 'transliteration mark for u'; in this text ṷ is a printed accent mark.",
+     "fix": "The printed token carries the accent mark ṷ on u.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "notes",
+      "old": "keeps the transliteration mark ṷ for u",
+      "new": "carries the printed accent mark ṷ on u"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह मेरा वस्त्र से डर गया है",
+     "problem": "'वह मेरा वस्त्र से' reads as 'that, my garment' (garment appears as the owner). Actual sense: sā me (that body of mine) bibhāya vāsasaḥ (feared the garment). Sense misleading.",
+     "fix": "मेरा जो सबसे प्रिय शरीर है, वही मेरा शरीर वस्त्र से डर गया है।",
+     "severity": "error",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह मेरा वस्त्र से डर गया है",
+      "new": "वही मेरा शरीर वस्त्र से डर गया है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "naḥ",
+     "problem": "'for us; dat. pl.' contradicts the English 'touch us'; upa-√spṛś takes the accusative, so naḥ is acc. pl.",
+     "fix": "us",
+     "severity": "error",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "naḥ",
+      "field": "gloss",
+      "value": "us"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "naḥ",
+     "problem": "See above: acc. pl., not dat.",
+     "fix": "acc. pl.",
+     "severity": "error",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "naḥ",
+      "field": "gram",
+      "value": "acc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we unite this woman",
+     "problem": "'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally.",
+     "fix": "we unite this one (f.).",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "we unite this woman.",
+      "new": "we unite this one (f.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we unite this woman",
+     "problem": "'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally.",
+     "fix": "we unite this one (f.).",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "we unite this woman.",
+      "new": "we unite this one (f.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we unite this woman",
+     "problem": "'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally.",
+     "fix": "we unite this one (f.).",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "english",
+      "old": "we unite this woman.",
+      "new": "we unite this one (f.)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भग",
+     "problem": "Bare 'भग' is ambiguous in Hindi and does not match the English 'good fortune'.",
+     "fix": "जो सौभाग्य गौओं में प्रविष्ट है",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो भग गौओं में",
+      "new": "जो सौभाग्य गौओं में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bhaja 'share'",
+     "problem": "'bhaja ... would be share' is unsupported (bhāga is 'share'; bhaja occurs only as a final member, 'partaking'). The flag bhajaḥ -> bhago itself is sound.",
+     "fix": "Delete the 'share' remark or say 'bhaja is not established as a free word here'.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we unite this woman",
+     "problem": "'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally.",
+     "fix": "we unite this one (f.).",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "english",
+      "old": "we unite this woman.",
+      "new": "we unite this one (f.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we unite this woman",
+     "problem": "'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally.",
+     "fix": "we unite this one (f.).",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "english",
+      "old": "we unite this woman.",
+      "new": "we unite this one (f.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we unite this woman",
+     "problem": "'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally.",
+     "fix": "we unite this one (f.).",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "replace",
+      "field": "english",
+      "old": "we unite this woman.",
+      "new": "we unite this one (f.)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बहनें",
+     "problem": "English says 'kinswomen' (note: sister or female relative); Hindi narrows to 'sisters'.",
+     "fix": "यदि सम्बन्धी स्त्रियाँ और यदि युवतियाँ",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यदि बहनें और यदि युवतियाँ",
+      "new": "यदि सम्बन्धी स्त्रियाँ और यदि युवतियाँ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पाप करने वालों",
+     "problem": "agha is 'अशुभ' in the same sentence but 'पाप' in aghakṛdbhiḥ: same word, two renderings.",
+     "fix": "अशुभ करने वालों",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाप करने वालों",
+      "new": "अशुभ करने वालों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "enau",
+     "problem": "gram 'm. du.' gives no case, yet the draft treats it as subject; the enclitic enau is an accusative form. Say so.",
+     "fix": "m. acc. du. (used as subject; irregular)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vahatau / vahatu",
+     "problem": "vahatu is 'conveying of the bride' in 66 but 'bridal procession' in 73. Use one rendering.",
+     "fix": "at the bridal procession",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "word",
+      "match_w": "vahatau",
+      "field": "gloss",
+      "value": "at the bridal procession"
+     }
+    },
+    {
+     "field": "english",
+     "where": "at the conveying of the bride",
+     "problem": "Aligned with unit 73.",
+     "fix": "at the wedding and at the bridal procession",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "english",
+      "old": "at the conveying of the bride",
+      "new": "at the bridal procession"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वधू को ले जाते समय",
+     "problem": "Same rendering fix.",
+     "fix": "विवाह में और वधू-यात्रा में",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वधू को ले जाते समय",
+      "new": "वधू-यात्रा में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vahatu note",
+     "problem": "Note states the old rendering.",
+     "fix": "'vahatu' is rendered 'bridal procession'.",
+     "severity": "minor",
+     "patch": {
+      "n": "66",
+      "op": "replace",
+      "field": "notes",
+      "old": "'vahatu' is rendered 'conveying of the bride'",
+      "new": "'vahatu' is rendered 'bridal procession' (as in unit 73)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "malam",
+     "problem": "malam labelled m. here, n. in 68, m. in 69 (with n. etat). Make consistent; n. is at least required in 69.",
+     "fix": "malam n. acc. sg.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "likhāt",
+     "problem": "likhāt is a subjunctive of the present stem likhati, not an aorist subjunctive.",
+     "fix": "3 sg. pres. subj. √likh",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "From limb to limb of her",
+     "problem": "aṅgād-aṅgāt is distributive ('from each limb'); 'limb to limb' suggests passing between limbs. Hindi अंग-अंग से is right.",
+     "fix": "From each limb of her",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "english",
+      "old": "From limb to limb of her",
+      "new": "From each limb of her"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "second aṅgāt",
+     "problem": "Second aṅgāt is glossed 'to limb'; it is the same ablative repeated, 'from (each) limb'.",
+     "fix": "from limb (repeated: each limb)",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "malam",
+     "problem": "malam is labelled m. nom. sg. but agrees with etat (n.).",
+     "fix": "n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "word",
+      "match_w": "malam",
+      "field": "gram",
+      "value": "n. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पय",
+     "problem": "English 'milk'; Hindi 'पय' is archaic and differs from 'दूध' used for payas in unit 57.",
+     "fix": "पृथ्वी के दूध से / ओषधियों के दूध से",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पृथ्वी के पय से",
+      "new": "पृथ्वी के दूध से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ओषधियों के पय",
+     "problem": "same",
+     "fix": "ओषधियों के दूध से",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ओषधियों के पय से",
+      "new": "ओषधियों के दूध से"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sā",
+     "problem": "English drops sā (Hindi keeps वह).",
+     "fix": "that one (f.), bound together, win this vigor",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वाज",
+     "problem": "vāja is 'vigor' in English and 'बल' in unit 70; Hindi here leaves 'वाज'.",
+     "fix": "महान् बल की प्राप्ति के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "72",
+      "op": "replace",
+      "field": "hindi",
+      "old": "महान् वाज की प्राप्ति के लिए",
+      "new": "महान् बल की प्राप्ति के लिए"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "nu agravaḥ",
+     "problem": "Suggested nu agravaḥ would give nvagravaḥ by sandhi, not nāvagravaḥ; so the emendation changes length too. Also 'nu' (indeed) is dropped in both translations. Keep flag, state the exact sandhi form, and note the drop.",
+     "fix": "suggest 'nv agravaḥ (nu agravaḥ)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "to see the bride",
+     "problem": "vadhūdarśāḥ is a noun ('bride-seers'); draft turns it into a purpose clause.",
+     "fix": "The fathers, the bride-seers, who have come to this bridal procession",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "english",
+      "old": "The fathers who have come to this bridal procession to see the bride",
+      "new": "The fathers, the bride-seers, who have come to this bridal procession"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस वहतु में",
+     "problem": "'वहतु' left untranslated while English says bridal procession; also the purpose clause.",
+     "fix": "जो पितर, वधू को देखने वाले, इस वधू-यात्रा में आए हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो पितर वधू को देखने के लिए इस वहतु में आए हैं",
+      "new": "जो पितर, वधू को देखने वाले, इस वधू-यात्रा में आए हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इस वधू को",
+     "problem": "'वधू' is added; asyai is only 'to this one' (f.).",
+     "fix": "इसके लिए सन्तान और धन यहाँ देकर",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस वधू को सन्तान और धन",
+      "new": "इसके लिए सन्तान और धन"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अगत के मार्ग",
+     "problem": "Untranslated 'अगत' where English says 'not-gone'.",
+     "fix": "न गए हुए के मार्ग पर",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अगत के मार्ग पर",
+      "new": "न गए हुए के मार्ग पर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पार कर गई है",
+     "problem": "ati-√ji 'overcome' is rendered 'crossed' (पार कर); English says 'has overcome'.",
+     "fix": "विराट् जीत चुकी है",
+     "severity": "minor",
+     "patch": {
+      "n": "74",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विराट् पार कर गई है",
+      "new": "विराट् जीत चुकी है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "budhyamānā",
+     "problem": "Labelled 'pass. part.' / 'being awakened', but √budh (4th class budhyate) is intransitive middle: 'awakening'. English already says 'awakening'.",
+     "fix": "awakening",
+     "severity": "error",
+     "patch": {
+      "n": "75",
+      "op": "word",
+      "match_w": "budhyamānā",
+      "field": "gloss",
+      "value": "awakening"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "budhyamānā",
+     "problem": "kṛdanta mislabelled.",
+     "fix": "pres. mid. part. f. nom. sg. √budh",
+     "severity": "error",
+     "patch": {
+      "n": "75",
+      "op": "word",
+      "match_w": "budhyamānā",
+      "field": "gram",
+      "value": "pres. mid. part. f. nom. sg. √budh"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "37 units (39-75) reviewed. 6 error, 44 minor issues (issue rows; one fix may be split over several rows/patches). Errors: 41 Hindi mis-attaches 'knowing' to the giver; 50 Hindi reads 'my garment'; 51 naḥ labelled dative but is accusative; 75 budhyamānā mislabelled passive. Recurring minor: 'this woman' added in 53-58 (neutral 'this one (f.)'); vahatu rendered two ways (66/73); Hindi term inconsistencies (payas, vāja, agha, bhaga, rakṣas). No regrouping suggested; the 3-line unit 69 is correct. Remaining doubts: 42 (datto, who gives), 47 (first line syntax), 72 (nāvagravaḥ), 74 (agatasya, referents), 64 (enau), 55 (bhajaḥ/bhago), 71 (Ama/Sā as names). Suggested GLOSSARY additions: rakṣas Hindi रक्षस्; vahatu = bridal procession (वधू-यात्रा); payas = milk (दूध); vāja = vigor (बल); agha = evil (अशुभ); bhaga = good fortune (सौभाग्य); jāmi = kinswoman; kṛtyā = spell (कृत्या); enas = offence (दोष); imām/asyai (f.) = 'this one', never 'woman/bride' unless printed. Unreviewed AI draft."
+}
