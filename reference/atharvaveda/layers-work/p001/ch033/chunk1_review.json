@@ -1,0 +1,84 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Savitar",
+     "problem": "Name should follow the gloss (Savitṛ) and the other names given in IAST (Varuṇa).",
+     "fix": "Savitṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "Savitar",
+      "new": "Savitṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "avapaśyan",
+     "problem": "Participle lacks gender, case and number.",
+     "fix": "m. nom. sg. pres. part. ava-√paś",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "avapaśyan",
+      "field": "gram",
+      "value": "m. nom. sg. pres. part. ava-√paś"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिनका (भाग) देवता",
+     "problem": "Glossary: deva = देव; devatā means deity. \"(भाग)\" and \"अपना\" are additions.",
+     "fix": "जिनका देव स्वर्ग में भोज्य बनाते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिनका (भाग) देवता स्वर्ग में अपना भोज्य बनाते हैं",
+      "new": "जिनका देव स्वर्ग में भोज्य बनाते हैं"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(drink)",
+     "problem": "Bracketed gloss inside the translation.",
+     "fix": "make their food",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "make their food (drink)",
+      "new": "make their food"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "ch033 (4 units): refrain verses sound; small naming and bracket points."
+}

@@ -1,0 +1,39 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Know this, O people: the great brahman (sacred utterance) will speak. There is nothing on earth nor in heaven by which the plants live.",
+  "new": "Know this, O people: the great brahman (sacred utterance) will speak. That by which the plants live is neither on earth nor in heaven.",
+  "why": "reviewer (error): Reverses the sense. tat ... yena = \"that by which the plants live is neither on earth nor in heaven\"; the draft says no such thing exists."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे लोगो, यह जान लो: महान् ब्रह्म (पवित्र वचन) बोलेगा। वह न पृथ्वी पर है और न द्युलोक में, जिसके द्वारा वनस्पतियाँ (ओषधियाँ) जीती हैं।",
+  "new": "हे लोगो, यह जान लो: महान् ब्रह्म (पवित्र वचन) बोलेगा। वह न पृथ्वी पर है और न द्युलोक में, जिसके द्वारा लता-पौधे जीती हैं।",
+  "why": "reviewer (minor): \"ओषधि\" is a different word (oṣadhi) put in brackets; vīrudh is not oṣadhi. Use a distinct word from vanaspati (\"वनस्पति\", ch035)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "इन (वनस्पतियों) का स्थान अन्तरिक्ष में है, थककर बैठे हुओं के (स्थान) के समान। इस भूत (प्राणी) के उस आस्थान को विधाता (ज्ञानी लोग) जानते हैं, या नहीं।",
+  "new": "इन (लता-पौधों) का स्थान अन्तरिक्ष में है, थककर बैठे हुओं के (स्थान) के समान। इस भूत (प्राणी) के उस आस्थान को विधाता (ज्ञानी लोग) जानते हैं, या नहीं।",
+  "why": "reviewer (minor): Keep consistent with the vīrudh rendering of unit 1."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "yat",
+  "old": "since, when",
+  "new": "which, what (relative)",
+  "why": "reviewer (error): yat is the relative pronoun (n. acc. sg.), not a conjunction."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "yat",
+  "old": "ind.",
+  "new": "n. acc. sg. (relative)",
+  "why": "reviewer (error): see above"
+ }
+]

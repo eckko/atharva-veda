@@ -1,0 +1,61 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जब दाक्षायणों ने प्रसन्न मन से शतानीक के लिए सोना बाँधा, उसे मैं तुम्हारे लिए आयु, तेज, बल, दीर्घ जीवन और सौ शरद (वर्षों) के लिए बाँधता हूँ।",
+  "new": "जब दाक्षायणों ने प्रसन्न मन से शतानीक के लिए सोना बाँधा, उसे मैं तुम्हें आयु, वर्चस्, बल, दीर्घ जीवन और सौ शरद (वर्षों) के लिए बाँधता हूँ।",
+  "why": "reviewer (minor): \"तुम्हारे लिए ... के लिए\" double dative; and तेज is used for tejas in unit 3, so varcas needs a different word."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Dākṣāyaṇa and Śatānīka are kept as names (patronymic from Dakṣa; 'hundred-hosted'); no story is imported. 'te' read as 'on you' (dative of the person). 'śataśārada' = 'of a hundred autumns', i.e. a hundred years.",
+  "new": "Dākṣāyaṇa and Śatānīka are kept as names (patronymic from Dakṣa; 'hundred-hosted'); no story is imported. 'te' read as 'on you' (dative of the person). 'śataśārada' = 'of a hundred autumns', i.e. a hundred years. yat may be the relative 'which' (agreeing with hiraṇyam): 'the gold that the Dākṣāyaṇas bound on for Śatānīka, that I bind on you'.",
+  "why": "reviewer (minor): yad ... tad hiraṇyam: yat can be the relative \"which\" agreeing with hiraṇyam (\"the gold that the Dākṣāyaṇas bound on ... that I bind on you\"); \"when\" is possible but weaker."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जलों का तेज, ज्योति, ओज और बल, और वनस्पतियों (वृक्षों) की शक्तियाँ; इन्द्र की भाँति हम इसमें इन्द्रिय-शक्तियाँ स्थापित करते हैं; वह बल बढ़ाता हुआ उस सोने को धारण करे।",
+  "new": "जलों का तेज, ज्योति, ओज और बल, और वनस्पतियों (वृक्षों) की शक्तियाँ; इन्द्र की भाँति हम इसमें इन्द्रिय-शक्तियाँ स्थापित करते हैं; वह बलवान् होता हुआ उस सोने को धारण करे।",
+  "why": "reviewer (minor): dakṣamāṇaḥ is intransitive (\"growing strong\"); \"बल बढ़ाता\" makes it transitive."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "te",
+  "old": "acc. sg. (enclitic)",
+  "new": "dat. sg. (enclitic)",
+  "why": "reviewer (error): te is the enclitic dative/genitive, not accusative (tvā is the accusative)."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "te",
+  "old": "you",
+  "new": "to you",
+  "why": "reviewer (error): Match the note (\"to you\")."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "With the years, the months and the seasons, and with the milk of the year, I fill you; may Indra and Agni and all the gods, not angered, give their assent to you.",
+  "new": "With the seasons of the years and months, and with the milk of the year, we (I) fill you; may Indra and Agni and all the gods, not being angry, give their assent to you.",
+  "why": "reviewer (error): samānām māsām are genitives plural, only ṛtubhiḥ is instrumental; the draft makes all three instrumental. Also vayam (\"we\") is dropped from the English/Hindi although the note says both are kept."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "वर्षों, महीनों और ऋतुओं के साथ, और वर्ष के दूध (सार) से मैं तुम्हें भरता हूँ; इन्द्र और अग्नि तथा सब देवता, क्रोध न करते हुए, तुम्हारे अनुकूल सम्मति दें।",
+  "new": "वर्षों और महीनों की ऋतुओं से, और वर्ष के दूध से हम (मैं) तुम्हें भरता हूँ; इन्द्र और अग्नि तथा सब देव, क्रोध न करते हुए, तुम्हारे अनुकूल सम्मति दें।",
+  "why": "reviewer (error): Same case slip."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "a-hṛṇīyamānāḥ",
+  "old": "m. nom. pl. pres. part. pass.",
+  "new": "m. nom. pl. pres. part. mid. (denominative)",
+  "why": "reviewer (minor): hṛṇīyate is a denominative middle (\"be angry\"), not a passive; \"not angered\" is wrong."
+ }
+]

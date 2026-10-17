@@ -1,0 +1,732 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱yaṃ",
+      "words": [
+       {
+        "w": "iyam",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vī̱runmadhṷjātā̱",
+      "words": [
+       {
+        "w": "vīrut",
+        "gloss": "plant (growing thing)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "madhu-jātā",
+        "gloss": "honey-born",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "madhṷnā",
+      "words": [
+       {
+        "w": "madhunā",
+        "gloss": "with honey",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "khanāmasi",
+      "words": [
+       {
+        "w": "khanāmasi",
+        "gloss": "we dig",
+        "gram": "1 pl. pres. √khan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "madho̱radhi̱",
+      "words": [
+       {
+        "w": "madhoḥ",
+        "gloss": "from honey",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "adhi",
+        "gloss": "from, out of",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prajā̭tāsi̱",
+      "words": [
+       {
+        "w": "prajātā",
+        "gloss": "born",
+        "gram": "f. nom. sg. ppp pra-√jan"
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmataskṛdhi",
+      "words": [
+       {
+        "w": "madhumataḥ",
+        "gloss": "honeyed, sweet",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह वनस्पति (लता) मधु से उत्पन्न है; हम तुम्हें मधु के साथ खोदते हैं। तू मधु से उत्पन्न हुई है; वह तू हमें मधुमान् (मधुर) बना दे।",
+  "english": "This plant is honey-born; with honey we dig you. You are born of honey: so make us honeyed.",
+  "text_flags": [],
+  "notes": "The plant is not named; vīrut is the general word 'plant, growing thing'. 'madhunā tvā khanāmasi' is rendered literally; no effect or identification is stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "001.034.1a",
+   "001.034.1b"
+  ],
+  "lines_deva": [
+   "इ॒यं वी॒रुन्मधु॑जाता॒ मधु॑ना त्वा खनामसि",
+   "मधो॒रधि॒ प्रजा॑तासि॒ सा नो॒ मधु॑मतस्कृधि"
+  ],
+  "lines_iast": [
+   "i̱yaṃ vī̱runmadhṷjātā̱ madhṷnā tvā khanāmasi",
+   "madho̱radhi̱ prajā̭tāsi̱ sā no̱ madhṷmataskṛdhi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ji̱hvāyā̱",
+      "words": [
+       {
+        "w": "jihvāyāḥ",
+        "gloss": "of the tongue",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "agre̱",
+      "words": [
+       {
+        "w": "agre",
+        "gloss": "at the tip",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷ",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "for me, my",
+        "gram": "gen./dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "jihvāmū̱le",
+      "words": [
+       {
+        "w": "jihvā-mūle",
+        "gloss": "at the root of the tongue",
+        "gram": "n. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ma̱dhūla̭kam",
+      "words": [
+       {
+        "w": "madhūlakam",
+        "gloss": "madhūlaka (sweet thing, name)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mamedaha̱",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "mine",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "only, indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "aha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kratā̱vaso̱",
+      "words": [
+       {
+        "w": "kratau",
+        "gloss": "in the purpose",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "asaḥ",
+        "gloss": "you shall be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "mama̭",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̱ttamu̱pāya̭si",
+      "words": [
+       {
+        "w": "cittam",
+        "gloss": "mind",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "upa-āyasi",
+        "gloss": "you come to",
+        "gram": "2 sg. pres. upa-ā-√i (uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिह्वा के अग्रभाग पर मेरे लिए मधु (हो), जिह्वा के मूल में मधूलक। तू मेरे ही संकल्प में रहे; तू मेरे चित्त के पास आती है।",
+  "english": "At the tip of the tongue be honey for me, at the root of the tongue madhūlaka. May you be only in my purpose; you come to my mind.",
+  "text_flags": [],
+  "notes": "'madhūlaka' is kept as a name/word ('sweet thing', possibly a derivative of madhu); not identified. 'mamed aha' read as mama id aha ('mine indeed'). 'upāyasi' is an uncertain form (read as 2 sg. pres. 'you come to'); the last phrase may be a statement or a wish. 'kratu' = purpose, will, resolve.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.034.2a",
+   "001.034.2b"
+  ],
+  "lines_deva": [
+   "जि॒ह्वाया॒ अग्रे॒ मधु॑ मे जिह्वामू॒ले म॒धूल॑कम्",
+   "ममेदह॒ क्रता॒वसो॒ मम॑ चि॒त्तमु॒पाय॑सि"
+  ],
+  "lines_iast": [
+   "ji̱hvāyā̱ agre̱ madhṷ me jihvāmū̱le ma̱dhūla̭kam",
+   "mamedaha̱ kratā̱vaso̱ mama̭ ci̱ttamu̱pāya̭si"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhṷmanme",
+      "words": [
+       {
+        "w": "madhumat",
+        "gloss": "sweet, honeyed",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̱krama̭ṇa̱ṃ",
+      "words": [
+       {
+        "w": "ni-kramaṇam",
+        "gloss": "going out",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmanme",
+      "words": [
+       {
+        "w": "madhumat",
+        "gloss": "sweet, honeyed",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rāya̭ṇam",
+      "words": [
+       {
+        "w": "parāyaṇam",
+        "gloss": "going away, final course",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vā̱cā",
+      "words": [
+       {
+        "w": "vācā",
+        "gloss": "with speech",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭dāmi̱",
+      "words": [
+       {
+        "w": "vadāmi",
+        "gloss": "I speak",
+        "gram": "1 sg. pres. √vad"
+       }
+      ]
+     },
+     {
+      "src": "madhṷmad",
+      "words": [
+       {
+        "w": "madhumat",
+        "gloss": "sweetly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhū̱yāsa̱ṃ",
+      "words": [
+       {
+        "w": "bhūyāsam",
+        "gloss": "may I be",
+        "gram": "1 sg. prec. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "madhṷsaṃdṛśaḥ",
+      "words": [
+       {
+        "w": "madhu-saṃdṛśaḥ",
+        "gloss": "of honey-like look",
+        "gram": "m. gen. sg. (bahuvrīhi; uncertain case)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मेरा निकलना मधुर हो, मेरा जाना (अन्तिम गति) मधुर हो। मैं वाणी से मधुर बोलता हूँ; मैं मधु के समान दिखने वाला हो जाऊँ।",
+  "english": "Honeyed be my going out, honeyed my going away. With speech I speak sweetly; may I be of honey-like look.",
+  "text_flags": [],
+  "notes": "'nikramaṇa' = going out/forth, 'parāyaṇa' = going away/final course (literal). 'madhusaṃdṛśaḥ' has the form of a genitive/ablative singular (or accusative plural) of -dṛś; it is read loosely as a predicate 'of honey-like look/appearance'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.034.3a",
+   "001.034.3b"
+  ],
+  "lines_deva": [
+   "मधु॑मन्मे नि॒क्रम॑णं॒ मधु॑मन्मे प॒राय॑णम्",
+   "वा॒चा व॑दामि॒ मधु॑मद् भू॒यासं॒ मधु॑संदृशः"
+  ],
+  "lines_iast": [
+   "madhṷmanme ni̱krama̭ṇa̱ṃ madhṷmanme pa̱rāya̭ṇam",
+   "vā̱cā va̭dāmi̱ madhṷmad bhū̱yāsa̱ṃ madhṷsaṃdṛśaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madho̭rasmi̱",
+      "words": [
+       {
+        "w": "madhoḥ",
+        "gloss": "than honey",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "asmi",
+        "gloss": "I am",
+        "gram": "1 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "madhṷtaro",
+      "words": [
+       {
+        "w": "madhu-taraḥ",
+        "gloss": "sweeter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱dughā̱nmadhṷmattaraḥ",
+      "words": [
+       {
+        "w": "madu-ghāt",
+        "gloss": "than the honey-yielder (madughā)",
+        "gram": "m./f. abl. sg."
+       },
+       {
+        "w": "madhumat-taraḥ",
+        "gloss": "more honeyed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "māmit",
+      "words": [
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "only, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kila̱",
+      "words": [
+       {
+        "w": "kila",
+        "gloss": "surely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vanā̱ḥ",
+      "words": [
+       {
+        "w": "vanāḥ",
+        "gloss": "you shall love (desire)",
+        "gram": "2 sg. subj. √van (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "śākhā̱ṃ",
+      "words": [
+       {
+        "w": "śākhām",
+        "gloss": "branch",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmatīmiva",
+      "words": [
+       {
+        "w": "madhumatīm",
+        "gloss": "honeyed",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं मधु से भी अधिक मधुर हूँ, मधु देने वाले (मदुघा) से भी अधिक मधुमान् हूँ। तू निश्चय ही मुझे ही चाहेगी, जैसे मधु से भरी शाखा को।",
+  "english": "I am sweeter than honey, more honeyed than the honey-yielder. You shall surely love only me, like a honeyed branch.",
+  "text_flags": [],
+  "notes": "'madughā' (honey-yielding) is kept as the literal sense; not identified as a plant. 'vanāḥ' is uncertain: from √van 'desire, win, embrace'; 'like a honeyed branch' is a loose rendering of 'śākhāṃ madhumatīm iva'. The following verse addresses a feminine 'you'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.034.4a",
+   "001.034.4b"
+  ],
+  "lines_deva": [
+   "मधो॑रस्मि॒ मधु॑तरो म॒दुघा॒न्मधु॑मत्तरः",
+   "मामित् किल॒ त्वं वनाः॒ शाखां॒ मधु॑मतीमिव"
+  ],
+  "lines_iast": [
+   "madho̭rasmi̱ madhṷtaro ma̱dughā̱nmadhṷmattaraḥ",
+   "māmit kila̱ tvaṃ vanā̱ḥ śākhā̱ṃ madhṷmatīmiva"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parita̱tnune̱kṣuṇā̭gā̱mavi̭dviṣe",
+      "words": [
+       {
+        "w": "pari-tatnunā",
+        "gloss": "encircling",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ikṣuṇā",
+        "gloss": "with sugar-cane",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "agām",
+        "gloss": "I have gone",
+        "gram": "1 sg. aor. √gam"
+       },
+       {
+        "w": "a-vidviṣe",
+        "gloss": "for non-hatred",
+        "gram": "m./n. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "māṃ",
+      "words": [
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kā̱minyaso̱",
+      "words": [
+       {
+        "w": "kāminī",
+        "gloss": "loving",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asaḥ",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mannāpa̭gā̱",
+      "words": [
+       {
+        "w": "mat",
+        "gloss": "from me",
+        "gram": "abl. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "apa-gāḥ",
+        "gloss": "going away",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asa̭ḥ",
+      "words": [
+       {
+        "w": "asaḥ",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैंने तुम्हारे चारों ओर घेरने वाले ईख (गन्ने) के साथ परिक्रमा की है, द्वेष के अभाव के लिए; जिससे तू मुझे चाहने वाली हो, जिससे तू मुझसे दूर जाने वाली न हो।",
+  "english": "I have gone around you with an encircling sugar-cane, for freedom from hatred, so that you may be loving toward me, so that you may not be one going away from me.",
+  "text_flags": [],
+  "notes": "'paritatnunā' (encircling, spread around) is an uncertain word; 'ikṣu' is a common noun (sugar-cane), rendered literally. The addressee 'tvā' is feminine (kāminī, apagā).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.034.5a",
+   "001.034.5b"
+  ],
+  "lines_deva": [
+   "परि॑ त्वा परित॒त्नुने॒क्षुणा॑गा॒मवि॑द्विषे",
+   "यथा॒ मां का॒मिन्यसो॒ यथा॒ मन्नाप॑गा॒ असः॑"
+  ],
+  "lines_iast": [
+   "pari̭ tvā parita̱tnune̱kṣuṇā̭gā̱mavi̭dviṣe",
+   "yathā̱ māṃ kā̱minyaso̱ yathā̱ mannāpa̭gā̱ asa̭ḥ"
+  ],
+  "uncertain": []
+ }
+]

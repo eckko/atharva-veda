@@ -1,0 +1,150 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तुम्हारे लिए आयु, तेज, बल",
+     "problem": "\"तुम्हारे लिए ... के लिए\" double dative; and तेज is used for tejas in unit 3, so varcas needs a different word.",
+     "fix": "तुम्हें आयु, वर्चस्, बल",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम्हारे लिए आयु, तेज, बल",
+      "new": "तुम्हें आयु, वर्चस्, बल"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yat",
+     "problem": "yad ... tad hiraṇyam: yat can be the relative \"which\" agreeing with hiraṇyam (\"the gold that the Dākṣāyaṇas bound on ... that I bind on you\"); \"when\" is possible but weaker.",
+     "fix": "Add note: yat may be the relative \"which\".",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "yat may be the relative 'which' (agreeing with hiraṇyam): 'the gold that the Dākṣāyaṇas bound on for Śatānīka, that I bind on you'."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śata-anīkāya",
+     "problem": "Per layer notes an epithet stays an epithet unless the line makes the name certain; keep the name reading but say it is a reading.",
+     "fix": "Add to notes: Śatānīka read as a name; could be an epithet \"hundred-hosted\".",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह बल बढ़ाता हुआ",
+     "problem": "dakṣamāṇaḥ is intransitive (\"growing strong\"); \"बल बढ़ाता\" makes it transitive.",
+     "fix": "वह बलवान् होता हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह बल बढ़ाता हुआ",
+      "new": "वह बलवान् होता हुआ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bibharat",
+     "problem": "\"impv./inj.\" is a guess; bibharat is not the usual 3 sg. impv. (bibhartu).",
+     "fix": "Say \"3 sg. (injunctive or subjunctive?), uncertain\" and keep confidence medium.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "te",
+     "problem": "te is the enclitic dative/genitive, not accusative (tvā is the accusative).",
+     "fix": "dat. sg. (enclitic)",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "te",
+      "field": "gram",
+      "value": "dat. sg. (enclitic)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "te",
+     "problem": "Match the note (\"to you\").",
+     "fix": "to you",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "te",
+      "field": "gloss",
+      "value": "to you"
+     }
+    },
+    {
+     "field": "english",
+     "where": "With the years, the months and the seasons",
+     "problem": "samānām māsām are genitives plural, only ṛtubhiḥ is instrumental; the draft makes all three instrumental. Also vayam (\"we\") is dropped from the English/Hindi although the note says both are kept.",
+     "fix": "With the seasons of the years and months, and with the milk of the year, we (I) fill you; may Indra and Agni and all the gods, not being angry, give their assent to you.",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "english",
+      "value": "With the seasons of the years and months, and with the milk of the year, we (I) fill you; may Indra and Agni and all the gods, not being angry, give their assent to you."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर्षों, महीनों और ऋतुओं के साथ",
+     "problem": "Same case slip.",
+     "fix": "set Hindi to: वर्षों और महीनों की ऋतुओं से, और वर्ष के दूध से हम (मैं) तुम्हें भरता हूँ; इन्द्र और अग्नि तथा सब देव, क्रोध न करते हुए, तुम्हारे अनुकूल सम्मति दें।",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "वर्षों और महीनों की ऋतुओं से, और वर्ष के दूध से हम (मैं) तुम्हें भरता हूँ; इन्द्र और अग्नि तथा सब देव, क्रोध न करते हुए, तुम्हारे अनुकूल सम्मति दें।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "a-hṛṇīyamānāḥ",
+     "problem": "hṛṇīyate is a denominative middle (\"be angry\"), not a passive; \"not angered\" is wrong.",
+     "fix": "gloss: not being angry; gram: m. nom. pl. pres. part. mid. (denominative)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "a-hṛṇīyamānāḥ",
+      "field": "gram",
+      "value": "m. nom. pl. pres. part. mid. (denominative)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "ch035 (4 units): unit 4 has a wrong case label for te and genitives rendered as instrumentals."
+}

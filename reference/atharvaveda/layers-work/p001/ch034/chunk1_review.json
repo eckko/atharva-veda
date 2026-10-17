@@ -1,0 +1,87 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(मधुघा)",
+     "problem": "Printed word is madughā (madu-), not madhughā.",
+     "fix": "(मदुघा)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "(मधुघा)",
+      "new": "(मदुघा)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चाहे/अपनाए",
+     "problem": "Slash alternatives in a translation, and a 3rd-person form for a 2nd-person verb.",
+     "fix": "मुझे ही चाहेगी",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे ही चाहे/अपनाए",
+      "new": "मुझे ही चाहेगी"
+     }
+    },
+    {
+     "field": "english",
+     "where": "embrace",
+     "problem": "\"embrace\" is an addition; √van is \"love, desire, win\".",
+     "fix": "You shall surely love only me",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "embrace only me",
+      "new": "love only me"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vanāḥ",
+     "problem": "Match the gloss.",
+     "fix": "you shall love (desire)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "vanāḥ",
+      "field": "gloss",
+      "value": "you shall love (desire)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "ch034 (5 units): units 1-3, 5 ok; unit 4 has a mis-spelled name in Hindi and an added 'embrace'."
+}

@@ -1,0 +1,31 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The golden-coloured, bright, purifying waters, in which Savitar was born and in which Agni is: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "new": "The golden-coloured, bright, purifying waters, in which Savitṛ was born and in which Agni is: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "why": "reviewer (minor): Name should follow the gloss (Savitṛ) and the other names given in IAST (Varuṇa)."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "avapaśyan",
+  "old": "pres. part. ava-√paś",
+  "new": "m. nom. sg. pres. part. ava-√paś",
+  "why": "reviewer (minor): Participle lacks gender, case and number."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जिनका (भाग) देवता स्वर्ग में अपना भोज्य बनाते हैं, जो अन्तरिक्ष में अनेक प्रकार से होते हैं; जिन सुन्दर रंग वाली (जलों) ने अग्नि को गर्भ के रूप में धारण किया, वे जल हमारे लिए कल्याणकारी और सुखद हों।",
+  "new": "जिनका देव स्वर्ग में भोज्य बनाते हैं, जो अन्तरिक्ष में अनेक प्रकार से होते हैं; जिन सुन्दर रंग वाली (जलों) ने अग्नि को गर्भ के रूप में धारण किया, वे जल हमारे लिए कल्याणकारी और सुखद हों।",
+  "why": "reviewer (minor): Glossary: deva = देव; devatā means deity. \"(भाग)\" and \"अपना\" are additions."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The waters of which the gods in heaven make their food (drink), and which become manifold in the mid-air: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "new": "The waters of which the gods in heaven make their food, and which become manifold in the mid-air: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "why": "reviewer (minor): Bracketed gloss inside the translation."
+ }
+]
