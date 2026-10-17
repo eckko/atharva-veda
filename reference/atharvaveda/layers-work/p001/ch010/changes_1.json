@@ -1,0 +1,74 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "देवों का यह असुर विशेष रूप से शासन करता है, क्योंकि राजा वरुण की इच्छा सत्य है। वहाँ से, प्रार्थना के बल से प्रबल होता हुआ मैं इसे उग्र क्रोध से ऊपर उठाकर ले जाता हूँ।",
+  "new": "देवों का यह असुर दूर-दूर तक शासन करता है, क्योंकि राजा वरुण की इच्छा सत्य है। वहाँ से, प्रार्थना के बल से प्रबल होता हुआ मैं इसे उग्र क्रोध से ऊपर उठाकर ले जाता हूँ।",
+  "why": "reviewer (minor): 'vi' glossed 'widely' and English says widely; Hindi 'विशेष रूप से' (especially) is a different meaning."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "देवों का यह असुर दूर-दूर तक शासन करता है, क्योंकि राजा वरुण की इच्छा सत्य है। वहाँ से, प्रार्थना के बल से प्रबल होता हुआ मैं इसे उग्र क्रोध से ऊपर उठाकर ले जाता हूँ।",
+  "new": "देवों का यह असुर दूर-दूर तक शासन करता है, क्योंकि राजा वरुण की इच्छा सत्य है। वहाँ से, ब्रह्म से प्रबल होता हुआ मैं इसे उग्र क्रोध से ऊपर उठाकर ले जाता हूँ।",
+  "why": "reviewer (minor): GLOSSARY fixes brahman = ब्रह्म in Hindi; 'प्रार्थना के बल' also adds 'strength'. Other chunks use ब्रह्म."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "jīvāti",
+  "old": "3 sg. aor. subj. √jīv",
+  "new": "3 sg. subj. √jīv",
+  "why": "reviewer (minor): jīvāti is a present-stem subjunctive, not an aorist; the translation ('may he live') is fine."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Src 'hyu'gra' is hi + ugra with avagraha as printed. sṷvāmi in src stands for suvāmi. 'sahasram anyān pra suvāmi sākam' is obscure: 'I send forth a thousand others together (with him)' is the most literal reading. 'Namas te ... astu manyave' may also be read 'homage be to you, to your wrath'. jīvāti taken as subjunctive of √jīv (doubtful form). 'This one' is not identified.",
+  "new": "Src 'hyu'gra' is hi + ugra with avagraha as printed. sṷvāmi in src stands for suvāmi. 'sahasram anyān pra suvāmi sākam' is obscure: 'I send forth a thousand others together (with him)' is the most literal reading. 'Namas te ... astu manyave' may also be read 'homage be to you, to your wrath'. jīvāti taken as subjunctive of √jīv (doubtful form). 'This one' is not identified. nicikeṣi (taken as a perfect-type 2 sg. of ni-√ci/√cit 'perceive, note') has an uncertain root and form.",
+  "why": "reviewer (minor): nicikeṣi is labelled '2 sg. pf. √ci' without any doubt marked; the form and root (ci / cit 'perceive') are not secure."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Whatever untruth and much crookedness you have spoken with the tongue, from that I release you, from Varuṇa, the king whose law is true.",
+  "new": "Whatever untruth and much crookedness you have spoken with the tongue, I release you from Varuṇa, the king whose law is true.",
+  "why": "reviewer (error): Unsupported addition: the text releases the addressee from Varuṇa (muñcāmi varuṇāt); it does not say release 'from that' (the untruth). Notes even admit the 'because of' sense is supplied."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तुमने जीभ से जो झूठ और बहुत सारी कुटिलता कही है, उससे मैं तुम्हें सत्य-धर्म वाले राजा वरुण से छुड़ाता हूँ।",
+  "new": "तुमने जीभ से जो झूठ और बहुत सारी कुटिलता कही है, मैं तुम्हें सत्य-धर्म वाले राजा वरुण से छुड़ाता हूँ।",
+  "why": "reviewer (error): Same addition as in English: 'उससे' (from that) is not in the text."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "apa",
+  "old": "toward",
+  "new": "away (preverb)",
+  "why": "reviewer (error): apa means 'away', not 'toward'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मैं तुम्हें वैश्वानर से, महान जलप्रवाह से छुड़ाता हूँ। हे उग्र, यहाँ अपने सजातियों से बोलो और हमारी प्रार्थना पर ध्यान दो।",
+  "new": "मैं तुम्हें वैश्वानर से, महान जलप्रवाह से छुड़ाता हूँ। हे उग्र, यहाँ सजातियों से बोलो और हमारी प्रार्थना पर ध्यान दो।",
+  "why": "reviewer (minor): 'अपने' (own) is not in the text; sajātān is simply 'kinsmen'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मैं तुम्हें वैश्वानर से, महान जलप्रवाह से छुड़ाता हूँ। हे उग्र, यहाँ सजातियों से बोलो और हमारी प्रार्थना पर ध्यान दो।",
+  "new": "मैं तुम्हें वैश्वानर से, महान जलप्रवाह से छुड़ाता हूँ। हे उग्र, यहाँ सजातियों से बोलो और हमारे ब्रह्म पर ध्यान दो।",
+  "why": "reviewer (minor): GLOSSARY: brahman = ब्रह्म in Hindi (English already says sacred utterance)."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Second line is uncertain: 'sajātān ugrehā' is read as sajātān ugra iha (alternatively 'sajātān ugra ihā'); 'apa cikīhi' is taken as 'take heed' from √ci with apa (doubtful; some read 'cāpa' as ca + apa). 'Arṇava' may be 'flood' or 'ocean'. 'Vaiśvānara' is a name (often of Agni) but the line does not say so. 'Mahataḥ pari' is taken as 'from the great'.",
+  "new": "Second line is uncertain: 'sajātān ugrehā' is read as sajātān ugra iha (alternatively 'sajātān ugra ihā'); 'apa cikīhi' is taken as 'take heed' from √ci with apa (doubtful; some read 'cāpa' as ca + apa). 'Arṇava' may be 'flood' or 'ocean'. 'Vaiśvānara' is a name (often of Agni) but the line does not say so. 'Mahataḥ pari' is taken as 'from the great'. sajātān is accusative plural, so 'to the kinsmen' is a loose rendering; brahma may instead be the object of vada ('speak the sacred utterance'). The line stays doubtful.",
+  "why": "reviewer (minor): sajātān is accusative plural; 'speak to the kinsmen' needs a dative/locative sense and is not grammatically secure; also vada has brahma as a possible object ('speak the brahman')."
+ }
+]

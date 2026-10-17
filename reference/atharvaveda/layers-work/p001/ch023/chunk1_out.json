@@ -1,0 +1,569 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na̱kta̱ṃjā̱tāsyo̭ṣadhe̱",
+      "words": [
+       {
+        "w": "naktaṃ-jātā",
+        "gloss": "born at night",
+        "gram": "f. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "oṣadhe",
+        "gloss": "O herb",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāme̱",
+      "words": [
+       {
+        "w": "rāme",
+        "gloss": "O dark one",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇe̱",
+      "words": [
+       {
+        "w": "kṛṣṇe",
+        "gloss": "O black one",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asi̭kni",
+      "words": [
+       {
+        "w": "asikni",
+        "gloss": "O dark one (asiknī)",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̭jani",
+      "words": [
+       {
+        "w": "rajani",
+        "gloss": "O rajanī (dyer, night)",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rajaya",
+      "words": [
+       {
+        "w": "rajaya",
+        "gloss": "colour, dye",
+        "gram": "2 sg. impv. caus. √rañj"
+       }
+      ]
+     },
+     {
+      "src": "ki̱lāsa̭ṃ",
+      "words": [
+       {
+        "w": "kilāsam",
+        "gloss": "kilāsa (skin discolouration)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pali̱taṃ",
+      "words": [
+       {
+        "w": "palitam",
+        "gloss": "grey (patch)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे ओषधि, तुम रात में उत्पन्न हो; हे श्यामा, हे काली, हे असिक्नी। हे रजनी, इसे रंग दो: जो किलास है और जो पलित (भूरा/सफ़ेद चिह्न) है।",
+  "english": "You are born at night, O herb; O dark one, O black one, O asiknī. O rajanī, colour this: the kilāsa and the grey (patch) that there is.",
+  "text_flags": [],
+  "notes": "oṣadhe is the plain word 'herb'; no plant is identified. rāme, kṛṣṇe, asikni and rajani are vocative names/epithets of the herb (dark, black, dark-blue, 'night/dyer'). kilāsa is a skin discolouration, rendered literally and not diagnosed. palita is 'grey'; its object here is a grey patch (uncertain).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ki̱lāsa̭ṃ",
+      "words": [
+       {
+        "w": "kilāsam",
+        "gloss": "kilāsa",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pali̱taṃ",
+      "words": [
+       {
+        "w": "palitam",
+        "gloss": "grey (patch)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niri̱to",
+      "words": [
+       {
+        "w": "niritaḥ",
+        "gloss": "away from here (?)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nā̭śayā̱",
+      "words": [
+       {
+        "w": "nāśaya",
+        "gloss": "make vanish",
+        "gram": "2 sg. impv. caus. √naś"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣa̭t",
+      "words": [
+       {
+        "w": "pṛṣat",
+        "gloss": "speckle, spot",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to, in",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svo",
+      "words": [
+       {
+        "w": "svaḥ",
+        "gloss": "own",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̭śatā̱ṃ",
+      "words": [
+       {
+        "w": "viśatām",
+        "gloss": "let enter",
+        "gram": "3 sg. impv. √viś"
+       }
+      ]
+     },
+     {
+      "src": "varṇa̱ḥ",
+      "words": [
+       {
+        "w": "varṇaḥ",
+        "gloss": "colour",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parā̭",
+      "words": [
+       {
+        "w": "parā",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śu̱klāni̭",
+      "words": [
+       {
+        "w": "śuklāni",
+        "gloss": "white (things)",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pātaya",
+      "words": [
+       {
+        "w": "pātaya",
+        "gloss": "make fall",
+        "gram": "2 sg. impv. caus. √pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किलास और पलित को, और चितकबरे धब्बे को यहाँ से बाहर निकालकर नष्ट कर दो। तुम्हारा अपना वर्ण तुम में प्रवेश करे; सफ़ेद (चिह्नों) को दूर गिरा दो।",
+  "english": "Both the kilāsa and the grey patch, and the speckle: make them vanish from here. Let your own colour enter you; make the white (marks) fall away.",
+  "text_flags": [],
+  "notes": "niritaḥ is taken as 'out from here' (uncertain). pṛṣat is 'speckle/spot', here a noun object. 'ā tvā ... viśatām' is read 'let enter you'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asi̭taṃ",
+      "words": [
+       {
+        "w": "asitam",
+        "gloss": "dark",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱laya̭namā̱sthāna̱masi̭ta̱ṃ",
+      "words": [
+       {
+        "w": "pralayanam",
+        "gloss": "dissolving place, refuge (?)",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āsthānam",
+        "gloss": "abode",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asitam",
+        "gloss": "dark",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tava̭",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "asi̭knyasyoṣadhe̱",
+      "words": [
+       {
+        "w": "asiknī",
+        "gloss": "dark one",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "oṣadhe",
+        "gloss": "O herb",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niri̱to",
+      "words": [
+       {
+        "w": "niritaḥ",
+        "gloss": "away from here (?)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nā̭śayā̱",
+      "words": [
+       {
+        "w": "nāśaya",
+        "gloss": "make vanish",
+        "gram": "2 sg. impv. caus. √naś"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣa̭t",
+      "words": [
+       {
+        "w": "pṛṣat",
+        "gloss": "speckle, spot",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काला तुम्हारा प्रलयन (विलय-स्थान) है, काला तुम्हारा आवास है। हे ओषधि, तुम काली हो; चितकबरे धब्बे को यहाँ से हटाकर नष्ट करो।",
+  "english": "Dark is your resting-place (pralayana), dark is your abode. You are dark, O herb; make the speckle vanish from here.",
+  "text_flags": [],
+  "notes": "pralayana is uncertain: 'dissolving/resting place' is a tentative literal sense. The unit has one verb for line b only; line a is a nominal statement.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱sthi̱jasya̭",
+      "words": [
+       {
+        "w": "asthi-jasya",
+        "gloss": "of the bone-born",
+        "gram": "n. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ki̱lāsa̭sya",
+      "words": [
+       {
+        "w": "kilāsasya",
+        "gloss": "of the kilāsa",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanū̱jasya̭",
+      "words": [
+       {
+        "w": "tanū-jasya",
+        "gloss": "of the body-born",
+        "gram": "n. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tva̱ci",
+      "words": [
+       {
+        "w": "tvaci",
+        "gloss": "in the skin",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dūṣyā̭",
+      "words": [
+       {
+        "w": "dūṣyā",
+        "gloss": "by defilement (?)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱tasya̱",
+      "words": [
+       {
+        "w": "kṛtasya",
+        "gloss": "of the made",
+        "gram": "n. gen. sg. p.p. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇā̱",
+      "words": [
+       {
+        "w": "brahmaṇā",
+        "gloss": "by the sacred formula",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "lakṣma̭",
+      "words": [
+       {
+        "w": "lakṣma",
+        "gloss": "mark",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śve̱tama̭nīnaśam",
+      "words": [
+       {
+        "w": "śvetam",
+        "gloss": "white",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anīnaśam",
+        "gloss": "I made vanish",
+        "gram": "1 sg. aor. caus. √naś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हड्डी से उत्पन्न और शरीर से उत्पन्न किलास का, जो त्वचा में है, और दोष (विकृति) द्वारा उत्पन्न किया गया है, उसके सफ़ेद चिह्न को मैंने ब्रह्म (मन्त्र) से नष्ट कर दिया है।",
+  "english": "Of the kilāsa born of bone and born of the body, which is in the skin, and which was produced by defilement: the white mark I have made vanish by the sacred utterance (brahman).",
+  "text_flags": [],
+  "notes": "dūṣyā is uncertain (instrumental of a noun 'defilement'); the line may also be read 'made by a wicked deed'. brahman is the sacred utterance (alternatives: prayer, formula). The grouping of yat with the genitives is taken as 'which (is) in the skin'.",
+  "confidence": "low"
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "'Lakṣmya' (ill-marked) and 'lalāmya' are obscure; 'lalāmya' is kept as a word. The numeral 1 in 'lalāmyaṃ1' is an accent notation, not a word. The stray token ' is a separate avagraha mark in the print. Line b is obscure: 'tāni naḥ prajāyāḥ arātiṃ nayāmasi' could also be 'those are ours; of the offspring we lead away ill-will'. 'Arāti' = 'ill-will, non-giving'.",
+  "new": "'Lakṣmya' (ill-marked) and 'lalāmya' are obscure; 'lalāmya' is kept as a word. The numeral 1 in 'lalāmyaṃ1' is not a word; whether it is an accent notation or a stray digit is not certain. The stray token ' is a separate avagraha mark in the print. Line b is obscure: 'tāni naḥ prajāyāḥ arātiṃ nayāmasi' could also be 'those are ours; of the offspring we lead away ill-will'. 'Arāti' = 'ill-will, non-giving'.",
+  "why": "reviewer (minor): Unsupported assertion; should be a text_flag or hedged."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "padoḥ",
+  "old": "n. gen. du.",
+  "new": "m. gen. du.",
+  "why": "reviewer (minor): pad is masculine."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Syntax is uncertain: 'araṇi' is kept as a word of unclear sense; 'padoḥ nir hastayoḥ' read as 'out of the two feet, the two hands'; the verb for Varuṇa, Mitra, Aryaman is taken from 'sāviṣak'. 'Anumati' is a name (goddess of favour), treated as a name here. Src 'varṷṇo', 'anṷmatī' are transliteration artefacts.",
+  "new": "Syntax is uncertain: 'araṇi' is kept as a word of unclear sense; 'padoḥ nir hastayoḥ' read as 'out of the two feet, the two hands'; the verb for Varuṇa, Mitra, Aryaman is taken from 'sāviṣak'. 'Anumati' is treated as a name here. Src 'varṷṇo', 'anṷmatī' are transliteration artefacts.",
+  "why": "reviewer (minor): 'goddess of favour' imports a role the lines do not state (LAYER_NOTES 3)."
+ }
+]

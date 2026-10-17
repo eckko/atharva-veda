@@ -1,0 +1,17 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "manuṣya-iṣavaḥ",
+  "old": "tat-puruṣa m. nom. pl.",
+  "new": "tat-puruṣa f. nom. pl. (iṣu f.; agrees with daivīḥ)",
+  "why": "reviewer (minor): daivīḥ is feminine, so iṣu is feminine here, not masculine."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Src 'chapāti' is śapāti (sandhi after dviṣan). 'Mamāntaram' = mama + antaram, 'my inner (protection)' is a tentative reading. 'Sapatna' may be 'rival' or 'co-wife's rival'; 'rival' used. 'Brahma' = sacred utterance (or prayer).",
+  "new": "Src 'chapāti' is śapāti (sandhi after dviṣan). 'Mamāntaram' = mama + antaram, 'my inner (protection)' is a tentative reading. 'Sapatna' = 'rival'. 'Brahma' = sacred utterance (or prayer).",
+  "why": "reviewer (minor): 'co-wife's rival' is invented; sapatna is masculine 'rival'."
+ }
+]

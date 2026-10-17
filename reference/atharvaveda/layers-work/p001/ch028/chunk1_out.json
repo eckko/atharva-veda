@@ -1,0 +1,545 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upa̱",
+      "words": [
+       {
+        "w": "upa",
+        "gloss": "up to, near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāgā̭d",
+      "words": [
+       {
+        "w": "prāgāt",
+        "gloss": "has come forth",
+        "gram": "3 sg. aor. pra-√gā"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnī",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̭kṣo̱hāmī̭va̱cāta̭naḥ",
+      "words": [
+       {
+        "w": "rakṣaḥ-hā",
+        "gloss": "slayer of rakṣases",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "amīva-cātanaḥ",
+        "gloss": "driver away of affliction",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "daha̱nnapa̭",
+      "words": [
+       {
+        "w": "dahan",
+        "gloss": "burning",
+        "gram": "m. nom. sg. pres. part. √dah"
+       },
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvayā̱vino̭",
+      "words": [
+       {
+        "w": "dvayāvinaḥ",
+        "gloss": "double-dealing",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̭n",
+      "words": [
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhānas (harmful beings)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kimī̱dina̭ḥ",
+      "words": [
+       {
+        "w": "kimīdinaḥ",
+        "gloss": "kimīdins (harmful beings)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देव अग्नि पास आ गया है, जो राक्षसों को मारने वाला और पीड़ा को भगाने वाला है; वह दोगली चाल वाले यातुधानों और किमीदियों को जलाकर दूर करता हुआ (आया है)।",
+  "english": "The god Agni has come forth, slayer of rakṣases, driver away of affliction, burning away the double-dealing yātudhānas and kimīdins.",
+  "text_flags": [],
+  "notes": "amīvā is rendered 'affliction' (literal sense: distress). yātudhāna and kimīdin are kept as kinds of harmful beings. dvayāvin is read as 'double-dealing, two-faced'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "back, against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daha",
+      "words": [
+       {
+        "w": "daha",
+        "gloss": "burn",
+        "gram": "2 sg. impv. √dah"
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̱n",
+      "words": [
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhānas (harmful beings)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "back, against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kimī̱dina̭ḥ",
+      "words": [
+       {
+        "w": "kimīdinaḥ",
+        "gloss": "kimīdins (harmful beings)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pra̱tīcī̭ḥ",
+      "words": [
+       {
+        "w": "pratīcīḥ",
+        "gloss": "turned back, facing",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇavartane̱",
+      "words": [
+       {
+        "w": "kṛṣṇa-vartane",
+        "gloss": "O black-pathed one",
+        "gram": "m. voc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭ha",
+      "words": [
+       {
+        "w": "daha",
+        "gloss": "burn",
+        "gram": "2 sg. impv. √dah"
+       }
+      ]
+     },
+     {
+      "src": "yātudhā̱nyaḥ",
+      "words": [
+       {
+        "w": "yātudhānyaḥ",
+        "gloss": "female yātudhānas",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देव, यातुधानों को लौटकर जलाओ, किमीदियों को लौटकर जलाओ। हे कृष्ण-मार्ग वाले, सामने आती हुई यातुधानियों को एक साथ जला दो।",
+  "english": "Burn back the yātudhānas, burn back, O god, the kimīdins. O black-pathed one, burn up together the yātudhānīs as they turn back.",
+  "text_flags": [],
+  "notes": "kṛṣṇa-vartani is read as an address to Agni, 'whose path is black'. prati daha is rendered 'burn back' (burn in return).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "who",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱śāpa̱",
+      "words": [
+       {
+        "w": "śaśāpa",
+        "gloss": "cursed",
+        "gram": "3 sg. pf. √śap"
+       }
+      ]
+     },
+     {
+      "src": "śapa̭nena̱",
+      "words": [
+       {
+        "w": "śapanena",
+        "gloss": "with a curse",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāghaṃ",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "who",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "agham",
+        "gloss": "evil",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūra̭māda̱dhe",
+      "words": [
+       {
+        "w": "mūram",
+        "gloss": "mūra (obscure)",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ādadhe",
+        "gloss": "has taken up",
+        "gram": "3 sg. pf. mid. ā-√dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "who",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasa̭sya̱",
+      "words": [
+       {
+        "w": "rasasya",
+        "gloss": "of the juice, essence",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hara̭ṇāya",
+      "words": [
+       {
+        "w": "haraṇāya",
+        "gloss": "for taking away",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̱tamā̭re̱bhe",
+      "words": [
+       {
+        "w": "jātam",
+        "gloss": "the born (child)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ārebhe",
+        "gloss": "has seized",
+        "gram": "3 sg. pf. mid. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "to̱kama̭ttu̱",
+      "words": [
+       {
+        "w": "tokam",
+        "gloss": "offspring",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "attu",
+        "gloss": "let eat",
+        "gram": "3 sg. impv. √ad"
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने अभिशाप द्वारा शाप दिया है, जिसने पाप रूपी मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए उत्पन्न (शिशु) को पकड़ा है, वह अपनी सन्तान को खाए।",
+  "english": "She who has cursed with a curse, she who has taken up an evil mūra, she who has seized the new-born to take away its essence: let her eat (her own) offspring.",
+  "text_flags": [],
+  "notes": "mūra is obscure and kept as given; 'aghaṃ mūram' is read as 'an evil mūra' (uncertain). rasa is rendered literally 'juice, essence'. jātam is read as 'the born (child)'. 'her own' in the translation is supplied from the sense of tokam attu.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pu̱trama̭ttu",
+      "words": [
+       {
+        "w": "putram",
+        "gloss": "son",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "attu",
+        "gloss": "let eat",
+        "gram": "3 sg. impv. √ad"
+       }
+      ]
+     },
+     {
+      "src": "yātudhā̱nīḥ",
+      "words": [
+       {
+        "w": "yātudhānīḥ",
+        "gloss": "female yātudhānas",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svasā̭ramu̱ta",
+      "words": [
+       {
+        "w": "svasāram",
+        "gloss": "sister",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̱ptya'm",
+      "words": [
+       {
+        "w": "naptyam",
+        "gloss": "grandchild, descendant",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "adhā̭",
+      "words": [
+       {
+        "w": "adha",
+        "gloss": "then, now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mi̱tho",
+      "words": [
+       {
+        "w": "mithaḥ",
+        "gloss": "one another",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭ke̱śyo̱3vi",
+      "words": [
+       {
+        "w": "vikeśyaḥ",
+        "gloss": "dishevelled ones",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghna̭tāṃ",
+      "words": [
+       {
+        "w": "ghnatām",
+        "gloss": "let them smite",
+        "gram": "3 pl. impv. mid. √han"
+       }
+      ]
+     },
+     {
+      "src": "yātudhā̱nyo̱3vi",
+      "words": [
+       {
+        "w": "yātudhānyaḥ",
+        "gloss": "female yātudhānas",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tṛ̭hyantāmarā̱yyaḥ",
+      "words": [
+       {
+        "w": "tṛhyantām",
+        "gloss": "let be crushed",
+        "gram": "3 pl. impv. pass. √tṛh"
+       },
+       {
+        "w": "arāyyaḥ",
+        "gloss": "arāyīs (harmful female beings)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यातुधानियाँ पुत्र को खाएँ, बहन को और वंशज को भी। तब बिखरे केशों वाली वे आपस में एक-दूसरे को मारें; यातुधानियाँ और अराय्य कुचल दी जाएँ।",
+  "english": "Let the yātudhānīs eat the son, the sister, and also the descendant. Then let the dishevelled ones smite one another apart; let the yātudhānīs, the arāyīs, be crushed apart.",
+  "text_flags": [
+   {
+    "src": "na̱ptya'm",
+    "suggest": "na̱ptyam",
+    "why": "possible stray avagraha inside the word"
+   }
+  ],
+  "notes": "yātudhānīḥ is plural in form with the singular attu; read as a collective subject. The printed 3 after vikeśyo and yātudhānyo is a pluta sign. naptya is read as 'descendant, grandchild' (uncertain). arāyī is kept as a name for harmful female beings.",
+  "confidence": "medium"
+ }
+]

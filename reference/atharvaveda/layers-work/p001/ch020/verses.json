@@ -1,0 +1,705 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adā̭rasṛd",
+      "words": [
+       {
+        "w": "adārasṛt",
+        "gloss": "not splitting (obscure)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavatu",
+      "words": [
+       {
+        "w": "bhavatu",
+        "gloss": "let be",
+        "gram": "3 sg. impv. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "deva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "somā̱smin",
+      "words": [
+       {
+        "w": "soma",
+        "gloss": "Soma",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "this",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñe",
+      "words": [
+       {
+        "w": "yajñe",
+        "gloss": "sacrifice",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̭ruto",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱ḍatā̭",
+      "words": [
+       {
+        "w": "mṛḍata",
+        "gloss": "be gracious",
+        "gram": "2 pl. impv. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidadabhi̱bhā",
+      "words": [
+       {
+        "w": "vidat",
+        "gloss": "may find",
+        "gram": "3 sg. aor. subj. √vid"
+       },
+       {
+        "w": "abhibhāḥ",
+        "gloss": "overpowering attack (?)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mo",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aśa̭sti̱rmā",
+      "words": [
+       {
+        "w": "aśastiḥ",
+        "gloss": "ill-speech, curse",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidad",
+      "words": [
+       {
+        "w": "vidat",
+        "gloss": "may find",
+        "gram": "3 sg. aor. subj. √vid"
+       }
+      ]
+     },
+     {
+      "src": "vṛji̱nā",
+      "words": [
+       {
+        "w": "vṛjinā",
+        "gloss": "crooked, evil",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dveṣyā̱",
+      "words": [
+       {
+        "w": "dveṣyā",
+        "gloss": "hateful",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देव सोम, इस यज्ञ में अविदारक हो; हे मरुतो, हमारे प्रति कृपालु होओ। न हमें अभिभूत करने वाला प्रहार प्राप्त हो, न अभिशाप; न हमें वह कुटिल और द्वेष्य प्राप्त हो जो ...",
+  "english": "Let it be unsplitting, O god Soma, in this sacrifice; O Maruts, be gracious to us. May no overpowering assault find us, nor curse; may no crooked, hateful thing find us which ...",
+  "text_flags": [],
+  "notes": "adārasṛt is obscure (a-dāra-sṛt, 'not going/splitting into a rift'); its subject is not stated, so the rendering is tentative. abhibhā is taken as 'overpowering attack' (uncertain). The unit ends with the relative yā, whose clause is not completed in the line.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.020.1a",
+   "001.020.1b"
+  ],
+  "lines_deva": [
+   "अदा॑रसृद् भवतु देव सोमा॒स्मिन् य॒ज्ञे म॑रुतो मृ॒डता॑ नः",
+   "मा नो॑ विददभि॒भा मो अश॑स्ति॒र्मा नो॑ विदद् वृजि॒ना द्वेष्या॒ या"
+  ],
+  "lines_iast": [
+   "adā̭rasṛd bhavatu deva somā̱smin ya̱jñe ma̭ruto mṛ̱ḍatā̭ naḥ",
+   "mā no̭ vidadabhi̱bhā mo aśa̭sti̱rmā no̭ vidad vṛji̱nā dveṣyā̱ yā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱dya",
+      "words": [
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "senyo̭",
+      "words": [
+       {
+        "w": "senyaḥ",
+        "gloss": "of the army",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱dho'ghā̱yūnā̭mu̱dīra̭te",
+      "words": [
+       {
+        "w": "vadhaḥ",
+        "gloss": "deadly weapon",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aghāyūnām",
+        "gloss": "of the evil-minded",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "udīrate",
+        "gloss": "rise",
+        "gram": "3 pl. pres. mid. ud-√īr"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yu̱vaṃ",
+      "words": [
+       {
+        "w": "yuvam",
+        "gloss": "you two",
+        "gram": "pron. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̭trāvaruṇāva̱smadyā̭vayata̱ṃ",
+      "words": [
+       {
+        "w": "mitrāvaruṇau",
+        "gloss": "Mitra and Varuṇa",
+        "gram": "m. voc. du."
+       },
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "pron. abl. pl."
+       },
+       {
+        "w": "yāvayatam",
+        "gloss": "keep away",
+        "gram": "2 du. impv. caus. √yu"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "away, around",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो सेना का घातक शस्त्र आज बुरा चाहने वालों की ओर से उठ रहा है, हे मित्र और वरुण, तुम दोनों उसे हमसे चारों ओर से दूर कर दो।",
+  "english": "The deadly weapon of the army that rises today from those who intend evil: do you two, Mitra and Varuṇa, keep that away from us on every side.",
+  "text_flags": [],
+  "notes": "udīrate is plural in form (3 pl.) with singular vadhaḥ; read as 'rise (weapons/blows)' or a pl. verb with a collective subject; the sense is unaffected. Mitrāvaruṇau is a dual dvandva in the vocative.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.020.2a",
+   "001.020.2b"
+  ],
+  "lines_deva": [
+   "यो अ॒द्य सेन्यो॑ व॒धोऽघा॒यूना॑मु॒दीर॑ते",
+   "यु॒वं तं मि॑त्रावरुणाव॒स्मद्या॑वयतं॒ परि॑"
+  ],
+  "lines_iast": [
+   "yo a̱dya senyo̭ va̱dho'ghā̱yūnā̭mu̱dīra̭te",
+   "yu̱vaṃ taṃ mi̭trāvaruṇāva̱smadyā̭vayata̱ṃ pari̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱taśca̱",
+      "words": [
+       {
+        "w": "itaḥ",
+        "gloss": "from here",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yada̱muta̭śca̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "amutaḥ",
+        "gloss": "from there",
+        "gram": "ind."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱dhaṃ",
+      "words": [
+       {
+        "w": "vadham",
+        "gloss": "weapon",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭ruṇa",
+      "words": [
+       {
+        "w": "varuṇa",
+        "gloss": "Varuṇa",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāvaya",
+      "words": [
+       {
+        "w": "yāvaya",
+        "gloss": "drive away",
+        "gram": "2 sg. impv. caus. √yu"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ma̱haccharma̭",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śarma",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaccha̱",
+      "words": [
+       {
+        "w": "yaccha",
+        "gloss": "extend, grant",
+        "gram": "2 sg. impv. √yam"
+       }
+      ]
+     },
+     {
+      "src": "varī̭yo",
+      "words": [
+       {
+        "w": "varīyaḥ",
+        "gloss": "wider, ampler",
+        "gram": "n. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "yāvayā",
+      "words": [
+       {
+        "w": "yāvaya",
+        "gloss": "drive away",
+        "gram": "2 sg. impv. caus. √yu"
+       }
+      ]
+     },
+     {
+      "src": "va̱dham",
+      "words": [
+       {
+        "w": "vadham",
+        "gloss": "weapon",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ से और वहाँ से जो भी घातक शस्त्र, हे वरुण, उसे दूर हटा दो; महान् और अधिक विस्तृत आश्रय प्रदान करो; घातक शस्त्र को दूर करो।",
+  "english": "Whatever weapon from here and whatever from there, Varuṇa, drive it away; extend great and ampler shelter; drive the weapon away.",
+  "text_flags": [],
+  "notes": "In the first line, yat ... vadham is read as 'whatever (is) the weapon'; vi yaccha is 'extend, spread out'. Varīyaḥ is the comparative 'wider, more spacious', here a neuter object with śarma.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.020.3a",
+   "001.020.3b"
+  ],
+  "lines_deva": [
+   "इ॒तश्च॒ यद॒मुत॑श्च॒ यद् व॒धं व॑रुण यावय",
+   "वि म॒हच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम्"
+  ],
+  "lines_iast": [
+   "i̱taśca̱ yada̱muta̭śca̱ yad va̱dhaṃ va̭ruṇa yāvaya",
+   "vi ma̱haccharma̭ yaccha̱ varī̭yo yāvayā va̱dham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śā̱sa",
+      "words": [
+       {
+        "w": "śāsaḥ",
+        "gloss": "ruler, chastiser",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱tthā",
+      "words": [
+       {
+        "w": "itthā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ma̱hā~",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭syamitrasā̱ho",
+      "words": [
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "amitra-sāhaḥ",
+        "gloss": "vanquisher of foes",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "a̭stṛ̱taḥ",
+      "words": [
+       {
+        "w": "astṛtaḥ",
+        "gloss": "unconquered",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasya̭",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱nyate̱",
+      "words": [
+       {
+        "w": "hanyate",
+        "gloss": "is slain",
+        "gram": "3 sg. pass. √han"
+       }
+      ]
+     },
+     {
+      "src": "sakhā̱",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jī̱yatḙ",
+      "words": [
+       {
+        "w": "jīyate",
+        "gloss": "is overcome",
+        "gram": "3 sg. pass. √jyā"
+       }
+      ]
+     },
+     {
+      "src": "ka̱dā",
+      "words": [
+       {
+        "w": "kadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱na",
+      "words": [
+       {
+        "w": "cana",
+        "gloss": "ever",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार तुम शासक, महान्, शत्रुओं को पराजित करने वाले और अपराजित हो, जिसका मित्र न कभी मारा जाता है और न कभी पराभूत होता है।",
+  "english": "Thus you are a great ruler, vanquisher of foes, unconquered, whose friend is never slain and never overcome.",
+  "text_flags": [],
+  "notes": "The addressee is not named in the unit. śāsaḥ is read as 'ruler/chastiser' (uncertain).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.020.4a",
+   "001.020.4b"
+  ],
+  "lines_deva": [
+   "शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रसा॒हो अ॑स्तृ॒तः",
+   "न यस्य॑ ह॒न्यते॒ सखा॒ न जी॒यते॑ क॒दा च॒न"
+  ],
+  "lines_iast": [
+   "śā̱sa i̱tthā ma̱hā~ a̭syamitrasā̱ho a̭stṛ̱taḥ",
+   "na yasya̭ ha̱nyate̱ sakhā̱ na jī̱yatḙ ka̱dā ca̱na"
+  ],
+  "uncertain": []
+ }
+]

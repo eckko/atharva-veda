@@ -1,0 +1,23 @@
+[
+ {
+  "n": "3",
+  "field": "english",
+  "old": "May we readily go to that, for whose dwelling you urge us on; and, O waters, beget us.",
+  "new": "May we readily go to that of yours, for whose dwelling you urge us on; and, O waters, beget us.",
+  "why": "reviewer (error): vaḥ 'your/of you' is parsed in the split but dropped from both translations (that of yours)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उसके पास हम शीघ्र पहुँचें, जिसके निवास के लिए तुम हमें प्रेरित करते हो; और हे जलो, हमें उत्पन्न करो।",
+  "new": "हम शीघ्र उसके पास पहुँचें जो तुम्हारा है, जिसके निवास के लिए तुम हमें प्रेरित करते हो; और हे जलो, हमें उत्पन्न करो।",
+  "why": "reviewer (error): vaḥ 'your/of you' is parsed in the split but dropped from both translations (that of yours)."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "tasmai is taken to refer to the rasa of the previous verse (not named here). kṣayāya could also be 'for possession/abode'. Alternative renderings of jinvatha: 'quicken, refresh'.",
+  "new": "tasmai is taken to refer to the rasa of the previous verse (not named here). kṣayāya could also be 'for possession/abode'. Alternative renderings of jinvatha: 'quicken, refresh'. janayatha is printed janayathā (final ā lengthened; 2 pl. imperative).",
+  "why": "reviewer (minor): Printed janayathā has long ā; w gives janayatha. Either keep janayathā (Vedic) or note the lengthening."
+ }
+]

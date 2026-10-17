@@ -1,0 +1,30 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "To the four immortal guardians of the quarters, the overseers of what exists, we would pay service with this oblation.",
+  "new": "To the four immortal guardians of the quarters, the overseers of what exists, may we serve with this oblation.",
+  "why": "reviewer (minor): vidhema is an optative (\"may we serve/worship\"); \"would pay service\" reads as conditional."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "निर्दोष (लंगड़ेपन से रहित) मैं तुम्हें हवि से यजन करता हूँ; दोषरहित मैं तुम्हें घी से आहुति देता हूँ। जो दिशाओं का चौथा रक्षक देव है, वह हमारे लिए यहाँ शुभ कल्याण ले आए।",
+  "new": "लँगड़ेपन से रहित मैं तुम्हें हवि से यजन करता हूँ; पंगुता से रहित मैं तुम्हें घी से आहुति देता हूँ। जो दिशाओं का चौथा रक्षक देव है, वह हमारे लिए यहाँ शुभ स्थिति ले आए।",
+  "why": "reviewer (error): Hindi says \"faultless\" for asrāma/aślona, but notes and English say \"not lame / not halting\". The Hindi changes the sense. Also \"शुभ कल्याण\" doubles subhūta."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हमारी माता और पिता के लिए कल्याण हो, गौओं के लिए कल्याण हो, चर जगत् के लिए और पुरुषों के लिए कल्याण हो। हमारे लिए सब कुछ शुभ-स्थिति और सुलभ हो; हम चिरकाल तक ही सूर्य को देखें।",
+  "new": "हमारी माता और पिता के लिए कल्याण हो, गौओं के लिए कल्याण हो, चर जगत् के लिए और पुरुषों के लिए कल्याण हो। हमारे लिए सब कुछ शुभ-स्थिति और सुप्राप्त हो; हम चिरकाल तक ही सूर्य को देखें।",
+  "why": "reviewer (minor): Hindi picks \"easily gained\" for suvidatra while English says \"well-found\" and notes say the sense is uncertain."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "suvidatra is uncertain in sense ('well-found', 'easily gained' or 'bountiful'); the rendering is literal. jagat = 'what moves', the living moving world. 'naḥ' in the first line is read with pitre as 'our father' and mātre likewise.",
+  "new": "suvidatra is uncertain in sense ('well-found', 'easily gained' or 'bountiful'); the rendering is literal. jagat = 'what moves', the living moving world. 'naḥ' in the first line is read with pitre as 'our father' and mātre likewise. naḥ in line a could also be dative ('for us').",
+  "why": "reviewer (minor): naḥ is read as genitive in line a and dative in line b; line a could equally be dative (\"be well-being for us\")."
+ }
+]

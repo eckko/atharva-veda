@@ -1,0 +1,183 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(a covering)",
+     "problem": "'(a covering)' is a bracketed interpretive addition; pari dadhmasi = 'we put around'.",
+     "fix": "we place around you",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "we place (a covering) around you",
+      "new": "we place around you"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(रंग)",
+     "problem": "Bracketed gloss in Hindi.",
+     "fix": "गाय के लाल के उस वर्ण से",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "लाल (रंग) के उस वर्ण",
+      "new": "लाल के उस वर्ण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(a covering)",
+     "problem": "'(a covering)' is a bracketed interpretive addition; pari dadhmasi = 'we put around'.",
+     "fix": "we place around you",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "we place (a covering) around you",
+      "new": "we place around you"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(पुरुष)",
+     "problem": "Bracketed addition.",
+     "fix": "यह",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह (पुरुष)",
+      "new": "यह"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dīrgha-āyu-tvāya",
+     "problem": "Not a tat-puruṣa: dīrgha-āyus is a karmadhāraya/adjective compound plus abstract -tva.",
+     "fix": "n. dat. sg., karmadhāraya + -tva",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "dīrgha-āyu-tvāya",
+      "field": "gram",
+      "value": "n. dat. sg., karmadhāraya + -tva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(a covering)",
+     "problem": "'(a covering)' is a bracketed interpretive addition; pari dadhmasi = 'we put around'.",
+     "fix": "we place around you",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "we place (a covering) around you",
+      "new": "we place around you"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(गायें), (बल)",
+     "problem": "Bracketed glosses in Hindi; gāvaḥ is in the text.",
+     "fix": "जो लाल गायें देवों की हैं, और जो अन्य भी लाल हैं ... प्रत्येक आयु के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो लाल (गायें) देवों की हैं, और जो अन्य गायें भी लाल हैं",
+      "new": "जो लाल गायें देवों की हैं, और जो अन्य भी लाल हैं"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रत्येक आयु (बल)",
+     "problem": "bracket",
+     "fix": "प्रत्येक आयु के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रत्येक आयु (बल) के लिए",
+      "new": "प्रत्येक आयु के लिए"
+     }
+    },
+    {
+     "field": "english",
+     "where": "every age (vigour)",
+     "problem": "Bracketed alternative; vayas is already flagged uncertain in notes.",
+     "fix": "every age",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "every age (vigour)",
+      "new": "every age"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ropaṇākāsu",
+     "problem": "'(bird name?)' is speculation; hāridraveṣu is only 'name'.",
+     "fix": "ropaṇākā (name)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "ropaṇākāsu",
+      "field": "gloss",
+      "value": "ropaṇākā (name)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(they may be bird or yellow-coloured beings)",
+     "problem": "Unsupported guess.",
+     "fix": "(delete)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": " (they may be bird or yellow-coloured beings)",
+      "new": ""
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Text flag in unit 1 (hṛddayoto -> hṛddyoto) is correct (8-syllable pada). Minor: bracketed additions in English/Hindi, one compound label, one speculative gloss. No regrouping."
+}

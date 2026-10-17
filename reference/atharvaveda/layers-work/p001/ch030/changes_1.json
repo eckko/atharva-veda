@@ -1,0 +1,67 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे सब देवो, हे वसुओ, इस (पुरुष) की रक्षा करो; हे आदित्यो, तुम इसके विषय में जागरूक रहो। मनुष्य से उत्पन्न जो घातक प्रहार है, वह इस तक न पहुँचे, चाहे वह सगे-सम्बन्धी की ओर से हो या अन्य की ओर से।",
+  "new": "हे सब देवो, हे वसुओ, इसकी रक्षा करो; हे आदित्यो, तुम इसके विषय में जागरूक रहो। मनुष्य से उत्पन्न जो घातक प्रहार है, वह इस तक न पहुँचे, चाहे वह सगे-सम्बन्धी की ओर से हो या अन्य की ओर से।",
+  "why": "reviewer (minor): \"(पुरुष)\" adds \"man\"; the text has only imam \"this one\"."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "sa-nābhiḥ",
+  "old": "m. inst. sg. (tat-puruṣa/bahuvrīhi)",
+  "new": "m. inst. sg. (bahuvrīhi)",
+  "why": "reviewer (minor): sanābha is a bahuvrīhi (\"having the same navel\"), not tat-puruṣa; the label hedges both."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जो तुम देव हो, पितर हो और जो पुत्र हो, हे समान मन वाले (देवो), मेरा यह कहा हुआ वचन सुनो। तुम सब को मैं इस (पुरुष) को सौंपता हूँ; इसे कल्याणपूर्वक बुढ़ापे तक पहुँचाओ।",
+  "new": "जो तुम देव हो, पितर हो और जो पुत्र हो, हे समान मन वाले (देवो), मेरा यह कहा हुआ वचन सुनो। मैं तुम सब को इसे सौंपता हूँ; इसे कल्याणपूर्वक बुढ़ापे तक पहुँचाओ।",
+  "why": "reviewer (minor): Double \"को\" is clumsy and \"(पुरुष)\" is an addition."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "You gods who are in heaven, on earth, in the mid-air, among the plants, among cattle and within the waters: make for him a life-span lasting to old age, and let him (or it) turn aside the other hundred deaths.",
+  "new": "You gods who are in heaven, on earth, in the mid-air, among the plants, among cattle and within the waters: make for him a life-span lasting to old age, and let him (or it) turn aside a hundred other deaths.",
+  "why": "reviewer (minor): \"the other hundred\" is not what śatam anyān mṛtyūn says; śatam with mṛtyūn means \"a hundred other deaths\"."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "You gods whose are the fore-offerings and the after-offerings, who have a share of what is offered and who eat what is not offered, you among whom the five directions are apportioned: I make you, sitting together in session, for him.",
+  "new": "You gods whose are the fore-offerings or the after-offerings, who have a share of what is offered and who eat what is not offered, you among whom the five directions are apportioned: I make you, sitting together in session, for him.",
+  "why": "reviewer (minor): The text has uta vā (\"or also\"), not a plain \"and\"."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जिनके प्रयाज और अनुयाज हैं, जो हुत (अर्पित) में भाग वाले हैं और जो अनर्पित को खाने वाले देव हैं; तुम में से जिनके लिए पाँच दिशाएँ बाँटी गई हैं, उन तुम सबको मैं इसके लिए (यज्ञ-)सत्र में बैठने वाला बनाता हूँ।",
+  "new": "जिनके प्रयाज या अनुयाज हैं, जो हुत (अर्पित) में भाग वाले हैं और जो अनर्पित को खाने वाले देव हैं; तुम में से जिनके लिए पाँच दिशाएँ बाँटी गई हैं, उन तुम सबको मैं इसके लिए (यज्ञ-)सत्र में बैठने वाला बनाता हूँ।",
+  "why": "reviewer (minor): Same: uta vā is \"or\"."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "You gods whose are the fore-offerings or the after-offerings, who have a share of what is offered and who eat what is not offered, you among whom the five directions are apportioned: I make you, sitting together in session, for him.",
+  "new": "You gods whose are the fore-offerings or the after-offerings, who have a share of what is offered and who eat what is not offered, you among whom the five directions are apportioned: I make you, those who sit in the session, for him.",
+  "why": "reviewer (minor): \"together\" is not in satra-sadaḥ."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जिनके प्रयाज या अनुयाज हैं, जो हुत (अर्पित) में भाग वाले हैं और जो अनर्पित को खाने वाले देव हैं; तुम में से जिनके लिए पाँच दिशाएँ बाँटी गई हैं, उन तुम सबको मैं इसके लिए (यज्ञ-)सत्र में बैठने वाला बनाता हूँ।",
+  "new": "जिनके प्रयाज या अनुयाज हैं, जो हुत (अर्पित) में भाग वाले हैं और जो अनर्पित को खाने वाले देव हैं; तुम में से जिनके लिए पाँच दिशाएँ बाँटी गई हैं, उन तुम सबको मैं इसके लिए सत्र में बैठने वाला बनाता हूँ।",
+  "why": "reviewer (minor): \"यज्ञ\" is an addition in brackets."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "a-huta-adaḥ",
+  "old": "m. nom. pl. (bahuvrīhi)",
+  "new": "m. nom. pl. (upapada tat-puruṣa)",
+  "why": "reviewer (minor): ahutād is an agent-noun compound (a-huta + ad, \"eater of the unoffered\"), not a bahuvrīhi."
+ }
+]

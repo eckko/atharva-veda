@@ -218,3 +218,16 @@ Kinds: missing 2, numbering 20, other 175, possible-typo 13
 | 020.143 | other | no title or header line in source | S1 | review |
 
 Also: source verse lines are NFC-normalised; line 011.003.129 has a double space inside the line in the source (checker warning, text kept as is).
+
+## Verification stage (2026-10-17)
+
+| Line ID | Kind | What | Suggested check |
+|---|---|---|---|
+| 020.003 | missing | S1 has only the header line, no mantra text | obtain the text from another edition |
+| 020.013 | missing | same | same |
+| 008.010 | numbering | verse-end markers written `॥N॥(M)`; parser did not read `(M)`, so verse grouping and IDs are wrong (finding F1) | owner approves parser fix and renumbering |
+| 004.001 | possible-typo | 5 stray private-use characters (U+E003) | printed edition |
+| various | possible-typo | 13 further proofread proposals in `checks/proposals.tsv` (e.g. 002.011.3a, 011.003.51, 016.008.36/50/99/17, 006.006.1a, 002.009.1b, 004.006.5b, 020.071.10) | printed edition |
+| 017.001.28 | possible-typo | `avasṛṣṭāḥ vadhāya`: visarga before v, expected `avasṛṣṭā vadhāya` | printed edition |
+| 001.027 (unit 4) | possible-typo | `indrāṇye'tu`: regular sandhi would be `indrāṇy etu` | printed edition |
+| 014.001 | possible-typo | `panthano`, `jatavedāḥ`, `imaṃ` read as `panthāno`, `jātavedāḥ`, `imām` in the draft layers without a flag | printed edition |

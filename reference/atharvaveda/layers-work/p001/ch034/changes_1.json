@@ -1,0 +1,31 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मैं मधु से भी अधिक मधुर हूँ, मधु देने वाले (मधुघा) से भी अधिक मधुमान् हूँ। तू निश्चय ही मुझे ही चाहे/अपनाए, जैसे मधु से भरी शाखा को।",
+  "new": "मैं मधु से भी अधिक मधुर हूँ, मधु देने वाले (मदुघा) से भी अधिक मधुमान् हूँ। तू निश्चय ही मुझे ही चाहे/अपनाए, जैसे मधु से भरी शाखा को।",
+  "why": "reviewer (minor): Printed word is madughā (madu-), not madhughā."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मैं मधु से भी अधिक मधुर हूँ, मधु देने वाले (मदुघा) से भी अधिक मधुमान् हूँ। तू निश्चय ही मुझे ही चाहे/अपनाए, जैसे मधु से भरी शाखा को।",
+  "new": "मैं मधु से भी अधिक मधुर हूँ, मधु देने वाले (मदुघा) से भी अधिक मधुमान् हूँ। तू निश्चय ही मुझे ही चाहेगी, जैसे मधु से भरी शाखा को।",
+  "why": "reviewer (minor): Slash alternatives in a translation, and a 3rd-person form for a 2nd-person verb."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "I am sweeter than honey, more honeyed than the honey-yielder. You shall surely embrace only me, like a honeyed branch.",
+  "new": "I am sweeter than honey, more honeyed than the honey-yielder. You shall surely love only me, like a honeyed branch.",
+  "why": "reviewer (minor): \"embrace\" is an addition; √van is \"love, desire, win\"."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "vanāḥ",
+  "old": "you shall embrace (love)",
+  "new": "you shall love (desire)",
+  "why": "reviewer (minor): Match the gloss."
+ }
+]

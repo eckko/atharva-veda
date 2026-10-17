@@ -1,0 +1,579 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yḙ",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "rel. m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "triṣaptāḥ",
+      "words": [
+       {
+        "w": "tri-saptāḥ",
+        "gloss": "thrice-seven",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pa̭ri̱ya̭nti",
+      "words": [
+       {
+        "w": "pari-yanti",
+        "gloss": "go around",
+        "gram": "3 pl. pres. pari-√i"
+       }
+      ]
+     },
+     {
+      "src": "vi̭śvā",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rū̱pāṇi̱",
+      "words": [
+       {
+        "w": "rūpāṇi",
+        "gloss": "forms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bibhra̭taḥ",
+      "words": [
+       {
+        "w": "bibhrataḥ",
+        "gloss": "bearing",
+        "gram": "pres. part. m. nom. pl. √bhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vā̱caspa̱tirbalā̱",
+      "words": [
+       {
+        "w": "vācaḥ-patiḥ",
+        "gloss": "lord of speech",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "balā",
+        "gloss": "strengths",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "teṣā̭ṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "their",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tanvo̱",
+      "words": [
+       {
+        "w": "tanvaḥ",
+        "gloss": "bodies",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱dya",
+      "words": [
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhātu",
+      "words": [
+       {
+        "w": "dadhātu",
+        "gloss": "may he place",
+        "gram": "3 sg. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "in me",
+        "gram": "1 sg. enclitic"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो इक्कीस सब रूपों को धारण करते हुए चारों ओर विचरते हैं, उनके बलों और शरीरों को आज वाचस्पति मुझमें स्थापित करें।",
+  "english": "Those thrice-seven who go around bearing all forms — may Vācaspati today place their strengths and bodies in me.",
+  "text_flags": [],
+  "notes": "triṣaptāḥ: 'thrice-seven', i.e. twenty-one; the line does not say who they are. viśvā is the neuter plural form (viśvāni) used with rūpāṇi. tanvaḥ read as accusative plural 'bodies', parallel to balā.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṷnarḙhi",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "ehi",
+        "gloss": "come",
+        "gram": "2 sg. imp. ā-√i"
+       }
+      ]
+     },
+     {
+      "src": "vacaspate",
+      "words": [
+       {
+        "w": "vācaḥ-pate",
+        "gloss": "O lord of speech",
+        "gram": "tat-puruṣa, m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vena̱",
+      "words": [
+       {
+        "w": "devena",
+        "gloss": "divine",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̭nasā",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vaso̭ṣpate̱",
+      "words": [
+       {
+        "w": "vasoḥ-pate",
+        "gloss": "O lord of wealth",
+        "gram": "tat-puruṣa, m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down, firmly",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ra̭maya̱",
+      "words": [
+       {
+        "w": "ramaya",
+        "gloss": "make rest",
+        "gram": "2 sg. imp. caus. √ram"
+       }
+      ]
+     },
+     {
+      "src": "mayye̱vāstu̱",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "astu",
+        "gloss": "let be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "mayi̭",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śru̱tam",
+      "words": [
+       {
+        "w": "śrutam",
+        "gloss": "what is heard",
+        "gram": "n. nom. sg. p.p. √śru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वाचस्पति, दिव्य मन के साथ फिर लौट आओ। हे धन के स्वामी, उसे मुझमें टिका दो; जो सुना है वह मुझमें ही रहे।",
+  "english": "Come back again, O Vācaspati, together with the divine mind. O lord of wealth, make it rest in me; let what has been heard be in me alone.",
+  "text_flags": [],
+  "notes": "The object of ni ramaya is not stated; 'it' (the mind or what has been heard) is the natural supply. vasoṣpate: vasoḥ-pate, 'lord of wealth', here an epithet of the same Vācaspati.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱haivābhi̭",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart, out",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ta̭nū̱bhe",
+      "words": [
+       {
+        "w": "tanu",
+        "gloss": "stretch",
+        "gram": "2 sg. imp. √tan"
+       },
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ārtnī̭",
+      "words": [
+       {
+        "w": "ārtnī",
+        "gloss": "bow-ends",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "iva̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jya̭yā",
+      "words": [
+       {
+        "w": "jyayā",
+        "gloss": "with the bowstring",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vā̱caspati̱rni",
+      "words": [
+       {
+        "w": "vācaḥ-patiḥ",
+        "gloss": "lord of speech",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "ni",
+        "gloss": "firmly",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ya̭cchatu̱",
+      "words": [
+       {
+        "w": "yacchatu",
+        "gloss": "may he hold fast",
+        "gram": "3 sg. imp. ni-√yam"
+       }
+      ]
+     },
+     {
+      "src": "mayye̱vā̭stu̱",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "astu",
+        "gloss": "let be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "mayi̭",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śru̱tam",
+      "words": [
+       {
+        "w": "śrutam",
+        "gloss": "what is heard",
+        "gram": "n. nom. sg. p.p. √śru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहीं दोनों पर तान दो, जैसे धनुष के दोनों सिरे डोरी से तने रहते हैं। वाचस्पति उसे दृढ़ता से थामे रखें; जो सुना है वह मुझमें ही रहे।",
+  "english": "Right here stretch out over both, as the two bow-ends are stretched by the bowstring. May Vācaspati hold it fast; let what has been heard be in me alone.",
+  "text_flags": [],
+  "notes": "tanūbhe read as tanu (imp. of √tan, lengthened) + ubhe; what the 'both' are is not stated in the line. Object of ni yacchatu implied. Other renderings of the first line are possible.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṷpahūto",
+      "words": [
+       {
+        "w": "upahūtaḥ",
+        "gloss": "invited",
+        "gram": "p.p. m. nom. sg. upa-√hū"
+       }
+      ]
+     },
+     {
+      "src": "vā̱caspati̱rupā̱smān",
+      "words": [
+       {
+        "w": "vācaḥ-patiḥ",
+        "gloss": "lord of speech",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "near, to",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā̱caspa̭tirhvayatām",
+      "words": [
+       {
+        "w": "vācaḥ-patiḥ",
+        "gloss": "lord of speech",
+        "gram": "tat-puruṣa, m. nom. sg."
+       },
+       {
+        "w": "hvayatām",
+        "gloss": "let him call",
+        "gram": "3 sg. imp. mid. √hve"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "saṃ",
+        "gloss": "together",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "śru̱tena̭",
+      "words": [
+       {
+        "w": "śrutena",
+        "gloss": "with what is heard",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gamemahi̱",
+      "words": [
+       {
+        "w": "gamemahi",
+        "gloss": "may we attain",
+        "gram": "1 pl. opt. mid. saṃ-√gam"
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śru̱tena̱",
+      "words": [
+       {
+        "w": "śrutena",
+        "gloss": "with what is heard",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart, out",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "rā̭dhiṣi",
+      "words": [
+       {
+        "w": "rādhiṣi",
+        "gloss": "may I be deprived",
+        "gram": "1 sg. aor. pass. vi-√rādh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वाचस्पति को बुलाया जा चुका है; वाचस्पति हमें अपने पास बुलाएँ। हम श्रुत से जुड़ें; मैं श्रुत से वंचित न होऊँ।",
+  "english": "Vācaspati has been invited; may Vācaspati call us to him. May we be joined with what is heard; may I not be deprived of what is heard.",
+  "text_flags": [],
+  "notes": "rādhiṣi: taken as a 1 sg. aorist passive of vi-√rādh with mā ('may I not be deprived/ harmed'); the form is Vedic and its exact analysis is not certain.",
+  "confidence": "medium"
+ }
+]

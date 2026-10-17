@@ -1,0 +1,38 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे देवो, वह शस्त्र हमसे दूर रहे; ऐसा ही हो। वह पत्थर भी दूर रहे जिसे तुम फेंकते हो।",
+  "new": "हे देवो, वह शस्त्र हमसे दूर रहे; ऐसा ही हो। वह पत्थर दूर रहे जिसे तुम फेंकते हो।",
+  "why": "reviewer (minor): 'भी' (also) is not in the text."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Let that missile be far from us, O gods; may it be so. Far be the stone which you hurl.",
+  "new": "Let that missile be far from us, O gods; may it be. Far be the stone which you hurl.",
+  "why": "reviewer (minor): 'so' / 'ऐसा ही हो' reads asat as an amen formula; unsupported. Keep as tentative 'may it be' only."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "asau",
+  "old": "m. nom. sg.",
+  "new": "f. nom. sg. (agreeing with hetiḥ)",
+  "why": "reviewer (minor): asau agrees with feminine hetiḥ; 'm.' is misleading."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "वह दान हमारे लिए मित्र हो; मित्र इन्द्र, भग और विचित्र (उज्ज्वल) दान वाला सविता हों।",
+  "new": "वह दान हमारे लिए मित्र हो; मित्र इन्द्र, भग और विचित्र दान वाला सविता हों।",
+  "why": "reviewer (minor): Bracketed gloss; English says 'bright'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे मरुतो, तुम ऊँचाई (ढलान) की सन्तान, सूर्य के समान त्वचा वाले, हमें आश्रय प्रदान करते हो, हे विस्तृत फैले हुए।",
+  "new": "हे मरुतो, तुम ढलान की सन्तान, सूर्य के समान त्वचा वाले, हमें आश्रय प्रदान करते हो, हे विस्तृत फैले हुए।",
+  "why": "reviewer (minor): Bracketed gloss and 'ऊँचाई' (height) contradicts 'steep/slope'."
+ }
+]

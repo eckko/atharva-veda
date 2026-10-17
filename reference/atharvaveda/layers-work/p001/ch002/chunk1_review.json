@@ -1,0 +1,25 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "No corrections; unit 2 low confidence is honest (vīḍuḥ varīyaḥ, apa...ā-kṛdhi, avagraha unexplained). No regrouping suggested."
+}

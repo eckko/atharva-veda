@@ -1,44 +1,44 @@
 # Status: atharvaveda
 
-Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (DharmicData, Vedic Heritage Portal text). No Hindi or English files: none were found or requested yet.
+Updated: 2026-10-17 on branch docs/2026-10-17/version-2. Base source: S1 (DharmicData, Vedic Heritage Portal text). Hindi and English (and the sandhi word split) exist only as AI drafts, reviewed once by a second AI pass, for parts 001, 014 and 017 (38 chapters, 647 lines); none has been read by a person. All other parts: no layers yet.
 
 | Part | Chapter | Sanskrit lines | Source | Hindi | English | Check | Notes |
 |---|---|---|---|---|---|---|---|
-| 001 | 001 | 8 | S1 | -- | -- | pass |  |
-| 001 | 002 | 8 | S1 | -- | -- | pass |  |
-| 001 | 003 | 18 | S1 | -- | -- | pass |  |
-| 001 | 004 | 5 | S1 | -- | -- | pass |  |
-| 001 | 005 | 4 | S1 | -- | -- | pass |  |
-| 001 | 006 | 5 | S1 | -- | -- | pass |  |
-| 001 | 007 | 14 | S1 | -- | -- | pass |  |
-| 001 | 008 | 8 | S1 | -- | -- | pass |  |
-| 001 | 009 | 8 | S1 | -- | -- | pass |  |
-| 001 | 010 | 8 | S1 | -- | -- | pass |  |
-| 001 | 011 | 12 | S1 | -- | -- | pass |  |
-| 001 | 012 | 8 | S1 | -- | -- | pass |  |
-| 001 | 013 | 8 | S1 | -- | -- | pass |  |
-| 001 | 014 | 8 | S1 | -- | -- | pass |  |
-| 001 | 015 | 8 | S1 | -- | -- | pass |  |
-| 001 | 016 | 8 | S1 | -- | -- | pass |  |
-| 001 | 017 | 7 | S1 | -- | -- | pass |  |
-| 001 | 018 | 8 | S1 | -- | -- | pass |  |
-| 001 | 019 | 8 | S1 | -- | -- | pass |  |
-| 001 | 020 | 8 | S1 | -- | -- | pass |  |
-| 001 | 021 | 8 | S1 | -- | -- | pass |  |
-| 001 | 022 | 8 | S1 | -- | -- | pass |  |
-| 001 | 023 | 8 | S1 | -- | -- | pass |  |
-| 001 | 024 | 8 | S1 | -- | -- | pass |  |
-| 001 | 025 | 8 | S1 | -- | -- | pass |  |
-| 001 | 026 | 4 | S1 | -- | -- | pass |  |
-| 001 | 027 | 8 | S1 | -- | -- | pass |  |
-| 001 | 028 | 8 | S1 | -- | -- | pass |  |
-| 001 | 029 | 12 | S1 | -- | -- | pass |  |
-| 001 | 030 | 8 | S1 | -- | -- | pass |  |
-| 001 | 031 | 8 | S1 | -- | -- | pass |  |
-| 001 | 032 | 8 | S1 | -- | -- | pass |  |
-| 001 | 033 | 8 | S1 | -- | -- | pass |  |
-| 001 | 034 | 10 | S1 | -- | -- | pass |  |
-| 001 | 035 | 8 | S1 | -- | -- | pass |  |
+| 001 | 001 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 002 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 003 | 18 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 004 | 5 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 005 | 4 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 006 | 5 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 007 | 14 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 008 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 009 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 010 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 011 | 12 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 012 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 013 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 014 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 015 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 016 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 017 | 7 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 018 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 019 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 020 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 021 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 022 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 023 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 024 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 025 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 026 | 4 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 027 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 028 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 029 | 12 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 030 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 031 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 032 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 033 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 034 | 10 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 001 | 035 | 8 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
 | 002 | 001 | 10 | S1 | -- | -- | pass |  |
 | 002 | 002 | 10 | S1 | -- | -- | pass |  |
 | 002 | 003 | 12 | S1 | -- | -- | pass |  |
@@ -491,8 +491,8 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (Dharmi
 | 013 | 007 | 17 | S1 | -- | -- | pass | see ISSUES.md (numbering) |
 | 013 | 008 | 6 | S1 | -- | -- | pass | see ISSUES.md (numbering) |
 | 013 | 009 | 5 | S1 | -- | -- | pass | see ISSUES.md (numbering) |
-| 014 | 001 | 128 | S1 | -- | -- | pass |  |
-| 014 | 002 | 152 | S1 | -- | -- | pass |  |
+| 014 | 001 | 128 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
+| 014 | 002 | 152 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
 | 015 | 001 | 9 | S1 | -- | -- | pass |  |
 | 015 | 002 | 44 | S1 | -- | -- | pass | see ISSUES.md (possible-typo) |
 | 015 | 003 | 11 | S1 | -- | -- | pass |  |
@@ -520,7 +520,7 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (Dharmi
 | 016 | 007 | 13 | S1 | -- | -- | pass |  |
 | 016 | 008 | 108 | S1 | -- | -- | pass | see ISSUES.md (numbering, possible-typo) |
 | 016 | 009 | 4 | S1 | -- | -- | pass |  |
-| 017 | 001 | 76 | S1 | -- | -- | pass |  |
+| 017 | 001 | 76 | S1 | draft | draft | pass | sandhi + Hindi + English: reviewed AI draft |
 | 018 | 001 | 122 | S1 | -- | -- | pass |  |
 | 018 | 002 | 119 | S1 | -- | -- | pass |  |
 | 018 | 003 | 145 | S1 | -- | -- | pass |  |

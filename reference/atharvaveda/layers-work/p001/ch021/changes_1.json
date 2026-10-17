@@ -1,0 +1,31 @@
+[
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "'naḥ' in line 1 is read as the enclitic pronoun with naḥ indra giving na indra; vi ... jahi taken as 'smite apart'. mṛdh (f.) is 'foe/enemy' (also 'contempt').",
+  "new": "naḥ is read as the enclitic pronoun 'our' (naḥ + indra giving na indra); vi ... jahi taken as 'smite apart'. mṛdh (f.) is 'foe/enemy' (also 'contempt').",
+  "why": "reviewer (minor): Garbled sentence."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "pṛtanyataḥ",
+  "old": "m. acc. pl. pres. part. √pṛtanya",
+  "new": "m. acc. pl. pres. part. denom. pṛtanya- (from pṛtanā)",
+  "why": "reviewer (minor): pṛtanya is not a root; participle is of the denominative pṛtanya- (from pṛtanā)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Strike the rakṣas apart, strike the foes apart; break apart the two jaws of Vṛtra. Break apart, Indra, slayer of Vṛtra, the wrath of the enemy who assails us.",
+  "new": "Strike the rakṣas apart, strike the foes apart; break apart the two jaws of Vṛtra. Break apart, Indra, slayer of Vṛtra, the wrath of the enemy who assails.",
+  "why": "reviewer (minor): 'us' is not in the text (abhidāsataḥ has no object)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "राक्षस को चूर-चूर करो, शत्रुओं को चूर-चूर करो; वृत्र के दोनों जबड़े तोड़ डालो। हे वृत्रहन् इन्द्र, आक्रमण करने वाले शत्रु के क्रोध को तोड़ दो।",
+  "new": "रक्षस् को चूर-चूर करो, शत्रुओं को चूर-चूर करो; वृत्र के दोनों जबड़े तोड़ डालो। हे वृत्रहन् इन्द्र, आक्रमण करने वाले शत्रु के क्रोध को तोड़ दो।",
+  "why": "reviewer (minor): GLOSSARY keeps the word rakṣas; Hindi राक्षस is a different (later) form."
+ }
+]

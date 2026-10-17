@@ -1,0 +1,845 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I call upon Indra by his praiseworthy name",
+     "problem": "'his' is added, and īḍyaṃ is attached to nāma although every other epithet in the series (viṣāsahim ... saṃdhanājitam) is acc. m. agreeing with indram; īḍyam most naturally agrees with Indra and nāma is adverbial 'by name'. The draft commits to one reading and calls the unit 'high'.",
+     "fix": "I call upon Indra by name, the praiseworthy: the all-overcoming ... (Hindi: मैं स्तुति-योग्य इन्द्र को नाम से पुकारता हूँ: ...); or keep the draft reading but drop 'his'/'उसके' and set confidence to medium.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I call upon Indra by his praiseworthy name",
+     "problem": "'his' is added, and īḍyaṃ is attached to nāma although every other epithet in the series (viṣāsahim ... saṃdhanājitam) is acc. m. agreeing with indram; īḍyam most naturally agrees with Indra and nāma is adverbial 'by name'. The draft commits to one reading and calls the unit 'high'.",
+     "fix": "I call upon Indra by name, the praiseworthy: the all-overcoming ... (Hindi: मैं स्तुति-योग्य इन्द्र को नाम से पुकारता हूँ: ...); or keep the draft reading but drop 'his'/'उसके' and set confidence to medium.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I call upon Indra by his praiseworthy name",
+     "problem": "'his' is added, and īḍyaṃ is attached to nāma although every other epithet in the series (viṣāsahim ... saṃdhanājitam) is acc. m. agreeing with indram; īḍyam most naturally agrees with Indra and nāma is adverbial 'by name'. The draft commits to one reading and calls the unit 'high'.",
+     "fix": "I call upon Indra by name, the praiseworthy: the all-overcoming ... (Hindi: मैं स्तुति-योग्य इन्द्र को नाम से पुकारता हूँ: ...); or keep the draft reading but drop 'his'/'उसके' and set confidence to medium.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I call upon Indra by his praiseworthy name",
+     "problem": "'his' is added, and īḍyaṃ is attached to nāma although every other epithet in the series (viṣāsahim ... saṃdhanājitam) is acc. m. agreeing with indram; īḍyam most naturally agrees with Indra and nāma is adverbial 'by name'. The draft commits to one reading and calls the unit 'high'.",
+     "fix": "I call upon Indra by name, the praiseworthy: the all-overcoming ... (Hindi: मैं स्तुति-योग्य इन्द्र को नाम से पुकारता हूँ: ...); or keep the draft reading but drop 'his'/'उसके' and set confidence to medium.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I call upon Indra by his praiseworthy name",
+     "problem": "'his' is added, and īḍyaṃ is attached to nāma although every other epithet in the series (viṣāsahim ... saṃdhanājitam) is acc. m. agreeing with indram; īḍyam most naturally agrees with Indra and nāma is adverbial 'by name'. The draft commits to one reading and calls the unit 'high'.",
+     "fix": "I call upon Indra by name, the praiseworthy: the all-overcoming ... (Hindi: मैं स्तुति-योग्य इन्द्र को नाम से पुकारता हूँ: ...); or keep the draft reading but drop 'his'/'उसके' and set confidence to medium.",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "dear to my equals",
+     "problem": "'my' is not in the text (samānānām 'of equals').",
+     "fix": "dear to equals",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "dear to my equals",
+      "new": "dear to equals"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Let the one who hates me be subdued to me",
+     "problem": "'ca' (and) is dropped and 'me' is added after 'hates' (dviṣan has no object; the second clause correctly says 'the one who hates' without 'me').",
+     "fix": "And let the one who hates be subdued to me",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "Let the one who hates me be subdued to me",
+      "new": "And let the one who hates be subdued to me"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो मुझसे द्वेष करता है वह मेरे वश में हो",
+     "problem": "Same: 'ca' dropped, 'मुझसे' added.",
+     "fix": "और जो द्वेष करता है वह मेरे वश में हो",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो मुझसे द्वेष करता है वह मेरे वश में हो",
+      "new": "और जो द्वेष करता है वह मेरे वश में हो"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vīryā'ni / why",
+     "problem": "The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not.",
+     "fix": "Devanagari of this unit also prints ऽनि; later units (10 onward) read वी॒र्याऽणि and the form is required by retroflexion after r",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vīryā'ni / why",
+     "problem": "The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not.",
+     "fix": "Devanagari of this unit also prints ऽनि; later units (10 onward) read वी॒र्याऽणि and the form is required by retroflexion after r",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vīryā'ni / why",
+     "problem": "The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not.",
+     "fix": "Devanagari of this unit also prints ऽनि; later units (10 onward) read वी॒र्याऽणि and the form is required by retroflexion after r",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sa (gloss 'he, that one')",
+     "problem": "The word is glossed but not translated in Hindi or English; the omission is silent.",
+     "fix": "Add note: sa is the demonstrative 'that one', left untranslated in the idiom 'sa naḥ mṛḍa' / 'sa tvam' ('be gracious to us').",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "'sa' (that one) is not translated separately; it only points back to the addressee ('you, such as you are')."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vīryā'ni / why",
+     "problem": "The 'why' says the Devanagari reads ṇ; in units 6-9 the printed Devanagari itself reads ऽनि (वी॒र्याऽनि). Only units 10 onward read ऽणि. The suggestion vīryā'ṇi is right, the reason is not.",
+     "fix": "Devanagari of this unit also prints ऽनि; later units (10 onward) read वी॒र्याऽणि and the form is required by retroflexion after r",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "Printed n (Devanagari ऽनि) looks like a typo: units 10 onward read वी॒र्याऽणि, and ṇ is required after r in vīryāṇi"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tridivam",
+     "problem": "Gram says 'm. acc. sg.'; tridiva ('third heaven') is given as a neuter in the lexica. Check.",
+     "fix": "n. acc. sg.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sa (gloss 'he, that one')",
+     "problem": "The word is glossed but not translated in Hindi or English; the omission is silent.",
+     "fix": "Add note: sa is the demonstrative 'that one', left untranslated in the idiom 'sa naḥ mṛḍa' / 'sa tvam' ('be gracious to us').",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "append_note",
+      "text": "'sa' (that one) is not translated separately; it only points back to the addressee ('you, such as you are')."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sa (gloss 'he, that one')",
+     "problem": "The word is glossed but not translated in Hindi or English; the omission is silent.",
+     "fix": "Add note: sa is the demonstrative 'that one', left untranslated in the idiom 'sa naḥ mṛḍa' / 'sa tvam' ('be gracious to us').",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "append_note",
+      "text": "'sa' (that one) is not translated separately; it only points back to the addressee ('you, such as you are')."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃ",
+     "problem": "'wholly' is not supported; saṃ here is a preverb with yaccha (saṃ-√yam) or the noun śaṃ-type 'welfare', and the translation omits it.",
+     "fix": "preverb with yaccha (saṃ-√yam), not translated separately",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "saṃ",
+      "field": "gloss",
+      "value": "preverb with yaccha (saṃ-√yam, 'hold out, grant'); not translated separately"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसी शरीर से",
+     "problem": "'उसी' adds emphasis ('that very'); tayā is just 'by that'.",
+     "fix": "उस शरीर से",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसी शरीर से",
+      "new": "उस शरीर से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tvaṃ tṛtaṃ ...",
+     "problem": "The first clause 'tvaṃ tṛtaṃ' has no verb of its own; the translation silently extends 'pary eṣi' to it ('You go around the tṛta'). That is an assumption, not text.",
+     "fix": "Add note; read the first clause as ellipsis-uncertain.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "append_note",
+      "text": "'tvaṃ tṛtaṃ' has no verb; 'you go around' in the first clause is carried over from pary eṣi and is an assumption."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "you go against imprecation on a fair day, repelling it",
+     "problem": "'go against' and 'repelling it' are interpretation; aśastim eṣi is literally 'you go to/approach imprecation', and bādhamānaḥ has no printed object.",
+     "fix": "you go to imprecation on a fair day, repelling",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "you go against imprecation on a fair day, repelling it",
+      "new": "you go to imprecation on a fair day, repelling"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अभिशाप को दूर हटाते हुए उसकी ओर जाते हो",
+     "problem": "Same: 'उसकी ओर' and 'को दूर हटाते' make the reading firmer than the text.",
+     "fix": "अभिशाप के पास जाते हो, दूर हटाते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अभिशाप को दूर हटाते हुए उसकी ओर जाते हो",
+      "new": "अभिशाप के पास जाते हो, दूर हटाते हुए"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "What has been is placed in what will be",
+     "problem": "'ha' (indeed) is glossed but dropped from both translations.",
+     "fix": "What has been is indeed placed in what will be",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "What has been is placed in what will be",
+      "new": "What has been is indeed placed in what will be"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो हो चुका है वह जो होगा उसमें रखा है",
+     "problem": "'ha' dropped.",
+     "fix": "जो हो चुका है वह निश्चय ही जो होगा उसमें रखा है",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो हो चुका है वह जो होगा उसमें रखा है",
+      "new": "जो हो चुका है वह निश्चय ही जो होगा उसमें रखा है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sa yathā",
+     "problem": "'sa' is glossed 'he, that one' but is not translated; here it is a correlative/pleonastic particle ('so, just as').",
+     "fix": "Add note on sa.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "append_note",
+      "text": "'sa' in 'sa yathā' is a pleonastic/correlative particle and is not translated separately."
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "bhrājatā",
+     "problem": "Notes admit the form of bhrājatā is uncertain, yet confidence is 'high'.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sa yathā",
+     "problem": "'sa' is glossed 'he, that one' but is not translated; here it is a correlative/pleonastic particle ('so, just as').",
+     "fix": "Add note on sa.",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "append_note",
+      "text": "'sa' in 'sa yathā' is a pleonastic/correlative particle and is not translated separately."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ruciṣīya",
+     "problem": "Labelled 'opt. mid.'; the -ṣīya form is the middle precative (benedictive), as bhūyāsam and bhrājyāsam are labelled 'prec.'.",
+     "fix": "1 sg. prec. mid. √ruc",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "ruciṣīya",
+      "field": "gram",
+      "value": "1 sg. prec. mid. √ruc"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विशेष शासक को",
+     "problem": "virāj is rendered 'wide ruler' in English but Hindi 'विशेष शासक' means 'special ruler'; vi- here is 'widely', not 'special'.",
+     "fix": "दूर तक शासन करने वाले को",
+     "severity": "error",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विशेष शासक को",
+      "new": "दूर तक शासन करने वाले को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विशेष शासक को",
+     "problem": "virāj is rendered 'wide ruler' in English but Hindi 'विशेष शासक' means 'special ruler'; vi- here is 'widely', not 'special'.",
+     "fix": "दूर तक शासन करने वाले को",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विशेष शासक को",
+      "new": "दूर तक शासन करने वाले को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the one who hates me",
+     "problem": "'me' added; dviṣate is just 'to the hater' (Hindi correctly omits it).",
+     "fix": "the one who hates",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "the one who hates me",
+      "new": "the one who hates"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुझे उत्तम आधार में",
+     "problem": "English and notes render sudhāyām as 'good abode'; Hindi 'उत्तम आधार' is 'good support/foundation', the alternative the notes list. Refrain is inconsistent across the two languages (and with the drafter's own stated choice).",
+     "fix": "मुझे उत्तम निवास में",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुझे उत्तम आधार में",
+      "new": "मुझे उत्तम निवास में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a thousand years in life",
+     "problem": "'years' is added; sahasrāyuḥ is 'thousand-lived' / 'having a thousandfold life'.",
+     "fix": "thousand-lived",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "a thousand years in life",
+      "new": "thousand-lived"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हजार वर्ष की आयु वाला",
+     "problem": "'वर्ष' added.",
+     "fix": "हजार आयु वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हजार वर्ष की आयु वाला",
+      "new": "हजार आयु वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with the light and splendour of Kaśyapa, I: let not",
+     "problem": "The stray 'I:' mirrors aham mechanically and reads as garbled English.",
+     "fix": "I am surrounded with brahman as armour, with the light and splendour of Kaśyapa: let not",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "Surrounded with brahman as armour, with the light and splendour of Kaśyapa, I: let",
+      "new": "I am surrounded with brahman as armour, with the light and splendour of Kaśyapa: let"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "avasṛṣṭāḥ vadhāya",
+     "problem": "Printed 'avasṛṣṭāḥ' + space + 'vadhāya' keeps a visarga before voiced v, where Saṃhitā sandhi gives avasṛṣṭā vadhāya (compare daivyā yā mā earlier in the same line). Possible typo, not flagged.",
+     "fix": "Add text_flags entry: src 'avasṛṣṭāḥ va̱dhāya̭', suggest 'avasṛṣṭā vadhāya' (human to confirm; may be a pāda-end convention).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "guarded by what has been and by what will be, I.",
+     "problem": "Stray 'I.' fragment, same pattern as unit 28.",
+     "fix": "... and by what will be am I.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "and by what will be, I. Let",
+      "new": "and by what will be am I. Let"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वाणी के जल के भीतर",
+     "problem": "English says 'flood' (salila), Hindi says 'जल' and moves 'within' onto the phrase; unit 8 uses 'प्रवाह' for salila. Keep it consistent with the English word order.",
+     "fix": "मैं भीतर वाणी के प्रवाह से स्वयं को छिपाता हूँ",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मैं वाणी के जल के भीतर स्वयं को छिपाता हूँ",
+      "new": "मैं भीतर वाणी के प्रवाह से स्वयं को छिपाता हूँ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "nudatām",
+     "problem": "Label '3 sg. imv.' omits voice; nudatām is the middle 3 sg. imperative (active would be nudatu).",
+     "fix": "3 sg. imv. mid. √nud",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "nudatām",
+      "field": "gram",
+      "value": "3 sg. imv. mid. √nud"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "30 units reviewed (verses 1-30). Issues: {'minor': 50, 'error': 2}; 28 units need fixes, 2 ok. No regrouping suggested (units 1-5 and 6-30 follow the printed verse numbers). Tokens, case/number labels and roots are largely sound; the real problems are small unsupported additions or omissions in translations (his/my/me/years/ha/ca), Hindi-English mismatches (virāj 'विशेष', sudhā 'आधार' vs 'abode', salila), a wrong 'why' in the vīryā'ni flags of units 6-9 (Devanagari there also prints ऽनि), and one probable unflagged sandhi typo (unit 28 avasṛṣṭāḥ vadhāya). Remaining doubts: unit 1-5 īḍyaṃ nāma; unit 10 tridiva gender; unit 15 tṛta and missing verb; unit 17 aśastim eṣi; unit 29 salilena vācaḥ/antardadhe. Suggested GLOSSARY additions: sudhā = 'good abode' (Hindi उत्तम निवास); virāj = 'wide ruler' (Hindi दूर तक शासन करने वाला); brahman in 'brahman as armour' stays brahman (ब्रह्म); sahasrāyuḥ = thousand-lived; do not add 'his/my/me/years' absent from the text."
+}

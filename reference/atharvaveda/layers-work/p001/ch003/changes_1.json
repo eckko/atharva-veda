@@ -1,0 +1,25 @@
+[
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "gavīnyoḥ",
+  "old": "in the two gavīnī (ducts)",
+  "new": "in the two gavīnī (name of a bodily part)",
+  "why": "reviewer (minor): Gloss adds '(ducts)', an identification; the note says it is glossed by its name only."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "saṃśrutam",
+  "old": "p.p. n. nom. sg.",
+  "new": "p.p. n. nom. sg. saṃ-√śru as printed; the sense 'collected' suggests saṃ-√sru",
+  "why": "reviewer (minor): Printed ś (√śru 'heard') but gloss 'flowed together' assumes √sru; gram gives no root, so the mismatch is invisible."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "आँतों में, दोनों गवीनियों में, और जो मूत्राशय में एकत्र हुआ है — वैसे ही तुम्हारा मूत्र बाहर निकल जाए — बाल् — पूरा का पूरा।",
+  "new": "जो आँतों में है, जो दोनों गवीनियों में है, और जो मूत्राशय में एकत्र हुआ है — वैसे ही तुम्हारा मूत्र बाहर निकल जाए — बाल् — पूरा का पूरा।",
+  "why": "reviewer (minor): The first 'yat' (what) of the pair is dropped; Hindi starts with a bare locative list."
+ }
+]

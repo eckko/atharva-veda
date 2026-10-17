@@ -1,0 +1,738 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirla̱kṣmyaṃ",
+      "words": [
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "lakṣmyam",
+        "gloss": "ill-marked thing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'",
+      "words": [
+       {
+        "w": "'",
+        "gloss": "stray avagraha mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "lalā̱mya̭ṃ1",
+      "words": [
+       {
+        "w": "lalāmyam",
+        "gloss": "lalāmya (mark)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirarā̭tiṃ",
+      "words": [
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "arātim",
+        "gloss": "ill-will",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "suvāmasi",
+      "words": [
+       {
+        "w": "suvāmasi",
+        "gloss": "we send forth",
+        "gram": "1 pl. pres. √sū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "atha̱",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̱drā",
+      "words": [
+       {
+        "w": "bhadrā",
+        "gloss": "auspicious",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāni̭",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "those",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "ours",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pra̱jāyā̱",
+      "words": [
+       {
+        "w": "prajāyāḥ",
+        "gloss": "of the offspring",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "arā̭tiṃ",
+      "words": [
+       {
+        "w": "arātim",
+        "gloss": "ill-will",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nayāmasi",
+      "words": [
+       {
+        "w": "nayāmasi",
+        "gloss": "we lead",
+        "gram": "1 pl. pres. √nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम अशुभ-चिह्न वाले को, ललाम्य को और अराति को बाहर भेजते हैं। फिर जो शुभ हैं, वे हमारे हों; हम सन्तान के अराति को दूर ले जाते हैं।",
+  "english": "We send out the ill-marked thing, the lalāmya, and ill-will (arāti). Then whatever is auspicious is ours; we lead the ill-will of the offspring away.",
+  "text_flags": [
+   {
+    "src": "'",
+    "suggest": "(delete)",
+    "why": "possible stray avagraha: it stands alone as a token in the printed text (probably an a-elision or hiatus mark misplaced by the typist); no word is lost either way"
+   }
+  ],
+  "notes": "'Lakṣmya' (ill-marked) and 'lalāmya' are obscure; 'lalāmya' is kept as a word. The numeral 1 in 'lalāmyaṃ1' is not a word; whether it is an accent notation or a stray digit is not certain. The stray token ' is a separate avagraha mark in the print. Line b is obscure: 'tāni naḥ prajāyāḥ arātiṃ nayāmasi' could also be 'those are ours; of the offspring we lead away ill-will'. 'Arāti' = 'ill-will, non-giving'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.018.1a",
+   "001.018.1b"
+  ],
+  "lines_deva": [
+   "निर्ल॒क्ष्म्यं ऽ लला॒म्यं॑१ निररा॑तिं सुवामसि",
+   "अथ॒ या भ॒द्रा तानि॑ नः प्र॒जाया॒ अरा॑तिं नयामसि"
+  ],
+  "lines_iast": [
+   "nirla̱kṣmyaṃ ' lalā̱mya̭ṃ1 nirarā̭tiṃ suvāmasi",
+   "atha̱ yā bha̱drā tāni̭ naḥ pra̱jāyā̱ arā̭tiṃ nayāmasi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirara̭ṇiṃ",
+      "words": [
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "araṇim",
+        "gloss": "araṇi (word of uncertain sense)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "savi̱tā",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̭viṣak",
+      "words": [
+       {
+        "w": "sāviṣak",
+        "gloss": "has impelled",
+        "gram": "3 sg. aor. √sū"
+       }
+      ]
+     },
+     {
+      "src": "pa̱dornirhasta̭yo̱rvarṷṇo",
+      "words": [
+       {
+        "w": "padoḥ",
+        "gloss": "of the two feet",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "hastayoḥ",
+        "gloss": "of the two hands",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "varuṇaḥ",
+        "gloss": "Varuṇa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̱tro",
+      "words": [
+       {
+        "w": "mitraḥ",
+        "gloss": "Mitra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭rya̱mā",
+      "words": [
+       {
+        "w": "aryamā",
+        "gloss": "Aryaman",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nira̱smabhya̱manṷmatī̱",
+      "words": [
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "asmabhyam",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       },
+       {
+        "w": "anumatī",
+        "gloss": "Anumati",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rarā̭ṇā̱",
+      "words": [
+       {
+        "w": "rarāṇā",
+        "gloss": "granting",
+        "gram": "f. nom. sg. pres. part. mid. √rā"
+       }
+      ]
+     },
+     {
+      "src": "premāṃ",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       },
+       {
+        "w": "imām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭sāviṣu̱ḥ",
+      "words": [
+       {
+        "w": "asāviṣuḥ",
+        "gloss": "they have impelled",
+        "gram": "3 pl. aor. √sū"
+       }
+      ]
+     },
+     {
+      "src": "saubha̭gāya",
+      "words": [
+       {
+        "w": "saubhagāya",
+        "gloss": "for good fortune",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सविता ने अरणि को बाहर प्रेरित किया है; पैरों से और हाथों से, वरुण, मित्र और अर्यमा ने भी। हमारे लिए बाहर, अनुमति दान करती हुई; देवों ने उसे सौभाग्य के लिए आगे प्रेरित किया है।",
+  "english": "Savitṛ has impelled out the araṇi; out of the two feet and the two hands, so have Varuṇa, Mitra and Aryaman. Out for us, Anumati, granting; the gods have impelled her forth for good fortune.",
+  "text_flags": [],
+  "notes": "Syntax is uncertain: 'araṇi' is kept as a word of unclear sense; 'padoḥ nir hastayoḥ' read as 'out of the two feet, the two hands'; the verb for Varuṇa, Mitra, Aryaman is taken from 'sāviṣak'. 'Anumati' is treated as a name here. Src 'varṷṇo', 'anṷmatī' are transliteration artefacts.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.018.2a",
+   "001.018.2b"
+  ],
+  "lines_deva": [
+   "निरर॑णिं सवि॒ता सा॑विषक् प॒दोर्निर्हस्त॑यो॒र्वरु॑णो मि॒त्रो अ॑र्य॒मा",
+   "निर॒स्मभ्य॒मनु॑मती॒ ररा॑णा॒ प्रेमां दे॒वा अ॑साविषुः॒ सौभ॑गाय"
+  ],
+  "lines_iast": [
+   "nirara̭ṇiṃ savi̱tā sā̭viṣak pa̱dornirhasta̭yo̱rvarṷṇo mi̱tro a̭rya̱mā",
+   "nira̱smabhya̱manṷmatī̱ rarā̭ṇā̱ premāṃ de̱vā a̭sāviṣu̱ḥ saubha̭gāya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̭",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱tmani̭",
+      "words": [
+       {
+        "w": "ātmani",
+        "gloss": "in the self",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvāṃ",
+      "words": [
+       {
+        "w": "tanvām",
+        "gloss": "in the body",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'",
+      "words": [
+       {
+        "w": "'",
+        "gloss": "stray avagraha mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "gho̱ramasti̱",
+      "words": [
+       {
+        "w": "ghoram",
+        "gloss": "fearsome",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "yadvā̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "keśḙṣu",
+      "words": [
+       {
+        "w": "keśeṣu",
+        "gloss": "in the hairs",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prati̱cakṣa̭ṇe",
+      "words": [
+       {
+        "w": "praticakṣaṇe",
+        "gloss": "in the look",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarva̱ṃ",
+      "words": [
+       {
+        "w": "sarvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadvā̱cāpa̭",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "vācā",
+        "gloss": "with speech",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hanmo",
+      "words": [
+       {
+        "w": "hanmaḥ",
+        "gloss": "we strike",
+        "gram": "1 pl. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vastvā̭",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "savi̱tā",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷ̄dayatu",
+      "words": [
+       {
+        "w": "sūdayatu",
+        "gloss": "let him set right",
+        "gram": "3 sg. impv. caus. √sūd"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे आत्मा में, शरीर में जो भयंकर है, या बालों में, या दृष्टि में जो है, वह सब हम वाणी से दूर हटाते हैं; देव सविता तुम्हें ठीक करे।",
+  "english": "Whatever fearsome thing there is in your self, in your body, or in the hair, or in the look: all that we strike away with speech; may the god Savitṛ set you right.",
+  "text_flags": [
+   {
+    "src": "'",
+    "suggest": "(delete)",
+    "why": "possible stray avagraha: it stands alone as a token in the printed text (probably an a-elision or hiatus mark misplaced by the typist); no word is lost either way"
+   }
+  ],
+  "notes": "Src 'ta' is te (printed before a vowel). 'Praticakṣaṇa' is 'the look, the act of looking' (literal). 'Sūdayatu' is a tentative 'set right, put in order'. The stray token ' is a separate avagraha mark in the print.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.018.3a",
+   "001.018.3b"
+  ],
+  "lines_deva": [
+   "यत् त॑ आ॒त्मनि॑ त॒न्वां ऽ घो॒रमस्ति॒ यद्वा॒ केशे॑षु प्रति॒चक्ष॑णे वा",
+   "सर्वं॒ तद्वा॒चाप॑ हन्मो व॒यं दे॒वस्त्वा॑ सवि॒ता सू॑दयतु"
+  ],
+  "lines_iast": [
+   "yat ta̭ ā̱tmani̭ ta̱nvāṃ ' gho̱ramasti̱ yadvā̱ keśḙṣu prati̱cakṣa̭ṇe vā",
+   "sarva̱ṃ tadvā̱cāpa̭ hanmo va̱yaṃ de̱vastvā̭ savi̱tā sṷ̄dayatu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "riśya̭padī̱ṃ",
+      "words": [
+       {
+        "w": "riśya-padīm",
+        "gloss": "antelope-footed one",
+        "gram": "bahuvrīhi f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣa̭datīṃ",
+      "words": [
+       {
+        "w": "vṛṣa-datīm",
+        "gloss": "bull-toothed one",
+        "gram": "bahuvrīhi f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "goṣe̱dhāṃ",
+      "words": [
+       {
+        "w": "go-sedhām",
+        "gloss": "cattle-repelling one",
+        "gram": "tat-puruṣa f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̭dha̱māmu̱ta",
+      "words": [
+       {
+        "w": "vidhamām",
+        "gloss": "vidhamā (word of uncertain sense)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱lī̱ḍhyaṃ",
+      "words": [
+       {
+        "w": "vilīḍhyam",
+        "gloss": "vilīḍhya (licked over)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'",
+      "words": [
+       {
+        "w": "'",
+        "gloss": "stray avagraha mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "lalā̱mya̭ṃ1",
+      "words": [
+       {
+        "w": "lalāmyam",
+        "gloss": "lalāmya (mark)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "them",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱smannā̭śayāmasi",
+      "words": [
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl."
+       },
+       {
+        "w": "nāśayāmasi",
+        "gloss": "we cause to vanish",
+        "gram": "1 pl. pres. caus. √naś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम हिरन-पैरों वाली को, बैल-दाँतों वाली को, गायों को रोकने वाली को और विधमा को, तथा विलीढ्य और ललाम्य को, उन सबको अपने से नष्ट कराते हैं।",
+  "english": "The antelope-footed one, the bull-toothed one, the cattle-repelling one and the vidhamā, the vilīḍhya and the lalāmya: these we cause to vanish from us.",
+  "text_flags": [
+   {
+    "src": "'",
+    "suggest": "(delete)",
+    "why": "possible stray avagraha: it stands alone as a token in the printed text (probably an a-elision or hiatus mark misplaced by the typist); no word is lost either way"
+   }
+  ],
+  "notes": "These are names or epithets of unspecified harmful females or things; senses of goṣedhā, vidhamā, vilīḍhya, lalāmya are uncertain and are not identified. The numeral 1 in 'lalāmyaṃ1' is an accent notation. The stray token ' is a separate avagraha mark in the print.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.018.4a",
+   "001.018.4b"
+  ],
+  "lines_deva": [
+   "रिश्य॑पदीं॒ वृष॑दतीं गोषे॒धां वि॑ध॒मामु॒त",
+   "वि॒ली॒ढ्यं ऽ लला॒म्यं॑१ ता अ॒स्मन्ना॑शयामसि"
+  ],
+  "lines_iast": [
+   "riśya̭padī̱ṃ vṛṣa̭datīṃ goṣe̱dhāṃ vi̭dha̱māmu̱ta",
+   "vi̱lī̱ḍhyaṃ ' lalā̱mya̭ṃ1 tā a̱smannā̭śayāmasi"
+  ],
+  "uncertain": []
+ }
+]

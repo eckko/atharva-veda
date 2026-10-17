@@ -1,0 +1,134 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "There is nothing on earth nor in heaven by which the plants live.",
+     "problem": "Reverses the sense. tat ... yena = \"that by which the plants live is neither on earth nor in heaven\"; the draft says no such thing exists.",
+     "fix": "That by which the plants live is neither on earth nor in heaven.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "There is nothing on earth nor in heaven by which the plants live.",
+      "new": "That by which the plants live is neither on earth nor in heaven."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वनस्पतियाँ (ओषधियाँ)",
+     "problem": "\"ओषधि\" is a different word (oṣadhi) put in brackets; vīrudh is not oṣadhi. Use a distinct word from vanaspati (\"वनस्पति\", ch035).",
+     "fix": "लता-पौधे",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वनस्पतियाँ (ओषधियाँ)",
+      "new": "लता-पौधे"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tat ... yena",
+     "problem": "Note calls the draft a \"loose rendering\"; after the fix it is literal.",
+     "fix": "Remove the phrase \"the translation nothing ... by which is a loose rendering\".",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन (वनस्पतियों)",
+     "problem": "Keep consistent with the vīrudh rendering of unit 1.",
+     "fix": "इन (लता-पौधों) का",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन (वनस्पतियों)",
+      "new": "इन (लता-पौधों)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yad",
+     "problem": "yad ... tad is a relative/correlative pair (\"what ... that\"), not \"since/when\". The English/Hindi also make rodasī and bhūmiḥ objects although the draft labels them nominative.",
+     "fix": "Reading: \"What the two trembling world-halves and the earth fashioned out, that is moist today and always, like the streams of the ocean.\" (subject = nominatives; yad = object \"what\")",
+     "severity": "error"
+    },
+    {
+     "field": "gloss",
+     "where": "yat",
+     "problem": "yat is the relative pronoun (n. acc. sg.), not a conjunction.",
+     "fix": "gloss: which, what (relative); gram: n. acc. sg. (relative, correlative of tad)",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "yat",
+      "field": "gloss",
+      "value": "which, what (relative)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "yat",
+     "problem": "see above",
+     "fix": "n. acc. sg. (relative)",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "yat",
+      "field": "gram",
+      "value": "n. acc. sg. (relative)"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Keep low; the verb and subject are unresolved.",
+     "fix": "low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "abhi-āvāra",
+     "problem": "Split does not reproduce the printed abhīvāra (abhi + ā would give abhyā-), and the perfect of √vṛ is vavāra; the form is unexplained.",
+     "fix": "Show the word as abhīvāra, gram \"unclear verbal form (uncertain)\"; no root claim.",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "all-knowing",
+     "problem": "Attaching viśvavedase to earth only is one choice among three (notes admit it); keep confidence low.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "ch032 (4 units): unit 1 sense reversed; unit 3 yad/tad and case reading; unit 4 abhīvāra unexplained."
+}

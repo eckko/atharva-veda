@@ -1,0 +1,68 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "madhunā",
+     "problem": "English 'sweetness' but Hindi 'मधु' (honey); the two translations disagree.",
+     "fix": "mixing the milk with honey",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "mixing the milk with sweetness",
+      "new": "mixing the milk with honey"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "'उन मार्गों' adds a demonstrative; 'जो ... मिलाती हैं' turns the participle pṛñcatīḥ into a relative clause.",
+     "fix": "माताएँ मार्गों से जाती हैं, यज्ञ चाहने वालों की बहनें, मधु से दूध को मिलाती हुई।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "माताएँ मार्गों से जाती हैं, यज्ञ चाहने वालों की बहनें, मधु से दूध को मिलाती हुई।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सिन्धुओं",
+     "problem": "Notes and English say 'river'; Hindi leaves सिन्धु, which reads as a name.",
+     "fix": "सिन्धुओं -> नदियों",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिन्धुओं के लिए",
+      "new": "नदियों के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Three minor fixes: honey/sweetness mismatch, Hindi additions in unit 1, सिन्धु vs river. No regrouping suggested."
+}

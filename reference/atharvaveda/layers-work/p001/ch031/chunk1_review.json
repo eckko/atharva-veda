@@ -1,0 +1,96 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "we would pay service",
+     "problem": "vidhema is an optative (\"may we serve/worship\"); \"would pay service\" reads as conditional.",
+     "fix": "may we serve with this oblation",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "we would pay service with this oblation",
+      "new": "may we serve with this oblation"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ya -> ye",
+     "problem": "ya is the regular sandhi form of ye before ā (ye āśānām -> ya āśānām), so it is not a typo; the flag is unnecessary (the word entry ye is right).",
+     "fix": "Remove the ya/ye flag; keep the word as ye with a note \"ye + ā sandhi\".",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "sthana -> stha; catvāra",
+     "problem": "sthana and catvāra (for catvāraḥ) look like irregular Vedic forms of this text, not clear typos; an emendation to stha is a guess. Flag text is \"possible\" but the gloss in words silently normalises.",
+     "fix": "State in notes that sthana/catvāra are kept as printed forms and read as stha/catvāraḥ; keep confidence medium or lower.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निर्दोष ... दोषरहित",
+     "problem": "Hindi says \"faultless\" for asrāma/aślona, but notes and English say \"not lame / not halting\". The Hindi changes the sense. Also \"शुभ कल्याण\" doubles subhūta.",
+     "fix": "set Hindi to: लँगड़ेपन से रहित मैं तुम्हें हवि से यजन करता हूँ; पंगुता से रहित मैं तुम्हें घी से आहुति देता हूँ। जो दिशाओं का चौथा रक्षक देव है, वह हमारे लिए यहाँ शुभ स्थिति ले आए।",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "hindi",
+      "value": "लँगड़ेपन से रहित मैं तुम्हें हवि से यजन करता हूँ; पंगुता से रहित मैं तुम्हें घी से आहुति देता हूँ। जो दिशाओं का चौथा रक्षक देव है, वह हमारे लिए यहाँ शुभ स्थिति ले आए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सुलभ",
+     "problem": "Hindi picks \"easily gained\" for suvidatra while English says \"well-found\" and notes say the sense is uncertain.",
+     "fix": "शुभ-स्थिति और सुप्राप्त",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुभ-स्थिति और सुलभ",
+      "new": "शुभ-स्थिति और सुप्राप्त"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "naḥ",
+     "problem": "naḥ is read as genitive in line a and dative in line b; line a could equally be dative (\"be well-being for us\").",
+     "fix": "append: naḥ in line a could be dative \"for us\".",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "naḥ in line a could also be dative ('for us')."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "ch031 (4 units): one Hindi unit changes the sense (unit 3); flag on ya is a false typo."
+}

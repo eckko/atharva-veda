@@ -1,0 +1,69 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yātu-hā",
+     "problem": "GLOSSARY: yātu-type words are glossed 'harmful being'.",
+     "fix": "slayer of yātu (harmful beings)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yātu-hā",
+      "field": "gloss",
+      "value": "slayer of yātu (harmful beings)",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'उनके विषय में'",
+     "problem": "'concerning them' is added.",
+     "fix": "चौथे अग्नि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके विषय में चौथे अग्नि",
+      "new": "चौथे अग्नि",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "avīrahā",
+     "problem": "Gloss and English say 'men'; Hindi says 'heroes'.",
+     "fix": "हमारे पुरुषों के हत्यारे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारे वीरों के हत्यारे",
+      "new": "हमारे पुरुषों के हत्यारे",
+      "n": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 2 with issues; 0 errors, 3 minor; no regrouping suggested. Unreviewed AI draft."
+}

@@ -1,0 +1,59 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vo (vaḥ)",
+     "problem": "vaḥ 'your/of you' is parsed in the split but dropped from both translations (that of yours).",
+     "fix": "May we readily go to that of yours, for whose dwelling you urge us on; and, O waters, beget us.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "3",
+       "op": "set",
+       "field": "english",
+       "value": "May we readily go to that of yours, for whose dwelling you urge us on; and, O waters, beget us."
+      },
+      {
+       "n": "3",
+       "op": "set",
+       "field": "hindi",
+       "value": "हम शीघ्र उसके पास पहुँचें जो तुम्हारा है, जिसके निवास के लिए तुम हमें प्रेरित करते हो; और हे जलो, हमें उत्पन्न करो।"
+      }
+     ]
+    },
+    {
+     "field": "split",
+     "where": "janayathā",
+     "problem": "Printed janayathā has long ā; w gives janayatha. Either keep janayathā (Vedic) or note the lengthening.",
+     "fix": "append note: janayatha is printed janayathā (final ā lengthened, 2 pl. imperative).",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "janayatha is printed janayathā (final ā lengthened; 2 pl. imperative)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "One error: unit 3 drops vaḥ in both translations. One minor note on janayathā. No regrouping suggested."
+}

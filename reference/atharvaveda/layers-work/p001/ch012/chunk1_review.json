@@ -1,0 +1,189 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "vicakrame",
+     "problem": "vi-√kram is 'strode out/ stepped'; Hindi 'फैलाया' (spread) does not match English 'strode out'.",
+     "fix": "डग भरकर बढ़ाया",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "फैलाया",
+      "new": "डग भरकर बढ़ाया",
+      "n": "1"
+     }
+    },
+    {
+     "field": "english",
+     "where": "vātabhrajā",
+     "problem": "Gloss/gram and Hindi take it as instrumental 'with wind-blaze'; the English renders it as a nominative adjective.",
+     "fix": "with rain, with wind-blaze.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with rain, wind-blazing.",
+      "new": "with rain, with wind-blaze.",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "naḥ",
+     "problem": "gloss says 'to us' but gram says gen. pl.",
+     "fix": "dat. pl. (enclitic)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "naḥ",
+      "field": "gram",
+      "value": "dat. pl. (enclitic)",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mṛḍāti",
+     "problem": "translation is optative ('May he be gracious'); gloss is indicative.",
+     "fix": "may he be gracious",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mṛḍāti",
+      "field": "gloss",
+      "value": "may he be gracious",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mṛḍāti",
+     "problem": "mṛḍāti here is a subjunctive, not a plain present.",
+     "fix": "3 sg. subj. √mṛḍ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mṛḍāti",
+      "field": "gram",
+      "value": "3 sg. subj. √mṛḍ",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "parvā̭syā̱ -> parvā + asya",
+     "problem": "Printed ending is -syā (long ā, accent on the ā). The split gives asya (short) and English 'its', gloss 'his': the shortening is silent and the referent differs between fields. Probably asyā(ḥ) f. 'of her', but this is uncertain.",
+     "fix": "Keep w as asyā and mark it doubtful (m./f. unsettled); use the same pronoun ('his' or 'its') in gloss, Hindi (इसके) and English.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "paruḥ-paruḥ",
+     "problem": "paruṣ is neuter, not masculine.",
+     "fix": "n. nom. sg. (adverbial, 'joint by joint')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "paruḥ-paruḥ",
+      "field": "gram",
+      "value": "n. nom. sg. (adverbial, 'joint by joint')",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "'that is his' dangles; asya qualifies the joints (paruṣ-paruḥ ... yo asya).",
+     "fix": "joint after joint of his.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "joint after joint, that is his.",
+      "new": "joint after joint of his.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sacatām",
+     "problem": "gloss 'let it follow' does not match the translation 'let it go to'.",
+     "fix": "let it follow, go to",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sacatām",
+      "field": "gloss",
+      "value": "let it follow, go to",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śuṣmaḥ",
+     "problem": "'fierce' is added; śuṣma = force, vigour.",
+     "fix": "whichever is force",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "whichever is fierce force",
+      "new": "whichever is force",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "śuṣmaḥ",
+     "problem": "'प्रचण्ड' (fierce) is added.",
+     "fix": "जो बल है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो प्रचण्ड बल है",
+      "new": "जो बल है",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śuṣmaḥ",
+     "problem": "'fierce' is added.",
+     "fix": "force, vigour",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śuṣmaḥ",
+      "field": "gloss",
+      "value": "force, vigour",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "4 units; 3 with issues; 0 errors, 12 minor; no regrouping suggested. Unreviewed AI draft."
+}

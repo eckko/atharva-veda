@@ -1,0 +1,644 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱yaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱masṷro̱",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "asuraḥ",
+        "gloss": "lord, asura",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "widely",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rā̭jati̱",
+      "words": [
+       {
+        "w": "rājati",
+        "gloss": "rules",
+        "gram": "3 sg. pres. √rāj"
+       }
+      ]
+     },
+     {
+      "src": "vaśā̱",
+      "words": [
+       {
+        "w": "vaśā",
+        "gloss": "will, command",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyā",
+      "words": [
+       {
+        "w": "satyā",
+        "gloss": "true",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇasya̱",
+      "words": [
+       {
+        "w": "varuṇasya",
+        "gloss": "of Varuṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājña̭ḥ",
+      "words": [
+       {
+        "w": "rājñaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tata̱spari̱",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "from there",
+        "gram": "ind."
+       },
+       {
+        "w": "pari",
+        "gloss": "from, away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇā̱",
+      "words": [
+       {
+        "w": "brahmaṇā",
+        "gloss": "by sacred utterance",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāśa̭dāna",
+      "words": [
+       {
+        "w": "śāśadānaḥ",
+        "gloss": "prevailing",
+        "gram": "m. nom. sg. pres. part. √śad"
+       }
+      ]
+     },
+     {
+      "src": "u̱grasya̭",
+      "words": [
+       {
+        "w": "ugrasya",
+        "gloss": "of the fierce",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱nyorudi̱maṃ",
+      "words": [
+       {
+        "w": "manyoḥ",
+        "gloss": "of wrath",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ud",
+        "gloss": "up, out",
+        "gram": "ind."
+       },
+       {
+        "w": "imam",
+        "gloss": "this one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭yāmi",
+      "words": [
+       {
+        "w": "nayāmi",
+        "gloss": "I lead",
+        "gram": "1 sg. pres. √nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवों का यह असुर विशेष रूप से शासन करता है, क्योंकि राजा वरुण की इच्छा सत्य है। वहाँ से, प्रार्थना के बल से प्रबल होता हुआ मैं इसे उग्र क्रोध से ऊपर उठाकर ले जाता हूँ।",
+  "english": "This lord of the gods rules widely, for the will of King Varuṇa is true. From there, prevailing through sacred utterance, I lead this one up out of fierce wrath.",
+  "text_flags": [],
+  "notes": "Transliteration artefacts in src (asṷro, varṷṇasya) stand for asuro, varuṇasya (Devanagari असुरो, वरुणस्य). vaśā could also be 'cow' but 'will, command' fits the sense. 'asura' is glossed 'lord' as an epithet of Varuṇa; the line does not name him directly. śāśadāna is taken as a participle of √śad 'prevail' (doubtful). 'Tataḥ pari' may also mean 'thereupon'. 'This one' is not identified in the lines.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nama̭ste",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "2 sg. dat."
+       }
+      ]
+     },
+     {
+      "src": "rājan",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varuṇāstu",
+      "words": [
+       {
+        "w": "varuṇa",
+        "gloss": "O Varuṇa",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "ma̱nyave̱",
+      "words": [
+       {
+        "w": "manyave",
+        "gloss": "to wrath",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśva̱ṃ",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hyu̱'gra",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "ugra",
+        "gloss": "O fierce one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nici̱keṣi̭",
+      "words": [
+       {
+        "w": "nicikeṣi",
+        "gloss": "you have noticed",
+        "gram": "2 sg. pf. √ci"
+       }
+      ]
+     },
+     {
+      "src": "dru̱gdham",
+      "words": [
+       {
+        "w": "drugdham",
+        "gloss": "injury, deceit",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱hasra̭ma̱nyān",
+      "words": [
+       {
+        "w": "sahasram",
+        "gloss": "a thousand",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anyān",
+        "gloss": "others",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sṷvāmi",
+      "words": [
+       {
+        "w": "suvāmi",
+        "gloss": "I impel",
+        "gram": "1 sg. pres. √sū"
+       }
+      ]
+     },
+     {
+      "src": "sā̱kaṃ",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śa̱taṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "hundred",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jī̭vāti",
+      "words": [
+       {
+        "w": "jīvāti",
+        "gloss": "may he live",
+        "gram": "3 sg. aor. subj. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rada̱stavā̱yam",
+      "words": [
+       {
+        "w": "śaradaḥ",
+        "gloss": "autumns, years",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे राजन् वरुण, तुम्हारे क्रोध को नमस्कार हो; हे उग्र, तुमने सारे द्रोह को देख लिया है। मैं हज़ार दूसरों को साथ-साथ आगे भेजता हूँ; तुम्हारा यह जन सौ शरद ऋतुओं तक जीवित रहे।",
+  "english": "Homage to you, O King Varuṇa; let there be homage to your wrath, for you, O fierce one, have noted all deceit. I send forth a thousand others together; may this one of yours live a hundred autumns.",
+  "text_flags": [],
+  "notes": "Src 'hyu'gra' is hi + ugra with avagraha as printed. sṷvāmi in src stands for suvāmi. 'sahasram anyān pra suvāmi sākam' is obscure: 'I send forth a thousand others together (with him)' is the most literal reading. 'Namas te ... astu manyave' may also be read 'homage be to you, to your wrath'. jīvāti taken as subjunctive of √jīv (doubtful form). 'This one' is not identified.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadu̱vakthānṛ̭taṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uvaktha",
+        "gloss": "you have said",
+        "gram": "2 sg. pf. √vac"
+       },
+       {
+        "w": "anṛtam",
+        "gloss": "untruth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̱hvayā̭",
+      "words": [
+       {
+        "w": "jihvayā",
+        "gloss": "with the tongue",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛji̱naṃ",
+      "words": [
+       {
+        "w": "vṛjinam",
+        "gloss": "crookedness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hu",
+      "words": [
+       {
+        "w": "bahu",
+        "gloss": "much",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rājña̭stvā",
+      "words": [
+       {
+        "w": "rājñaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyadha̭rmaṇo",
+      "words": [
+       {
+        "w": "satya-dharmaṇaḥ",
+        "gloss": "whose law is true",
+        "gram": "bahuvrīhi m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mu̱ñcāmi̱",
+      "words": [
+       {
+        "w": "muñcāmi",
+        "gloss": "I release",
+        "gram": "1 sg. pres. √muc"
+       }
+      ]
+     },
+     {
+      "src": "varṷṇāda̱ham",
+      "words": [
+       {
+        "w": "varuṇāt",
+        "gloss": "from Varuṇa",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुमने जीभ से जो झूठ और बहुत सारी कुटिलता कही है, उससे मैं तुम्हें सत्य-धर्म वाले राजा वरुण से छुड़ाता हूँ।",
+  "english": "Whatever untruth and much crookedness you have spoken with the tongue, from that I release you, from Varuṇa, the king whose law is true.",
+  "text_flags": [],
+  "notes": "Rājñaḥ ... satyadharmaṇaḥ is in apposition to varuṇāt; the line is read as 'I release you from King Varuṇa of true law (because of what you spoke)'. The first line is a relative clause with no stated antecedent; the sense of 'because of' is supplied.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mu̱ñcāmi̭",
+      "words": [
+       {
+        "w": "muñcāmi",
+        "gloss": "I release",
+        "gram": "1 sg. pres. √muc"
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiśvāna̱rāda̭rṇa̱vānma̭ha̱taspari̭",
+      "words": [
+       {
+        "w": "vaiśvānarāt",
+        "gloss": "from Vaiśvānara",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "arṇavāt",
+        "gloss": "from the flood",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "mahataḥ",
+        "gloss": "great",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "pari",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱jā̱tānṷgre̱hā",
+      "words": [
+       {
+        "w": "sajātān",
+        "gloss": "kinsmen",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ugra",
+        "gloss": "O fierce one",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭da̱",
+      "words": [
+       {
+        "w": "vada",
+        "gloss": "speak",
+        "gram": "2 sg. impv. √vad"
+       }
+      ]
+     },
+     {
+      "src": "brahma̱",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "sacred utterance",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpa̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apa",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cikīhi",
+      "words": [
+       {
+        "w": "cikīhi",
+        "gloss": "take heed",
+        "gram": "2 sg. impv. √ci"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं तुम्हें वैश्वानर से, महान जलप्रवाह से छुड़ाता हूँ। हे उग्र, यहाँ अपने सजातियों से बोलो और हमारी प्रार्थना पर ध्यान दो।",
+  "english": "I release you from Vaiśvānara, from the great flood. O fierce one, speak here to the kinsmen, and take heed of our sacred utterance.",
+  "text_flags": [],
+  "notes": "Second line is uncertain: 'sajātān ugrehā' is read as sajātān ugra iha (alternatively 'sajātān ugra ihā'); 'apa cikīhi' is taken as 'take heed' from √ci with apa (doubtful; some read 'cāpa' as ca + apa). 'Arṇava' may be 'flood' or 'ocean'. 'Vaiśvānara' is a name (often of Agni) but the line does not say so. 'Mahataḥ pari' is taken as 'from the great'.",
+  "confidence": "low"
+ }
+]

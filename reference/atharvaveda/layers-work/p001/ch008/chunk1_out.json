@@ -1,0 +1,594 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viryā̭tu̱dhānā̭n",
+      "words": [
+       {
+        "w": "haviḥ",
+        "gloss": "oblation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhāna (harmful beings)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱dī",
+      "words": [
+       {
+        "w": "nadī",
+        "gloss": "river",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "phena̭mi̱vā",
+      "words": [
+       {
+        "w": "phenam",
+        "gloss": "foam",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "va̭hat",
+      "words": [
+       {
+        "w": "vahat",
+        "gloss": "may it carry",
+        "gram": "3 sg. subj. √vah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "strī",
+      "words": [
+       {
+        "w": "strī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pumā̱naka̭ri̱ha",
+      "words": [
+       {
+        "w": "pumān",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "akaḥ",
+        "gloss": "has done",
+        "gram": "3 sg. aor. √kṛ"
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stṷvatā̱ṃ",
+      "words": [
+       {
+        "w": "stuvatām",
+        "gloss": "let him praise",
+        "gram": "3 sg. imp. √stu"
+       }
+      ]
+     },
+     {
+      "src": "jana̭ḥ",
+      "words": [
+       {
+        "w": "janaḥ",
+        "gloss": "person",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह हवि यातुधानों को ऐसे बहा लाए जैसे नदी फेन को। जिस किसी स्त्री या पुरुष ने यहाँ यह किया है, वह जन स्तुति करे।",
+  "english": "May this oblation carry the yātudhānas here as a river carries foam. Whoever, woman or man, has done this here — let that person praise.",
+  "text_flags": [],
+  "notes": "akar (aor. 3 sg. of √kṛ) is written akaḥ in the split; nadī phenam iva ā vahat is read 'as a river carries foam' (the verb 'carry' is shared with the simile). stuvatām: 'let him praise'; the sense (praise, confess) is not stated further.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱yaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stṷvā̱na",
+      "words": [
+       {
+        "w": "stuvānaḥ",
+        "gloss": "praising",
+        "gram": "pres. part. mid. m. nom. sg. √stu"
+       }
+      ]
+     },
+     {
+      "src": "āga̭madi̱maṃ",
+      "words": [
+       {
+        "w": "āgamat",
+        "gloss": "has come",
+        "gram": "3 sg. aor. ā-√gam"
+       },
+       {
+        "w": "imam",
+        "gloss": "this (one)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sma̱",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "haryata",
+      "words": [
+       {
+        "w": "haryata",
+        "gloss": "take pleasure in, welcome",
+        "gram": "2 pl. imp. √har"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśḙ",
+      "words": [
+       {
+        "w": "vaśe",
+        "gloss": "in power",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "la̱bdhvāgnī̭ṣomā̱",
+      "words": [
+       {
+        "w": "labdhvā",
+        "gloss": "having obtained",
+        "gram": "abs. √labh"
+       },
+       {
+        "w": "agnīṣomā",
+        "gloss": "O Agni and Soma",
+        "gram": "dvandva, m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "through",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "vi̭dhyatam",
+      "words": [
+       {
+        "w": "vidhyatam",
+        "gloss": "pierce",
+        "gram": "2 du. imp. √vyadh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह स्तुति करता हुआ आ गया है; इस का स्वागत करो। हे बृहस्पति, इसे अपने वश में करके, हे अग्नि और सोम, तुम दोनों इसे बींध दो।",
+  "english": "This one has come, praising; welcome this one. O Bṛhaspati, having brought him into your power, O Agni and Soma, pierce him through.",
+  "text_flags": [],
+  "notes": "vaśe labdhvā: 'having obtained in (your) power'; to whom labdhvā refers (Bṛhaspati or the pair) is open. 'Him' (the one praising) is understood as the object of vi vidhyatam.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā̱tu̱dhāna̭sya",
+      "words": [
+       {
+        "w": "yātudhānasya",
+        "gloss": "of the yātudhāna (harmful being)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "somapa",
+      "words": [
+       {
+        "w": "soma-pa",
+        "gloss": "O soma-drinker",
+        "gram": "tat-puruṣa, m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱hi",
+      "words": [
+       {
+        "w": "jahi",
+        "gloss": "strike",
+        "gram": "2 sg. imp. √han"
+       }
+      ]
+     },
+     {
+      "src": "pra̱jāṃ",
+      "words": [
+       {
+        "w": "prajām",
+        "gloss": "offspring",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naya̭sva",
+      "words": [
+       {
+        "w": "nayasva",
+        "gloss": "lead away",
+        "gram": "2 sg. imp. mid. √nī"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "stṷvā̱nasya̭",
+      "words": [
+       {
+        "w": "stuvānasya",
+        "gloss": "of the praising one",
+        "gram": "pres. part. mid. m. gen. sg. √stu"
+       }
+      ]
+     },
+     {
+      "src": "pātaya̱",
+      "words": [
+       {
+        "w": "pātaya",
+        "gloss": "make fall",
+        "gram": "2 sg. imp. caus. √pat"
+       }
+      ]
+     },
+     {
+      "src": "para̱makṣyu̱tāva̭ram",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "farther",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "akṣi",
+        "gloss": "eye",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avaram",
+        "gloss": "nearer",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सोमपायी, यातुधान की सन्तान को मारो और उसे ले जाओ। स्तुति करने वाले के दूर के और निकट के नेत्र को गिरा दो।",
+  "english": "O soma-drinker, strike the yātudhāna's offspring and lead it away. Make fall, from the one who praises, the farther eye and the nearer.",
+  "text_flags": [],
+  "notes": "The second line is uncertain: paramakṣyutāvaram is read as param akṣi uta avaram 'the farther eye and the nearer'; param and avaram may instead be adjectives of an unstated noun ('the higher and the lower'), and akṣi may be wrong. The object of nayasva is understood as prajām.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatrai̭ṣāmagne̱",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "their",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jani̭māni̱",
+      "words": [
+       {
+        "w": "janimāni",
+        "gloss": "births, origins",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vettha̱",
+      "words": [
+       {
+        "w": "vettha",
+        "gloss": "you know",
+        "gram": "2 sg. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "guhā̭",
+      "words": [
+       {
+        "w": "guhā",
+        "gloss": "in hiding",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tāma̱ttriṇā̭ṃ",
+      "words": [
+       {
+        "w": "satām",
+        "gloss": "being",
+        "gram": "pres. part. m. gen. pl. √as"
+       },
+       {
+        "w": "attriṇām",
+        "gloss": "of the devourers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "jātavedaḥ",
+      "words": [
+       {
+        "w": "jātavedaḥ",
+        "gloss": "Jātavedas (epithet of Agni)",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tāṃstvaṃ",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇā",
+      "words": [
+       {
+        "w": "brahmaṇā",
+        "gloss": "with the sacred utterance (brahman)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāvṛdhā̱no",
+      "words": [
+       {
+        "w": "vāvṛdhānaḥ",
+        "gloss": "growing strong",
+        "gram": "pf. part. mid. m. nom. sg. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "ja̱hye'ṣāṃ",
+      "words": [
+       {
+        "w": "jahi",
+        "gloss": "strike",
+        "gram": "2 sg. imp. √han"
+       },
+       {
+        "w": "eṣām",
+        "gloss": "their",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śata̱tarha̭magne",
+      "words": [
+       {
+        "w": "śata-tarham",
+        "gloss": "hundredfold slaying",
+        "gram": "bahuvrīhi?, n. acc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ, हे अग्नि, तुम इनके जन्मों को जानते हो, छिपकर रहने वाले भक्षकों के, हे जातवेदा; ब्रह्म से बढ़ते हुए तुम उन्हें, हे अग्नि, इनके सौ गुने संहार से मारो।",
+  "english": "Where, O Agni, you know the births of these, of the devourers who are hidden, O Jātavedas — growing strong through the sacred utterance, strike them, O Agni, with a hundredfold slaying of them.",
+  "text_flags": [],
+  "notes": "brahmaṇā: 'sacred utterance' (alternative: 'prayer'). śatatarham is uncertain: read as a cognate accusative 'hundredfold slaying'; the construction of eṣām śatatarham jahi is not fully clear. guhā satām: 'being in hiding'.",
+  "confidence": "low"
+ }
+]

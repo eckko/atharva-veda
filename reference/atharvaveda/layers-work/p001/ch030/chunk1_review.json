@@ -1,0 +1,169 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इस (पुरुष) की",
+     "problem": "\"(पुरुष)\" adds \"man\"; the text has only imam \"this one\".",
+     "fix": "इसकी रक्षा करो",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस (पुरुष) की रक्षा",
+      "new": "इसकी रक्षा"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sa-nābhiḥ",
+     "problem": "sanābha is a bahuvrīhi (\"having the same navel\"), not tat-puruṣa; the label hedges both.",
+     "fix": "m. inst. sg. (bahuvrīhi)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "sa-nābhiḥ",
+      "field": "gram",
+      "value": "m. inst. sg. (bahuvrīhi)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तुम सब को मैं इस (पुरुष) को सौंपता हूँ",
+     "problem": "Double \"को\" is clumsy and \"(पुरुष)\" is an addition.",
+     "fix": "मैं तुम सब को इसे सौंपता हूँ",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम सब को मैं इस (पुरुष) को सौंपता हूँ",
+      "new": "मैं तुम सब को इसे सौंपता हूँ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vaḥ",
+     "problem": "Note says vaḥ is \"joined with ye\"; it is the enclitic genitive (or dative) of the 2nd person plural. Casing of both vaḥ is a choice, say so.",
+     "fix": "Add: vaḥ (line a) read as \"your/of you\"; vaḥ (line b) as \"of you all\" (could be dative \"to you\").",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "sva̱stye'naṃ",
+     "problem": "Flag is reasonable (svasti + enam = svastyenam, avagraha is not expected), keep as \"possible\".",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the other hundred deaths",
+     "problem": "\"the other hundred\" is not what śatam anyān mṛtyūn says; śatam with mṛtyūn means \"a hundred other deaths\".",
+     "fix": "let him (or it) turn aside a hundred other deaths",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "the other hundred deaths",
+      "new": "a hundred other deaths"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "fore-offerings and the after-offerings",
+     "problem": "The text has uta vā (\"or also\"), not a plain \"and\".",
+     "fix": "fore-offerings or the after-offerings",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "fore-offerings and the after-offerings",
+      "new": "fore-offerings or the after-offerings"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रयाज और अनुयाज",
+     "problem": "Same: uta vā is \"or\".",
+     "fix": "प्रयाज या अनुयाज",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रयाज और अनुयाज",
+      "new": "प्रयाज या अनुयाज"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sitting together in session",
+     "problem": "\"together\" is not in satra-sadaḥ.",
+     "fix": "I make you, those who sit in the session, for him.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "I make you, sitting together in session, for him.",
+      "new": "I make you, those who sit in the session, for him."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(यज्ञ-)सत्र",
+     "problem": "\"यज्ञ\" is an addition in brackets.",
+     "fix": "सत्र में बैठने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "(यज्ञ-)सत्र",
+      "new": "सत्र"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "a-huta-adaḥ",
+     "problem": "ahutād is an agent-noun compound (a-huta + ad, \"eater of the unoffered\"), not a bahuvrīhi.",
+     "fix": "m. nom. pl. (upapada tat-puruṣa)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "a-huta-adaḥ",
+      "field": "gram",
+      "value": "m. nom. pl. (upapada tat-puruṣa)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "ch030 (4 units): word split and case labels sound; small additions and label slips only."
+}

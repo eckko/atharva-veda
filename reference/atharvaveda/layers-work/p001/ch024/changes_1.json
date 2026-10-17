@@ -1,0 +1,38 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "सुपर्ण पहले उत्पन्न हुआ; तुम उसका पित्त (पित्तरस) थीं। तब असुर-स्त्री ने, युद्ध में जीती जाकर, वनस्पतियों को रूप बना लिया।",
+  "new": "सुपर्ण पहले उत्पन्न हुआ; तुम उसका पित्त थीं। तब असुर-स्त्री ने, युद्ध में जीती जाकर, वनस्पतियों को रूप बना लिया।",
+  "why": "reviewer (minor): Bracketed gloss."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "suparṇaḥ is kept as the name/epithet 'well-winged one'; no identification is made. pittam is the literal 'gall/bile'. The last words rūpaṃ cakre vanaspatīn are ambiguous: 'made the trees her form' is a literal rendering; Whitney-type readings differ (assumed shape as trees). The referent of tvam (the herb or the colour addressed) is not stated.",
+  "new": "suparṇaḥ is kept as the name/epithet 'well-winged one'; no identification is made. pittam is the literal 'gall/bile'. The last words rūpaṃ cakre vanaspatīn are ambiguous: 'made the trees her form' is a literal rendering; the line could also mean 'took the shape of trees'. The referent of tvam (the herb or the colour addressed) is not stated.",
+  "why": "reviewer (minor): Imports outside commentary/scholar; brief says not to."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "akarat",
+  "old": "3 sg. impf. √kṛ",
+  "new": "3 sg. aor. √kṛ",
+  "why": "reviewer (minor): akarat (imperfect would be akarot) is the Vedic root/thematic aorist."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "काली (श्यामा), समान रूप करने वाली, पृथ्वी से ऊपर उठाई गई, तुम इसे भली-भाँति सिद्ध करो और फिर से रूपों को यथास्थान रचो।",
+  "new": "काली (श्यामा), समान रूप करने वाली, पृथ्वी से ऊपर उठाई गई, तुम इसे भली-भाँति सिद्ध करो और फिर से रूपों को रचो।",
+  "why": "reviewer (minor): 'in place' added; kalpaya = fashion/arrange."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "adhyudbhṛtā 'lifted up out of the earth' is taken as a participle of the herb addressed; the herb is not identified. In rūpāṇi kalpaya the sense is 'put the forms (colours) in order again'.",
+  "new": "adhyudbhṛtā 'lifted up out of the earth' is taken as a participle of the herb addressed; the herb is not identified. In rūpāṇi kalpaya the sense is 'put the forms in order again'.",
+  "why": "reviewer (minor): 'colours' is an addition."
+ }
+]

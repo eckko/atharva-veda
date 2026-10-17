@@ -1,0 +1,246 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "burned (them)",
+     "problem": "adahat has no object in the text; āpaḥ is the object of praviśya ('having entered the waters'), not of adahat. Notes say the opposite (self-contradictory) and '(them)' is an addition.",
+     "fix": "When Agni, having entered the waters, burned, where ...",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "burned (them),",
+      "new": "burned,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(उन्हें)",
+     "problem": "same addition in Hindi.",
+     "fix": "प्रवेश करके जलाया",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "करके (उन्हें) जलाया",
+      "new": "करके जलाया"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The object of adahat",
+     "problem": "Wrong analysis (see above).",
+     "fix": "adahat has no stated object; āpaḥ is the object of praviśya (entering); reading of the first line is tentative.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "notes",
+      "old": "The object of adahat (the waters) is taken from āpaḥ; reading of the first line is tentative.",
+      "new": "adahat has no stated object; āpaḥ is the object of praviśya (entering); reading of the first line is tentative."
+     }
+    },
+    {
+     "field": "english",
+     "where": "upholders of the ordinance",
+     "problem": "Fixed rendering: dharma = dharma. Gloss and English translate it away.",
+     "fix": "upholders of dharma",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "upholders of the ordinance",
+      "new": "upholders of dharma"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dharma-dhṛtaḥ",
+     "problem": "same.",
+     "fix": "upholders of dharma",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "dharma-dhṛtaḥ",
+      "field": "gloss",
+      "value": "upholders of dharma"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(यह)",
+     "problem": "Bracketed supplied object in Hindi.",
+     "fix": "जानते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "(यह) जानते",
+      "new": "जानते"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ताप (शोचि)",
+     "problem": "Bracketed gloss (Devanagari transliteration of the word).",
+     "fix": "ताप",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ताप (शोचि)",
+      "new": "ताप"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पीले (हरित) के देव",
+     "problem": "Bracketed gloss.",
+     "fix": "पीले के देव",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीले (हरित) के देव",
+      "new": "पीले के देव"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śakalya",
+     "problem": "No grammar given ('adj. (?)'); the reading 'come from the śakalya' (Hindi/English) implies an ablative that the form does not show. Keep low confidence and hedge the translation.",
+     "fix": "gram: unclear (not analysable); translate 'if you go (eṣi) ... śakalya' tentatively",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "(यह)",
+     "problem": "Bracketed supplied object in Hindi.",
+     "fix": "जानते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "(यह) जानते",
+      "new": "जानते"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शोक (ताप)",
+     "problem": "Hindi शोक means grief; śoka here is 'burning' (English draft says burning).",
+     "fix": "यदि तुम दाह हो, या अभिदाह हो",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यदि तुम शोक (ताप) हो, या अभिशोक हो",
+      "new": "यदि तुम दाह हो, या अभिदाह हो"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(us)",
+     "problem": "'us' is added.",
+     "fix": "scorching upon",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "scorching upon (us)",
+      "new": "scorching upon"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पीले (हरित) के देव",
+     "problem": "Bracketed gloss.",
+     "fix": "पीले के देव",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीले (हरित) के देव",
+      "new": "पीले के देव"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(यह)",
+     "problem": "Bracketed supplied object in Hindi.",
+     "fix": "जानते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "(यह) जानते",
+      "new": "जानते"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक दिन छोड़कर ... आक्रमण करता है",
+     "problem": "anyedyuḥ is 'on the next day', not 'every other day'; abhyeti is 'approaches', not 'attacks'. Hindi disagrees with the English and the gloss.",
+     "fix": "जो अगले दिन और दोनों दिन पास आता है",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो एक दिन छोड़कर, दोनों दिन आक्रमण करता है",
+      "new": "जो अगले दिन और दोनों दिन पास आता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ताप (शोचि)",
+     "problem": "Bracketed gloss.",
+     "fix": "कठोर ताप को",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कठोर ताप (शोचि) को",
+      "new": "कठोर ताप को"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "2 errors-class issues in unit 1 (object of adahat) and unit 4 (Hindi anyedyuḥ/abhyeti); rest minor (dharma rendering, bracketed Hindi glosses, śoka in Hindi). No regrouping. Doubt remains on śakalyeṣi and on the first line of unit 1."
+}

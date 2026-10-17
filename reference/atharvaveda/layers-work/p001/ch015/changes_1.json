@@ -1,0 +1,32 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "giraḥ",
+  "old": "f. inst. pl.",
+  "new": "f. acc. pl.",
+  "why": "reviewer (error): giraḥ cannot be instrumental plural (that is gīrbhiḥ); it is acc./nom. pl. 'songs'."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "giraḥ",
+  "old": "with songs",
+  "new": "songs",
+  "why": "reviewer (minor): gloss follows the corrected form."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "'Vardhayatā giraḥ': giraḥ is ambiguous (accusative plural 'songs' as object, or instrumental sense); the translation takes 'this' as the object and 'with songs' as means, which is tentative. 'Ma' is me (printed ma before vowel). 'Saṃsrāvaṇāḥ' is taken as a vocative plural 'confluences'. 'Asmin' has no stated antecedent.",
+  "new": "'Vardhayatā giraḥ': giraḥ is ambiguous (accusative plural 'songs' as object, or instrumental sense); the translation takes 'this' as the object and 'with songs' as means, which is tentative. 'Ma' is me (printed ma before vowel). 'Saṃsrāvaṇāḥ' is taken as a vocative plural 'confluences'. 'Asmin' has no stated antecedent. giraḥ is nominative/accusative plural 'songs'; 'make this one grow with songs' is a loose rendering (the songs may be the object).",
+  "why": "reviewer (minor): With giraḥ as acc./nom. plural, 'with songs' is not grammatical; the sense is loose."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Come here, right here, to my call; here, O confluences, make this one grow with songs. Let every animal that is here come here, and let the wealth stay in this.",
+  "new": "Come here, right here, to my call; here, O confluences, make this one grow with songs. Let every animal, whichever there is, come here, and let the wealth stay in this.",
+  "why": "reviewer (minor): 'that is here' is an unsupported addition and makes the sentence contradictory (already here, come here)."
+ }
+]

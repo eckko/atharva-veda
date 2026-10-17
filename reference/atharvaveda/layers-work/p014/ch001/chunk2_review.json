@@ -1,0 +1,612 @@
+{
+ "units": [
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhātā",
+     "problem": "Gloss adds a translation 'the Establisher' to a divine name; the glossary says transliterate divine names only.",
+     "fix": "Dhātṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "dhātā",
+      "field": "gloss",
+      "value": "Dhātṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pantha̭no̱",
+     "problem": "Printed 'panthano' (short a: पन्थ॑नो). The draft silently reads 'panthānaḥ'; no text_flags entry.",
+     "fix": "add text_flags entry {src:'panthano', suggest:'panthāno', why:\"possible: printed 'panthano' has a short a; 'panthāno' (panthānaḥ, nom. pl. 'paths') expected\"}",
+     "severity": "error"
+    },
+    {
+     "field": "gloss",
+     "where": "anṛkṣarāḥ",
+     "problem": "'free of harm' is an addition; anṛkṣara = without thorns.",
+     "fix": "thornless",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "anṛkṣarāḥ",
+      "field": "gloss",
+      "value": "thornless"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वरण (विवाह-याचना) के लिए",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "विवाह-याचना के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वरण (विवाह-याचना) के लिए",
+      "new": "विवाह-याचना के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "imām",
+     "problem": "'imām' is only 'this (fem.)' in this unit; 'woman' is an inference from other verses.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "append_note",
+      "text": "'imām' is only 'this (feminine)' in the unit; 'woman' is an inference."
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिस (तेज) से",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed). 'splendour' is also supplied.",
+     "fix": "जिससे",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस (तेज) से",
+      "new": "जिससे"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "imām",
+     "problem": "Same as unit 35: 'woman' is inferred.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "append_note",
+      "text": "'imām' is only 'this (feminine)' in the unit; 'woman' is an inference."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vīryā'vān",
+     "problem": "'avān' as 'helping, m. nom. sg. √av' is not a real participle form (invented Sanskrit). The draft's own text_flag proposes 'vīryāvān', but the words do not follow the flag (brief: corrected form goes in words).",
+     "fix": "words: one word w='vīryāvān', gloss 'possessing heroic power', gram 'm. nom. sg. (vīrya-vat)'; keep the text_flag. English '...Indra grew strong, rich in heroic power.' Hindi '...इन्द्र बढ़ा, वीरता से युक्त होकर।'",
+     "severity": "error"
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Keep 'low' (reading of the last word is open).",
+     "fix": "low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bright seizure",
+     "problem": "'seizure' reads as a medical term; grābha is 'seizing/grasp' and the glossary forbids medical claims.",
+     "fix": "This bright grasp (grābha) that defiles the body I remove",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "bright seizure",
+      "new": "bright grasp (grābha)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ग्राभ (पकड़)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "ग्राभ",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ग्राभ (पकड़)",
+      "new": "ग्राभ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्नान के (जल)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "स्नान के जल",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्नान के (जल)",
+      "new": "स्नान के जल"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चारों ओर (वह) जाए",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "चारों ओर जाए",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चारों ओर (वह) जाए",
+      "new": "चारों ओर जाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "has won sovereignty",
+     "problem": "√sū (suṣuve) is 'brought forth/set in motion'; 'won/प्राप्त' is not in the word and the draft's own notes call it free.",
+     "fix": "has brought forth sovereignty; Hindi उत्पन्न किया है",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "43",
+       "op": "replace",
+       "field": "english",
+       "old": "has won sovereignty",
+       "new": "has brought forth sovereignty"
+      },
+      {
+       "n": "43",
+       "op": "replace",
+       "field": "hindi",
+       "old": "प्राप्त किया है",
+       "new": "उत्पन्न किया है"
+      },
+      {
+       "n": "43",
+       "op": "word",
+       "match_w": "suṣuve",
+       "field": "gloss",
+       "value": "has brought forth"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The (women) who cut",
+     "problem": "'women' is added in brackets; yāḥ is only 'those (fem.) who'.",
+     "fix": "Those who cut",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "The (women) who cut",
+      "new": "Those who cut"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vi (vi nayanti)",
+     "problem": "'vi' is not 'forth' (that is pra); vi-√nī is 'lead out/conduct'.",
+     "fix": "apart, away (vi-√nī, to conduct)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "46",
+       "op": "word",
+       "match_w": "vi",
+       "field": "gloss",
+       "value": "apart, away (vi-√nī, to conduct)"
+      },
+      {
+       "n": "46",
+       "op": "replace",
+       "field": "english",
+       "old": "they lead forth the sacrifice",
+       "new": "they conduct the sacrifice"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "(कर्म) / (वे) / (दें)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed). '(कर्म)' is also an addition: vāmam is just 'lovely thing' (n.); 'अनु' is 'along', not 'with'. Also 'आगे ले चलते' follows the wrong 'vi'.",
+     "fix": "जीवित के लिए वे रोते हैं, यज्ञ का संचालन करते हैं; लम्बे विस्तार के साथ-साथ पुरुषों ने ध्यान किया है। जिन्होंने पितरों के लिए यह प्रिय वस्तु चलाई है — पतियों के लिए, पत्नी के लिए, आलिङ्गन के लिए आनन्द।",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "set",
+      "field": "hindi",
+      "value": "जीवित के लिए वे रोते हैं, यज्ञ का संचालन करते हैं; लम्बे विस्तार के साथ-साथ पुरुषों ने ध्यान किया है। जिन्होंने पितरों के लिए यह प्रिय वस्तु चलाई है — पतियों के लिए, पत्नी के लिए, आलिङ्गन के लिए आनन्द।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिस (ग्रहण) से",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed). 'ग्रहण' is supplied.",
+     "fix": "जिससे",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस (ग्रहण) से",
+      "new": "जिससे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ja̱tavḙdā̱ḥ",
+     "problem": "Printed 'jatavedāḥ' (short ja: ज॒तवे॑दाः॒). The draft silently reads 'jātavedāḥ'; no text_flags entry.",
+     "fix": "add text_flags entry {src:'jatavedāḥ', suggest:'jātavedāḥ', why:\"possible: printed 'jatavedāḥ' has a short a; 'jātavedāḥ' (epithet of Agni) expected\"}",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dharmaṇā",
+     "problem": "dharman- is neuter, not masculine.",
+     "fix": "n. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "word",
+      "match_w": "dharmaṇā",
+      "field": "gram",
+      "value": "n. inst. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(मेरी)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed). 'मेरी' is supplied.",
+     "fix": "तुम धर्म से पत्नी हो",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धर्म से (मेरी) पत्नी",
+      "new": "धर्म से पत्नी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सौ शरद (वर्ष)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "सौ शरद",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौ शरद (वर्ष)",
+      "new": "सौ शरद"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "as they did Sūryā",
+     "problem": "'as they did' is an addition; the text has only 'sūryām iva' (like Sūryā).",
+     "fix": "like Sūryā",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "as they did Sūryā",
+      "new": "like Sūryā"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वस्त्र धारण कराया",
+     "problem": "vy-adadhāt (vi-√dhā) is 'arranged'; 'made (her) wear' says something else and contradicts the English.",
+     "fix": "वस्त्र को व्यवस्थित किया",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वस्त्र धारण कराया",
+      "new": "वस्त्र को व्यवस्थित किया"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "खोलता है",
+     "problem": "cacarta is perfect; English says 'has loosened', Hindi has present.",
+     "fix": "खोल चुका है",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "hindi",
+      "old": "खोलता है",
+      "new": "खोल चुका है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चोरी का (अन्न)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed). 'अन्न' is an addition: steya is only 'what is stolen'.",
+     "fix": "चोरी की वस्तु",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चोरी का (अन्न)",
+      "new": "चोरी की वस्तु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hanāthe̱maṃ",
+     "problem": "Printed 'imaṃ' (short a, masculine/neuter form) beside 'nārīm'. The draft silently reads 'imām'; no text_flags entry.",
+     "fix": "add text_flags entry {src:'hanāthemaṃ', suggest:'hanāthemāṃ', why:\"possible: printed 'imaṃ' has a short a; 'imām' (f. acc. sg.) expected with 'nārīm'\"}",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "strike away the harmful beings",
+     "problem": "Glossary: keep the word rakṣas with the gloss 'harmful being'.",
+     "fix": "strike away the rakṣas (harmful beings)",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "replace",
+      "field": "english",
+      "old": "strike away the harmful beings",
+      "new": "strike away the rakṣas (harmful beings)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राक्षसों को",
+     "problem": "Glossary: keep rakṣas; 'राक्षस' is a different word.",
+     "fix": "रक्षस् को",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राक्षसों को",
+      "new": "रक्षस् को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बीच से (आरम्भ कर)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "बीच से आगे",
+     "severity": "minor",
+     "patch": {
+      "n": "60",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बीच से (आरम्भ कर)",
+      "new": "बीच से आगे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(स्त्री)",
+     "problem": "Bracketed gloss in the Hindi (brief: none allowed).",
+     "fix": "पुत्रों वाली को",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुत्रों वाली (स्त्री) को",
+      "new": "पुत्रों वाली को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "aparam, pūrvam",
+     "problem": "'n. nom. sg. adv.' mixes case and adverb; here they are adverbial accusatives (or adjectives of brahma): label unclear.",
+     "fix": "n. acc. sg. (adverbial)",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "32 units (33-64) reviewed; 21 need fixes; 4 errors, 28 minor. Errors: three silent typo corrections without text_flags (34 panthano, 49 jatavedāḥ, 59 imaṃ) and 37 'avān' (invented participle; follow the draft's own flag vīryāvān). Minor: bracketed glosses in the Hindi (34,36,38,39,46,48,51,52,57,60,62), unsupported additions (45,53,57,46), tense/lexeme slips (43,46,53,56), neuter dharman (51), rakṣas rendering (59), 'seizure' (38). No regrouping suggested. Remaining doubts: 36, 37, 46, 56, 57, 60 are genuinely obscure and rightly low; 40 (methi, tardma), 45 (adadanta), 46 (dīdhyuḥ form and sense), 58 (sahapatnyai), 61 (amṛtasya lokam) stay open; 'imām' is rendered 'woman' before the hymn says nārī (35, 36). Glossary additions proposed: kha = hole; brahma (n.) = sacred utterance; kiṃśuka = plant name; Apālā, Navagva, Purandhi = names kept; rakṣas keep Sanskrit word in Hindi (रक्षस्). Hindi: no parentheses at all."
+}

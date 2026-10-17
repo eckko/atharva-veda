@@ -1,0 +1,88 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "giraḥ",
+     "problem": "giraḥ cannot be instrumental plural (that is gīrbhiḥ); it is acc./nom. pl. 'songs'.",
+     "fix": "f. acc. pl.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "giraḥ",
+      "field": "gram",
+      "value": "f. acc. pl.",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "giraḥ",
+     "problem": "gloss follows the corrected form.",
+     "fix": "songs",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "giraḥ",
+      "field": "gloss",
+      "value": "songs",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "giraḥ",
+     "problem": "With giraḥ as acc./nom. plural, 'with songs' is not grammatical; the sense is loose.",
+     "fix": "giraḥ is nominative/accusative plural 'songs'; 'make this one grow with songs' is a loose rendering (the songs may be the object).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "giraḥ is nominative/accusative plural 'songs'; 'make this one grow with songs' is a loose rendering (the songs may be the object).",
+      "n": "2"
+     }
+    },
+    {
+     "field": "english",
+     "where": "yaḥ paśuḥ",
+     "problem": "'that is here' is an unsupported addition and makes the sentence contradictory (already here, come here).",
+     "fix": "Let every animal, whichever there is, come here",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Let every animal that is here come here",
+      "new": "Let every animal, whichever there is, come here",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो घी के, दूध के और जल के स्रोत",
+     "problem": "Hindi adds 'स्रोत' (springs) which is not in the text; English correctly leaves the noun out ('Those that flow together of ...').",
+     "fix": "Drop 'स्रोत' or mark it as supplied in notes (it is already noted that the noun is implied).",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 2 with issues; 1 errors, 4 minor; no regrouping suggested. Unreviewed AI draft."
+}

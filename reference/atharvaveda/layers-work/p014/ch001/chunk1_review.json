@@ -1,0 +1,729 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ब्रह्माण",
+     "problem": "\"ब्रह्माण\" is not a Hindi word (a bare transliteration of brahmāṇaḥ); glossary renders the m. brahman as priest.",
+     "fix": "ब्रह्मा-पुरोहित",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ब्रह्माण जानते",
+      "new": "ब्रह्मा-पुरोहित जानते"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "gupito",
+     "problem": "Printed \"gupito\" = gupitaḥ; the draft normalised it to guptaḥ, which is not the printed form.",
+     "fix": "gupitaḥ",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "guptaḥ",
+      "field": "w",
+      "value": "gupitaḥ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Guarded by coverings and arrangements",
+     "problem": "Gloss/English read the compound as a dvandva (\"coverings and arrangements\") but gram says tat-puruṣa and Hindi/notes say \"covering-arrangements\".",
+     "fix": "Guarded by covering-arrangements",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "Guarded by coverings and arrangements",
+      "new": "Guarded by covering-arrangements"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ācchad-vidhānaiḥ",
+     "problem": "Gloss \"by coverings and arrangements\" conflicts with the tat-puruṣa label.",
+     "fix": "by covering-arrangements",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "ācchad-vidhānaiḥ",
+      "field": "gloss",
+      "value": "by covering-arrangements"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बार्हत (मन्त्रों)",
+     "problem": "Hindi adds \"मन्त्रों\" in brackets; the text has no noun (the notes say so) and bracketed glosses are not allowed in the Hindi.",
+     "fix": "बार्हतों से",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बार्हत (मन्त्रों) से",
+      "new": "बार्हतों से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "raibhī",
+     "problem": "Gloss \"a kind of verse\" imports later commentary; the line gives only a feminine word.",
+     "fix": "Raibhī (feminine word; sense uncertain)",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "raibhī",
+      "field": "gloss",
+      "value": "Raibhī (feminine word; sense uncertain)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "nārāśaṃsī",
+     "problem": "Same: \"a kind of verse\" is not stated by the line.",
+     "fix": "Nārāśaṃsī (feminine word; sense uncertain)",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "nārāśaṃsī",
+      "field": "gloss",
+      "value": "Nārāśaṃsī (feminine word; sense uncertain)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "names of verse-types",
+     "problem": "Note asserts these are verse-types as if the line said so.",
+     "fix": "Raibhī and Nārāśaṃsī are feminine words kept transliterated; later tradition links them to kinds of verse, which this line does not state.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "notes",
+      "old": "Raibhī and Nārāśaṃsī are names of verse-types (stated as feminine nouns).",
+      "new": "Raibhī and Nārāśaṃsī are feminine words kept transliterated; later tradition links them to kinds of verse, which this line does not state."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anudeyī",
+     "problem": "Gloss \"accompanying gift (attendant)\" fixes an interpretation while the note calls the sense uncertain.",
+     "fix": "anudeyī (sense uncertain; \"to be given along\")",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "anudeyī",
+      "field": "gloss",
+      "value": "anudeyī (sense uncertain; \"to be given along\")"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kurīram, opaśaḥ",
+     "problem": "Glosses \"(a head-ornament)\" are imported commentary; the line does not say what they are, and the English \"the metre was the kurīra and the opaśa\" imposes a syntax the notes call unclear.",
+     "fix": "kurīra (word of unclear sense); opaśa (word of unclear sense)",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "kurīram",
+      "field": "gloss",
+      "value": "kurīra (word of unclear sense)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "opaśaḥ",
+     "problem": "Same: \"(a head-ornament)\" is not stated by the line.",
+     "fix": "opaśa (word of unclear sense)",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "opaśaḥ",
+      "field": "gloss",
+      "value": "opaśa (word of unclear sense)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the metre was the kurīra and the opaśa",
+     "problem": "Asserts one parse of three bare nominatives (kurīram chandaḥ opaśaḥ) that the note itself calls unclear.",
+     "fix": "The stoma-chants were the pratidhis; kurīra, the metre, opaśa. (Hindi: स्तोम प्रतिधि थे; कुरीर, छन्द, ओपश।)  Needs a human to settle.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "probably ornaments",
+     "problem": "Note states head-gear sense as probable; not supported by the line.",
+     "fix": "the senses of kurīra, opaśa and pratidhi are uncertain; chandas is the metre.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "notes",
+      "old": "kurīra and opaśa are probably ornaments (head-gear) and chandas the metre; pratidhi (a part of a vehicle/frame?) uncertain.",
+      "new": "the senses of kurīra, opaśa and pratidhi are uncertain; chandas is the metre."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(अपनी इच्छा कहती हुई)",
+     "problem": "Bracketed gloss in the Hindi, and it adds \"her wish\", which is not in the text.",
+     "fix": "... झुकी हुई सूर्या को ...",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "झुकी हुई (अपनी इच्छा कहती हुई) सूर्या",
+      "new": "झुकी हुई सूर्या"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śaṃsantīm",
+     "problem": "Gloss \"declaring (her wish)\" adds \"her wish\"; English/Hindi say \"inclined\" while the gloss says \"declaring\": inconsistent.",
+     "fix": "declaring (sense uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "śaṃsantīm",
+      "field": "gloss",
+      "value": "declaring (sense uncertain)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "both suitors",
+     "problem": "Same word varā is \"wooers\" in unit 8 (gloss here too); \"suitors\" is inconsistent.",
+     "fix": "both wooers",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "both suitors",
+      "new": "both wooers"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "Note: patye (\"to the husband\") could also go with śaṃsantīm (\"declaring to her husband in mind\"); the draft sense \"inclined\" is not literal.",
+     "fix": "Also possible: patye goes with śaṃsantīm; \"inclined\" is an interpretation of √śaṃs.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "Also possible: patye goes with śaṃsantīm (\"declaring to the husband\"); \"inclined\" is an interpretation of √śaṃs."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "द्यौ और आवरण भी था",
+     "problem": "Hindi reads as \"sky and covering both were\" (two subjects); the Sanskrit is \"the sky was the covering\" (dyaur āsīd uta chadiḥ). Also a bracketed gloss.",
+     "fix": "उसका मन गाड़ी था और द्यौ आवरण था; दो उज्ज्वल गाड़ी खींचने वाले बैल थे, जब सूर्या पति के पास गई।",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "उसका मन गाड़ी था और द्यौ आवरण था; दो उज्ज्वल गाड़ी खींचने वाले बैल थे, जब सूर्या पति के पास गई।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शुद्ध",
+     "problem": "English/gloss \"bright\"; Hindi \"शुद्ध\" (pure) differs (unit 10 uses उज्ज्वल for śukra).",
+     "fix": "तुम्हारे दोनों चक्र उज्ज्वल थे",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम्हारे दोनों चक्र शुद्ध थे",
+      "new": "तुम्हारे दोनों चक्र उज्ज्वल थे"
+     }
+    },
+    {
+     "field": "english",
+     "where": "as (she) went",
+     "problem": "Adds \"she\" for the form yātyā, which the draft itself marks uncertain.",
+     "fix": "Bright were your two wheels in going",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "as (she) went",
+      "new": "in going"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(वहतु), (वह), मघा में",
+     "problem": "Bracketed glosses in the Hindi (\"(वहतु)\", \"(वह)\" adds a subject the text lacks); maghāsu is plural but Hindi has singular \"मघा में\".",
+     "fix": "सूर्या की बारात चल पड़ी, जिसे सविता ने भेजा। मघाओं में गायें मारी जाती हैं, फल्गुनियों में ले जाया जाता है।",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "hindi",
+      "value": "सूर्या की बारात चल पड़ी, जिसे सविता ने भेजा। मघाओं में गायें मारी जाती हैं, फल्गुनियों में ले जाया जाता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(यान)",
+     "problem": "Bracketed gloss that supplies a noun the text lacks.",
+     "fix": "तीन चक्र वाले से",
+     "severity": "error",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन चक्र वाले (यान) से",
+      "new": "तीन चक्र वाले से"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pointing the way",
+     "problem": "\"the way\" is added; the word is only deṣṭrāya \"for pointing/guiding\" (uncertain).",
+     "fix": "Where did you two stand for the pointing (guiding)?",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "stand for pointing the way?",
+      "new": "stand for the pointing (guiding)?"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दिशा दिखाने के लिए",
+     "problem": "Same addition (\"दिशा\").",
+     "fix": "निर्देश करने के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दिशा दिखाने के लिए",
+      "new": "निर्देश करने के लिए"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "kva'deṣṭrāya",
+     "problem": "Devanagari reads क्वऽदेष्ट्राय with an avagraha after short kva. The avagraha elsewhere (व्यऽश्नुतम्, यातोऽर्णवम्) marks an elided initial a, so the pada may be kva + a-deṣṭrāya; the note's \"pada-separation mark\" is a guess.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "Source has क्वऽदेष्ट्राय: in this edition ऽ elsewhere marks an elided a, so the pada might be kva + adeṣṭrāya; kept kva deṣṭrāya, not settled."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(कार्य)",
+     "problem": "Bracketed gloss in the Hindi adding \"कार्य\".",
+     "fix": "तुम दोनों के उस को अनुमोदन दिया",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम्हारे उस (कार्य) को अनुमोदित किया",
+      "new": "तुम दोनों के उस को अनुमोदन दिया"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ब्रह्माण",
+     "problem": "As in unit 3.",
+     "fix": "ब्रह्मा-पुरोहित",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ब्रह्माण ऋतु",
+      "new": "ब्रह्मा-पुरोहित ऋतु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "urvārukam",
+     "problem": "Gloss \"a plant fruit\" asserts more than the text; glossary says \"plant name\".",
+     "fix": "urvāruka (plant name)",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "urvārukam",
+      "field": "gloss",
+      "value": "urvāruka (plant name)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उद्गम स्थान",
+     "problem": "\"उद्गम\" (origin) is added to yonau \"in the seat\" (English/gloss \"seat\").",
+     "fix": "ऋत के स्थान में",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऋत के उद्गम स्थान में",
+      "new": "ऋत के स्थान में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Go to the house",
+     "problem": "gṛhān is plural (Hindi \"घरों को\" is plural); English singular loses it.",
+     "fix": "Go to the houses (home)",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "Go to the house,",
+      "new": "Go to the houses (home),"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "samṛdhyatām",
+     "problem": "ṛdhyate is a class-4 middle, not a passive; \"pass.\" is wrong.",
+     "fix": "3 sg. imper. mid. sam-√ṛdh (class 4)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "samṛdhyatām",
+      "field": "gram",
+      "value": "3 sg. imper. mid. sam-√ṛdh (class 4)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ब्रह्मों",
+     "problem": "\"ब्रह्मों\" is not Hindi; English says priests.",
+     "fix": "ब्रह्म-पुरोहितों को धन बाँट दो",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ब्रह्मों को धन",
+      "new": "ब्रह्म-पुरोहितों को धन"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śāmulyam / kṛtyā",
+     "problem": "\"(a garment, uncertain)\" and \"(a made harmful thing)\" import sense not given by the line.",
+     "fix": "śāmulya (word of unclear sense); kṛtyā (that which is made; sense uncertain)",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "śāmulyam",
+      "field": "gloss",
+      "value": "śāmulya (word of unclear sense)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛtyā",
+     "problem": "\"a made harmful thing\" imports \"harmful\"; literal sense only.",
+     "fix": "kṛtyā (that which is made; sense uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "kṛtyā",
+      "field": "gloss",
+      "value": "kṛtyā (that which is made; sense uncertain)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "garment",
+     "problem": "Notes repeat the garment and \"harmful\" glosses.",
+     "fix": "śāmulya: meaning uncertain, left transliterated. kṛtyā: literally \"what is made\"; kept transliterated.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "notes",
+      "old": "meaning uncertain (a kind of cloth/garment), left transliterated",
+      "new": "meaning uncertain, left transliterated"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kṛtyā",
+     "problem": "\"a harmful made thing\" in notes.",
+     "fix": "literally \"what is made\"; kept transliterated",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "notes",
+      "old": ", a harmful made thing; kept",
+      "new": "; kept"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उस पापी (कृत्या) के कारण ... चमकता हुआ भी",
+     "problem": "Bracketed \"(कृत्या)\" names a referent the note says is not stated; \"भी\"/\"because of\" add \"though/because\" to bare ruśatī and instrumental; pāpayā is feminine (\"पापी\" is not).",
+     "fix": "शरीर अशुभ हो जाता है, चमकता हुआ, उस पापिनी के द्वारा; जब पति वधू के वस्त्र से अपने अंग को ढकता है।",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "hindi",
+      "value": "शरीर अशुभ हो जाता है, चमकता हुआ, उस पापिनी के द्वारा; जब पति वधू के वस्त्र से अपने अंग को ढकता है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "though shining, because of",
+     "problem": "Adds \"though\" and \"because of\"; the text has ruśatī (shining) and an instrumental.",
+     "fix": "The body becomes ill-omened, shining, by that evil one; when the husband covers his own limb with the bride's garment.",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "english",
+      "value": "The body becomes ill-omened, shining, by that evil one; when the husband covers his own limb with the bride's garment."
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भग",
+     "problem": "Hindi leaves bhagam untranslated while gloss/English say \"good fortune\".",
+     "fix": "तुम दोनों समृद्ध सौभाग्य को एक साथ लाओ",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समृद्ध भग को",
+      "new": "समृद्ध सौभाग्य को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे शुभ चलती हुई",
+     "problem": "\"शुभ\" reads as an adjective of the cows; śubham is an adverb (gloss \"splendidly\").",
+     "fix": "हे सुन्दरता से चलती हुई, उज्ज्वल,",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे शुभ चलती हुई, उज्ज्वल,",
+      "new": "हे सुन्दरता से चलती हुई, उज्ज्वल,"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "32 units reviewed; 13 errors, 27 minor; 19 units need fixes. No regrouping suggested. Main problems: bracketed glosses in Hindi (units 5,9,10,13,14,15,27); imported commentary in glosses (verse-type, head-ornament, garment, harmful; units 7,8,25); unit 5 split gupito wrongly normalised to guptaḥ; unit 10 Hindi mis-parse of 'the sky was the covering'; unit 27 added though/because. Remaining doubts: 6/7/8/9/11/19/22/27-29 are inherently uncertain (confidence already low/medium); kva'deṣṭrāya avagraha (unit 14); 3 reading of manyate; vareyam, yātyā, svastakau, addhātayaḥ, saha-saṃbhalāyai unresolved."
+}

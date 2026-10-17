@@ -1,0 +1,141 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pṛdākvaḥ",
+     "problem": "Gender: amūḥ, tāsām agree with a feminine noun (pṛdākū-); m. is wrong.",
+     "fix": "f. nom. pl. (stem pṛdākū)",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "pṛdākvaḥ",
+      "field": "gram",
+      "value": "f. nom. pl. (stem pṛdākū)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tri-saptāḥ",
+     "problem": "Agrees with feminine pṛdākvaḥ, not m.",
+     "fix": "f. nom. pl., dvigu (tri + sapta)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "tri-saptāḥ",
+      "field": "gram",
+      "value": "f. nom. pl., dvigu (tri + sapta)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tri-saptāḥ",
+     "problem": "'(twenty-one)' and Hindi 'इक्कीस' state a contested count as fact; the word is literally 'thrice-seven'.",
+     "fix": "thrice-seven",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "tri-saptāḥ",
+      "field": "gloss",
+      "value": "thrice-seven"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इक्कीस",
+     "problem": "Contested count used as fact (see above); English already says thrice-seven.",
+     "fix": "तिगुने सात",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इक्कीस",
+      "new": "तिगुने सात"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "nirjarāyavaḥ",
+     "problem": "Agrees with feminine pṛdākvaḥ.",
+     "fix": "f. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "nirjarāyavaḥ",
+      "field": "gram",
+      "value": "f. nom. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(जरायु)",
+     "problem": "Bracketed gloss.",
+     "fix": "उनके जरायुओं से",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके आवरणों (जरायु) से",
+      "new": "उनके जरायुओं से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मन से असफल रहें",
+     "problem": "Hindi 'मन से' (by mind) vs English 'in mind' (manaḥ acc. of respect); and Hindi is optative while English is indicative 'are' although the text has no verb. Keep both consistent and hedged.",
+     "fix": "चारों ओर, पुनर्भू के द्वारा, बुरा चाहने वाले मन में असफल रहें।",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बुरा चाहने वाले मन से असफल रहें",
+      "new": "बुरा चाहने वाले मन में असफल रहें"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "are unprospered",
+     "problem": "No verb in the text; 'are' (and Hindi 'हैं') supplies a copula. Unit 2 uses 'रहें' for the same refrain: make consistent.",
+     "fix": "(supply no verb or mark it as supplied)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "i̱ndrā̱ṇye'tu",
+     "problem": "Printed form is not indrāṇī+etu by regular sandhi (that gives indrāṇy etu); the draft silently reads indrāṇī+etu and only mentions it in notes. Brief requires a text_flags entry.",
+     "fix": "add text_flags: {src: 'i̱ndrā̱ṇye'tu', suggest: 'indrāṇy etu', why: 'regular sandhi of indrāṇī + etu; the avagraha form is irregular'}",
+     "severity": "error"
+    }
+   ]
+  }
+ ],
+ "summary": "Errors: unit 1 (pṛdākvaḥ gender and the thrice-seven = 21 count as fact), unit 4 (missing text flag for indrāṇye'tu). Text flags present in 1 and the naptya'm one is fine elsewhere. No regrouping. Doubts: whole of unit 1, pṛṇataḥ in unit 4."
+}

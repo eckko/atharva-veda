@@ -1,0 +1,829 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hira̭ṇyavarṇā̱ḥ",
+      "words": [
+       {
+        "w": "hiraṇya-varṇāḥ",
+        "gloss": "golden-coloured",
+        "gram": "f. nom. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "śuca̭yaḥ",
+      "words": [
+       {
+        "w": "śucayaḥ",
+        "gloss": "bright, pure",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāva̱kā",
+      "words": [
+       {
+        "w": "pāvakāḥ",
+        "gloss": "purifying",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāsṷ",
+      "words": [
+       {
+        "w": "yāsu",
+        "gloss": "in which",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jā̱taḥ",
+      "words": [
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "m. nom. sg. ppp √jan"
+       }
+      ]
+     },
+     {
+      "src": "sa̭vi̱tā",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ (name of a god)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāsva̱gniḥ",
+      "words": [
+       {
+        "w": "yāsu",
+        "gloss": "in which",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniṃ",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbha̭ṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "as embryo",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱re",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "they took, bore",
+        "gram": "3 pl. pf. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "su̱varṇā̱stā",
+      "words": [
+       {
+        "w": "su-varṇāḥ",
+        "gloss": "fair-coloured",
+        "gram": "f. nom. pl. (bahuvrīhi)"
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpa̱ḥ",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "wholesome, welfare",
+        "gram": "n. nom. sg./ind."
+       }
+      ]
+     },
+     {
+      "src": "syo̱nā",
+      "words": [
+       {
+        "w": "syonāḥ",
+        "gloss": "kindly, pleasant",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̭vantu",
+      "words": [
+       {
+        "w": "bhavantu",
+        "gloss": "let them be",
+        "gram": "3 pl. impv. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो स्वर्ण के रंग वाले, शुद्ध और पावन हैं, जिनमें सविता उत्पन्न हुआ, जिनमें अग्नि है; जिन सुन्दर रंग वाली (जलों) ने अग्नि को गर्भ के रूप में धारण किया, वे जल हमारे लिए कल्याणकारी और सुखद हों।",
+  "english": "The golden-coloured, bright, purifying waters, in which Savitar was born and in which Agni is: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "text_flags": [],
+  "notes": "The first line has no stated noun; 'āpaḥ' in line 2 supplies it (this verse and the next three share one refrain). Savitar, Agni and Varuṇa are kept as names. The unit is one sentence, with 'in which Agni (is)' supplying the verb.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yāsā̱ṃ",
+      "words": [
+       {
+        "w": "yāsām",
+        "gloss": "of whom",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājā̱",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇo̱",
+      "words": [
+       {
+        "w": "varuṇaḥ",
+        "gloss": "Varuṇa (name of a god)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti̱",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "madhyḙ",
+      "words": [
+       {
+        "w": "madhye",
+        "gloss": "in the midst",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "satyānṛ̱te",
+      "words": [
+       {
+        "w": "satya-anṛte",
+        "gloss": "truth and untruth",
+        "gram": "n. acc. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "a̭va̱paśya̱n",
+      "words": [
+       {
+        "w": "avapaśyan",
+        "gloss": "looking down on",
+        "gram": "pres. part. ava-√paś"
+       }
+      ]
+     },
+     {
+      "src": "janā̭nām",
+      "words": [
+       {
+        "w": "janānām",
+        "gloss": "of the people",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniṃ",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbha̭ṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "as embryo",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱re",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "they took, bore",
+        "gram": "3 pl. pf. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "su̱varṇā̱stā",
+      "words": [
+       {
+        "w": "su-varṇāḥ",
+        "gloss": "fair-coloured",
+        "gram": "f. nom. pl. (bahuvrīhi)"
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpa̱ḥ",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "wholesome, welfare",
+        "gram": "n. nom. sg./ind."
+       }
+      ]
+     },
+     {
+      "src": "syo̱nā",
+      "words": [
+       {
+        "w": "syonāḥ",
+        "gloss": "kindly, pleasant",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̭vantu",
+      "words": [
+       {
+        "w": "bhavantu",
+        "gloss": "let them be",
+        "gram": "3 pl. impv. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनका राजा वरुण, लोगों के सत्य और असत्य को देखता हुआ, (उनके) बीच में चलता है; जिन सुन्दर रंग वाली (जलों) ने अग्नि को गर्भ के रूप में धारण किया, वे जल हमारे लिए कल्याणकारी और सुखद हों।",
+  "english": "The waters whose king Varuṇa goes in their midst, looking down on the truth and untruth of the people: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "text_flags": [],
+  "notes": "'satyānṛte' is the dual dvandva satya-anṛte (truth and untruth). 'madhye' may be taken as 'in the midst (of them)'. Same refrain as unit 1.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yāsā̭ṃ",
+      "words": [
+       {
+        "w": "yāsām",
+        "gloss": "of whom",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "di̱vi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱ṇvanti̭",
+      "words": [
+       {
+        "w": "kṛṇvanti",
+        "gloss": "they make",
+        "gram": "3 pl. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "bha̱kṣaṃ",
+      "words": [
+       {
+        "w": "bhakṣam",
+        "gloss": "food, drink",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntari̭kṣe",
+      "words": [
+       {
+        "w": "antarikṣe",
+        "gloss": "in the mid-air",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahu̱dhā",
+      "words": [
+       {
+        "w": "bahudhā",
+        "gloss": "in many ways",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhava̭nti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "they become",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniṃ",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbha̭ṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "as embryo",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱re",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "they took, bore",
+        "gram": "3 pl. pf. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "su̱varṇā̱stā",
+      "words": [
+       {
+        "w": "su-varṇāḥ",
+        "gloss": "fair-coloured",
+        "gram": "f. nom. pl. (bahuvrīhi)"
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpa̱ḥ",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "wholesome, welfare",
+        "gram": "n. nom. sg./ind."
+       }
+      ]
+     },
+     {
+      "src": "syo̱nā",
+      "words": [
+       {
+        "w": "syonāḥ",
+        "gloss": "kindly, pleasant",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̭vantu",
+      "words": [
+       {
+        "w": "bhavantu",
+        "gloss": "let them be",
+        "gram": "3 pl. impv. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनका (भाग) देवता स्वर्ग में अपना भोज्य बनाते हैं, जो अन्तरिक्ष में अनेक प्रकार से होते हैं; जिन सुन्दर रंग वाली (जलों) ने अग्नि को गर्भ के रूप में धारण किया, वे जल हमारे लिए कल्याणकारी और सुखद हों।",
+  "english": "The waters of which the gods in heaven make their food (drink), and which become manifold in the mid-air: the fair-coloured waters that bore Agni as their embryo: may those waters be wholesome and kindly for us.",
+  "text_flags": [],
+  "notes": "'bhakṣa' = what is eaten or drunk; 'food/drink' is the literal sense. 'yāsām ... kṛṇvanti bhakṣam' read as 'of whom the gods make their food'. Same refrain as unit 1.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śi̱vena̭",
+      "words": [
+       {
+        "w": "śivena",
+        "gloss": "with kindly",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cakṣṷṣā",
+      "words": [
+       {
+        "w": "cakṣuṣā",
+        "gloss": "with eye",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "paśyatāpaḥ",
+      "words": [
+       {
+        "w": "paśyata",
+        "gloss": "look",
+        "gram": "2 pl. impv. √paś"
+       },
+       {
+        "w": "āpaḥ",
+        "gloss": "O waters",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śi̱vayā̭",
+      "words": [
+       {
+        "w": "śivayā",
+        "gloss": "with kindly",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvopa̭",
+      "words": [
+       {
+        "w": "tanvā",
+        "gloss": "with body",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "spṛśata̱",
+      "words": [
+       {
+        "w": "spṛśata",
+        "gloss": "touch",
+        "gram": "2 pl. impv. upa-√spṛś"
+       }
+      ]
+     },
+     {
+      "src": "tvaca̭ṃ",
+      "words": [
+       {
+        "w": "tvacam",
+        "gloss": "skin",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghṛta̱ścuta̱ḥ",
+      "words": [
+       {
+        "w": "ghṛta-ścutaḥ",
+        "gloss": "dripping ghee",
+        "gram": "f. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śuca̭yo̱",
+      "words": [
+       {
+        "w": "śucayaḥ",
+        "gloss": "bright, pure",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāḥ",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pā̭va̱kāstā",
+      "words": [
+       {
+        "w": "pāvakāḥ",
+        "gloss": "purifying",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpa̱ḥ",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "wholesome, welfare",
+        "gram": "n. nom. sg./ind."
+       }
+      ]
+     },
+     {
+      "src": "syo̱nā",
+      "words": [
+       {
+        "w": "syonāḥ",
+        "gloss": "kindly, pleasant",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavantu",
+      "words": [
+       {
+        "w": "bhavantu",
+        "gloss": "let them be",
+        "gram": "3 pl. impv. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे जलो, मुझे कल्याणकारी दृष्टि से देखो; कल्याणकारी देह से मेरी त्वचा का स्पर्श करो। घी टपकाने वाले, शुद्ध, जो पावन जल हैं, वे जल हमारे लिए कल्याणकारी और सुखद हों।",
+  "english": "Look on me with a kindly eye, O waters; touch my skin with a kindly body. The waters that drip ghee, bright and purifying: may those waters be wholesome and kindly for us.",
+  "text_flags": [],
+  "notes": "'ghṛtaścutaḥ' is rendered literally 'dripping ghee' (ghṛta may also mean other sprinkled liquid). 'śivena ... cakṣuṣā' and 'śivayā tanvā' (instrumentals) are read as addressed to the waters (āpaḥ, vocative in 'paśyatāpaḥ').",
+  "confidence": "high"
+ }
+]

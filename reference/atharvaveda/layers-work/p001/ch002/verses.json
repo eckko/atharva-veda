@@ -1,0 +1,601 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmā",
+      "words": [
+       {
+        "w": "vidmā",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rasya̭",
+      "words": [
+       {
+        "w": "śarasya",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̭ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rjanya̱ṃ",
+      "words": [
+       {
+        "w": "parjanyam",
+        "gloss": "Parjanya (name of a deity)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṷ̄ridhāyasam",
+      "words": [
+       {
+        "w": "bhūri-dhāyasam",
+        "gloss": "of abundant sustenance",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmo",
+      "words": [
+       {
+        "w": "vidma",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣva̭sya",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this (one)",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tara̭ṃ",
+      "words": [
+       {
+        "w": "mātaram",
+        "gloss": "mother",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "Earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūri̭varpasam",
+      "words": [
+       {
+        "w": "bhūri-varpasam",
+        "gloss": "of abundant form",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम शर के पिता, बहुत पोषण वाले पर्जन्य को जानते हैं; हम इसकी माता, बहुत रूपों वाली पृथ्वी को भी भली-भाँति जानते हैं।",
+  "english": "We know the father of the reed, Parjanya, rich in sustenance; we also know well its mother, the Earth, of abundant form.",
+  "text_flags": [],
+  "notes": "śara is rendered 'reed' (it may also mean 'arrow'); 'of this' (asya) refers back to the śara. bhūrivarpasam 'of much form'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "001.002.1a",
+   "001.002.1b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॒ भू॑रिधायसम्",
+   "वि॒द्मो ष्व॑स्य मा॒तरं॑ पृथि॒वीं भूरि॑वर्पसम्"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ pa̱rjanya̱ṃ bhṷ̄ridhāyasam",
+   "vi̱dmo ṣva̭sya mā̱tara̭ṃ pṛthi̱vīṃ bhūri̭varpasam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jyā'ke̱",
+      "words": [
+       {
+        "w": "jyāke",
+        "gloss": "O bowstring",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṇo",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱māśmā̭naṃ",
+      "words": [
+       {
+        "w": "nama",
+        "gloss": "bend",
+        "gram": "2 sg. imp. √nam"
+       },
+       {
+        "w": "aśmānam",
+        "gloss": "stone",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvaṃ",
+      "words": [
+       {
+        "w": "tanvam",
+        "gloss": "body",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛdhi",
+      "words": [
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. imp. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vī̱ḍurvarī̱yo'rā̭tī̱rapa̱",
+      "words": [
+       {
+        "w": "vīḍuḥ",
+        "gloss": "firm",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "varīyaḥ",
+        "gloss": "wider",
+        "gram": "n. nom./acc. sg."
+       },
+       {
+        "w": "arātīḥ",
+        "gloss": "enemies",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dveṣā̱ṃsyā'kṛ̭dhi",
+      "words": [
+       {
+        "w": "dveṣāṃsi",
+        "gloss": "hatreds",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "ā-kṛdhi",
+        "gloss": "put, bring",
+        "gram": "2 sg. imp. ā-√kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे ज्या, हमारे चारों ओर झुक जाओ; हमारे शरीर को पत्थर बना दो। दृढ़! अधिक विस्तृत! शत्रुओं को और द्वेषों को दूर कर दो।",
+  "english": "O bowstring, bend around us; make our body a stone. Firm! Wider! Put away the enemies and the hatreds.",
+  "text_flags": [
+   {
+    "src": "jyā'ke̱",
+    "suggest": "jyāke",
+    "why": "possible: the avagraha after ā is unexplained here; read as the vocative jyāke."
+   },
+   {
+    "src": "dveṣā̱ṃsyā'kṛ̭dhi",
+    "suggest": "dveṣāṃsy ā kṛdhi",
+    "why": "possible: avagraha after ā unexplained; analysis of ā-kṛdhi after apa is uncertain."
+   }
+  ],
+  "notes": "The sense of vīḍuḥ varīyaḥ (nominative firm / wider) and of apa ... ā-kṛdhi (apa taken as 'away', governing arātīḥ and dveṣāṃsi) is uncertain; the object of 'bend' and the relation of the bowstring to the body are not stated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.002.2a",
+   "001.002.2b"
+  ],
+  "lines_deva": [
+   "ज्याऽके॒ परि॑ णो न॒माश्मा॑नं त॒न्वं कृधि",
+   "वी॒डुर्वरी॒योऽरा॑ती॒रप॒ द्वेषां॒स्याऽकृ॑धि"
+  ],
+  "lines_iast": [
+   "jyā'ke̱ pari̭ ṇo na̱māśmā̭naṃ ta̱nvaṃ kṛdhi",
+   "vī̱ḍurvarī̱yo'rā̭tī̱rapa̱ dveṣā̱ṃsyā'kṛ̭dhi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛ̱kṣaṃ",
+      "words": [
+       {
+        "w": "vṛkṣam",
+        "gloss": "tree",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadgāva̭ḥ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "gāvaḥ",
+        "gloss": "cows",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pariṣasvajā̱nā",
+      "words": [
+       {
+        "w": "pariṣasvajānāḥ",
+        "gloss": "embracing",
+        "gram": "pf. part. mid. f. nom. pl. pari-√svaj"
+       }
+      ]
+     },
+     {
+      "src": "a̭nusphu̱raṃ",
+      "words": [
+       {
+        "w": "anusphuram",
+        "gloss": "quivering",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱ramarca̭ntyṛ̱bhum",
+      "words": [
+       {
+        "w": "śaram",
+        "gloss": "reed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "arcanti",
+        "gloss": "they praise",
+        "gram": "3 pl. pres. √arc"
+       },
+       {
+        "w": "ṛbhum",
+        "gloss": "skilful one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śarṷma̱smadyā̭vaya",
+      "words": [
+       {
+        "w": "śarum",
+        "gloss": "missile",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl. pl."
+       },
+       {
+        "w": "yāvaya",
+        "gloss": "drive away",
+        "gram": "2 sg. imp. caus. √yu"
+       }
+      ]
+     },
+     {
+      "src": "di̱dyumi̭ndra",
+      "words": [
+       {
+        "w": "didyum",
+        "gloss": "shaft, missile",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब गौएँ वृक्ष का आलिंगन करती हुई काँपते हुए कुशल शर की स्तुति करती हैं; हे इन्द्र, शरु को, दिद्यु को हमसे दूर कर दो।",
+  "english": "When the cows, embracing the tree, praise the quivering reed, the skilful one — O Indra, drive the missile, the shaft, away from us.",
+  "text_flags": [],
+  "notes": "ṛbhum could also be read as a name or epithet; anusphuram and ṛbhum are taken as adjectives of śaram. śaru and didyu both denote a missile or shaft; the line does not say more.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.002.3a",
+   "001.002.3b"
+  ],
+  "lines_deva": [
+   "वृ॒क्षं यद्गावः॑ परिषस्वजा॒ना अ॑नुस्फु॒रं श॒रमर्च॑न्त्यृ॒भुम्",
+   "शरु॑म॒स्मद्या॑वय दि॒द्युमि॑न्द्र"
+  ],
+  "lines_iast": [
+   "vṛ̱kṣaṃ yadgāva̭ḥ pariṣasvajā̱nā a̭nusphu̱raṃ śa̱ramarca̭ntyṛ̱bhum",
+   "śarṷma̱smadyā̭vaya di̱dyumi̭ndra"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dyāṃ",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "Earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cā̱ntastiṣṭha̭ti̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "between",
+        "gram": "ind."
+       },
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stands",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "teja̭nam",
+      "words": [
+       {
+        "w": "tejanam",
+        "gloss": "shaft, reed",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "roga̭ṃ",
+      "words": [
+       {
+        "w": "rogam",
+        "gloss": "disease",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāsrā̱vaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āsrāvam",
+        "gloss": "discharge, flow",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cā̱ntasti̭ṣṭhatu̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "between",
+        "gram": "ind."
+       },
+       {
+        "w": "tiṣṭhatu",
+        "gloss": "let stand",
+        "gram": "3 sg. imp. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "muñja̱",
+      "words": [
+       {
+        "w": "muñjaḥ",
+        "gloss": "muñja (plant name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "it",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे तेजन द्यौ और पृथ्वी के बीच खड़ा है, वैसे ही रोग और आस्राव के बीच मुञ्ज ही खड़ा रहे।",
+  "english": "As the shaft stands between heaven and earth, so let the muñja alone stand between disease and discharge.",
+  "text_flags": [],
+  "notes": "Since dyām and pṛthivīm are accusative with antaḥ, rogam and āsrāvam are read the same way: muñja stands between them. It is read as nominative muñjaḥ before it (visarga lost). 'it' taken as emphatic 'alone, indeed'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.002.4a",
+   "001.002.4b"
+  ],
+  "lines_deva": [
+   "यथा॒ द्यां च॑ पृथि॒वीं चा॒न्तस्तिष्ठ॑ति॒ तेज॑नम्",
+   "ए॒वा रोगं॑ चास्रा॒वं चा॒न्तस्ति॑ष्ठतु॒ मुञ्ज॒ इत्"
+  ],
+  "lines_iast": [
+   "yathā̱ dyāṃ ca̭ pṛthi̱vīṃ cā̱ntastiṣṭha̭ti̱ teja̭nam",
+   "e̱vā roga̭ṃ cāsrā̱vaṃ cā̱ntasti̭ṣṭhatu̱ muñja̱ it"
+  ],
+  "uncertain": []
+ }
+]

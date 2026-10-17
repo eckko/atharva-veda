@@ -1,0 +1,1635 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmā",
+      "words": [
+       {
+        "w": "vidmā",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rasya̭",
+      "words": [
+       {
+        "w": "śarasya",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̭ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rjanya̭ṃ",
+      "words": [
+       {
+        "w": "parjanyam",
+        "gloss": "Parjanya (name of a deity)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tavṛ̭ṣṇyam",
+      "words": [
+       {
+        "w": "śata-vṛṣṇyam",
+        "gloss": "of a hundred powers",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenā̭",
+      "words": [
+       {
+        "w": "tenā",
+        "gloss": "by that",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3śaṃ",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       },
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭raṃ",
+      "words": [
+       {
+        "w": "karam",
+        "gloss": "I make",
+        "gram": "1 sg. subj. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣeca̭naṃ",
+      "words": [
+       {
+        "w": "niṣecanam",
+        "gloss": "pouring out",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hiṣṭḙ",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "dat. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "astu̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "bāliti̭",
+      "words": [
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing the quoted sound)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम शर के पिता, सौ शक्तियों वाले पर्जन्य को जानते हैं; उसी से मैं तुम्हारे शरीर के लिए कल्याण करता हूँ; पृथ्वी पर तुम्हारा उँडेला जाना हो, तुम्हारे लिए वह बाहर हो — बाल्!",
+  "english": "We know the father of the reed, Parjanya, of a hundred powers; by that I make well-being for your body: on the earth be your pouring out; let it be outside for you — bāl!",
+  "text_flags": [],
+  "notes": "tanve3śaṃ: tanve with the pluta mark 3, then śam. bāl is a sound-word followed by iti. niṣecanam is read as 'pouring out'. The refrain has the same wording in units 1 to 5.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.1a",
+   "001.003.1b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ pa̱rjanya̭ṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmā",
+      "words": [
+       {
+        "w": "vidmā",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rasya̭",
+      "words": [
+       {
+        "w": "śarasya",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̭ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̱traṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "Mitra (name of a deity)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tavṛ̭ṣṇyam",
+      "words": [
+       {
+        "w": "śata-vṛṣṇyam",
+        "gloss": "of a hundred powers",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tḙnā",
+      "words": [
+       {
+        "w": "tenā",
+        "gloss": "by that",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭raṃ",
+      "words": [
+       {
+        "w": "karam",
+        "gloss": "I make",
+        "gram": "1 sg. subj. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣeca̭naṃ",
+      "words": [
+       {
+        "w": "niṣecanam",
+        "gloss": "pouring out",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hiṣṭḙ",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "dat. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "astu̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "bāliti̭",
+      "words": [
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing the quoted sound)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम शर के पिता, सौ शक्तियों वाले मित्र को जानते हैं; उसी से मैं तुम्हारे शरीर के लिए कल्याण करता हूँ; पृथ्वी पर तुम्हारा उँडेला जाना हो, तुम्हारे लिए वह बाहर हो — बाल्!",
+  "english": "We know the father of the reed, Mitra, of a hundred powers; by that I make well-being for your body: on the earth be your pouring out; let it be outside for you — bāl!",
+  "text_flags": [],
+  "notes": "bāl is a sound-word followed by iti. niṣecanam is read as 'pouring out'. The refrain has the same wording in units 1 to 5.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.2a",
+   "001.003.2b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम्",
+   "ते॑ना ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ mi̱traṃ śa̱tavṛ̭ṣṇyam",
+   "tḙnā te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmā",
+      "words": [
+       {
+        "w": "vidmā",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rasya̭",
+      "words": [
+       {
+        "w": "śarasya",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̱ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇaṃ",
+      "words": [
+       {
+        "w": "varuṇam",
+        "gloss": "Varuṇa (name of a deity)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tavṛ̭ṣṇyam",
+      "words": [
+       {
+        "w": "śata-vṛṣṇyam",
+        "gloss": "of a hundred powers",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenā̭",
+      "words": [
+       {
+        "w": "tenā",
+        "gloss": "by that",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭raṃ",
+      "words": [
+       {
+        "w": "karam",
+        "gloss": "I make",
+        "gram": "1 sg. subj. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣeca̭naṃ",
+      "words": [
+       {
+        "w": "niṣecanam",
+        "gloss": "pouring out",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hiṣṭḙ",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "dat. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "astu̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "bāliti̭",
+      "words": [
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing the quoted sound)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम शर के पिता, सौ शक्तियों वाले वरुण को जानते हैं; उसी से मैं तुम्हारे शरीर के लिए कल्याण करता हूँ; पृथ्वी पर तुम्हारा उँडेला जाना हो, तुम्हारे लिए वह बाहर हो — बाल्!",
+  "english": "We know the father of the reed, Varuṇa, of a hundred powers; by that I make well-being for your body: on the earth be your pouring out; let it be outside for you — bāl!",
+  "text_flags": [],
+  "notes": "bāl is a sound-word followed by iti. niṣecanam is read as 'pouring out'. The refrain has the same wording in units 1 to 5.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.3a",
+   "001.003.3b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̱ṃ varṷṇaṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmā",
+      "words": [
+       {
+        "w": "vidmā",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rasya̭",
+      "words": [
+       {
+        "w": "śarasya",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̭ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱ndraṃ",
+      "words": [
+       {
+        "w": "candram",
+        "gloss": "Candra, the moon",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tavṛ̭ṣṇyam",
+      "words": [
+       {
+        "w": "śata-vṛṣṇyam",
+        "gloss": "of a hundred powers",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenā̭",
+      "words": [
+       {
+        "w": "tenā",
+        "gloss": "by that",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭raṃ",
+      "words": [
+       {
+        "w": "karam",
+        "gloss": "I make",
+        "gram": "1 sg. subj. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣeca̭naṃ",
+      "words": [
+       {
+        "w": "niṣecanam",
+        "gloss": "pouring out",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hiṣṭḙ",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "dat. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "astu̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "bāliti̭",
+      "words": [
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing the quoted sound)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम शर के पिता, सौ शक्तियों वाले चन्द्र, चन्द्रमा को जानते हैं; उसी से मैं तुम्हारे शरीर के लिए कल्याण करता हूँ; पृथ्वी पर तुम्हारा उँडेला जाना हो, तुम्हारे लिए वह बाहर हो — बाल्!",
+  "english": "We know the father of the reed, Candra, the moon, of a hundred powers; by that I make well-being for your body: on the earth be your pouring out; let it be outside for you — bāl!",
+  "text_flags": [],
+  "notes": "bāl is a sound-word followed by iti. niṣecanam is read as 'pouring out'. The refrain has the same wording in units 1 to 5.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.4a",
+   "001.003.4b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ ca̱ndraṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱dmā",
+      "words": [
+       {
+        "w": "vidmā",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śa̱rasya̭",
+      "words": [
+       {
+        "w": "śarasya",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̱ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭ṃ",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "Sūrya, the sun",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tavṛ̭ṣṇyam",
+      "words": [
+       {
+        "w": "śata-vṛṣṇyam",
+        "gloss": "of a hundred powers",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenā̭",
+      "words": [
+       {
+        "w": "tenā",
+        "gloss": "by that",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭raṃ",
+      "words": [
+       {
+        "w": "karam",
+        "gloss": "I make",
+        "gram": "1 sg. subj. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣeca̭naṃ",
+      "words": [
+       {
+        "w": "niṣecanam",
+        "gloss": "pouring out",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hiṣṭḙ",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "dat. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "astu̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "bāliti̭",
+      "words": [
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (closing the quoted sound)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम शर के पिता, सौ शक्तियों वाले सूर्य को जानते हैं; उसी से मैं तुम्हारे शरीर के लिए कल्याण करता हूँ; पृथ्वी पर तुम्हारा उँडेला जाना हो, तुम्हारे लिए वह बाहर हो — बाल्!",
+  "english": "We know the father of the reed, Sūrya, the sun, of a hundred powers; by that I make well-being for your body: on the earth be your pouring out; let it be outside for you — bāl!",
+  "text_flags": [],
+  "notes": "bāl is a sound-word followed by iti. niṣecanam is read as 'pouring out'. The refrain has the same wording in units 1 to 5.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.5a",
+   "001.003.5b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̱ṃ sūrya̭ṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā̱ntreṣṷ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "rel. n. nom. sg."
+       },
+       {
+        "w": "āntreṣu",
+        "gloss": "in the intestines",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gavī̱nyoryadva̱stāvadhi̱",
+      "words": [
+       {
+        "w": "gavīnyoḥ",
+        "gloss": "in the two gavīnī (name of a bodily part)",
+        "gram": "f. loc. du."
+       },
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "rel. n. nom. sg."
+       },
+       {
+        "w": "vastau",
+        "gloss": "in the bladder",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "adhi",
+        "gloss": "in",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃśrṷtam",
+      "words": [
+       {
+        "w": "saṃśrutam",
+        "gloss": "collected, flowed together",
+        "gram": "p.p. n. nom. sg. saṃ-√śru as printed; the sense 'collected' suggests saṃ-√sru"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "mūtra̭ṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mucyatāṃ",
+      "words": [
+       {
+        "w": "mucyatām",
+        "gloss": "let it be released",
+        "gram": "3 sg. imp. pass. √muc"
+       }
+      ]
+     },
+     {
+      "src": "ba̱hirbāliti̭",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva̱kam",
+      "words": [
+       {
+        "w": "sarvakam",
+        "gloss": "all, entire",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो आँतों में है, जो दोनों गवीनियों में है, और जो मूत्राशय में एकत्र हुआ है — वैसे ही तुम्हारा मूत्र बाहर निकल जाए — बाल् — पूरा का पूरा।",
+  "english": "What is in the intestines, in the two gavīnī, and what is collected in the bladder — so let your urine be released outside — bāl! — all of it.",
+  "text_flags": [],
+  "notes": "saṃśrutam is printed with ś and is read as 'flowed together, collected' (as if from √sru); the printed spelling is kept. gavīnī: a dual noun (two ducts) glossed by its name only. mūtra is rendered literally as 'urine'; vasti 'bladder'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.6a",
+   "001.003.6b"
+  ],
+  "lines_deva": [
+   "यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम्",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "yadā̱ntreṣṷ gavī̱nyoryadva̱stāvadhi̱ saṃśrṷtam",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth, open",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "bhinadmi̱",
+      "words": [
+       {
+        "w": "bhinadmi",
+        "gloss": "I split",
+        "gram": "1 sg. pres. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "meha̭na̱ṃ",
+      "words": [
+       {
+        "w": "mehanam",
+        "gloss": "urinary channel",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vartra̭ṃ",
+      "words": [
+       {
+        "w": "vartram",
+        "gloss": "barrier, dam",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "veśa̱ntyā",
+      "words": [
+       {
+        "w": "veśantyāḥ",
+        "gloss": "of a pool",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̭va",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "mūtra̭ṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mucyatāṃ",
+      "words": [
+       {
+        "w": "mucyatām",
+        "gloss": "let it be released",
+        "gram": "3 sg. imp. pass. √muc"
+       }
+      ]
+     },
+     {
+      "src": "ba̱hirbāliti̭",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva̱kam",
+      "words": [
+       {
+        "w": "sarvakam",
+        "gloss": "all, entire",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं तुम्हारे मेहन को सरोवर के बाँध की तरह चीर देता हूँ; वैसे ही तुम्हारा मूत्र बाहर निकल जाए — बाल् — पूरा का पूरा।",
+  "english": "I split open your urinary channel, like the barrier of a pool; so let your urine be released outside — bāl! — all of it.",
+  "text_flags": [],
+  "notes": "mehana (from √mih) is rendered 'urinary channel'. vartra read as 'barrier, dam'; veśantī as 'pool'; other renderings are possible.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.7a",
+   "001.003.7b"
+  ],
+  "lines_deva": [
+   "प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "pra tḙ bhinadmi̱ meha̭na̱ṃ vartra̭ṃ veśa̱ntyā i̭va",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣi̭taṃ",
+      "words": [
+       {
+        "w": "viṣitam",
+        "gloss": "released",
+        "gram": "p.p. n. nom. sg. vi-√si"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "vastibi̱laṃ",
+      "words": [
+       {
+        "w": "vasti-bilam",
+        "gloss": "opening of the bladder",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭mu̱drasyo̭da̱dheri̭va",
+      "words": [
+       {
+        "w": "samudrasya",
+        "gloss": "of the ocean",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "udadheḥ",
+        "gloss": "of the water-holder (sea)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "mūtra̭ṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mucyatāṃ",
+      "words": [
+       {
+        "w": "mucyatām",
+        "gloss": "let it be released",
+        "gram": "3 sg. imp. pass. √muc"
+       }
+      ]
+     },
+     {
+      "src": "ba̱hirbāliti̭",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva̱kam",
+      "words": [
+       {
+        "w": "sarvakam",
+        "gloss": "all, entire",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे मूत्राशय का द्वार खुल गया है, जैसे समुद्र का, जल के आधार का; वैसे ही तुम्हारा मूत्र बाहर निकल जाए — बाल् — पूरा का पूरा।",
+  "english": "The opening of your bladder is released, like that of the ocean, the water-holder; so let your urine be released outside — bāl! — all of it.",
+  "text_flags": [],
+  "notes": "udadhi 'water-holder' is taken as a further word for the ocean (samudra).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.003.8a",
+   "001.003.8b"
+  ],
+  "lines_deva": [
+   "विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "viṣi̭taṃ te vastibi̱laṃ sa̭mu̱drasyo̭da̱dheri̭va",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathḙṣu̱kā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "iṣukā",
+        "gloss": "arrow",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rāpa̭ta̱dava̭sṛ̱ṣṭādhi̱",
+      "words": [
+       {
+        "w": "parā",
+        "gloss": "away",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "apatat",
+        "gloss": "flew",
+        "gram": "3 sg. impf. √pat"
+       },
+       {
+        "w": "avasṛṣṭā",
+        "gloss": "released",
+        "gram": "p.p. f. nom. sg. ava-√sṛj"
+       },
+       {
+        "w": "adhi",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhanva̭naḥ",
+      "words": [
+       {
+        "w": "dhanvanaḥ",
+        "gloss": "from the bow",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "mūtra̭ṃ",
+      "words": [
+       {
+        "w": "mūtram",
+        "gloss": "urine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mucyatāṃ",
+      "words": [
+       {
+        "w": "mucyatām",
+        "gloss": "let it be released",
+        "gram": "3 sg. imp. pass. √muc"
+       }
+      ]
+     },
+     {
+      "src": "ba̱hirbāliti̭",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       },
+       {
+        "w": "bāl",
+        "gloss": "bāl (a sound)",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva̱kam",
+      "words": [
+       {
+        "w": "sarvakam",
+        "gloss": "all, entire",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे बाण धनुष से छूटकर दूर उड़ गया; वैसे ही तुम्हारा मूत्र बाहर निकल जाए — बाल् — पूरा का पूरा।",
+  "english": "As the arrow flew away, released from the bow; so let your urine be released outside — bāl! — all of it.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "001.003.9a",
+   "001.003.9b"
+  ],
+  "lines_deva": [
+   "यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "yathḙṣu̱kā pa̱rāpa̭ta̱dava̭sṛ̱ṣṭādhi̱ dhanva̭naḥ",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "uncertain": []
+ }
+]

@@ -1,0 +1,98 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पित्त (पित्तरस)",
+     "problem": "Bracketed gloss.",
+     "fix": "पित्त",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पित्त (पित्तरस)",
+      "new": "पित्त"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Whitney-type readings differ",
+     "problem": "Imports outside commentary/scholar; brief says not to.",
+     "fix": "; the line could also mean 'took the shape of trees'",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "notes",
+      "old": "; Whitney-type readings differ (assumed shape as trees)",
+      "new": "; the line could also mean 'took the shape of trees'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "akarat",
+     "problem": "akarat (imperfect would be akarot) is the Vedic root/thematic aorist.",
+     "fix": "3 sg. aor. √kṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "akarat",
+      "field": "gram",
+      "value": "3 sg. aor. √kṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यथास्थान",
+     "problem": "'in place' added; kalpaya = fashion/arrange.",
+     "fix": "रूपों को रचो",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यथास्थान रचो",
+      "new": "रचो"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(colours)",
+     "problem": "'colours' is an addition.",
+     "fix": "(delete)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": " (colours)",
+      "new": ""
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Units 3 ok. Minor fixes elsewhere (aorist label, bracketed/added words, outside-scholar mention in notes). No regrouping."
+}

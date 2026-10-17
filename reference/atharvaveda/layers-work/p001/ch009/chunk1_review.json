@@ -1,0 +1,70 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इसमें वसु",
+     "problem": "'वसु' at the start reads as the neuter 'wealth', but the draft takes it as the group of gods (vasavaḥ) while 'धन' renders vasu.",
+     "fix": "इसमें वसुगण, इन्द्र",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसमें वसु, इन्द्र",
+      "new": "इसमें वसुगण, इन्द्र"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sapatnāḥ",
+     "problem": "Hindi 'शत्रु' (enemy) vs English 'rivals'.",
+     "fix": "प्रतिद्वन्द्वी हमसे नीचे हों",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रु हमसे नीचे हों",
+      "new": "प्रतिद्वन्द्वी हमसे नीचे हों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sapatnāḥ",
+     "problem": "Hindi 'शत्रु' (enemy) vs English 'rivals'.",
+     "fix": "प्रतिद्वन्द्वी हमसे नीचे हों",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रु हमसे नीचे हों",
+      "new": "प्रतिद्वन्द्वी हमसे नीचे हों"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Three minor Hindi fixes (vasu group, sapatna as प्रतिद्वन्द्वी twice). No regrouping suggested."
+}

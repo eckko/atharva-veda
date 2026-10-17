@@ -1,0 +1,55 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "pṛdākvaḥ",
+  "old": "m. nom. pl.",
+  "new": "f. nom. pl. (stem pṛdākū)",
+  "why": "reviewer (error): Gender: amūḥ, tāsām agree with a feminine noun (pṛdākū-); m. is wrong."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "tri-saptāḥ",
+  "old": "m. nom. pl., dvigu",
+  "new": "f. nom. pl., dvigu (tri + sapta)",
+  "why": "reviewer (minor): Agrees with feminine pṛdākvaḥ, not m."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "tri-saptāḥ",
+  "old": "thrice-seven (twenty-one)",
+  "new": "thrice-seven",
+  "why": "reviewer (error): '(twenty-one)' and Hindi 'इक्कीस' state a contested count as fact; the word is literally 'thrice-seven'."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "उधर पार वे पृदाकु हैं, इक्कीस, जो आवरण से मुक्त हैं। उनके आवरणों (जरायु) से हम बुरा चाहने वाले घात लगाने वाले की दोनों आँखों को भी ढक देते हैं।",
+  "new": "उधर पार वे पृदाकु हैं, तिगुने सात, जो आवरण से मुक्त हैं। उनके आवरणों (जरायु) से हम बुरा चाहने वाले घात लगाने वाले की दोनों आँखों को भी ढक देते हैं।",
+  "why": "reviewer (error): Contested count used as fact (see above); English already says thrice-seven."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "nirjarāyavaḥ",
+  "old": "m. nom. pl.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (minor): Agrees with feminine pṛdākvaḥ."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "उधर पार वे पृदाकु हैं, तिगुने सात, जो आवरण से मुक्त हैं। उनके आवरणों (जरायु) से हम बुरा चाहने वाले घात लगाने वाले की दोनों आँखों को भी ढक देते हैं।",
+  "new": "उधर पार वे पृदाकु हैं, तिगुने सात, जो आवरण से मुक्त हैं। उनके जरायुओं से हम बुरा चाहने वाले घात लगाने वाले की दोनों आँखों को भी ढक देते हैं।",
+  "why": "reviewer (minor): Bracketed gloss."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "काटती हुई, मानो पिनाक धारण करती हुई, वह चारों ओर बिखरती हुई चली जाए। चारों ओर, पुनः उत्पन्न होने वाली के द्वारा, बुरा चाहने वाले मन से असफल रहें।",
+  "new": "काटती हुई, मानो पिनाक धारण करती हुई, वह चारों ओर बिखरती हुई चली जाए। चारों ओर, पुनः उत्पन्न होने वाली के द्वारा, बुरा चाहने वाले मन में असफल रहें।",
+  "why": "reviewer (minor): Hindi 'मन से' (by mind) vs English 'in mind' (manaḥ acc. of respect); and Hindi is optative while English is indicative 'are' although the text has no verb. Keep both consistent and hedged."
+ }
+]

@@ -1,0 +1,85 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जरायु से उत्पन्न, प्रथम, अरुण, वृषभ, वायु की चमक के साथ गर्जता हुआ वर्षा के साथ आता है। वह हमारे शरीर के लिए कृपालु हो, सीधा चलने वाला, तोड़ता हुआ, जिसने एक ही बल को तीन प्रकार से फैलाया।",
+  "new": "जरायु से उत्पन्न, प्रथम, अरुण, वृषभ, वायु की चमक के साथ गर्जता हुआ वर्षा के साथ आता है। वह हमारे शरीर के लिए कृपालु हो, सीधा चलने वाला, तोड़ता हुआ, जिसने एक ही बल को तीन प्रकार से डग भरकर बढ़ाया।",
+  "why": "reviewer (minor): vi-√kram is 'strode out/ stepped'; Hindi 'फैलाया' (spread) does not match English 'strode out'."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Born of the membrane, first, ruddy, the bull, thundering he comes with rain, wind-blazing. May he be gracious to our body, going straight, breaking, he who strode out the one might threefold.",
+  "new": "Born of the membrane, first, ruddy, the bull, thundering he comes with rain, with wind-blaze. May he be gracious to our body, going straight, breaking, he who strode out the one might threefold.",
+  "why": "reviewer (minor): Gloss/gram and Hindi take it as instrumental 'with wind-blaze'; the English renders it as a nominative adjective."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "naḥ",
+  "old": "gen. pl.",
+  "new": "dat. pl. (enclitic)",
+  "why": "reviewer (minor): gloss says 'to us' but gram says gen. pl."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "mṛḍāti",
+  "old": "he is gracious",
+  "new": "may he be gracious",
+  "why": "reviewer (minor): translation is optative ('May he be gracious'); gloss is indicative."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "mṛḍāti",
+  "old": "3 sg. pres. √mṛḍ",
+  "new": "3 sg. subj. √mṛḍ",
+  "why": "reviewer (minor): mṛḍāti here is a subjunctive, not a plain present."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "paruḥ-paruḥ",
+  "old": "m. nom. sg.",
+  "new": "n. nom. sg. (adverbial, 'joint by joint')",
+  "why": "reviewer (minor): paruṣ is neuter, not masculine."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Release him from head-pain, and the cough that has entered him, joint after joint, that is his. Whichever is cloud-born, wind-born, and whichever is fierce force, let it go to the trees and to the mountains.",
+  "new": "Release him from head-pain, and the cough that has entered him, joint after joint of his. Whichever is cloud-born, wind-born, and whichever is fierce force, let it go to the trees and to the mountains.",
+  "why": "reviewer (minor): 'that is his' dangles; asya qualifies the joints (paruṣ-paruḥ ... yo asya)."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "sacatām",
+  "old": "let it follow",
+  "new": "let it follow, go to",
+  "why": "reviewer (minor): gloss 'let it follow' does not match the translation 'let it go to'."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Release him from head-pain, and the cough that has entered him, joint after joint of his. Whichever is cloud-born, wind-born, and whichever is fierce force, let it go to the trees and to the mountains.",
+  "new": "Release him from head-pain, and the cough that has entered him, joint after joint of his. Whichever is cloud-born, wind-born, and whichever is force, let it go to the trees and to the mountains.",
+  "why": "reviewer (minor): 'fierce' is added; śuṣma = force, vigour."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "इसे सिर की पीड़ा से छुड़ाओ, और जो खाँसी इसमें जोड़-जोड़ में प्रविष्ट हो गई है, उससे भी। जो बादल से उत्पन्न है, जो वायु से उत्पन्न है, और जो प्रचण्ड बल है, वह वनस्पतियों और पर्वतों के पास जाए।",
+  "new": "इसे सिर की पीड़ा से छुड़ाओ, और जो खाँसी इसमें जोड़-जोड़ में प्रविष्ट हो गई है, उससे भी। जो बादल से उत्पन्न है, जो वायु से उत्पन्न है, और जो बल है, वह वनस्पतियों और पर्वतों के पास जाए।",
+  "why": "reviewer (minor): 'प्रचण्ड' (fierce) is added."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "śuṣmaḥ",
+  "old": "fierce force",
+  "new": "force, vigour",
+  "why": "reviewer (minor): 'fierce' is added."
+ }
+]

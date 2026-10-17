@@ -1,0 +1,38 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "मैं इसका भाग्य और तेज इस प्रकार ग्रहण करता हूँ, जैसे वृक्ष से माला। विशाल आधार वाले पर्वत के समान वह पितरों के बीच दीर्घकाल तक बैठी रहे।",
+  "new": "मैं इसका भाग्य और तेज ग्रहण करता हूँ, जैसे वृक्ष से माला। विशाल आधार वाले पर्वत के समान वह पितरों के बीच दीर्घकाल तक बैठी रहे।",
+  "why": "reviewer (minor): 'इस प्रकार' (in this way) is not in the text."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "te",
+  "old": "to you",
+  "new": "your",
+  "why": "reviewer (minor): English and Hindi translate 'yours / तुम्हारी' (genitive), gloss says 'to you'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे राजन्, यह तुम्हारी कुल की रक्षिका है; उसे हम तुम्हारे हाथ में सौंपते हैं। वह दीर्घकाल तक पितरों के बीच बैठे, जब तक सिर से वह बिखर न जाए।",
+  "new": "हे राजन्, यह तुम्हारी कुल की रक्षिका है; उसे हम तुम्हें सौंपते हैं। वह दीर्घकाल तक पितरों के बीच बैठे, जब तक सिर से वह बिखर न जाए।",
+  "why": "reviewer (minor): 'in your hand' is added."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "The construction of 'jāmayo 'pi' ('the kinswomen also') is unclear; it may mean 'as sisters (do)'. Asita, Kaśyapa and Gaya are names of sages as the genitives of names; the lines give no role. 'Brahman' here: 'sacred utterance' (alternatively 'spell, prayer'). 'Te' in line a may be 'by your brahman'; kept as 'your' for the person bound.",
+  "new": "The construction of 'jāmayo 'pi' ('the kinswomen also') is unclear; it may mean 'as sisters (do)'. Asita, Kaśyapa and Gaya are names (genitives); the lines give no role. 'Brahman' here: 'sacred utterance' (alternatively 'spell, prayer'). 'Te' in line a may be 'by your brahman'; kept as 'your' for the person bound.",
+  "why": "reviewer (minor): Notes call them 'sages' while saying the lines give no role: role must not be imported (LAYER_NOTES 3)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "असित के, कश्यप के और गय के ब्रह्म से, भीतरी कोश के समान, बहनें भी, मैं तुम्हारा भाग्य बाँधता हूँ।",
+  "new": "असित के, कश्यप के और गय के ब्रह्म से, भीतरी कोश के समान, सम्बन्धी स्त्रियाँ भी, मैं तुम्हारा भाग्य बाँधता हूँ।",
+  "why": "reviewer (minor): Hindi 'sisters' vs English/gloss 'kinswomen'."
+ }
+]

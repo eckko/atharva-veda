@@ -1,0 +1,710 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sra̭vantu̱",
+      "words": [
+       {
+        "w": "sravantu",
+        "gloss": "let them flow",
+        "gram": "3 pl. impv. √sru"
+       }
+      ]
+     },
+     {
+      "src": "sindha̭va̱ḥ",
+      "words": [
+       {
+        "w": "sindhavaḥ",
+        "gloss": "rivers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātā̱ḥ",
+      "words": [
+       {
+        "w": "vātāḥ",
+        "gloss": "winds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̭ta̱triṇa̭ḥ",
+      "words": [
+       {
+        "w": "patatriṇaḥ",
+        "gloss": "birds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱maṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱divo̭",
+      "words": [
+       {
+        "w": "pra-divaḥ",
+        "gloss": "those of old",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "juṣantāṃ",
+      "words": [
+       {
+        "w": "juṣantām",
+        "gloss": "let them enjoy",
+        "gram": "3 pl. impv. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "saṃsrā̱vyeṇa",
+      "words": [
+       {
+        "w": "saṃsrāvyeṇa",
+        "gloss": "of the confluence",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̭",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with oblation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "juhomi",
+      "words": [
+       {
+        "w": "juhomi",
+        "gloss": "I offer",
+        "gram": "1 sg. pres. √hu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नदियाँ मिलकर बहें, पवनें मिलकर, पक्षी मिलकर। प्राचीन काल के वे मेरे इस यज्ञ का सेवन करें; मैं संस्राव्य हवि से आहुति देता हूँ।",
+  "english": "Let the rivers flow together, together the winds, together the birds. Let those of old take pleasure in this sacrifice of mine; I offer with the oblation of the confluence.",
+  "text_flags": [],
+  "notes": "'Pradivaḥ' (src pradivo) is read as 'those of old'; the referent is not stated. 'Saṃsrāvya' is 'of the flowing-together'; the rendering 'of the confluence' is tentative.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.015.1a",
+   "001.015.1b"
+  ],
+  "lines_deva": [
+   "सं सं स्र॑वन्तु॒ सिन्ध॑वः॒ सं वाताः॒ सं प॑त॒त्रिणः॑",
+   "इ॒मं य॒ज्ञं प्र॒दिवो॑ मे जुषन्तां संस्रा॒व्येण ह॒विषा॑ जुहोमि"
+  ],
+  "lines_iast": [
+   "saṃ saṃ sra̭vantu̱ sindha̭va̱ḥ saṃ vātā̱ḥ saṃ pa̭ta̱triṇa̭ḥ",
+   "i̱maṃ ya̱jñaṃ pra̱divo̭ me juṣantāṃ saṃsrā̱vyeṇa ha̱viṣā̭ juhomi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱haiva",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hava̱mā",
+      "words": [
+       {
+        "w": "havam",
+        "gloss": "call",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā̭ta",
+      "words": [
+       {
+        "w": "yāta",
+        "gloss": "come",
+        "gram": "2 pl. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "ma",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱ha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭ṃsrāvaṇā",
+      "words": [
+       {
+        "w": "saṃsrāvaṇāḥ",
+        "gloss": "confluences",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱temaṃ",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭rdhayatā",
+      "words": [
+       {
+        "w": "vardhayata",
+        "gloss": "make grow",
+        "gram": "2 pl. impv. caus. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "giraḥ",
+      "words": [
+       {
+        "w": "giraḥ",
+        "gloss": "songs",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱haitu̱",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "etu",
+        "gloss": "let him come",
+        "gram": "3 sg. impv. √i"
+       }
+      ]
+     },
+     {
+      "src": "sarvo̱",
+      "words": [
+       {
+        "w": "sarvaḥ",
+        "gloss": "every",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱śura̱smin",
+      "words": [
+       {
+        "w": "paśuḥ",
+        "gloss": "animal",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ti̭ṣṭhatu̱",
+      "words": [
+       {
+        "w": "tiṣṭhatu",
+        "gloss": "let it stand",
+        "gram": "3 sg. impv. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱yiḥ",
+      "words": [
+       {
+        "w": "rayiḥ",
+        "gloss": "wealth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहीं मेरे आह्वान पर आओ; यहाँ, हे संस्रावणो, इसे स्तुतियों से बढ़ाओ। जो भी पशु है वह सब यहीं आए, और जो धन है वह इसमें ठहरे।",
+  "english": "Come here, right here, to my call; here, O confluences, make this one grow with songs. Let every animal, whichever there is, come here, and let the wealth stay in this.",
+  "text_flags": [],
+  "notes": "'Vardhayatā giraḥ': giraḥ is ambiguous (accusative plural 'songs' as object, or instrumental sense); the translation takes 'this' as the object and 'with songs' as means, which is tentative. 'Ma' is me (printed ma before vowel). 'Saṃsrāvaṇāḥ' is taken as a vocative plural 'confluences'. 'Asmin' has no stated antecedent. giraḥ is nominative/accusative plural 'songs'; 'make this one grow with songs' is a loose rendering (the songs may be the object).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.015.2a",
+   "001.015.2b"
+  ],
+  "lines_deva": [
+   "इ॒हैव हव॒मा या॑त म इ॒ह सं॑स्रावणा उ॒तेमं व॑र्धयता गिरः",
+   "इ॒हैतु॒ सर्वो॒ यः प॒शुर॒स्मिन् ति॑ष्ठतु॒ या र॒यिः"
+  ],
+  "lines_iast": [
+   "i̱haiva hava̱mā yā̭ta ma i̱ha sa̭ṃsrāvaṇā u̱temaṃ va̭rdhayatā giraḥ",
+   "i̱haitu̱ sarvo̱ yaḥ pa̱śura̱smin ti̭ṣṭhatu̱ yā ra̱yiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱dīnā̭ṃ",
+      "words": [
+       {
+        "w": "nadīnām",
+        "gloss": "of the rivers",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃsrava̱ntyutsā̭sa̱ḥ",
+      "words": [
+       {
+        "w": "saṃsravanti",
+        "gloss": "they flow together",
+        "gram": "3 pl. pres. sam-√sru"
+       },
+       {
+        "w": "utsāsaḥ",
+        "gloss": "springs",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sada̱makṣi̭tāḥ",
+      "words": [
+       {
+        "w": "sadam",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "akṣitāḥ",
+        "gloss": "unexhausted",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tebhi̭rme̱",
+      "words": [
+       {
+        "w": "tebhiḥ",
+        "gloss": "with those",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "me",
+        "gloss": "for me",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvai̭ḥ",
+      "words": [
+       {
+        "w": "sarvaiḥ",
+        "gloss": "with all",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃsrā̱vairdhana̱ṃ",
+      "words": [
+       {
+        "w": "saṃsrāvaiḥ",
+        "gloss": "with the confluences",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "dhanam",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srā̭vayāmasi",
+      "words": [
+       {
+        "w": "srāvayāmasi",
+        "gloss": "we cause to flow",
+        "gram": "1 pl. pres. caus. √sru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो नदियों के सदा अक्षय स्रोत एक साथ बहते हैं, उन सभी संगमों के द्वारा हम मेरे लिए धन को एक साथ प्रवाहित करते हैं।",
+  "english": "Those springs of the rivers that flow together, ever unexhausted: with all those confluences we make wealth flow together for me.",
+  "text_flags": [],
+  "notes": "Src 'tebhirme' = tebhiḥ me. 'Utsa' = spring, fountain. 'Me' is taken as 'for me'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.015.3a",
+   "001.015.3b"
+  ],
+  "lines_deva": [
+   "ये न॒दीनां॑ सं॒स्रव॒न्त्युत्सा॑सः॒ सद॒मक्षि॑ताः",
+   "तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि"
+  ],
+  "lines_iast": [
+   "ye na̱dīnā̭ṃ sa̱ṃsrava̱ntyutsā̭sa̱ḥ sada̱makṣi̭tāḥ",
+   "tebhi̭rme̱ sarvai̭ḥ saṃsrā̱vairdhana̱ṃ saṃ srā̭vayāmasi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱rpiṣa̭ḥ",
+      "words": [
+       {
+        "w": "sarpiṣaḥ",
+        "gloss": "of clarified butter",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃsrava̭nti",
+      "words": [
+       {
+        "w": "saṃsravanti",
+        "gloss": "they flow together",
+        "gram": "3 pl. pres. sam-√sru"
+       }
+      ]
+     },
+     {
+      "src": "kṣī̱rasya̭",
+      "words": [
+       {
+        "w": "kṣīrasya",
+        "gloss": "of milk",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "coda̱kasya̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "udakasya",
+        "gloss": "of water",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tebhi̭rme̱",
+      "words": [
+       {
+        "w": "tebhiḥ",
+        "gloss": "with those",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "me",
+        "gloss": "for me",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvai̭ḥ",
+      "words": [
+       {
+        "w": "sarvaiḥ",
+        "gloss": "with all",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃsrā̱vairdhana̱ṃ",
+      "words": [
+       {
+        "w": "saṃsrāvaiḥ",
+        "gloss": "with the confluences",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "dhanam",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "srā̭vayāmasi",
+      "words": [
+       {
+        "w": "srāvayāmasi",
+        "gloss": "we cause to flow",
+        "gram": "1 pl. pres. caus. √sru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो घी के, दूध के और जल के स्रोत एक साथ बहते हैं, उन सभी संगमों के द्वारा हम मेरे लिए धन को एक साथ प्रवाहित करते हैं।",
+  "english": "Those that flow together of clarified butter, of milk and of water: with all those confluences we make wealth flow together for me.",
+  "text_flags": [],
+  "notes": "Refrain repeated from the previous unit. 'Ye' (those) has no noun stated; 'streams' is implied by the verb.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.015.4a",
+   "001.015.4b"
+  ],
+  "lines_deva": [
+   "ये स॒र्पिषः॑ सं॒स्रव॑न्ति क्षी॒रस्य॑ चोद॒कस्य॑ च",
+   "तेभि॑र्मे॒ सर्वैः॑ संस्रा॒वैर्धनं॒ सं स्रा॑वयामसि"
+  ],
+  "lines_iast": [
+   "ye sa̱rpiṣa̭ḥ sa̱ṃsrava̭nti kṣī̱rasya̭ coda̱kasya̭ ca",
+   "tebhi̭rme̱ sarvai̭ḥ saṃsrā̱vairdhana̱ṃ saṃ srā̭vayāmasi"
+  ],
+  "uncertain": []
+ }
+]

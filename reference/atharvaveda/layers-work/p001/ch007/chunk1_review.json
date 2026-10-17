@@ -1,0 +1,108 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tanūvaśin",
+     "problem": "'ruler of the body' is stronger than the gloss ('having power over the body') and the note says the sense is uncertain.",
+     "fix": "one having power over the body",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "ruler of the body",
+      "new": "one having power over the body"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "a̱gni",
+     "problem": "The 'metre' claim in the flag cannot be checked here; the grammatical reason alone is enough.",
+     "fix": "possible: the nominative visarga is missing before pūrva; agniḥ expected.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: the nominative visarga is missing before pūrva; agniḥ expected."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "pra brūhi ... yātudhānān",
+     "problem": "Hindi 'के बारे में' (about) changes the construction; English and the note have the yātudhānas as the thing declared.",
+     "fix": "हमें यातुधानों को बताओ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमें यातुधानों के बारे में बताओ",
+      "new": "हमें यातुधानों को बताओ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "api",
+     "problem": "Glossed 'also, even' but the translations leave it out; with vṛścatu it is far more naturally a separated preverb (api-vṛścatu, cut off).",
+     "fix": "gloss '(preverb with vṛścatu) off'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "7",
+       "op": "word",
+       "match_w": "api",
+       "field": "gloss",
+       "value": "(preverb with vṛścatu) off"
+      },
+      {
+       "n": "7",
+       "op": "word",
+       "match_w": "api",
+       "field": "gram",
+       "value": "ind. (preverb, separated from vṛścatu)"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "Four minor fixes (tanūvaśin rendering, flag wording, Hindi construction, api gloss). Low-confidence unit 2 is honest. No regrouping suggested."
+}

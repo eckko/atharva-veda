@@ -1,0 +1,463 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āpo̱",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣṭhā",
+      "words": [
+       {
+        "w": "stha",
+        "gloss": "you are",
+        "gram": "2 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ma̭yo̱bhuva̱stā",
+      "words": [
+       {
+        "w": "mayaḥ-bhuvaḥ",
+        "gloss": "bringers of well-being",
+        "gram": "tat-puruṣa, f. nom. pl."
+       },
+       {
+        "w": "tāḥ",
+        "gloss": "they",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ū̱rje",
+      "words": [
+       {
+        "w": "ūrje",
+        "gloss": "for vigour",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhātana",
+      "words": [
+       {
+        "w": "dadhātana",
+        "gloss": "set, place",
+        "gram": "2 pl. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ma̱he",
+      "words": [
+       {
+        "w": "mahe",
+        "gloss": "for great",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "raṇā̭ya̱",
+      "words": [
+       {
+        "w": "raṇāya",
+        "gloss": "for delight",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "cakṣa̭se",
+      "words": [
+       {
+        "w": "cakṣase",
+        "gloss": "for sight",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे जलो, तुम निश्चय ही सुख देने वाले हो; वे तुम हमें बल के लिए, महान आनन्द के लिए और देखने के लिए स्थापित करो।",
+  "english": "You, O waters, are indeed bringers of well-being; set us in vigour, for great delight and for sight.",
+  "text_flags": [],
+  "notes": "mayobhū: 'bringing well-being' (mayas). raṇa rendered 'delight'; cakṣase 'for sight' (infinitive-like dative).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "rel. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭ḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "śi̱vata̭mo̱",
+      "words": [
+       {
+        "w": "śivatamaḥ",
+        "gloss": "most auspicious",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rasa̱stasya̭",
+      "words": [
+       {
+        "w": "rasaḥ",
+        "gloss": "essence, sap",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhājayate̱ha",
+      "words": [
+       {
+        "w": "bhājayata",
+        "gloss": "make share",
+        "gram": "2 pl. imp. caus. √bhaj"
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "u̱śa̱tīri̭va",
+      "words": [
+       {
+        "w": "uśatīḥ",
+        "gloss": "eager",
+        "gram": "pres. part. f. nom. pl. √vaś"
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tara̭ḥ",
+      "words": [
+       {
+        "w": "mātaraḥ",
+        "gloss": "mothers",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारा जो अत्यन्त कल्याणकारी रस है, उसका हमें यहाँ भागी बनाओ, जैसे उत्सुक माताएँ।",
+  "english": "That most auspicious sap of yours — make us share in it here, like eager mothers.",
+  "text_flags": [],
+  "notes": "rasa rendered 'sap, essence'. tasya bhājayata: 'make us partake of it'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmā̱",
+      "words": [
+       {
+        "w": "tasmai",
+        "gloss": "to that",
+        "gram": "m./n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ara̭ṃ",
+      "words": [
+       {
+        "w": "aram",
+        "gloss": "readily",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gamāma",
+      "words": [
+       {
+        "w": "gamāma",
+        "gloss": "may we go",
+        "gram": "1 pl. subj. √gam"
+       }
+      ]
+     },
+     {
+      "src": "vo̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣayā̭ya̱",
+      "words": [
+       {
+        "w": "kṣayāya",
+        "gloss": "for the dwelling",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "jinva̭tha",
+      "words": [
+       {
+        "w": "jinvatha",
+        "gloss": "you urge on",
+        "gram": "2 pl. pres. √jinv"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "āpo̭",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ja̱naya̭thā",
+      "words": [
+       {
+        "w": "janayatha",
+        "gloss": "beget",
+        "gram": "2 pl. imp. caus. √jan"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके पास हम शीघ्र पहुँचें, जिसके निवास के लिए तुम हमें प्रेरित करते हो; और हे जलो, हमें उत्पन्न करो।",
+  "english": "May we readily go to that, for whose dwelling you urge us on; and, O waters, beget us.",
+  "text_flags": [],
+  "notes": "tasmai is taken to refer to the rasa of the previous verse (not named here). kṣayāya could also be 'for possession/abode'. Alternative renderings of jinvatha: 'quicken, refresh'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "īśā̭nā̱",
+      "words": [
+       {
+        "w": "īśānāḥ",
+        "gloss": "ruling",
+        "gram": "pres. part. mid. f. nom. pl. √īś"
+       }
+      ]
+     },
+     {
+      "src": "vāryā̭ṇā̱ṃ",
+      "words": [
+       {
+        "w": "vāryāṇām",
+        "gloss": "of desirable things",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣaya̭ntīścarṣaṇī̱nām|",
+      "words": [
+       {
+        "w": "kṣayantīḥ",
+        "gloss": "ruling, being mistress",
+        "gram": "pres. part. f. nom. pl. √kṣi"
+       },
+       {
+        "w": "carṣaṇīnām",
+        "gloss": "of peoples",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱po",
+      "words": [
+       {
+        "w": "apaḥ",
+        "gloss": "waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā̭cāmi",
+      "words": [
+       {
+        "w": "yācāmi",
+        "gloss": "I beg",
+        "gram": "1 sg. pres. √yāc"
+       }
+      ]
+     },
+     {
+      "src": "bheṣa̱jam",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "remedy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वरणीय वस्तुओं पर स्वामिनी, लोगों पर शासन करती हुई — मैं जलों से औषध माँगता हूँ।",
+  "english": "Ruling over desirable things, mistresses over the peoples — I beg the waters for remedy.",
+  "text_flags": [],
+  "notes": "kṣayantīḥ is taken from √kṣi 'rule, be master'; 'dwelling among' is also possible. The waters are the subject of the first line (feminine plurals) and the object of the second.",
+  "confidence": "medium"
+ }
+]

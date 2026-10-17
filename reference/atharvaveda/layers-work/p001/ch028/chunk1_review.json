@@ -1,0 +1,140 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राक्षसों",
+     "problem": "Glossary: keep the word rakṣas.",
+     "fix": "रक्षसों को मारने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राक्षसों को मारने वाला",
+      "new": "रक्षसों को मारने वाला"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(आया है)",
+     "problem": "Bracketed supplied words.",
+     "fix": "दूर करता हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूर करता हुआ (आया है)",
+      "new": "दूर करता हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सामने आती हुई",
+     "problem": "pratīcīḥ is glossed 'turned back' and the English says 'turn back'; Hindi says 'facing/coming'.",
+     "fix": "लौटती हुई",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सामने आती हुई",
+      "new": "लौटती हुई"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पाप रूपी मूर",
+     "problem": "'रूपी' and 'पाप' add 'sin-like'; agham is 'evil'.",
+     "fix": "अशुभ मूर",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाप रूपी मूर",
+      "new": "अशुभ मूर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उत्पन्न (शिशु)",
+     "problem": "Bracketed 'child' (and English 'new-born') are interpretation of jātam ('born').",
+     "fix": "जन्मे हुए को",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्पन्न (शिशु) को",
+      "new": "जन्मे हुए को"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the new-born",
+     "problem": "interpretation of jātam; notes/gloss say 'the born (child)'.",
+     "fix": "the born one",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "the new-born",
+      "new": "the born one"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(her own)",
+     "problem": "Supplied word, admitted in notes; not in the text.",
+     "fix": "let her eat the offspring",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "let her eat (her own) offspring",
+      "new": "let her eat the offspring"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपनी सन्तान",
+     "problem": "same addition.",
+     "fix": "वह सन्तान को खाए",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह अपनी सन्तान को खाए",
+      "new": "वह सन्तान को खाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Unit 4 ok (flag for naptya'm is right). Others minor: rakṣas spelling, supplied/bracketed words, jātam rendering. No regrouping."
+}

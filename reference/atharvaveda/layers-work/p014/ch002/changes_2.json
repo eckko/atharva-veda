@@ -1,0 +1,289 @@
+[
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Mount; place your hand upon the thigh; embrace your wife with a kindly mind. You two, rejoicing here, make offspring; may Savitar make your life long.",
+  "new": "Mount; place the hand upon the thigh; embrace your wife with a kindly mind. You two, rejoicing here, make offspring; may Savitar make your life long.",
+  "why": "reviewer (minor): 'your' is added; the text has only hastam and jāyām (no possessive)."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Mount; place the hand upon the thigh; embrace your wife with a kindly mind. You two, rejoicing here, make offspring; may Savitar make your life long.",
+  "new": "Mount; place the hand upon the thigh; embrace the wife with a kindly mind. You two, rejoicing here, make offspring; may Savitar make your life long.",
+  "why": "reviewer (minor): same: possessive added."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "May Prajāpati bring forth offspring for you two; by day and night may Aryaman unite you. Not inauspicious, enter this world of your husband; be welfare for us, welfare for the two-footed, welfare for the four-footed.",
+  "new": "May Prajāpati bring forth offspring for you two; by day and night may Aryaman unite you. Not inauspicious, enter this world of the husband; be welfare for us, welfare for the two-footed, welfare for the four-footed.",
+  "why": "reviewer (minor): 'your' added; patilokam is 'husband's world'."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "देवों द्वारा मनु के साथ दिया हुआ यह वधू-सम्बन्धी वस्त्र और वधू का वस्त्र — जो इसे जानकार ब्रह्मा को देता है, वही राक्षसों और शय्याओं को नष्ट करता है।",
+  "new": "देवों द्वारा मनु के साथ दिया हुआ यह वधू-सम्बन्धी वस्त्र और वधू का वस्त्र — जो जानने वाले ब्रह्मा को देता है, वही राक्षसों और शय्याओं को नष्ट करता है।",
+  "why": "reviewer (error): 'जानकार' attaches the participle cikituṣe to the giver ('having known it, gives'). cikituṣe is dative and agrees with brahmaṇe: 'to the knowing brahman'. Sense changed."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "देवों द्वारा मनु के साथ दिया हुआ यह वधू-सम्बन्धी वस्त्र और वधू का वस्त्र — जो जानने वाले ब्रह्मा को देता है, वही राक्षसों और शय्याओं को नष्ट करता है।",
+  "new": "देवों द्वारा मनु के साथ दिया हुआ यह वधू-सम्बन्धी वस्त्र और वधू का वस्त्र — जो जानने वाले ब्रह्मा को देता है, वही रक्षसों और शय्याओं को नष्ट करता है।",
+  "why": "reviewer (minor): GLOSSARY: keep the word rakṣas (not rākṣasa)."
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "'datto' is uncertain: dattaḥ is the regular 3 du. of √dā, and the regular 2 du. would be datthaḥ; it is rendered 'you two give' because the second line addresses the two (Bṛhaspati and Indra) with 'dattam'. 'me' may be 'to me' (the brahman speaking). The addressed pair is Bṛhaspati and Indra (vocative + nominative in line b).",
+  "new": "'datto' is uncertain: dattaḥ is the regular 3 du. of √dā, and the regular 2 du. would be datthaḥ; it is rendered 'you two give' because the second line addresses the two (Bṛhaspati and Indra) with 'dattam'. 'me' may be 'to me' (the brahman speaking). The addressed pair is Bṛhaspati and Indra (vocative + nominative in line b). 'brahman' in brahmabhāgam and brahmaṇe is taken as the priest (Brahmā/brahman-priest); the neuter 'sacred utterance' is an alternative.",
+  "why": "reviewer (minor): 'brahman' (priest) is used without the alternative GLOSSARY asks for in notes (brahman n. 'sacred utterance'; Brahmā)."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Bound together from the pleasant womb (seat), joyful in laughter, rejoicing with splendor, faring well, with good sons and a good home, you two, living, shall pass through the shining dawns.",
+  "new": "Bound from the pleasant womb (seat), joyful in laughter, rejoicing with splendor, faring well, with good sons and a good home, you two, living, shall pass through the shining dawns.",
+  "why": "reviewer (minor): 'together' is added; badhyamānau is only 'being bound'."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "सुखद योनि से बँधे हुए, हँसी से आनन्दित, तेज से प्रमुदित होते हुए, उत्तम मार्ग वाले, उत्तम पुत्रों वाले और उत्तम घर वाले तुम दोनों जीवित रहते हुए चमकती हुई उषाओं को पार करोगे।",
+  "new": "सुखद योनि से बँधे हुए, हँसी से आनन्दित, तेज से प्रमुदित होते हुए, सुगमता से चलने वाले, उत्तम पुत्रों वाले और उत्तम घर वाले तुम दोनों जीवित रहते हुए चमकती हुई उषाओं को पार करोगे।",
+  "why": "reviewer (minor): Hindi says 'having a good path' but gloss/English say 'faring well' for sugū. Inconsistent renderings."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "agām",
+  "old": "1 sg. aor. √gā",
+  "new": "1 sg. root aor. √gam",
+  "why": "reviewer (minor): agām is the root aorist 1 sg. of √gam, not √gā."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "For Sūryā, for the gods, for Mitra and Varuṇa, and for those who are attentive to all that exists: to them I have made this homage.",
+  "new": "For Sūryā, for the gods, for Mitra and Varuṇa, and for those who are attentive to what exists: to them I have made this homage.",
+  "why": "reviewer (minor): 'all' is added; bhūtasya is 'of what exists/of beings'."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "सूर्या के लिए, देवों के लिए, मित्र और वरुण के लिए, और जो प्राणिमात्र के विषय में सावधान हैं, उनके लिए मैंने यह नमस्कार किया है।",
+  "new": "सूर्या के लिए, देवों के लिए, मित्र और वरुण के लिए, और जो विद्यमान के विषय में सावधान हैं, उनके लिए मैंने यह नमस्कार किया है।",
+  "why": "reviewer (minor): 'प्राणिमात्र' (every living being) adds 'all' and narrows bhūta to living things."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "'kṛtyā' is rendered 'spell' (a harmful working); 'upavāsana' is rendered 'covering garment'. 'asmin' ('in this') has no stated referent in the unit. The printed token 'ṷpa̱vāsa̭ne̱' keeps the transliteration mark ṷ for u.",
+  "new": "'kṛtyā' is rendered 'spell' (a harmful working); 'upavāsana' is rendered 'covering garment'. 'asmin' ('in this') has no stated referent in the unit. The printed token 'ṷpa̱vāsa̭ne̱' carries the printed accent mark ṷ on u.",
+  "why": "reviewer (minor): The note calls ṷ a 'transliteration mark for u'; in this text ṷ is a printed accent mark."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "मेरा जो सबसे प्रिय शरीर है, वह मेरा वस्त्र से डर गया है। उसके आगे, हे वनस्पति, तुम नीवी बनाओ, जिससे हम हानि न उठाएँ।",
+  "new": "मेरा जो सबसे प्रिय शरीर है, वही मेरा शरीर वस्त्र से डर गया है। उसके आगे, हे वनस्पति, तुम नीवी बनाओ, जिससे हम हानि न उठाएँ।",
+  "why": "reviewer (error): 'वह मेरा वस्त्र से' reads as 'that, my garment' (garment appears as the owner). Actual sense: sā me (that body of mine) bibhāya vāsasaḥ (feared the garment). Sense misleading."
+ },
+ {
+  "n": "51",
+  "field": "word.gloss",
+  "word": "naḥ",
+  "old": "for us",
+  "new": "us",
+  "why": "reviewer (error): 'for us; dat. pl.' contradicts the English 'touch us'; upa-√spṛś takes the accusative, so naḥ is acc. pl."
+ },
+ {
+  "n": "51",
+  "field": "word.gram",
+  "word": "naḥ",
+  "old": "dat. pl.",
+  "new": "acc. pl.",
+  "why": "reviewer (error): See above: acc. pl., not dat."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "All the gods upheld her, sent down by Bṛhaspati. The splendor (varcas) that has entered the cows: with that we unite this woman.",
+  "new": "All the gods upheld her, sent down by Bṛhaspati. The splendor (varcas) that has entered the cows: with that we unite this one (f.).",
+  "why": "reviewer (minor): 'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "All the gods upheld her, sent down by Bṛhaspati. The fiery energy (tejas) that has entered the cows: with that we unite this woman.",
+  "new": "All the gods upheld her, sent down by Bṛhaspati. The fiery energy (tejas) that has entered the cows: with that we unite this one (f.).",
+  "why": "reviewer (minor): 'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally."
+ },
+ {
+  "n": "55",
+  "field": "english",
+  "old": "All the gods upheld her, sent down by Bṛhaspati. The good fortune (bhaga) that has entered the cows: with that we unite this woman.",
+  "new": "All the gods upheld her, sent down by Bṛhaspati. The good fortune (bhaga) that has entered the cows: with that we unite this one (f.).",
+  "why": "reviewer (minor): 'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "बृहस्पति द्वारा छोड़ी गई उसे सब देवों ने धारण किया। जो भग गौओं में प्रविष्ट है, उसके साथ हम इसे जोड़ते हैं।",
+  "new": "बृहस्पति द्वारा छोड़ी गई उसे सब देवों ने धारण किया। जो सौभाग्य गौओं में प्रविष्ट है, उसके साथ हम इसे जोड़ते हैं।",
+  "why": "reviewer (minor): Bare 'भग' is ambiguous in Hindi and does not match the English 'good fortune'."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "All the gods upheld her, sent down by Bṛhaspati. The glory (yaśas) that has entered the cows: with that we unite this woman.",
+  "new": "All the gods upheld her, sent down by Bṛhaspati. The glory (yaśas) that has entered the cows: with that we unite this one (f.).",
+  "why": "reviewer (minor): 'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "All the gods upheld her, sent down by Bṛhaspati. The milk (payas) that has entered the cows: with that we unite this woman.",
+  "new": "All the gods upheld her, sent down by Bṛhaspati. The milk (payas) that has entered the cows: with that we unite this one (f.).",
+  "why": "reviewer (minor): 'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "All the gods upheld her, sent down by Bṛhaspati. The essence (rasa) that has entered the cows: with that we unite this woman.",
+  "new": "All the gods upheld her, sent down by Bṛhaspati. The essence (rasa) that has entered the cows: with that we unite this one (f.).",
+  "why": "reviewer (minor): 'woman' is an addition (imām is only 'this one', f.); the note admits it is an inference. Render neutrally."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "यदि बहनें और यदि युवतियाँ तुम्हारे घर में रोने के साथ अशुभ करती हुई इकट्ठे नाची हैं, तो अग्नि और सविता तुम्हें उस दोष से मुक्त करें।",
+  "new": "यदि सम्बन्धी स्त्रियाँ और यदि युवतियाँ तुम्हारे घर में रोने के साथ अशुभ करती हुई इकट्ठे नाची हैं, तो अग्नि और सविता तुम्हें उस दोष से मुक्त करें।",
+  "why": "reviewer (minor): English says 'kinswomen' (note: sister or female relative); Hindi narrows to 'sisters'."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "तुम्हारी सन्तान में, पशुओं में, या घरों में जो अशुभ बैठा हुआ है, जो पाप करने वालों द्वारा किया गया है — उस दोष से अग्नि और सविता तुम्हें मुक्त करें।",
+  "new": "तुम्हारी सन्तान में, पशुओं में, या घरों में जो अशुभ बैठा हुआ है, जो अशुभ करने वालों द्वारा किया गया है — उस दोष से अग्नि और सविता तुम्हें मुक्त करें।",
+  "why": "reviewer (minor): agha is 'अशुभ' in the same sentence but 'पाप' in aghakṛdbhiḥ: same word, two renderings."
+ },
+ {
+  "n": "66",
+  "field": "word.gloss",
+  "word": "vahatau",
+  "old": "at the conveying of the bride",
+  "new": "at the bridal procession",
+  "why": "reviewer (minor): vahatu is 'conveying of the bride' in 66 but 'bridal procession' in 73. Use one rendering."
+ },
+ {
+  "n": "66",
+  "field": "english",
+  "old": "Whatever misdeed, whatever stain there is at the wedding and at the conveying of the bride: that evil we wipe off in the blanket of the saṃbhala.",
+  "new": "Whatever misdeed, whatever stain there is at the wedding and at the bridal procession: that evil we wipe off in the blanket of the saṃbhala.",
+  "why": "reviewer (minor): Aligned with unit 73."
+ },
+ {
+  "n": "66",
+  "field": "hindi",
+  "old": "जो दुष्कृत, जो मल विवाह में और वधू को ले जाते समय है — उस दुरित को हम संभल के कम्बल में पोंछ देते हैं।",
+  "new": "जो दुष्कृत, जो मल विवाह में और वधू-यात्रा में है — उस दुरित को हम संभल के कम्बल में पोंछ देते हैं।",
+  "why": "reviewer (minor): Same rendering fix."
+ },
+ {
+  "n": "66",
+  "field": "notes",
+  "old": "'saṃbhala' is left untranslated (kind of thing not stated); 'vahatu' is rendered 'conveying of the bride'.",
+  "new": "'saṃbhala' is left untranslated (kind of thing not stated); 'vahatu' is rendered 'bridal procession' (as in unit 73).",
+  "why": "reviewer (minor): Note states the old rendering."
+ },
+ {
+  "n": "69",
+  "field": "english",
+  "old": "From limb to limb of her we lay away the wasting disease (yakṣma). May it not reach the earth, nor the gods, nor heaven; may it not reach the wide atmosphere. May this stain not reach the waters, O Agni; may it not reach Yama, nor all the fathers.",
+  "new": "From each limb of her we lay away the wasting disease (yakṣma). May it not reach the earth, nor the gods, nor heaven; may it not reach the wide atmosphere. May this stain not reach the waters, O Agni; may it not reach Yama, nor all the fathers.",
+  "why": "reviewer (minor): aṅgād-aṅgāt is distributive ('from each limb'); 'limb to limb' suggests passing between limbs. Hindi अंग-अंग से is right."
+ },
+ {
+  "n": "69",
+  "field": "word.gram",
+  "word": "malam",
+  "old": "m. nom. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (minor): malam is labelled m. nom. sg. but agrees with etat (n.)."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "मैं तुम्हें पृथ्वी के पय से बाँधता हूँ, मैं तुम्हें ओषधियों के पय से बाँधता हूँ; मैं तुम्हें सन्तान और धन से बाँधता हूँ। वह तुम, भली-भाँति बँधी हुई, इस बल को प्राप्त करो।",
+  "new": "मैं तुम्हें पृथ्वी के दूध से बाँधता हूँ, मैं तुम्हें ओषधियों के पय से बाँधता हूँ; मैं तुम्हें सन्तान और धन से बाँधता हूँ। वह तुम, भली-भाँति बँधी हुई, इस बल को प्राप्त करो।",
+  "why": "reviewer (minor): English 'milk'; Hindi 'पय' is archaic and differs from 'दूध' used for payas in unit 57."
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "मैं तुम्हें पृथ्वी के दूध से बाँधता हूँ, मैं तुम्हें ओषधियों के पय से बाँधता हूँ; मैं तुम्हें सन्तान और धन से बाँधता हूँ। वह तुम, भली-भाँति बँधी हुई, इस बल को प्राप्त करो।",
+  "new": "मैं तुम्हें पृथ्वी के दूध से बाँधता हूँ, मैं तुम्हें ओषधियों के दूध से बाँधता हूँ; मैं तुम्हें सन्तान और धन से बाँधता हूँ। वह तुम, भली-भाँति बँधी हुई, इस बल को प्राप्त करो।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "72",
+  "field": "hindi",
+  "old": "अविवाहित पुरुष पत्नी की कामना करते हैं, उदार लोग पुत्रों की कामना करते हैं। हम दोनों अक्षत प्राण वाले होकर महान् वाज की प्राप्ति के लिए साथ रहें।",
+  "new": "अविवाहित पुरुष पत्नी की कामना करते हैं, उदार लोग पुत्रों की कामना करते हैं। हम दोनों अक्षत प्राण वाले होकर महान् बल की प्राप्ति के लिए साथ रहें।",
+  "why": "reviewer (minor): vāja is 'vigor' in English and 'बल' in unit 70; Hindi here leaves 'वाज'."
+ },
+ {
+  "n": "73",
+  "field": "english",
+  "old": "The fathers who have come to this bridal procession to see the bride: may they grant to this bride, the joint wife, shelter with offspring.",
+  "new": "The fathers, the bride-seers, who have come to this bridal procession: may they grant to this bride, the joint wife, shelter with offspring.",
+  "why": "reviewer (minor): vadhūdarśāḥ is a noun ('bride-seers'); draft turns it into a purpose clause."
+ },
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "जो पितर वधू को देखने के लिए इस वहतु में आए हैं, वे इस वधू को, इस सम्पत्नी को सन्तानयुक्त आश्रय प्रदान करें।",
+  "new": "जो पितर, वधू को देखने वाले, इस वधू-यात्रा में आए हैं, वे इस वधू को, इस सम्पत्नी को सन्तानयुक्त आश्रय प्रदान करें।",
+  "why": "reviewer (minor): 'वहतु' left untranslated while English says bridal procession; also the purpose clause."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "जो यह पहले यहाँ आई, रशना की भाँति आचरण करती हुई, इस वधू को सन्तान और धन यहाँ देकर — उसे वे अगत के मार्ग पर ले चलें; उत्तम सन्तान वाली यह विराट् पार कर गई है।",
+  "new": "जो यह पहले यहाँ आई, रशना की भाँति आचरण करती हुई, इसके लिए सन्तान और धन यहाँ देकर — उसे वे अगत के मार्ग पर ले चलें; उत्तम सन्तान वाली यह विराट् पार कर गई है।",
+  "why": "reviewer (minor): 'वधू' is added; asyai is only 'to this one' (f.)."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "जो यह पहले यहाँ आई, रशना की भाँति आचरण करती हुई, इसके लिए सन्तान और धन यहाँ देकर — उसे वे अगत के मार्ग पर ले चलें; उत्तम सन्तान वाली यह विराट् पार कर गई है।",
+  "new": "जो यह पहले यहाँ आई, रशना की भाँति आचरण करती हुई, इसके लिए सन्तान और धन यहाँ देकर — उसे वे न गए हुए के मार्ग पर ले चलें; उत्तम सन्तान वाली यह विराट् पार कर गई है।",
+  "why": "reviewer (minor): Untranslated 'अगत' where English says 'not-gone'."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "जो यह पहले यहाँ आई, रशना की भाँति आचरण करती हुई, इसके लिए सन्तान और धन यहाँ देकर — उसे वे न गए हुए के मार्ग पर ले चलें; उत्तम सन्तान वाली यह विराट् पार कर गई है।",
+  "new": "जो यह पहले यहाँ आई, रशना की भाँति आचरण करती हुई, इसके लिए सन्तान और धन यहाँ देकर — उसे वे न गए हुए के मार्ग पर ले चलें; उत्तम सन्तान वाली यह विराट् जीत चुकी है।",
+  "why": "reviewer (minor): ati-√ji 'overcome' is rendered 'crossed' (पार कर); English says 'has overcome'."
+ },
+ {
+  "n": "75",
+  "field": "word.gloss",
+  "word": "budhyamānā",
+  "old": "being awakened",
+  "new": "awakening",
+  "why": "reviewer (error): Labelled 'pass. part.' / 'being awakened', but √budh (4th class budhyate) is intransitive middle: 'awakening'. English already says 'awakening'."
+ },
+ {
+  "n": "75",
+  "field": "word.gram",
+  "word": "budhyamānā",
+  "old": "pass. part. f. nom. sg. √budh",
+  "new": "pres. mid. part. f. nom. sg. √budh",
+  "why": "reviewer (error): kṛdanta mislabelled."
+ }
+]

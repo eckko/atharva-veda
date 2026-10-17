@@ -1,0 +1,564 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye'māvā̱syā̱ṃ3",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "amāvāsyām",
+        "gloss": "new moon",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātri̭mu̱dasthṷrvrā̱jama̱ttriṇa̭ḥ",
+      "words": [
+       {
+        "w": "rātrim",
+        "gloss": "night",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ud",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "asthuḥ",
+        "gloss": "they rose",
+        "gram": "3 pl. aor. ud-√sthā"
+       },
+       {
+        "w": "vrājam",
+        "gloss": "pen, fold",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "attriṇaḥ",
+        "gloss": "devourers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱gnistu̱rīyo̭",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "turīyaḥ",
+        "gloss": "fourth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātu̱hā",
+      "words": [
+       {
+        "w": "yātu-hā",
+        "gloss": "slayer of yātu",
+        "gram": "tat-puruṣa m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱smabhya̱madhi̭",
+      "words": [
+       {
+        "w": "asmabhyam",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       },
+       {
+        "w": "adhi",
+        "gloss": "on behalf of",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bravat",
+      "words": [
+       {
+        "w": "bravat",
+        "gloss": "may he speak",
+        "gram": "3 sg. subj. √brū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो भक्षक अमावस्या की रात में उठकर बाड़े में आए, उनके विषय में चौथे अग्नि, यातुओं के नाशक, वे हमारे पक्ष में बोलें।",
+  "english": "The devourers who rose up on the new-moon night into the pen: may Agni, the fourth, slayer of yātu, speak on our behalf.",
+  "text_flags": [],
+  "notes": "Src 'ye'māvāsyāṃ3' is ye + amāvāsyām with a prolation mark 3; 'rātrimudasthur...' is rātrim ud-asthuḥ vrājam attriṇaḥ. Src 'asthṷr' is asthuḥ (artefact). 'Yātu' is a kind of harmful being (see glossary); 'attrin' is 'devourer'. 'Turīya' = 'fourth' (the lines do not say fourth of what). 'Adhi bravat' = 'speak for, intercede' tentative.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sīsā̱yādhyā̭ha̱",
+      "words": [
+       {
+        "w": "sīsāya",
+        "gloss": "for lead",
+        "gram": "n. dat. sg."
+       },
+       {
+        "w": "adhi",
+        "gloss": "on behalf of",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "has said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "varṷṇa̱ḥ",
+      "words": [
+       {
+        "w": "varuṇaḥ",
+        "gloss": "Varuṇa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sīsā̭yā̱gnirupā̭vati",
+      "words": [
+       {
+        "w": "sīsāya",
+        "gloss": "for lead",
+        "gram": "n. dat. sg."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "upāvati",
+        "gloss": "favours",
+        "gram": "3 sg. pres. upa-√av"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sīsa̭ṃ",
+      "words": [
+       {
+        "w": "sīsam",
+        "gloss": "lead",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "to me",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̱ḥ",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāya̭ccha̱t",
+      "words": [
+       {
+        "w": "prāyacchat",
+        "gloss": "he gave",
+        "gram": "3 sg. impf. pra-√yam"
+       }
+      ]
+     },
+     {
+      "src": "tada̱ṅga",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "aṅga",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā̭tu̱cāta̭nam",
+      "words": [
+       {
+        "w": "yātu-cātanam",
+        "gloss": "driving away of yātu",
+        "gram": "tat-puruṣa n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वरुण ने सीसे के पक्ष में कहा है, अग्नि सीसे के पक्ष में सहायक है। इन्द्र ने मुझे सीसा दिया; वही निश्चय ही यातुओं को भगाने वाला है।",
+  "english": "Varuṇa has spoken on behalf of the lead; Agni favours the lead. Indra gave me lead; that indeed is the driver-away of yātu.",
+  "text_flags": [],
+  "notes": "'Sīsa' is 'lead' (the metal). 'Upāvati' is taken as 'favours, helps' (doubtful). Src 'varṷṇaḥ' is varuṇaḥ. 'Yātu' is a kind of harmful being (sorcery).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣka̭ndhaṃ",
+      "words": [
+       {
+        "w": "viṣkandham",
+        "gloss": "obstruction",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahata",
+      "words": [
+       {
+        "w": "sahate",
+        "gloss": "it overcomes",
+        "gram": "3 sg. pres. mid. √sah"
+       }
+      ]
+     },
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bā̭dhate",
+      "words": [
+       {
+        "w": "bādhate",
+        "gloss": "it repels",
+        "gram": "3 sg. pres. mid. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "a̱ttriṇa̭ḥ",
+      "words": [
+       {
+        "w": "attriṇaḥ",
+        "gloss": "devourers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱nena̱",
+      "words": [
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sasahe̱",
+      "words": [
+       {
+        "w": "sasahe",
+        "gloss": "I have overcome",
+        "gram": "1 sg. pf. mid. √sah"
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jā̱tāni̭",
+      "words": [
+       {
+        "w": "jātāni",
+        "gloss": "born, brood",
+        "gram": "n. acc. pl. p.p. √jan"
+       }
+      ]
+     },
+     {
+      "src": "piśā̱cyāḥ",
+      "words": [
+       {
+        "w": "piśācyāḥ",
+        "gloss": "of the piśācī",
+        "gram": "f. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह विष्कन्ध को दबाता है, यह भक्षकों को हटाता है। इसके द्वारा मैंने सब को जीत लिया है, जो पिशाची की सन्तानें हैं।",
+  "english": "This overcomes the obstruction (viṣkandha); this repels the devourers. By this I have overcome all those born of the piśācī.",
+  "text_flags": [],
+  "notes": "'Viṣkandha' is kept as a word of uncertain sense, glossed 'obstruction' only as a literal guess; no further identification is made. 'Piśācī' is the feminine of piśāca (a kind of harmful being). 'Yā jātāni' is read as yāni jātāni (neuter plural in -ā).",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadi̭",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "gāṃ",
+      "words": [
+       {
+        "w": "gām",
+        "gloss": "cow",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "haṃsi̱",
+      "words": [
+       {
+        "w": "haṃsi",
+        "gloss": "you strike",
+        "gram": "2 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "yadyaśva̱ṃ",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "aśvam",
+        "gloss": "horse",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadi̱",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrṷṣam",
+      "words": [
+       {
+        "w": "puruṣam",
+        "gloss": "man",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sīsḙna",
+      "words": [
+       {
+        "w": "sīsena",
+        "gloss": "with lead",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhyāmo̱",
+      "words": [
+       {
+        "w": "vidhyāmaḥ",
+        "gloss": "we pierce",
+        "gram": "1 pl. pres. √vyadh"
+       }
+      ]
+     },
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no'so̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "asaḥ",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "avī̭rahā",
+      "words": [
+       {
+        "w": "a-vīra-hā",
+        "gloss": "not a slayer of men",
+        "gram": "tat-puruṣa m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि तुम हमारी गाय को मारते हो, या घोड़े को, या पुरुष को, तो उस तुम को हम सीसे से बेधते हैं, ताकि तुम हमारे वीरों के हत्यारे न रहो।",
+  "english": "If you strike our cow, or our horse, or our man, we pierce you, that one, with lead, so that you may not be a slayer of our men.",
+  "text_flags": [],
+  "notes": "Src 'pūrṷṣam', 'sīsḙna' are transliteration artefacts. 'Avīrahā' is read as a-vīra-hā 'not a slayer of men' (alternatively 'slayer of non-heroes'). 'Naḥ' is genitive 'our' with all three objects.",
+  "confidence": "medium"
+ }
+]

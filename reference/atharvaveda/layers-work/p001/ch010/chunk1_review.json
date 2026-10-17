@@ -1,0 +1,165 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "vi rājati",
+     "problem": "'vi' glossed 'widely' and English says widely; Hindi 'विशेष रूप से' (especially) is a different meaning.",
+     "fix": "दूर-दूर तक शासन करता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विशेष रूप से शासन करता है",
+      "new": "दूर-दूर तक शासन करता है",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "brahmaṇā",
+     "problem": "GLOSSARY fixes brahman = ब्रह्म in Hindi; 'प्रार्थना के बल' also adds 'strength'. Other chunks use ब्रह्म.",
+     "fix": "ब्रह्म से प्रबल होता हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रार्थना के बल से प्रबल होता हुआ",
+      "new": "ब्रह्म से प्रबल होता हुआ",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jīvāti",
+     "problem": "jīvāti is a present-stem subjunctive, not an aorist; the translation ('may he live') is fine.",
+     "fix": "3 sg. subj. √jīv",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jīvāti",
+      "field": "gram",
+      "value": "3 sg. subj. √jīv",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nicikeṣi",
+     "problem": "nicikeṣi is labelled '2 sg. pf. √ci' without any doubt marked; the form and root (ci / cit 'perceive') are not secure.",
+     "fix": "nicikeṣi (taken as a perfect-type 2 sg. of ni-√ci/√cit 'perceive, note') has an uncertain root and form.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "nicikeṣi (taken as a perfect-type 2 sg. of ni-√ci/√cit 'perceive, note') has an uncertain root and form.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english 'from that I release you'",
+     "problem": "Unsupported addition: the text releases the addressee from Varuṇa (muñcāmi varuṇāt); it does not say release 'from that' (the untruth). Notes even admit the 'because of' sense is supplied.",
+     "fix": "I release you from Varuṇa, the king whose law is true.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "from that I release you, from Varuṇa, the king whose law is true.",
+      "new": "I release you from Varuṇa, the king whose law is true.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'उससे'",
+     "problem": "Same addition as in English: 'उससे' (from that) is not in the text.",
+     "fix": "मैं तुम्हें",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उससे मैं तुम्हें",
+      "new": "मैं तुम्हें",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "apa",
+     "problem": "apa means 'away', not 'toward'.",
+     "fix": "away (preverb)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "apa",
+      "field": "gloss",
+      "value": "away (preverb)",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपने",
+     "problem": "'अपने' (own) is not in the text; sajātān is simply 'kinsmen'.",
+     "fix": "यहाँ सजातियों से बोलो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यहाँ अपने सजातियों से बोलो",
+      "new": "यहाँ सजातियों से बोलो",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "brahma",
+     "problem": "GLOSSARY: brahman = ब्रह्म in Hindi (English already says sacred utterance).",
+     "fix": "हमारे ब्रह्म पर ध्यान दो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारी प्रार्थना पर ध्यान दो",
+      "new": "हमारे ब्रह्म पर ध्यान दो",
+      "n": "4"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sajātān",
+     "problem": "sajātān is accusative plural; 'speak to the kinsmen' needs a dative/locative sense and is not grammatically secure; also vada has brahma as a possible object ('speak the brahman').",
+     "fix": "sajātān is accusative plural, so 'to the kinsmen' is a loose rendering; brahma may instead be the object of vada ('speak the sacred utterance'). The line stays doubtful.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "sajātān is accusative plural, so 'to the kinsmen' is a loose rendering; brahma may instead be the object of vada ('speak the sacred utterance'). The line stays doubtful.",
+      "n": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 4 with issues; 3 errors, 7 minor; no regrouping suggested. Unreviewed AI draft."
+}

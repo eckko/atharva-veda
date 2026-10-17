@@ -1,0 +1,1112 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stu̱vā̱nama̭gna̱",
+      "words": [
+       {
+        "w": "stuvānam",
+        "gloss": "praising",
+        "gram": "pres. part. mid. m. acc. sg. √stu"
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "here",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "va̭ha",
+      "words": [
+       {
+        "w": "vaha",
+        "gloss": "bring",
+        "gram": "2 sg. imp. √vah"
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhāna̭ṃ",
+      "words": [
+       {
+        "w": "yātudhānam",
+        "gloss": "yātudhāna (harmful being)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kimī̱dina̭m",
+      "words": [
+       {
+        "w": "kimīdinam",
+        "gloss": "kimīdin (harmful being)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dḙva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vandi̱to",
+      "words": [
+       {
+        "w": "vanditaḥ",
+        "gloss": "praised",
+        "gram": "p.p. m. nom. sg. √vand"
+       }
+      ]
+     },
+     {
+      "src": "ha̱ntā",
+      "words": [
+       {
+        "w": "hantā",
+        "gloss": "slayer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dasyo̭rba̱bhūvi̭tha",
+      "words": [
+       {
+        "w": "dasyoḥ",
+        "gloss": "of the foe (dasyu)",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "babhūvitha",
+        "gloss": "you have become",
+        "gram": "2 sg. pf. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, स्तुति करते हुए यातुधान को, किमीदी को यहाँ ले आओ। क्योंकि हे देव, तुम वन्दित होकर दस्यु के नाश करने वाले हुए हो।",
+  "english": "Bring here, O Agni, the praising yātudhāna, the kimīdin. For you, O god, being praised, have become the slayer of the foe.",
+  "text_flags": [],
+  "notes": "yātudhāna and kimīdin are kept as names of kinds of harmful beings. stuvānam: 'praising' (it could also be read 'being praised'); compare unit 8.2, where the same word applies to the one who has come. dasyu rendered 'foe'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.007.1a",
+   "001.007.1b"
+  ],
+  "lines_deva": [
+   "स्तु॒वा॒नम॑ग्न॒ आ व॑ह यातु॒धानं॑ किमी॒दिन॑म्",
+   "त्वं हि दे॑व वन्दि॒तो ह॒न्ता दस्यो॑र्ब॒भूवि॑थ"
+  ],
+  "lines_iast": [
+   "stu̱vā̱nama̭gna̱ ā va̭ha yātu̱dhāna̭ṃ kimī̱dina̭m",
+   "tvaṃ hi dḙva vandi̱to ha̱ntā dasyo̭rba̱bhūvi̭tha"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ājya̭sya",
+      "words": [
+       {
+        "w": "ājyasya",
+        "gloss": "of clarified butter (ājya)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "parameṣṭhin",
+      "words": [
+       {
+        "w": "parameṣṭhin",
+        "gloss": "O one in the highest place",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāta̭veda̱stanṷ̄vaśin",
+      "words": [
+       {
+        "w": "jātavedaḥ",
+        "gloss": "Jātavedas (epithet of Agni)",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "tanū-vaśin",
+        "gloss": "having power over the body",
+        "gram": "bahuvrīhi, m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "agnḙ",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tau̱lasya̱",
+      "words": [
+       {
+        "w": "taulasya",
+        "gloss": "of the taula (a substance)",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāśā̭na",
+      "words": [
+       {
+        "w": "prāśāna",
+        "gloss": "partake",
+        "gram": "2 sg. imp. mid. pra-√aś"
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̱n",
+      "words": [
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhāna (harmful being)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth, apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "lā̭paya",
+      "words": [
+       {
+        "w": "lāpaya",
+        "gloss": "make lament",
+        "gram": "2 sg. imp. caus. √lap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे परमेष्ठी, हे जातवेदा, हे शरीर पर अधिकार रखने वाले अग्नि, आज्य का और तौल का सेवन करो; यातुधानों को विलाप कराओ।",
+  "english": "O Parameṣṭhin, Jātavedas, one having power over the body, O Agni, partake of the clarified butter and of the taula; make the yātudhānas lament.",
+  "text_flags": [],
+  "notes": "prāśāna: taken as a 2 sg. middle imperative of pra-√aś 'partake'; it may instead be a vocative participle 'O partaker'. taula is an uncertain word, kept untranslated. tanūvaśin is uncertain ('having power over the body' or 'self-willed'). parameṣṭhin 'standing in the highest place'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.007.2a",
+   "001.007.2b"
+  ],
+  "lines_deva": [
+   "आज्य॑स्य परमेष्ठिन् जात॑वेद॒स्तनू॑वशिन्",
+   "अग्ने॑ तौ॒लस्य॒ प्राशा॑न यातु॒धाना॒न् वि ला॑पय"
+  ],
+  "lines_iast": [
+   "ājya̭sya parameṣṭhin jāta̭veda̱stanṷ̄vaśin",
+   "agnḙ tau̱lasya̱ prāśā̭na yātu̱dhānā̱n vi lā̭paya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth, apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "la̭pantu",
+      "words": [
+       {
+        "w": "lapantu",
+        "gloss": "let them lament",
+        "gram": "3 pl. imp. √lap"
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̭",
+      "words": [
+       {
+        "w": "yātudhānāḥ",
+        "gloss": "yātudhāna (harmful beings)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱ttriṇo̱",
+      "words": [
+       {
+        "w": "attriṇaḥ",
+        "gloss": "devouring",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "rel. m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ki̭mī̱dina̭ḥ",
+      "words": [
+       {
+        "w": "kimīdinaḥ",
+        "gloss": "kimīdin (harmful beings)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "athe̱dama̭gne",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ha̱virindra̭śca",
+      "words": [
+       {
+        "w": "haviḥ",
+        "gloss": "oblation",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra (name of a deity)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "haryatam",
+      "words": [
+       {
+        "w": "haryatam",
+        "gloss": "take pleasure in",
+        "gram": "2 du. imp. √har"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे यातुधान विलाप करें, वे भक्षक जो किमीदी हैं; तब हे अग्नि, और इन्द्र, हमारी इस हवि का स्वागत करो।",
+  "english": "Let them lament, the yātudhānas, the devouring ones who are kimīdins; then, O Agni, and Indra, take pleasure in this our oblation.",
+  "text_flags": [],
+  "notes": "haryatam is a dual imperative addressed to Agni and Indra together.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.007.3a",
+   "001.007.3b"
+  ],
+  "lines_deva": [
+   "वि ल॑पन्तु यातु॒धाना॑ अ॒त्त्रिणो॒ ये कि॑मी॒दिनः॑",
+   "अथे॒दम॑ग्ने नो ह॒विरिन्द्र॑श्च प्रति॑ हर्यतम्"
+  ],
+  "lines_iast": [
+   "vi la̭pantu yātu̱dhānā̭ a̱ttriṇo̱ ye ki̭mī̱dina̭ḥ",
+   "athe̱dama̭gne no ha̱virindra̭śca prati̭ haryatam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱gni",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrva̱",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "here",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ra̭bhatā̱ṃ",
+      "words": [
+       {
+        "w": "rabhatām",
+        "gloss": "let him set to",
+        "gram": "3 sg. imp. mid. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "prendro̭",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth, away",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nudatu",
+      "words": [
+       {
+        "w": "nudatu",
+        "gloss": "let him drive",
+        "gram": "3 sg. imp. √nud"
+       }
+      ]
+     },
+     {
+      "src": "bāhu̱mā̭n",
+      "words": [
+       {
+        "w": "bāhumān",
+        "gloss": "strong-armed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bravī̭tu̱",
+      "words": [
+       {
+        "w": "bravītu",
+        "gloss": "let him say",
+        "gram": "3 sg. imp. √brū"
+       }
+      ]
+     },
+     {
+      "src": "sarvo̭",
+      "words": [
+       {
+        "w": "sarvaḥ",
+        "gloss": "every",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātu̱māna̱yama̱smītyetya̭",
+      "words": [
+       {
+        "w": "yātumān",
+        "gloss": "possessor of yātu (harmful power)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asmi",
+        "gloss": "I am",
+        "gram": "1 sg. pres. √as"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "etya",
+        "gloss": "having come",
+        "gram": "abs. ā-√i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि पहले आरम्भ करे, बलवान भुजाओं वाला इन्द्र उन्हें हटा दे; हर यातुमान आकर कहे — मैं यह हूँ।",
+  "english": "Let Agni set to first; let the strong-armed Indra drive them away; let every yātumān, having come, say: 'Here I am.'",
+  "text_flags": [
+   {
+    "src": "a̱gni",
+    "suggest": "agniḥ",
+    "why": "possible: the nominative visarga is missing before pūrva; agniḥ expected."
+   }
+  ],
+  "notes": "prendro = pra indraḥ; pra nudatu is taken as 'drive away' (pra separated from nudatu). 'Them' (the object of nudatu) is not stated. yātumān: possessor of yātu (harmful power). ayam asmi: 'I am this one'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.007.4a",
+   "001.007.4b"
+  ],
+  "lines_deva": [
+   "अ॒ग्नि पूर्व॒ आ र॑भतां॒ प्रेन्द्रो॑ नुदतु बाहु॒मा॑न्",
+   "ब्रवी॑तु॒ सर्वो॑ यातु॒मान॒यम॒स्मीत्येत्य॑"
+  ],
+  "lines_iast": [
+   "a̱gni pūrva̱ ā ra̭bhatā̱ṃ prendro̭ nudatu bāhu̱mā̭n",
+   "bravī̭tu̱ sarvo̭ yātu̱māna̱yama̱smītyetya̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paśyā̭ma",
+      "words": [
+       {
+        "w": "paśyāma",
+        "gloss": "may we see",
+        "gram": "1 pl. subj. √paś"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "vī̱rya̱ṃ",
+      "words": [
+       {
+        "w": "vīryam",
+        "gloss": "heroic power",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātaveda̱ḥ",
+      "words": [
+       {
+        "w": "jātavedaḥ",
+        "gloss": "Jātavedas (epithet of Agni)",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṇo̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "brūhi",
+      "words": [
+       {
+        "w": "brūhi",
+        "gloss": "declare",
+        "gram": "2 sg. imp. √brū"
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̭n",
+      "words": [
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhāna (harmful being)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nṛcakṣaḥ",
+      "words": [
+       {
+        "w": "nṛ-cakṣaḥ",
+        "gloss": "O watcher of men",
+        "gram": "tat-puruṣa, m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvayā̱",
+      "words": [
+       {
+        "w": "tvayā",
+        "gloss": "by you",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarve̱",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pari̭taptāḥ",
+      "words": [
+       {
+        "w": "paritaptāḥ",
+        "gloss": "scorched",
+        "gram": "p.p. m. nom. pl. pari-√tap"
+       }
+      ]
+     },
+     {
+      "src": "pu̱rastātta",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "in front",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "here",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ya̭ntu",
+      "words": [
+       {
+        "w": "yantu",
+        "gloss": "let them go",
+        "gram": "3 pl. imp. √i"
+       }
+      ]
+     },
+     {
+      "src": "prabruvā̱ṇā",
+      "words": [
+       {
+        "w": "pra-bruvāṇāḥ",
+        "gloss": "declaring",
+        "gram": "pres. part. mid. m. nom. pl. pra-√brū"
+       }
+      ]
+     },
+     {
+      "src": "upe̱dam",
+      "words": [
+       {
+        "w": "upa",
+        "gloss": "to",
+        "gram": "ind."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे जातवेदा, हम तुम्हारा पराक्रम देखें; हे मनुष्यों के द्रष्टा, हमें यातुधानों को बताओ। तुमसे चारों ओर तपाए हुए वे सब सामने आएँ, घोषणा करते हुए, इस स्थान पर।",
+  "english": "May we see your heroic power, O Jātavedas; declare to us the yātudhānas, O watcher of men. Let them all, scorched by you, come forward to this place, declaring.",
+  "text_flags": [],
+  "notes": "pra brūhi naḥ yātudhānān: 'declare the yātudhānas to us' (point out). paritaptāḥ is read 'scorched all around'. te in purastāt te is the 'they' of the clause.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.007.5a",
+   "001.007.5b"
+  ],
+  "lines_deva": [
+   "पश्या॑म ते वी॒र्यं॒ जातवेदः॒ प्र णो॑ ब्रूहि यातु॒धाना॑न् नृचक्षः",
+   "त्वया॒ सर्वे॒ परि॑तप्ताः पु॒रस्तात्त आ य॑न्तु प्रब्रुवा॒णा उपे॒दम्"
+  ],
+  "lines_iast": [
+   "paśyā̭ma te vī̱rya̱ṃ jātaveda̱ḥ pra ṇo̭ brūhi yātu̱dhānā̭n nṛcakṣaḥ",
+   "tvayā̱ sarve̱ pari̭taptāḥ pu̱rastātta ā ya̭ntu prabruvā̱ṇā upe̱dam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "here",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ra̭bhasva",
+      "words": [
+       {
+        "w": "rabhasva",
+        "gloss": "set to",
+        "gram": "2 sg. imp. mid. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "jātavedo̱'smākārthā̭ya",
+      "words": [
+       {
+        "w": "jātavedaḥ",
+        "gloss": "Jātavedas (epithet of Agni)",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "asmāka",
+        "gloss": "our",
+        "gram": "adj. gen."
+       },
+       {
+        "w": "arthāya",
+        "gloss": "for the purpose",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "jajñiṣe",
+      "words": [
+       {
+        "w": "jajñiṣe",
+        "gloss": "you were born",
+        "gram": "2 sg. pf. mid. √jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dū̱to",
+      "words": [
+       {
+        "w": "dūtaḥ",
+        "gloss": "messenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "agne",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhū̱tvā",
+      "words": [
+       {
+        "w": "bhūtvā",
+        "gloss": "having become",
+        "gram": "abs. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yā̭tu̱dhānā̱n",
+      "words": [
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhāna (harmful being)",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth, apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "lā̭paya",
+      "words": [
+       {
+        "w": "lāpaya",
+        "gloss": "make lament",
+        "gram": "2 sg. imp. caus. √lap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे जातवेदा, आरम्भ करो; तुम हमारे प्रयोजन के लिए उत्पन्न हुए हो। हे अग्नि, हमारे दूत बनकर यातुधानों को विलाप कराओ।",
+  "english": "Set to, O Jātavedas; you were born for our purpose. O Agni, having become our messenger, make the yātudhānas lament.",
+  "text_flags": [],
+  "notes": "asmākārthāya: asmāka (adjective 'our') + arthāya.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "001.007.6a",
+   "001.007.6b"
+  ],
+  "lines_deva": [
+   "आ र॑भस्व जातवेदो॒ऽस्माकार्था॑य जज्ञिषे",
+   "दू॒तो नो॑ अग्ने भू॒त्वा या॑तु॒धाना॒न् वि ला॑पय"
+  ],
+  "lines_iast": [
+   "ā ra̭bhasva jātavedo̱'smākārthā̭ya jajñiṣe",
+   "dū̱to no̭ agne bhū̱tvā yā̭tu̱dhānā̱n vi lā̭paya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tva̭magne",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̱nupa̭baddhā~",
+      "words": [
+       {
+        "w": "yātudhānān",
+        "gloss": "yātudhāna (harmful beings)",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "upabaddhān",
+        "gloss": "bound",
+        "gram": "p.p. m. acc. pl. upa-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "i̱hā",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "va̭ha",
+      "words": [
+       {
+        "w": "vaha",
+        "gloss": "bring",
+        "gram": "2 sg. imp. √vah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "athai̭ṣā̱mindro̱",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "their",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra (name of a deity)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vajre̱ṇāpi̭",
+      "words": [
+       {
+        "w": "vajreṇa",
+        "gloss": "with the thunderbolt (vajra)",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "(preverb with vṛścatu) off",
+        "gram": "ind. (preverb, separated from vṛścatu)"
+       }
+      ]
+     },
+     {
+      "src": "śī̱rṣāṇi̭",
+      "words": [
+       {
+        "w": "śīrṣāṇi",
+        "gloss": "heads",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛścatu",
+      "words": [
+       {
+        "w": "vṛścatu",
+        "gloss": "let him cut",
+        "gram": "3 sg. imp. √vraśc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, तुम बँधे हुए यातुधानों को यहाँ ले आओ; तब इन्द्र वज्र से इनके सिर काट दे।",
+  "english": "O Agni, bring here the bound yātudhānas; then let Indra cut off their heads with the thunderbolt.",
+  "text_flags": [],
+  "notes": "yātudhānānupabaddhā~ is printed as one token with the nasal mark ~ (yātudhānān + upabaddhān); ihā is read iha + ā. vajreṇāpi: api read 'also, even' (or as a preverb 'cut off'). eṣām is the genitive 'their'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.007.7a",
+   "001.007.7b"
+  ],
+  "lines_deva": [
+   "त्व॑मग्ने यातु॒धाना॒नुप॑बद्धाँ इ॒हा व॑ह",
+   "अथै॑षा॒मिन्द्रो॒ वज्रे॒णापि॑ शी॒र्षाणि॑ वृश्चतु"
+  ],
+  "lines_iast": [
+   "tva̭magne yātu̱dhānā̱nupa̭baddhā~ i̱hā va̭ha",
+   "athai̭ṣā̱mindro̱ vajre̱ṇāpi̭ śī̱rṣāṇi̭ vṛścatu"
+  ],
+  "uncertain": []
+ }
+]
