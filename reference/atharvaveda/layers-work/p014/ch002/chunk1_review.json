@@ -1,0 +1,757 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adāt",
+     "problem": "Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'.",
+     "fix": "3 sg. root aor. √dā (augmented)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "adāt",
+      "field": "gram",
+      "value": "3 sg. root aor. √dā (augmented)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adāt",
+     "problem": "Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'.",
+     "fix": "3 sg. root aor. √dā (augmented)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "adāt",
+      "field": "gram",
+      "value": "3 sg. root aor. √dā (augmented)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "imām",
+     "problem": "Hindi 'वधू' (bride) is an interpretive addition; the Sanskrit has only 'this one' (f.), rendered 'this woman' in the English.",
+     "fix": "इस स्त्री को भी",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस वधू को भी",
+      "new": "इस स्त्री को भी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "agan",
+     "problem": "Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'.",
+     "fix": "3 sg. root aor. ā-√gam (augmented)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "agan",
+      "field": "gram",
+      "value": "3 sg. root aor. ā-√gam (augmented)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "sumatiḥ ... vājinīvasū / aśvinā",
+     "problem": "Hindi adds 'हमारे पास' (to us), which is not in the text (the notes themselves say nothing is added to hṛtsu), and merges the two vocatives vājinīvasū and aśvinā into one phrase, dropping one; the English keeps both.",
+     "fix": "हे पुरस्कार-रूप धन वाले दोनों, तुम्हारी सुमति आ गई है; हे अश्विनो, हृदयों में कामनाएँ",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे पुरस्कार-रूप धन वाले अश्विनो, तुम्हारी सुमति हमारे पास आई है; हृदयों में कामनाएँ",
+      "new": "हे पुरस्कार-रूप धन वाले दोनों, तुम्हारी सुमति आ गई है; हे अश्विनो, हृदयों में कामनाएँ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "priyā",
+     "problem": "'(to you)' is not in the text; priyāḥ has no stated dative.",
+     "fix": "dear, may we reach",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "dear (to you), may we reach",
+      "new": "dear, may we reach"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sugaṃ tīrthaṃ suprapāṇam",
+     "problem": "Hindi supplies a verb 'दो' and a linking 'और' that the Sanskrit lacks; the English leaves the phrase verbless and the notes call it elliptical. Keep Hindi verbless too.",
+     "fix": "सुगम घाट, उत्तम जलस्थान; मार्ग में",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सुगम घाट और उत्तम जलस्थान दो, और मार्ग में",
+      "new": "सुगम घाट, उत्तम जलस्थान; मार्ग में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "rakṣasaḥ",
+     "problem": "GLOSSARY: rakṣas is kept as the word 'rakṣas' (Devanagari रक्षस्). 'राक्षस' is the later rākṣasa, a different word. The English already keeps 'rakṣas'.",
+     "fix": "रक्षस् से बचाएँ",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राक्षस से बचाएँ",
+      "new": "रक्षस् से बचाएँ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "tvā prajāvatīm",
+     "problem": "Word order makes 'संतानवती' read as describing 'वे' (the plants etc.); in the Sanskrit prajāvatīm agrees with tvā (you, rich in offspring).",
+     "fix": "वे तुझ संतानवती को पति के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वे संतानवती तुझ को पति के लिए",
+      "new": "वे तुझ संतानवती को पति के लिए"
+     }
+    },
+    {
+     "field": "english",
+     "where": "patye",
+     "problem": "patye carries no possessive; 'your' is an addition (gram says 'for the husband').",
+     "fix": "for the husband, from",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "for your husband, from",
+      "new": "for the husband, from"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "The alternative 'accusative plural' is not possible for rakṣasaḥ from a neuter stem (rakṣāṃsi is the neuter accusative plural; the masc. a-stem would be rakṣasān). Invented variant.",
+     "fix": "(rakṣas is a neuter s-stem; an accusative plural would be rakṣāṃsi, so the ablative/genitive singular is the only reading)",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "notes",
+      "old": "or, less likely, accusative plural",
+      "new": "(rakṣas is a neuter s-stem; an accusative plural would be rakṣāṃsi, so the ablative/genitive singular is the only reading)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "vāmam",
+     "problem": "'फल' (fruit/result) is an addition; vāmam is 'a desirable thing', as in the English and notes.",
+     "fix": "इष्ट वस्तु पाते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इष्ट फल पाते हैं",
+      "new": "इष्ट वस्तु पाते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "yanti janān anu",
+     "problem": "'anu' governs janān (the printed text is janām̐ anu), but the English and Hindi make the yakṣmas go 'after the procession' with 'among the people' as an afterthought; 'yanti' + vahatum means 'go to/attend', and 'janān anu' means 'following/along the people'. The notes do not flag this construction.",
+     "fix": "Suggest English: 'The yakṣmas (wasting diseases) that go to the bride's bright bridal procession, following the people:'. Needs human check.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "brahmaṇā",
+     "problem": "GLOSSARY: brahman (n.) = sacred utterance/prayer (ब्रह्म). Unit 35 renders the same word 'ब्रह्म से'; unit 12 should match.",
+     "fix": "ब्रह्म से",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पवित्र वचन से",
+      "new": "ब्रह्म से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "aghoreṇa",
+     "problem": "'भयरहित' means fearless/without fear; aghora means 'not terrible' (the English 'not-terrible', and gloss 'not terrible, kindly'). The sense is reversed. Use अघोर.",
+     "fix": "अघोर और मैत्रीपूर्ण दृष्टि से",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भयरहित और मैत्रीपूर्ण दृष्टि से",
+      "new": "अघोर और मैत्रीपूर्ण दृष्टि से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "aśvinā ubhā",
+     "problem": "'अश्विनी' is a different (feminine/asterism) word; the Aśvins (dual) are अश्विनौ, vocative अश्विनो as in unit 5.",
+     "fix": "दोनों अश्विनौ",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों अश्विनी",
+      "new": "दोनों अश्विनौ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āgan",
+     "problem": "Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'.",
+     "fix": "3 sg. root aor. ā-√gam (augmented)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "āgan",
+      "field": "gram",
+      "value": "3 sg. root aor. ā-√gam (augmented)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āgan",
+     "problem": "Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'.",
+     "fix": "3 sg. root aor. ā-√gam (augmented)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "āgan",
+      "field": "gram",
+      "value": "3 sg. root aor. ā-√gam (augmented)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "virāḍ asi",
+     "problem": "Bracketed gloss inside the Hindi is not allowed.",
+     "fix": "तू दूर तक शासन करने वाली विराट् है",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू विराट् (दूर तक शासन करने वाली) है",
+      "new": "तू दूर तक शासन करने वाली विराट् है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ud ... hantu",
+     "problem": "Hindi replaces hantu ('let it strike') with 'खोल दे' (loosen) and makes the wave rise, so the Hindi no longer matches the English ('strike up') or the Sanskrit; 'loosen' belongs to muñcata in the next clause.",
+     "fix": "तुम्हारी लहर जुए की कीलों को ऊपर की ओर मारे;",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम्हारी लहर ऊपर उठकर जुए की कीलों को खोल दे;",
+      "new": "तुम्हारी लहर जुए की कीलों को ऊपर की ओर मारे;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "duṣkṛtau vyenasau aghnyau",
+     "problem": "Bracketed '(वे दोनों)' in the Hindi; the stacked comma list reads as separate people. Keep one clause.",
+     "fix": "वे दोनों दुष्कर्मी, दोषयुक्त और अवध्य अशुभ को प्राप्त न हों।",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों दुष्कर्मी, दोषयुक्त, अवध्य (वे दोनों) अशुभ को प्राप्त न हों।",
+      "new": "वे दोनों दुष्कर्मी, दोषयुक्त और अवध्य अशुभ को प्राप्त न हों।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "aghoracakṣuḥ",
+     "problem": "'भयरहित' = fearless; aghora = not terrible (English 'not-terrible'). Same fix as unit 12.",
+     "fix": "अघोर दृष्टि वाली",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भयरहित दृष्टि वाली",
+      "new": "अघोर दृष्टि वाली"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "suyamā gṛhebhyaḥ",
+     "problem": "Hindi attaches 'for the houses' to 'bearing heroes'; the Sanskrit order (suyamā gṛhebhyaḥ / vīrasūḥ) and the English attach it to 'well-restrained'. Make the two languages agree.",
+     "fix": "घरों के लिए भली-भाँति संयमित, वीरों को जन्म देने वाली",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भली-भाँति संयमित, घरों के लिए वीरों को जन्म देने वाली",
+      "new": "घरों के लिए भली-भाँति संयमित, वीरों को जन्म देने वाली"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "svād",
+     "problem": "gṛha is masculine in the rest of the unit set (units 12, 17, 27 label gṛha/gṛhān m.); here n. is inconsistent.",
+     "fix": "m. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "svāt",
+      "field": "gram",
+      "value": "m. abl. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "gṛhāt",
+     "problem": "Same: gṛha is masculine in units 12, 17, 26, 27.",
+     "fix": "m. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "gṛhāt",
+      "field": "gram",
+      "value": "m. abl. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "carma copastṛṇīthana",
+     "problem": "'yam' (masc.) can only refer to balbajam; carma is the object of upastṛṇīthana ('spread a hide over'), not a second relative object ('the hide that you spread').",
+     "fix": "and spread a hide over:",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "and the hide that you spread over:",
+      "new": "and spread a hide over:"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "carma copastṛṇīthana",
+     "problem": "Hindi 'जिस चर्म' makes carma a second relative object; 'yam' is masc. and goes only with balbajam.",
+     "fix": "और चर्म ऊपर फैलाते हो",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और जिस चर्म को ऊपर फैलाते हो",
+      "new": "और चर्म ऊपर फैलाते हो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "rakṣāṃsi",
+     "problem": "GLOSSARY: keep the word rakṣas (रक्षस्); 'राक्षस' is a different word. The English keeps 'rakṣases'.",
+     "fix": "सब रक्षसों को",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब राक्षसों को",
+      "new": "सब रक्षसों को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "śvaśurebhyaḥ",
+     "problem": "'ससुर-पक्ष के लोग' (father-in-law's side) is an interpretation taken from the note; the text and English say 'fathers-in-law'.",
+     "fix": "ससुरों के लिए सुखद हो",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ससुर-पक्ष के लोगों के लिए सुखद हो",
+      "new": "ससुरों के लिए सुखद हो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "daurbhāgyaiḥ",
+     "problem": "'अपने' (your own) is an addition; the Sanskrit has no possessive.",
+     "fix": "दुर्भाग्यों के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने दुर्भाग्यों के साथ",
+      "new": "दुर्भाग्यों के साथ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "daurbhāgyaiḥ",
+     "problem": "'your' is an addition.",
+     "fix": "go away with ill-fortunes",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "go away with your ill-fortunes",
+      "new": "go away with ill-fortunes"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bṛhate",
+     "problem": "bṛhate agrees with saubhagāya (n.), so label n., not m.",
+     "fix": "n. dat. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "bṛhate",
+      "field": "gram",
+      "value": "n. dat. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "jāmim / nyaktām",
+     "problem": "Hindi renders jāmi as 'बहन' (sister) while English says 'kinswoman', and nyaktām as 'अलंकृत' (adorned) while English says 'anointed'; the two languages differ and the first is the narrower of the two senses.",
+     "fix": "Make Hindi and English agree on one rendering of each (e.g. both 'kinswoman'/'बन्धु-स्त्री' and 'anointed'/'लेपित'), keeping the alternative in notes.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Imports the role 'Gandharva' from other verses/tradition; the unit does not state it (LAYER_NOTES 3).",
+     "fix": "Viśvāvasu is a name (its bearer's role is not stated in this verse).",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "notes",
+      "old": "Viśvāvasu is a Gandharva's name.",
+      "new": "Viśvāvasu is a name (its bearer's role is not stated in this verse)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhāmāya cakṣuṣe",
+     "problem": "'his' is not in the text (twice added); possessive is an interpretation.",
+     "fix": "homage we make to radiance and to the eye",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "homage we make to his radiance and to his eye",
+      "new": "homage we make to radiance and to the eye"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "bhāmāya cakṣuṣe",
+     "problem": "'उसके/उसकी' added; no possessive in the Sanskrit.",
+     "fix": "तेज और आँख को हम",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके तेज और उसकी आँख को हम",
+      "new": "तेज और आँख को हम"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ud ... itaḥ",
+     "problem": "'and away' is not supported by the text (ud ... itaḥ = up, from here).",
+     "fix": "up",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "up and away",
+      "new": "up"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "agan",
+     "problem": "Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'.",
+     "fix": "3 sg. root aor. √gam (augmented)",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "agan",
+      "field": "gram",
+      "value": "3 sg. root aor. √gam (augmented)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "pitarau",
+     "problem": "Typo 'दोनो' (दोनों); 'बनने वाले' (those who will become) is an addition, pitarau is just 'O two parents'.",
+     "fix": "हे दोनों माता-पिता,",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे माता-पिता बनने वाले दोनो,",
+      "new": "हे दोनों माता-पिता,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "retasaḥ",
+     "problem": "gram labels retasaḥ 'n. gen. sg.' but English and Hindi translate 'by the seed' (instrumental) and the notes hedge 'of/by'. The three disagree.",
+     "fix": "Either keep gen. in all three ('mother and father of seed') or relabel as abl. and say 'from the seed'; mention the choice in notes.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "38 units reviewed; 23 need changes. 6 errors, 34 minor issues; no regrouping suggested. Main findings: Hindi 'राक्षस' for rakṣas (units 7, 24) against GLOSSARY; 'भयरहित' reverses the sense of aghora (12, 17); unit 5 Hindi adds 'हमारे पास' and merges two vocatives; unit 16 Hindi turns 'strike' into 'loosen'; augmented aorists (adāt, agan, āgan) mislabelled injunctive (2, 4, 5, 13, 14, 36); small possessive/word additions in 7, 28, 35, 36. Units 16, 37 (low) and 10, 20 are genuinely uncertain and should stay marked so; unit 10's 'janān anu' construction needs a human look. Marriage-hymn wording (14, 31, 32, 38) is literal and neutral, no change needed. Glossary additions proposed: rakṣas Hindi = रक्षस् (not राक्षस); brahman Hindi = ब्रह्म in all units; aghora = 'not terrible' / अघोर (not भयरहित); Aśvins Hindi = अश्विनौ (voc. अश्विनो); gṛha is masculine; augmented a-aorists are labelled 'aor. (augmented)', injunctive only without augment. All layers remain unreviewed AI drafts."
+}

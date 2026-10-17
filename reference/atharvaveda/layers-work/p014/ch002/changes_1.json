@@ -1,0 +1,270 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "adāt",
+  "old": "3 sg. aor. inj. √dā",
+  "new": "3 sg. root aor. √dā (augmented)",
+  "why": "reviewer (minor): Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "adāt",
+  "old": "3 sg. aor. inj. √dā",
+  "new": "3 sg. root aor. √dā (augmented)",
+  "why": "reviewer (minor): Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "सोम ने गन्धर्व को दिया, गन्धर्व ने अग्नि को दिया; अग्नि ने मुझे धन और पुत्र दिए, और साथ ही इस वधू को भी।",
+  "new": "सोम ने गन्धर्व को दिया, गन्धर्व ने अग्नि को दिया; अग्नि ने मुझे धन और पुत्र दिए, और साथ ही इस स्त्री को भी।",
+  "why": "reviewer (minor): Hindi 'वधू' (bride) is an interpretive addition; the Sanskrit has only 'this one' (f.), rendered 'this woman' in the English."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "agan",
+  "old": "3 sg. aor. inj. √gam",
+  "new": "3 sg. root aor. ā-√gam (augmented)",
+  "why": "reviewer (minor): Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे पुरस्कार-रूप धन वाले अश्विनो, तुम्हारी सुमति हमारे पास आई है; हृदयों में कामनाएँ टिक गई हैं। तुम दोनों जोड़े के रूप में रक्षक हुए हो, हे शुभ के स्वामियो; प्रिय होकर हम अर्यमा के घरों को प्राप्त करें।",
+  "new": "हे पुरस्कार-रूप धन वाले दोनों, तुम्हारी सुमति आ गई है; हे अश्विनो, हृदयों में कामनाएँ टिक गई हैं। तुम दोनों जोड़े के रूप में रक्षक हुए हो, हे शुभ के स्वामियो; प्रिय होकर हम अर्यमा के घरों को प्राप्त करें।",
+  "why": "reviewer (error): Hindi adds 'हमारे पास' (to us), which is not in the text (the notes themselves say nothing is added to hṛtsu), and merges the two vocatives vājinīvasū and aśvinā into one phrase, dropping one; the English keeps both."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Your good will has come, O you two rich in prizes; O Aśvins, desires have come to rest in the hearts. You two have become guardians as a pair, O lords of splendour; dear (to you), may we reach the houses of Aryaman.",
+  "new": "Your good will has come, O you two rich in prizes; O Aśvins, desires have come to rest in the hearts. You two have become guardians as a pair, O lords of splendour; dear, may we reach the houses of Aryaman.",
+  "why": "reviewer (minor): '(to you)' is not in the text; priyāḥ has no stated dative."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "वह तू प्रसन्न होती हुई शुभ मन से, सब वीरों से युक्त और प्रशंसनीय धन स्थापित कर। हे शुभ के स्वामियो, सुगम घाट और उत्तम जलस्थान दो, और मार्ग में खड़े ठूँठ को तथा दुर्मति को दूर मार भगाओ।",
+  "new": "वह तू प्रसन्न होती हुई शुभ मन से, सब वीरों से युक्त और प्रशंसनीय धन स्थापित कर। हे शुभ के स्वामियो, सुगम घाट, उत्तम जलस्थान; मार्ग में खड़े ठूँठ को तथा दुर्मति को दूर मार भगाओ।",
+  "why": "reviewer (minor): Hindi supplies a verb 'दो' and a linking 'और' that the Sanskrit lacks; the English leaves the phrase verbless and the notes call it elliptical. Keep Hindi verbless too."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जो ओषधियाँ हैं, जो नदियाँ हैं, जो खेत हैं, जो वन हैं, हे वधू, वे संतानवती तुझ को पति के लिए राक्षस से बचाएँ।",
+  "new": "जो ओषधियाँ हैं, जो नदियाँ हैं, जो खेत हैं, जो वन हैं, हे वधू, वे संतानवती तुझ को पति के लिए रक्षस् से बचाएँ।",
+  "why": "reviewer (error): GLOSSARY: rakṣas is kept as the word 'rakṣas' (Devanagari रक्षस्). 'राक्षस' is the later rākṣasa, a different word. The English already keeps 'rakṣas'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जो ओषधियाँ हैं, जो नदियाँ हैं, जो खेत हैं, जो वन हैं, हे वधू, वे संतानवती तुझ को पति के लिए रक्षस् से बचाएँ।",
+  "new": "जो ओषधियाँ हैं, जो नदियाँ हैं, जो खेत हैं, जो वन हैं, हे वधू, वे तुझ संतानवती को पति के लिए रक्षस् से बचाएँ।",
+  "why": "reviewer (minor): Word order makes 'संतानवती' read as describing 'वे' (the plants etc.); in the Sanskrit prajāvatīm agrees with tvā (you, rich in offspring)."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "The plants, the rivers, the fields, the forests that there are: may they protect you, O bride, rich in offspring, for your husband, from the rakṣas.",
+  "new": "The plants, the rivers, the fields, the forests that there are: may they protect you, O bride, rich in offspring, for the husband, from the rakṣas.",
+  "why": "reviewer (minor): patye carries no possessive; 'your' is an addition (gram says 'for the husband')."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "The relative clause of line a is picked up by 'tāḥ' in line b. rakṣasaḥ can be ablative singular ('from the harmful being') or, less likely, accusative plural. 'na̱dyo̱3': the 3 marks a prolonged vowel in the printed text.",
+  "new": "The relative clause of line a is picked up by 'tāḥ' in line b. rakṣasaḥ can be ablative singular ('from the harmful being') (rakṣas is a neuter s-stem; an accusative plural would be rakṣāṃsi, so the ablative/genitive singular is the only reading). 'na̱dyo̱3': the 3 marks a prolonged vowel in the printed text.",
+  "why": "reviewer (minor): The alternative 'accusative plural' is not possible for rakṣasaḥ from a neuter stem (rakṣāṃsi is the neuter accusative plural; the masc. a-stem would be rakṣasān). Invented variant."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे पुरुषो, मेरी यह बात भली-भाँति सुनो, जिस आशीर्वाद से यह दम्पती इष्ट फल पाते हैं। जो गन्धर्व और दिव्य अप्सराएँ इन वनस्पति-वृक्षों पर स्थित हैं, वे इस वधू के लिए कल्याणकारी हों और ले जाई जा रही वधू-यात्रा को हानि न पहुँचाएँ।",
+  "new": "हे पुरुषो, मेरी यह बात भली-भाँति सुनो, जिस आशीर्वाद से यह दम्पती इष्ट वस्तु पाते हैं। जो गन्धर्व और दिव्य अप्सराएँ इन वनस्पति-वृक्षों पर स्थित हैं, वे इस वधू के लिए कल्याणकारी हों और ले जाई जा रही वधू-यात्रा को हानि न पहुँचाएँ।",
+  "why": "reviewer (minor): 'फल' (fruit/result) is an addition; vāmam is 'a desirable thing', as in the English and notes."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "मैं वधू-यात्रा को पवित्र वचन से, घरों के साथ, भयरहित और मैत्रीपूर्ण दृष्टि से एक साथ प्रकाशित करता हूँ। जो सब रूपों वाली वस्तु चारों ओर बँधी है, उसे सविता पतियों के लिए सुखकर करे।",
+  "new": "मैं वधू-यात्रा को ब्रह्म से, घरों के साथ, भयरहित और मैत्रीपूर्ण दृष्टि से एक साथ प्रकाशित करता हूँ। जो सब रूपों वाली वस्तु चारों ओर बँधी है, उसे सविता पतियों के लिए सुखकर करे।",
+  "why": "reviewer (minor): GLOSSARY: brahman (n.) = sacred utterance/prayer (ब्रह्म). Unit 35 renders the same word 'ब्रह्म से'; unit 12 should match."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "मैं वधू-यात्रा को ब्रह्म से, घरों के साथ, भयरहित और मैत्रीपूर्ण दृष्टि से एक साथ प्रकाशित करता हूँ। जो सब रूपों वाली वस्तु चारों ओर बँधी है, उसे सविता पतियों के लिए सुखकर करे।",
+  "new": "मैं वधू-यात्रा को ब्रह्म से, घरों के साथ, अघोर और मैत्रीपूर्ण दृष्टि से एक साथ प्रकाशित करता हूँ। जो सब रूपों वाली वस्तु चारों ओर बँधी है, उसे सविता पतियों के लिए सुखकर करे।",
+  "why": "reviewer (error): 'भयरहित' means fearless/without fear; aghora means 'not terrible' (the English 'not-terrible', and gloss 'not terrible, kindly'). The sense is reversed. Use अघोर."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "यह कल्याणी नारी घर आ गई है; धाता ने इसे यह लोक दिया है। उसे अर्यमा, भग, दोनों अश्विनी और प्रजापति संतान से बढ़ाएँ।",
+  "new": "यह कल्याणी नारी घर आ गई है; धाता ने इसे यह लोक दिया है। उसे अर्यमा, भग, दोनों अश्विनौ और प्रजापति संतान से बढ़ाएँ।",
+  "why": "reviewer (minor): 'अश्विनी' is a different (feminine/asterism) word; the Aśvins (dual) are अश्विनौ, vocative अश्विनो as in unit 5."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "āgan",
+  "old": "3 sg. aor. inj. ā-√gam",
+  "new": "3 sg. root aor. ā-√gam (augmented)",
+  "why": "reviewer (minor): Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "āgan",
+  "old": "3 sg. aor. inj. ā-√gam",
+  "new": "3 sg. root aor. ā-√gam (augmented)",
+  "why": "reviewer (minor): Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "दृढ़ होकर खड़ी हो; तू विराट् (दूर तक शासन करने वाली) है, यहाँ विष्णु के समान, हे सरस्वती। हे सिनीवाली, वह सन्तान उत्पन्न करे; वह भग की कृपा में रहे।",
+  "new": "दृढ़ होकर खड़ी हो; तू दूर तक शासन करने वाली विराट् है, यहाँ विष्णु के समान, हे सरस्वती। हे सिनीवाली, वह सन्तान उत्पन्न करे; वह भग की कृपा में रहे।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi is not allowed."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "तुम्हारी लहर ऊपर उठकर जुए की कीलों को खोल दे; हे जलो, रस्सियाँ खोल दो। दोनों दुष्कर्मी, दोषयुक्त, अवध्य (वे दोनों) अशुभ को प्राप्त न हों।",
+  "new": "तुम्हारी लहर जुए की कीलों को ऊपर की ओर मारे; हे जलो, रस्सियाँ खोल दो। दोनों दुष्कर्मी, दोषयुक्त, अवध्य (वे दोनों) अशुभ को प्राप्त न हों।",
+  "why": "reviewer (error): Hindi replaces hantu ('let it strike') with 'खोल दे' (loosen) and makes the wave rise, so the Hindi no longer matches the English ('strike up') or the Sanskrit; 'loosen' belongs to muñcata in the next clause."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "तुम्हारी लहर जुए की कीलों को ऊपर की ओर मारे; हे जलो, रस्सियाँ खोल दो। दोनों दुष्कर्मी, दोषयुक्त, अवध्य (वे दोनों) अशुभ को प्राप्त न हों।",
+  "new": "तुम्हारी लहर जुए की कीलों को ऊपर की ओर मारे; हे जलो, रस्सियाँ खोल दो। वे दोनों दुष्कर्मी, दोषयुक्त और अवध्य अशुभ को प्राप्त न हों।",
+  "why": "reviewer (minor): Bracketed '(वे दोनों)' in the Hindi; the stacked comma list reads as separate people. Keep one clause."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "भयरहित दृष्टि वाली, पति का वध न करने वाली, सुखद, हितकारी, अत्यन्त कृपालु, भली-भाँति संयमित, घरों के लिए वीरों को जन्म देने वाली और देवों से प्रेम करने वाली तुम्हारे साथ हम प्रसन्न मन रखती हुई एक साथ समृद्ध हों।",
+  "new": "अघोर दृष्टि वाली, पति का वध न करने वाली, सुखद, हितकारी, अत्यन्त कृपालु, भली-भाँति संयमित, घरों के लिए वीरों को जन्म देने वाली और देवों से प्रेम करने वाली तुम्हारे साथ हम प्रसन्न मन रखती हुई एक साथ समृद्ध हों।",
+  "why": "reviewer (error): 'भयरहित' = fearless; aghora = not terrible (English 'not-terrible'). Same fix as unit 12."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अघोर दृष्टि वाली, पति का वध न करने वाली, सुखद, हितकारी, अत्यन्त कृपालु, भली-भाँति संयमित, घरों के लिए वीरों को जन्म देने वाली और देवों से प्रेम करने वाली तुम्हारे साथ हम प्रसन्न मन रखती हुई एक साथ समृद्ध हों।",
+  "new": "अघोर दृष्टि वाली, पति का वध न करने वाली, सुखद, हितकारी, अत्यन्त कृपालु, घरों के लिए भली-भाँति संयमित, वीरों को जन्म देने वाली और देवों से प्रेम करने वाली तुम्हारे साथ हम प्रसन्न मन रखती हुई एक साथ समृद्ध हों।",
+  "why": "reviewer (minor): Hindi attaches 'for the houses' to 'bearing heroes'; the Sanskrit order (suyamā gṛhebhyaḥ / vīrasūḥ) and the English attach it to 'well-restrained'. Make the two languages agree."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "svāt",
+  "old": "n. abl. sg.",
+  "new": "m. abl. sg.",
+  "why": "reviewer (minor): gṛha is masculine in the rest of the unit set (units 12, 17, 27 label gṛha/gṛhān m.); here n. is inconsistent."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "gṛhāt",
+  "old": "n. abl. sg.",
+  "new": "m. abl. sg.",
+  "why": "reviewer (minor): Same: gṛha is masculine in units 12, 17, 26, 27."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "The balbaja that you lay down, and the hide that you spread over: let her mount that, rich in offspring, the maiden who finds a husband.",
+  "new": "The balbaja that you lay down, and spread a hide over: let her mount that, rich in offspring, the maiden who finds a husband.",
+  "why": "reviewer (minor): 'yam' (masc.) can only refer to balbajam; carma is the object of upastṛṇīthana ('spread a hide over'), not a second relative object ('the hide that you spread')."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "जिस बल्बज को तुम बिछाते हो और जिस चर्म को ऊपर फैलाते हो, उस पर वह उत्तम संतान वाली चढ़े, जो कन्या पति को पाती है।",
+  "new": "जिस बल्बज को तुम बिछाते हो और चर्म ऊपर फैलाते हो, उस पर वह उत्तम संतान वाली चढ़े, जो कन्या पति को पाती है।",
+  "why": "reviewer (minor): Hindi 'जिस चर्म' makes carma a second relative object; 'yam' is masc. and goes only with balbajam."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "चर्म पर चढ़, अग्नि के पास बैठ; यह देव सब राक्षसों को मारता है। यहाँ इस पति के लिए सन्तान उत्पन्न कर; तेरा यह पुत्र श्रेष्ठ ज्येष्ठता वाला हो।",
+  "new": "चर्म पर चढ़, अग्नि के पास बैठ; यह देव सब रक्षसों को मारता है। यहाँ इस पति के लिए सन्तान उत्पन्न कर; तेरा यह पुत्र श्रेष्ठ ज्येष्ठता वाला हो।",
+  "why": "reviewer (error): GLOSSARY: keep the word rakṣas (रक्षस्); 'राक्षस' is a different word. The English keeps 'rakṣases'."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "ससुर-पक्ष के लोगों के लिए सुखद हो, पति के लिए सुखद हो, घरों के लिए सुखद हो; इस सारे जन-समूह के लिए सुखद हो, इनकी पुष्टि के लिए सुखद हो।",
+  "new": "ससुरों के लिए सुखद हो, पति के लिए सुखद हो, घरों के लिए सुखद हो; इस सारे जन-समूह के लिए सुखद हो, इनकी पुष्टि के लिए सुखद हो।",
+  "why": "reviewer (minor): 'ससुर-पक्ष के लोग' (father-in-law's side) is an interpretation taken from the note; the text and English say 'fathers-in-law'."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "यह वधू मंगलमयी है; इसके पास एक साथ आओ और इसे देखो। इसे सौभाग्य देकर अपने दुर्भाग्यों के साथ दूर चले जाओ।",
+  "new": "यह वधू मंगलमयी है; इसके पास एक साथ आओ और इसे देखो। इसे सौभाग्य देकर दुर्भाग्यों के साथ दूर चले जाओ।",
+  "why": "reviewer (minor): 'अपने' (your own) is an addition; the Sanskrit has no possessive."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "This bride is auspicious; come together and look at her. Having given her good fortune, go away with your ill-fortunes.",
+  "new": "This bride is auspicious; come together and look at her. Having given her good fortune, go away with ill-fortunes.",
+  "why": "reviewer (minor): 'your' is an addition."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "bṛhate",
+  "old": "m. dat. sg.",
+  "new": "n. dat. sg.",
+  "why": "reviewer (minor): bṛhate agrees with saubhagāya (n.), so label n., not m."
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "nyaktām: 'anointed/adorned' (ni-√añj) is uncertain. jāmi can mean 'sister, kinswoman'. 'tasya viddhi' is read as 'take notice of it (that)'. Viśvāvasu is a Gandharva's name.",
+  "new": "nyaktām: 'anointed/adorned' (ni-√añj) is uncertain. jāmi can mean 'sister, kinswoman'. 'tasya viddhi' is read as 'take notice of it (that)'. Viśvāvasu is a name (its bearer's role is not stated in this verse).",
+  "why": "reviewer (minor): Imports the role 'Gandharva' from other verses/tradition; the unit does not state it (LAYER_NOTES 3)."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "Homage to the Gandharva, to his homage; homage we make to his radiance and to his eye. O Viśvāvasu, homage to you with sacred utterance; go away to the wives, the Apsarases.",
+  "new": "Homage to the Gandharva, to his homage; homage we make to radiance and to the eye. O Viśvāvasu, homage to you with sacred utterance; go away to the wives, the Apsarases.",
+  "why": "reviewer (minor): 'his' is not in the text (twice added); possessive is an interpretation."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "गन्धर्व के नमस्कार के लिए नमस्कार; उसके तेज और उसकी आँख को हम नमस्कार करते हैं। हे विश्वावसु, ब्रह्म से तुझे नमस्कार है; पत्नियों, अप्सराओं के पास चला जा।",
+  "new": "गन्धर्व के नमस्कार के लिए नमस्कार; तेज और आँख को हम नमस्कार करते हैं। हे विश्वावसु, ब्रह्म से तुझे नमस्कार है; पत्नियों, अप्सराओं के पास चला जा।",
+  "why": "reviewer (minor): 'उसके/उसकी' added; no possessive in the Sanskrit."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "May we be well-minded with wealth; from here we have turned the Gandharva up and away. That god has gone to the highest common abode; we have gone where they prolong life.",
+  "new": "May we be well-minded with wealth; from here we have turned the Gandharva up. That god has gone to the highest common abode; we have gone where they prolong life.",
+  "why": "reviewer (minor): 'and away' is not supported by the text (ud ... itaḥ = up, from here)."
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "agan",
+  "old": "3 sg. aor. inj. √gam",
+  "new": "3 sg. root aor. √gam (augmented)",
+  "why": "reviewer (minor): Augmented form (a- prefix), so an aorist indicative, not an injunctive; label '3 sg. root aor. (augmented)'."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "हे माता-पिता बनने वाले दोनो, उचित ऋतु में मिलो; तुम दोनों वीर्य द्वारा माता और पिता बनोगे। जैसे पुरुष युवती को, वैसे इसे ऊपर चढ़ा। तुम दोनों सन्तान उत्पन्न करो और यहाँ धन में समृद्ध होओ।",
+  "new": "हे दोनों माता-पिता, उचित ऋतु में मिलो; तुम दोनों वीर्य द्वारा माता और पिता बनोगे। जैसे पुरुष युवती को, वैसे इसे ऊपर चढ़ा। तुम दोनों सन्तान उत्पन्न करो और यहाँ धन में समृद्ध होओ।",
+  "why": "reviewer (minor): Typo 'दोनो' (दोनों); 'बनने वाले' (those who will become) is an addition, pitarau is just 'O two parents'."
+ }
+]
