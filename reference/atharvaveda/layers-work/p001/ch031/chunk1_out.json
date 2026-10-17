@@ -1,0 +1,620 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āśā̭nāmāśāpā̱lebhya̭śca̱turbhyo̭",
+      "words": [
+       {
+        "w": "āśānām",
+        "gloss": "of the quarters",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "āśā-pālebhyaḥ",
+        "gloss": "guardians of the quarters",
+        "gram": "m. dat. pl. (tat-puruṣa)"
+       },
+       {
+        "w": "caturbhyaḥ",
+        "gloss": "four",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱mṛtḙbhyaḥ",
+      "words": [
+       {
+        "w": "amṛtebhyaḥ",
+        "gloss": "immortal",
+        "gram": "m. dat. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhū̱tasyādhya̭kṣebhyo",
+      "words": [
+       {
+        "w": "bhūtasya",
+        "gloss": "of what exists",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "adhyakṣebhyaḥ",
+        "gloss": "overseers",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dhema̭",
+      "words": [
+       {
+        "w": "vidhema",
+        "gloss": "we would serve",
+        "gram": "1 pl. opt. √vidh"
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̭",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with oblation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱yam",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चारों दिशाओं के अमर रक्षकों के लिए, जो प्राणियों (जो कुछ हुआ है उस) के अधिपति हैं, हम इस हवि के द्वारा सेवा-अर्पण करें।",
+  "english": "To the four immortal guardians of the quarters, the overseers of what exists, we would pay service with this oblation.",
+  "text_flags": [],
+  "notes": "āśā = quarter/region (of space), here read as the regions guarded by the four. 'idam' is left as 'this' (agreeing with the oblation or adverbial). bhūta = 'what has come to be', literal.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "āśā̭nāmāśāpā̱lāśca̱tvāra̱",
+      "words": [
+       {
+        "w": "āśānām",
+        "gloss": "of the quarters",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "āśā-pālāḥ",
+        "gloss": "guardians of the quarters",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       },
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthana̭",
+      "words": [
+       {
+        "w": "stha",
+        "gloss": "you are",
+        "gram": "2 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "devāḥ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nirṛ̭tyā̱ḥ",
+      "words": [
+       {
+        "w": "nirṛtyāḥ",
+        "gloss": "of Nirṛti",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāśḙbhyo",
+      "words": [
+       {
+        "w": "pāśebhyaḥ",
+        "gloss": "from the snares",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "mu̱ñcatāṃha̭so",
+      "words": [
+       {
+        "w": "muñcata",
+        "gloss": "release",
+        "gram": "2 pl. impv. √muc"
+       },
+       {
+        "w": "aṃhasaḥ",
+        "gloss": "from distress",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṃhasaḥ",
+      "words": [
+       {
+        "w": "aṃhasaḥ",
+        "gloss": "from distress",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो तुम चारों दिशाओं के रक्षक देव हो, वे तुम हमें निर्ऋति के पाशों से (और) संकट से, संकट से छुड़ाओ।",
+  "english": "You gods who are the four guardians of the quarters, free us from the snares of Nirṛti, from distress, from distress.",
+  "text_flags": [
+   {
+    "src": "sthana",
+    "suggest": "stha",
+    "why": "possible: the token reads sthana; the sense needs 2 pl. stha ('you are'); the final -na may be a stray or an unusual ending"
+   },
+   {
+    "src": "ya",
+    "suggest": "ye",
+    "why": "possible: ya is read as the relative plural ye (with catvāra for catvāraḥ), as the sense is plural"
+   }
+  ],
+  "notes": "The first line is read as 'ye ... catvāraḥ stha devāḥ'; the printed ya, catvāra and sthana are doubtful forms. Nirṛti is kept as a name (a personified being); no commentary imported. aṃhas = narrowness/distress, repeated for emphasis.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asrā̭mastvā",
+      "words": [
+       {
+        "w": "asrāmaḥ",
+        "gloss": "not lame",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̭",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with oblation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajā̱myaślo̭ṇastvā",
+      "words": [
+       {
+        "w": "yajāmi",
+        "gloss": "I worship",
+        "gram": "1 sg. pres. √yaj"
+       },
+       {
+        "w": "aślonaḥ",
+        "gloss": "not halt",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghṛ̱tena̭",
+      "words": [
+       {
+        "w": "ghṛtena",
+        "gloss": "with ghee",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "juhomi",
+      "words": [
+       {
+        "w": "juhomi",
+        "gloss": "I offer",
+        "gram": "1 sg. pres. √hu"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āśā̭nāmāśāpā̱lastu̱rīyo̭",
+      "words": [
+       {
+        "w": "āśānām",
+        "gloss": "of the quarters",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "āśā-pālaḥ",
+        "gloss": "guardian of the quarters",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "turīyaḥ",
+        "gloss": "fourth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaḥ",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "subhū̱tameha",
+      "words": [
+       {
+        "w": "su-bhūtam",
+        "gloss": "good state",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭kṣat",
+      "words": [
+       {
+        "w": "vakṣat",
+        "gloss": "may he bring",
+        "gram": "3 sg. aor. subj. √vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निर्दोष (लंगड़ेपन से रहित) मैं तुम्हें हवि से यजन करता हूँ; दोषरहित मैं तुम्हें घी से आहुति देता हूँ। जो दिशाओं का चौथा रक्षक देव है, वह हमारे लिए यहाँ शुभ कल्याण ले आए।",
+  "english": "Unlame, I worship you with oblation; unhalt, I offer to you with ghee. The god who is the fourth guardian of the quarters, may he bring us good-being here.",
+  "text_flags": [],
+  "notes": "asrāma and aślona are taken as negated forms of srāma and śloṇa, both meaning lame/crippled; the sense of the self-description is not certain. The addressee 'tvā' is not named in the unit. subhūta = 'good state, well-being' (alternatively 'good beings').",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva̱sti",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "well-being",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tra",
+      "words": [
+       {
+        "w": "mātre",
+        "gloss": "to the mother",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tre",
+      "words": [
+       {
+        "w": "pitre",
+        "gloss": "to the father",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "astu",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "sva̱sti",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "well-being",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gobhyo̱",
+      "words": [
+       {
+        "w": "gobhyaḥ",
+        "gloss": "to the cattle",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "jaga̭te̱",
+      "words": [
+       {
+        "w": "jagate",
+        "gloss": "to the moving world",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "purṷṣebhyaḥ",
+      "words": [
+       {
+        "w": "puruṣebhyaḥ",
+        "gloss": "to the men",
+        "gram": "m. dat. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśva̭ṃ",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "subhū̱taṃ",
+      "words": [
+       {
+        "w": "su-bhūtam",
+        "gloss": "good state",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷvi̱datra̭ṃ",
+      "words": [
+       {
+        "w": "su-vidatram",
+        "gloss": "well-found",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "astu̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "jyoge̱va",
+      "words": [
+       {
+        "w": "jyok",
+        "gloss": "for long",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛ̭śema̱",
+      "words": [
+       {
+        "w": "dṛśema",
+        "gloss": "may we see",
+        "gram": "1 pl. opt. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭m",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "the sun",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारी माता और पिता के लिए कल्याण हो, गौओं के लिए कल्याण हो, चर जगत् के लिए और पुरुषों के लिए कल्याण हो। हमारे लिए सब कुछ शुभ-स्थिति और सुलभ हो; हम चिरकाल तक ही सूर्य को देखें।",
+  "english": "May there be well-being for our mother and our father; well-being for the cattle, for the moving world, for men. May everything be a good state, well-found, for us; may we see the sun for a long time.",
+  "text_flags": [],
+  "notes": "suvidatra is uncertain in sense ('well-found', 'easily gained' or 'bountiful'); the rendering is literal. jagat = 'what moves', the living moving world. 'naḥ' in the first line is read with pitre as 'our father' and mātre likewise.",
+  "confidence": "medium"
+ }
+]

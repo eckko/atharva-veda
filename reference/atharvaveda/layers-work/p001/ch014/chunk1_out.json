@@ -1,0 +1,599 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhaga̭masyā̱",
+      "words": [
+       {
+        "w": "bhagam",
+        "gloss": "fortune",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "her",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varca̱",
+      "words": [
+       {
+        "w": "varcaḥ",
+        "gloss": "splendour",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ādi̱ṣyadhi̭",
+      "words": [
+       {
+        "w": "ādiṣi",
+        "gloss": "I take",
+        "gram": "1 sg. aor. mid. ā-√dā"
+       },
+       {
+        "w": "adhi",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱kṣādi̭va̱",
+      "words": [
+       {
+        "w": "vṛkṣāt",
+        "gloss": "from a tree",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sraja̭m",
+      "words": [
+       {
+        "w": "srajam",
+        "gloss": "garland",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱hābṷdhna",
+      "words": [
+       {
+        "w": "mahā-budhnaḥ",
+        "gloss": "with great base",
+        "gram": "bahuvrīhi m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iva̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parva̭to̱",
+      "words": [
+       {
+        "w": "parvataḥ",
+        "gloss": "mountain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyok",
+      "words": [
+       {
+        "w": "jyok",
+        "gloss": "long",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tṛṣvā̭stām",
+      "words": [
+       {
+        "w": "pitṛṣu",
+        "gloss": "among the fathers",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "āstām",
+        "gloss": "let her sit",
+        "gram": "3 sg. impv. mid. √ās"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं इसका भाग्य और तेज इस प्रकार ग्रहण करता हूँ, जैसे वृक्ष से माला। विशाल आधार वाले पर्वत के समान वह पितरों के बीच दीर्घकाल तक बैठी रहे।",
+  "english": "I take her fortune and splendour, like a garland from a tree. Like a mountain with a great base, let her sit long among the fathers.",
+  "text_flags": [],
+  "notes": "Src 'ādiṣyadhi' is ādiṣi + adhi; 'ādiṣi' is taken as 1 sg. aorist of ā-√dā (doubtful). 'Pitṛṣu' can be 'fathers', 'parents' or 'ancestors'; the literal 'fathers' is used. 'Bhaga' = 'fortune, share'. Src 'mahābṷdhna' is mahābudhna (artefact).",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱ṣā",
+      "words": [
+       {
+        "w": "eṣā",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājan",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱nyā",
+      "words": [
+       {
+        "w": "kanyā",
+        "gloss": "maiden",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱dhūrni",
+      "words": [
+       {
+        "w": "vadhūḥ",
+        "gloss": "bride",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhṷ̄yatāṃ",
+      "words": [
+       {
+        "w": "dhūyatām",
+        "gloss": "let her be set",
+        "gram": "3 sg. impv. pass. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "yama",
+      "words": [
+       {
+        "w": "yama",
+        "gloss": "O Yama",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱turba̭dhyatāṃ",
+      "words": [
+       {
+        "w": "mātuḥ",
+        "gloss": "of the mother",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "badhyatām",
+        "gloss": "let her be bound",
+        "gram": "3 sg. impv. pass. √bandh"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱he'tho̱",
+      "words": [
+       {
+        "w": "gṛhe",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "atho",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhrātu̱ratho̭",
+      "words": [
+       {
+        "w": "bhrātuḥ",
+        "gloss": "of the brother",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "atho",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tuḥ",
+      "words": [
+       {
+        "w": "pituḥ",
+        "gloss": "of the father",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे राजन् यम, यह तुम्हारी कन्या वधू है; वह नीचे स्थापित की जाए। वह माता के घर में बाँधी जाए, और भाई के, और पिता के भी।",
+  "english": "This maiden, this bride is yours, O King Yama; let her be set down. Let her be bound in the house of her mother, and also of her brother, and also of her father.",
+  "text_flags": [],
+  "notes": "'Ni dhūyatām' is obscure; 'let her be set down' is a tentative reading of ni-√dhū (also 'be shaken down'). 'Badhyatām' 'let her be bound' is literal; 'kept' may be meant. The addressee Yama is named in the line. Src 'tḙ', 'dhṷ̄yatāṃ' are transliteration artefacts.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱ṣā",
+      "words": [
+       {
+        "w": "eṣā",
+        "gloss": "this",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kula̱pā",
+      "words": [
+       {
+        "w": "kula-pā",
+        "gloss": "guardian of the family",
+        "gram": "tat-puruṣa f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̭ja̱n",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tāmṷ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadmasi",
+      "words": [
+       {
+        "w": "dadmasi",
+        "gloss": "we hand",
+        "gram": "1 pl. pres. √dā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jyok",
+      "words": [
+       {
+        "w": "jyok",
+        "gloss": "long",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tṛṣvā̭sātā̱",
+      "words": [
+       {
+        "w": "pitṛṣu",
+        "gloss": "among the fathers",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "āsātai",
+        "gloss": "may she sit",
+        "gram": "3 sg. subj. mid. √ās"
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "until",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śī̱rṣṇaḥ",
+      "words": [
+       {
+        "w": "śīrṣṇaḥ",
+        "gloss": "from the head",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱mopyā̭t",
+      "words": [
+       {
+        "w": "sam-opyāt",
+        "gloss": "may it be strewn together",
+        "gram": "3 sg. opt. pass. sam-√vap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे राजन्, यह तुम्हारी कुल की रक्षिका है; उसे हम तुम्हारे हाथ में सौंपते हैं। वह दीर्घकाल तक पितरों के बीच बैठे, जब तक सिर से वह बिखर न जाए।",
+  "english": "This is your guardian of the family, O king; her we hand over to you. May she sit long among the fathers, until it is strewn together from the head.",
+  "text_flags": [],
+  "notes": "Line b is obscure: 'āsātā' is read as āsātai; 'ā śīrṣṇaḥ samopyāt' is literally 'until from the head it may be strewn together' (the subject is not stated); the translation keeps this literal wording. 'Kulapā' may be taken as 'protecting the family'. Src 'tāmṷ' is tām u.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asi̭tasya",
+      "words": [
+       {
+        "w": "asitasya",
+        "gloss": "of Asita",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇā",
+      "words": [
+       {
+        "w": "brahmaṇā",
+        "gloss": "by sacred utterance",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱śyapa̭sya̱",
+      "words": [
+       {
+        "w": "kaśyapasya",
+        "gloss": "of Kaśyapa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaya̭sya",
+      "words": [
+       {
+        "w": "gayasya",
+        "gloss": "of Gaya",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱nta̱ḥko̱śami̭va",
+      "words": [
+       {
+        "w": "antaḥ-kośam",
+        "gloss": "inner chest",
+        "gram": "tat-puruṣa m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jā̱mayo'pi̭",
+      "words": [
+       {
+        "w": "jāmayaḥ",
+        "gloss": "kinswomen",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nahyāmi",
+      "words": [
+       {
+        "w": "nahyāmi",
+        "gloss": "I bind",
+        "gram": "1 sg. pres. √nah"
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaga̭m",
+      "words": [
+       {
+        "w": "bhagam",
+        "gloss": "fortune",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "असित के, कश्यप के और गय के ब्रह्म से, भीतरी कोश के समान, बहनें भी, मैं तुम्हारा भाग्य बाँधता हूँ।",
+  "english": "By the sacred utterance of Asita, of Kaśyapa and of Gaya, I bind your fortune, like an inner chest, the kinswomen also.",
+  "text_flags": [],
+  "notes": "The construction of 'jāmayo 'pi' ('the kinswomen also') is unclear; it may mean 'as sisters (do)'. Asita, Kaśyapa and Gaya are names of sages as the genitives of names; the lines give no role. 'Brahman' here: 'sacred utterance' (alternatively 'spell, prayer'). 'Te' in line a may be 'by your brahman'; kept as 'your' for the person bound.",
+  "confidence": "low"
+ }
+]

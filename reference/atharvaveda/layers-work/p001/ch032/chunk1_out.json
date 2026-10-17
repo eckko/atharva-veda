@@ -1,0 +1,554 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāso",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi̱datha̭",
+      "words": [
+       {
+        "w": "vidatha",
+        "gloss": "know",
+        "gram": "2 pl. impv. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ma̱had",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "sacred utterance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vadiṣyati",
+      "words": [
+       {
+        "w": "vadiṣyati",
+        "gloss": "will speak",
+        "gram": "3 sg. fut. √vad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭thivyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "di̱vi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yena̭",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prā̱ṇanti̭",
+      "words": [
+       {
+        "w": "prāṇanti",
+        "gloss": "they live (breathe)",
+        "gram": "3 pl. pres. pra-√an"
+       }
+      ]
+     },
+     {
+      "src": "vī̱rudha̭ḥ",
+      "words": [
+       {
+        "w": "vīrudhaḥ",
+        "gloss": "plants (growing things)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे लोगो, यह जान लो: महान् ब्रह्म (पवित्र वचन) बोलेगा। वह न पृथ्वी पर है और न द्युलोक में, जिसके द्वारा वनस्पतियाँ (ओषधियाँ) जीती हैं।",
+  "english": "Know this, O people: the great brahman (sacred utterance) will speak. There is nothing on earth nor in heaven by which the plants live.",
+  "text_flags": [],
+  "notes": "'idam ... vidatha' read as 'know this' (vidatha 2 pl. of √vid); vidatha could also be read as a noun (assembly), or idam as the object of vadiṣyati. 'tat ... yena' is read as 'that (thing) by which'; the translation 'nothing ... by which' is a loose rendering of 'that is not on earth nor in heaven by which the plants live'. brahma n.: sacred utterance; it could also be 'the great Brahmā/priest' (masc. would be brahmā). vīrudh = plants, creepers (general word).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱ntari̭kṣa",
+      "words": [
+       {
+        "w": "antarikṣe",
+        "gloss": "in the mid-air",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āsā̱ṃ",
+      "words": [
+       {
+        "w": "āsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthāma̭",
+      "words": [
+       {
+        "w": "sthāma",
+        "gloss": "place, station",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrānta̱sadā̭miva",
+      "words": [
+       {
+        "w": "śrānta-sadām",
+        "gloss": "of those who sit wearied",
+        "gram": "m. gen. pl. (tat-puruṣa)"
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱sthāna̭ma̱sya",
+      "words": [
+       {
+        "w": "āsthānam",
+        "gloss": "standing-place",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhū̱tasya̭",
+      "words": [
+       {
+        "w": "bhūtasya",
+        "gloss": "of the being",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱duṣṭad",
+      "words": [
+       {
+        "w": "viduḥ",
+        "gloss": "they know",
+        "gram": "3 pl. pf. √vid"
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ve̱dhaso̱",
+      "words": [
+       {
+        "w": "vedhasaḥ",
+        "gloss": "the ordainers (wise)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन (वनस्पतियों) का स्थान अन्तरिक्ष में है, थककर बैठे हुओं के (स्थान) के समान। इस भूत (प्राणी) के उस आस्थान को विधाता (ज्ञानी लोग) जानते हैं, या नहीं।",
+  "english": "The place of these (plants) is in the mid-air, like that of those who sit wearied. The standing-place of this being: do the ordainers know that, or not?",
+  "text_flags": [],
+  "notes": "'āsām' is taken to refer back to the plants (vīrudhaḥ) of unit 1. 'śrāntasadām iva' is obscure; it is rendered literally ('like (the place) of those sitting tired'). 'vedhasaḥ' = ordainers/wise ones/worshippers (uncertain). The end 'tat vedhaso na vā' is read as an either/or: they know it, or not. bhūta here = 'being' or 'what has come to be'.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "since, when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "roda̭sī̱",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "the two worlds",
+        "gram": "f. nom./acc. du."
+       }
+      ]
+     },
+     {
+      "src": "reja̭māne̱",
+      "words": [
+       {
+        "w": "rejamāne",
+        "gloss": "trembling",
+        "gram": "f. du. pres. part. √rej"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi̭śca",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "earth",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ni̱rata̭kṣatam",
+      "words": [
+       {
+        "w": "nir-atakṣatam",
+        "gloss": "you two fashioned out",
+        "gram": "2 du. impf. nir-√takṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱rdraṃ",
+      "words": [
+       {
+        "w": "ārdram",
+        "gloss": "moist",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tada̱dya",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭rva̱dā",
+      "words": [
+       {
+        "w": "sarvadā",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭mu̱drasyḙva",
+      "words": [
+       {
+        "w": "samudrasya",
+        "gloss": "of the ocean",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sro̱tyāḥ",
+      "words": [
+       {
+        "w": "srotyāḥ",
+        "gloss": "streams",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब (तुम दोनों ने) काँपते हुए दोनों लोकों को और भूमि को गढ़ा, वह आज और सदा आर्द्र (गीला) है, जैसे समुद्र की धाराएँ।",
+  "english": "When (you two) fashioned out the two trembling worlds and the earth, that is moist today and always, like the streams of the ocean.",
+  "text_flags": [],
+  "notes": "Grammar is uncertain: nirata-kṣatam is read as 2 du. impf. of nir-√takṣ ('fashioned out'), but its subject is not stated and bhūmiḥ is nominative (not accusative), so 'bhūmiś ca' may instead be a second subject; a different division is possible. 'rodasī' = the two world-halves (heaven and earth).",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśva̭ma̱nyāma̭bhī̱vāra̱",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anyām",
+        "gloss": "the one (other)",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "abhi-āvāra",
+        "gloss": "covered over",
+        "gram": "3 sg. pf. abhi-ā-√vṛ (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "tada̱nyasyā̱madhi̭śri̱tam",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "anyasyām",
+        "gloss": "in the other",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "adhi-śritam",
+        "gloss": "resting upon",
+        "gram": "n. nom. sg. ppp adhi-√śri"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "di̱ve",
+      "words": [
+       {
+        "w": "dive",
+        "gloss": "to heaven",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvavḙdase",
+      "words": [
+       {
+        "w": "viśva-vedase",
+        "gloss": "all-knowing (or all-possessing)",
+        "gram": "dat. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyai",
+      "words": [
+       {
+        "w": "pṛthivyai",
+        "gloss": "to the earth",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "cā̭kara̱ṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "akaram",
+        "gloss": "I have made",
+        "gram": "1 sg. aor. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "nama̭ḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब कुछ ने एक को ढक लिया है; वह दूसरी पर आश्रित (टिका) है। द्यौ को और सर्वज्ञ पृथ्वी को मैंने नमस्कार किया है।",
+  "english": "All has covered over the one; that rests upon the other. To heaven and to the all-knowing earth I have made homage.",
+  "text_flags": [],
+  "notes": "First line very uncertain: 'abhīvāra' is a rare form, taken here as a verb 'covered over'; 'anyām ... anyasyām' is read as 'the one ... the other', perhaps of the two worlds of the previous verse. In line 2 'viśvavedase' stands between dive and pṛthivyai and may qualify earth only, heaven only, or both; 'all-knowing' is the literal rendering (viśvavedas can also mean 'all-possessing').",
+  "confidence": "low"
+ }
+]

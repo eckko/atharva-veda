@@ -1,0 +1,680 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadāba̭dhnan",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "ābadhnan",
+        "gloss": "they bound on",
+        "gram": "3 pl. impf. ā-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "dākṣāya̱ṇā",
+      "words": [
+       {
+        "w": "dākṣāyaṇāḥ",
+        "gloss": "Dākṣāyaṇas (descendants of Dakṣa)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hira̭ṇyaṃ",
+      "words": [
+       {
+        "w": "hiraṇyam",
+        "gloss": "gold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tānī̭kāya",
+      "words": [
+       {
+        "w": "śata-anīkāya",
+        "gloss": "for Śatānīka (name; 'hundred-hosted')",
+        "gram": "m. dat. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sumana̱syamā̭nāḥ",
+      "words": [
+       {
+        "w": "su-manasyamānāḥ",
+        "gloss": "being kindly-minded",
+        "gram": "m. nom. pl. pres. part."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "for you, on you",
+        "gram": "gen./dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "badhnā̱myāyṷṣe̱",
+      "words": [
+       {
+        "w": "badhnāmi",
+        "gloss": "I bind",
+        "gram": "1 sg. pres. √bandh"
+       },
+       {
+        "w": "āyuṣe",
+        "gloss": "for life",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "varca̭se̱",
+      "words": [
+       {
+        "w": "varcase",
+        "gloss": "for splendour",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "balā̭ya",
+      "words": [
+       {
+        "w": "balāya",
+        "gloss": "for strength",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīrghāyu̱tvāya̭",
+      "words": [
+       {
+        "w": "dīrgha-āyutvāya",
+        "gloss": "for long life",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱taśā̭radāya",
+      "words": [
+       {
+        "w": "śata-śāradāya",
+        "gloss": "for a hundred autumns (years)",
+        "gram": "m. dat. sg. (bahuvrīhi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब दाक्षायणों ने प्रसन्न मन से शतानीक के लिए सोना बाँधा, उसे मैं तुम्हारे लिए आयु, तेज, बल, दीर्घ जीवन और सौ शरद (वर्षों) के लिए बाँधता हूँ।",
+  "english": "When the Dākṣāyaṇas, kindly-minded, bound on gold for Śatānīka, that I bind on you for life, for splendour, for strength, for long life and for a hundred autumns.",
+  "text_flags": [],
+  "notes": "Dākṣāyaṇa and Śatānīka are kept as names (patronymic from Dakṣa; 'hundred-hosted'); no story is imported. 'te' read as 'on you' (dative of the person). 'śataśārada' = 'of a hundred autumns', i.e. a hundred years.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "naina̱ṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣā̭ṃsi̱",
+      "words": [
+       {
+        "w": "rakṣāṃsi",
+        "gloss": "rakṣasas (harmful beings)",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̭śā̱cāḥ",
+      "words": [
+       {
+        "w": "piśācāḥ",
+        "gloss": "piśācas (harmful beings)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̭hante",
+      "words": [
+       {
+        "w": "sahante",
+        "gloss": "they overpower",
+        "gram": "3 pl. pres. √sah"
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱moja̭ḥ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "vigour",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prathama̱jaṃ",
+      "words": [
+       {
+        "w": "prathama-jam",
+        "gloss": "first-born",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hye̱tat",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bibha̭rti",
+      "words": [
+       {
+        "w": "bibharti",
+        "gloss": "he wears",
+        "gram": "3 sg. pres. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "dākṣāya̱ṇaṃ",
+      "words": [
+       {
+        "w": "dākṣāyaṇam",
+        "gloss": "Dākṣāyaṇa",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hira̭ṇya̱ṃ",
+      "words": [
+       {
+        "w": "hiraṇyam",
+        "gloss": "gold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jī̱veṣṷ",
+      "words": [
+       {
+        "w": "jīveṣu",
+        "gloss": "among the living",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇute",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "he makes for himself",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "dī̱rghamāyṷḥ",
+      "words": [
+       {
+        "w": "dīrgham",
+        "gloss": "long",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसे न राक्षस, न पिशाच अभिभूत करते हैं, क्योंकि यह देवों का प्रथम उत्पन्न ओज है। जो दाक्षायण सोने को धारण करता है, वह जीवित जनों में अपने लिए दीर्घ आयु बनाता है।",
+  "english": "Neither rakṣasas nor piśācas overpower him, for this is the first-born vigour of the gods. He who wears the Dākṣāyaṇa gold makes for himself a long life among the living.",
+  "text_flags": [],
+  "notes": "'rakṣas' and 'piśāca' are kept as the words for harmful beings. 'etat' is read as referring to the gold (the 'Dākṣāyaṇa gold'); 'enam' as the wearer. The text itself says what the gold does; nothing is added.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱pāṃ",
+      "words": [
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tejo̱",
+      "words": [
+       {
+        "w": "tejaḥ",
+        "gloss": "splendour, heat",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyoti̱rojo̱",
+      "words": [
+       {
+        "w": "jyotiḥ",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "vigour",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bala̭ṃ",
+      "words": [
+       {
+        "w": "balam",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vana̱spatī̭nāmu̱ta",
+      "words": [
+       {
+        "w": "vanaspatīnām",
+        "gloss": "of the trees",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vī̱ryā'ṇi",
+      "words": [
+       {
+        "w": "vīryāṇi",
+        "gloss": "energies",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "indra̭",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ivendri̱yāṇyadhi̭",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "indriyāṇi",
+        "gloss": "powers",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "adhi",
+        "gloss": "upon",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhārayāmo",
+      "words": [
+       {
+        "w": "dhārayāmaḥ",
+        "gloss": "we set, hold",
+        "gram": "1 pl. pres. caus. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "a̱smin",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "upon this one",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dakṣa̭māṇo",
+      "words": [
+       {
+        "w": "dakṣamāṇaḥ",
+        "gloss": "growing strong",
+        "gram": "m. nom. sg. pres. part. √dakṣ"
+       }
+      ]
+     },
+     {
+      "src": "bibhara̱ddhira̭ṇyam",
+      "words": [
+       {
+        "w": "bibharat",
+        "gloss": "let him wear",
+        "gram": "3 sg. impv./inj. √bhṛ"
+       },
+       {
+        "w": "hiraṇyam",
+        "gloss": "gold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जलों का तेज, ज्योति, ओज और बल, और वनस्पतियों (वृक्षों) की शक्तियाँ; इन्द्र की भाँति हम इसमें इन्द्रिय-शक्तियाँ स्थापित करते हैं; वह बल बढ़ाता हुआ उस सोने को धारण करे।",
+  "english": "The splendour, light, vigour and strength of the waters, and the energies of the trees: like Indra, we set powers upon this one; let him, growing strong, wear that gold.",
+  "text_flags": [
+   {
+    "src": "vī̱ryā'ṇi",
+    "suggest": "vīryāṇi",
+    "why": "possible: the avagraha mark is probably stray"
+   }
+  ],
+  "notes": "'indriyāṇi' = powers/faculties; 'bibharat' is read as a 3 sg. injunctive/imperative 'let him wear', and 'dakṣamāṇaḥ' (growing strong, being vigorous) is uncertain. The first line lists what is set on him; its verb comes in line 2 (dhārayāmaḥ). 'vanaspati' = tree (lord of the forest).",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samā̭nāṃ",
+      "words": [
+       {
+        "w": "samānām",
+        "gloss": "of the years",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "mā̱sāmṛ̱tubhi̭ṣṭvā",
+      "words": [
+       {
+        "w": "māsām",
+        "gloss": "of the months",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ṛtubhiḥ",
+        "gloss": "with the seasons",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̭ṃvatsa̱rasya̱",
+      "words": [
+       {
+        "w": "saṃvatsarasya",
+        "gloss": "of the year",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "paya̭sā",
+      "words": [
+       {
+        "w": "payasā",
+        "gloss": "with the milk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "piparmi",
+      "words": [
+       {
+        "w": "piparmi",
+        "gloss": "I fill",
+        "gram": "1 sg. pres. √pṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱ndrā̱gnī",
+      "words": [
+       {
+        "w": "indrāgnī",
+        "gloss": "Indra and Agni",
+        "gram": "m. nom. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "viśvḙ",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vāste'nṷ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "te",
+        "gloss": "you",
+        "gram": "acc. sg. (enclitic)"
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyantā̱mahṛ̭ṇīyamānāḥ",
+      "words": [
+       {
+        "w": "manyantām",
+        "gloss": "let them assent",
+        "gram": "3 pl. impv. mid. anu-√man"
+       },
+       {
+        "w": "a-hṛṇīyamānāḥ",
+        "gloss": "not angered",
+        "gram": "m. nom. pl. pres. part. pass."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षों, महीनों और ऋतुओं के साथ, और वर्ष के दूध (सार) से मैं तुम्हें भरता हूँ; इन्द्र और अग्नि तथा सब देवता, क्रोध न करते हुए, तुम्हारे अनुकूल सम्मति दें।",
+  "english": "With the years, the months and the seasons, and with the milk of the year, I fill you; may Indra and Agni and all the gods, not angered, give their assent to you.",
+  "text_flags": [],
+  "notes": "The line mixes 'vayam' (we) with 'piparmi' (I); both are kept as printed. 'te' (after anu) is read as 'to you' with 'anu manyantām'. 'payas' = milk/juice; the literal 'milk' is kept. 'ahṛṇīyamānāḥ' = not being angry/displeased (uncertain nuance).",
+  "confidence": "medium"
+ }
+]

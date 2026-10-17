@@ -1,0 +1,714 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ja̱rā̱yu̱jaḥ",
+      "words": [
+       {
+        "w": "jarāyu-jaḥ",
+        "gloss": "born from the membrane",
+        "gram": "tat-puruṣa m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̭tha̱ma",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱sriyo̱",
+      "words": [
+       {
+        "w": "usriyaḥ",
+        "gloss": "ruddy, bull-like",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣā̱",
+      "words": [
+       {
+        "w": "vṛṣā",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāta̭bhrajā",
+      "words": [
+       {
+        "w": "vāta-bhrajā",
+        "gloss": "with wind-blaze",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sta̱naya̭nneti",
+      "words": [
+       {
+        "w": "stanayan",
+        "gloss": "thundering",
+        "gram": "m. nom. sg. pres. part. √stan"
+       },
+       {
+        "w": "eti",
+        "gloss": "comes",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ṣṭyā",
+      "words": [
+       {
+        "w": "vṛṣṭyā",
+        "gloss": "with rain",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛḍāti",
+      "words": [
+       {
+        "w": "mṛḍāti",
+        "gloss": "he is gracious",
+        "gram": "3 sg. pres. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nva",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛju̱go",
+      "words": [
+       {
+        "w": "ṛju-gaḥ",
+        "gloss": "going straight",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ru̱jan",
+      "words": [
+       {
+        "w": "rujan",
+        "gloss": "breaking",
+        "gram": "m. nom. sg. pres. part. √ruj"
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eka̱moja̭stre̱dhā",
+      "words": [
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "might",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tredhā",
+        "gloss": "threefold",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭cakra̱me",
+      "words": [
+       {
+        "w": "vicakrame",
+        "gloss": "he strode out",
+        "gram": "3 sg. pf. mid. vi-√kram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जरायु से उत्पन्न, प्रथम, अरुण, वृषभ, वायु की चमक के साथ गर्जता हुआ वर्षा के साथ आता है। वह हमारे शरीर के लिए कृपालु हो, सीधा चलने वाला, तोड़ता हुआ, जिसने एक ही बल को तीन प्रकार से फैलाया।",
+  "english": "Born of the membrane, first, ruddy, the bull, thundering he comes with rain, wind-blazing. May he be gracious to our body, going straight, breaking, he who strode out the one might threefold.",
+  "text_flags": [],
+  "notes": "The lines do not name the subject. 'Usriya' is taken as 'ruddy/bull-like' (also 'of the dawn-coloured'); 'vātabhrajā' as 'with wind-blaze' is uncertain. 'Rujan' could be 'breaking' or 'hurting'. Src 'tanva ṛjugo' = tanve + ṛjugaḥ. 'Ojas' is 'might, vigour'.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṅgḙ",
+      "words": [
+       {
+        "w": "aṅge",
+        "gloss": "in limb",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṅge",
+      "words": [
+       {
+        "w": "aṅge",
+        "gloss": "in limb",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śo̱ciṣā̭",
+      "words": [
+       {
+        "w": "śociṣā",
+        "gloss": "with flame",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśriyā̱ṇaṃ",
+      "words": [
+       {
+        "w": "śiśriyāṇam",
+        "gloss": "resting on",
+        "gram": "m. acc. sg. pf. part. mid. √śri"
+       }
+      ]
+     },
+     {
+      "src": "na̭ma̱syanta̭stvā",
+      "words": [
+       {
+        "w": "namasyantaḥ",
+        "gloss": "paying homage",
+        "gram": "m. nom. pl. pres. part. √namasya"
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̭",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with oblation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhema",
+      "words": [
+       {
+        "w": "vidhema",
+        "gloss": "may we worship",
+        "gram": "1 pl. opt. √vidh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱ṅkāntsa̭ma̱ṅkān",
+      "words": [
+       {
+        "w": "aṅkān",
+        "gloss": "hooks",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "sam-aṅkān",
+        "gloss": "co-hooks",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̭",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with oblation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhema̱",
+      "words": [
+       {
+        "w": "vidhema",
+        "gloss": "may we worship",
+        "gram": "1 pl. opt. √vidh"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agra̭bhī̱t",
+      "words": [
+       {
+        "w": "agrabhīt",
+        "gloss": "he seized",
+        "gram": "3 sg. aor. √grah"
+       }
+      ]
+     },
+     {
+      "src": "parvā̭syā̱",
+      "words": [
+       {
+        "w": "parvā",
+        "gloss": "joints",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "grabhī̭tā",
+      "words": [
+       {
+        "w": "grabhītā",
+        "gloss": "seizer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अंग-अंग में ज्वाला के साथ टिके हुए तुम को नमस्कार करते हुए हम हवि से तुम्हारी सेवा करें। अंकों और सम-अंकों की हम हवि से सेवा करें; जिसने इसके जोड़ों को पकड़ा, वह पकड़ने वाला।",
+  "english": "Resting with flame in limb after limb, paying homage to you, may we worship with oblation. May we worship with oblation the hooks and the co-hooks; he who has seized, the seizer of its joints.",
+  "text_flags": [],
+  "notes": "'Aṅka' and 'samaṅka' are obscure (literally 'hook, bend' and 'co-hook'); sense uncertain. Src 'aṅkāntsamaṅkān' = aṅkān sam-aṅkān. The subject of 'śiśriyāṇam' and the referent of 'asya' are not named. 'Vidhema' = 'may we serve, worship'.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mu̱ñca",
+      "words": [
+       {
+        "w": "muñca",
+        "gloss": "release",
+        "gram": "2 sg. impv. √muc"
+       }
+      ]
+     },
+     {
+      "src": "śī̭rṣa̱ktyā",
+      "words": [
+       {
+        "w": "śīrṣaktyāḥ",
+        "gloss": "from head-pain",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kā̱sa",
+      "words": [
+       {
+        "w": "kāsaḥ",
+        "gloss": "cough",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ḙna̱ṃ",
+      "words": [
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parṷṣparurāvi̱veśā̱",
+      "words": [
+       {
+        "w": "paruḥ-paruḥ",
+        "gloss": "joint after joint",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āviveśa",
+        "gloss": "has entered",
+        "gram": "3 sg. pf. ā-√viś"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhra̱jā",
+      "words": [
+       {
+        "w": "abhra-jā",
+        "gloss": "cloud-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ta̱jā",
+      "words": [
+       {
+        "w": "vāta-jā",
+        "gloss": "wind-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaśca̱",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuṣmo̱",
+      "words": [
+       {
+        "w": "śuṣmaḥ",
+        "gloss": "fierce force",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vana̱spatī̭ntsacatā̱ṃ",
+      "words": [
+       {
+        "w": "vanaspatīn",
+        "gloss": "trees",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "sacatām",
+        "gloss": "let it follow",
+        "gram": "3 sg. impv. mid. √sac"
+       }
+      ]
+     },
+     {
+      "src": "parva̭tāṃśca",
+      "words": [
+       {
+        "w": "parvatān",
+        "gloss": "mountains",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसे सिर की पीड़ा से छुड़ाओ, और जो खाँसी इसमें जोड़-जोड़ में प्रविष्ट हो गई है, उससे भी। जो बादल से उत्पन्न है, जो वायु से उत्पन्न है, और जो प्रचण्ड बल है, वह वनस्पतियों और पर्वतों के पास जाए।",
+  "english": "Release him from head-pain, and the cough that has entered him, joint after joint, that is his. Whichever is cloud-born, wind-born, and whichever is fierce force, let it go to the trees and to the mountains.",
+  "text_flags": [],
+  "notes": "Syntax of line a is uncertain: 'kāsaḥ' is printed as nominative, and the verb 'muñca' takes 'from'; the translation reads 'release him from head-pain and (from) the cough that has entered him'. 'Śīrṣakti' is literally 'head-pain'. 'Yo asya' is read as 'that is his'. 'Śuṣma' is 'force, vigour' (also 'dryness'). 'Vanaspati' is a tree (lord of the forest).",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "me̱",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "for me",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "para̭smai̱",
+      "words": [
+       {
+        "w": "parasmai",
+        "gloss": "for the farther",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "gātrā̭ya̱",
+      "words": [
+       {
+        "w": "gātrāya",
+        "gloss": "for limb",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śama̱stvava̭rāya",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       },
+       {
+        "w": "avarāya",
+        "gloss": "for the nearer",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "for me",
+        "gram": "gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mḙ",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "for me",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱turbhyo̱",
+      "words": [
+       {
+        "w": "caturbhyaḥ",
+        "gloss": "for four",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "aṅgḙbhya̱ḥ",
+      "words": [
+       {
+        "w": "aṅgebhyaḥ",
+        "gloss": "for limbs",
+        "gram": "n. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "śama̭stu",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3mama̭",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       },
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मेरे दूर वाले अंग के लिए कल्याण हो, मेरे निकट वाले अंग के लिए भी कल्याण हो। मेरे चारों अंगों के लिए कल्याण हो; मेरे शरीर के लिए कल्याण हो।",
+  "english": "Well-being for my farther limb, let there be well-being for my nearer one. Well-being for my four limbs; let there be well-being for my body.",
+  "text_flags": [],
+  "notes": "Src 'tanve3mama' has a prolation mark 3; it stands for tanve + mama. 'Parasmai ... avarāya' are read as 'farther/nearer' (also 'upper/lower'). 'Four limbs' as printed.",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,815 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśvḙ",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "devā̱",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vasa̭vo̱",
+      "words": [
+       {
+        "w": "vasavaḥ",
+        "gloss": "Vasus (a group of gods)",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣa̭te̱mamu̱tādi̭tyā",
+      "words": [
+       {
+        "w": "rakṣata",
+        "gloss": "protect",
+        "gram": "2 pl. impv. √rakṣ"
+       },
+       {
+        "w": "imam",
+        "gloss": "this one",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādityāḥ",
+        "gloss": "Ādityas (a group of gods)",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāgṛ̱ta",
+      "words": [
+       {
+        "w": "jāgṛta",
+        "gloss": "be watchful",
+        "gram": "2 pl. impv. √jāgṛ"
+       }
+      ]
+     },
+     {
+      "src": "yū̱yama̱smin",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "asmin",
+        "gloss": "over this one",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "memaṃ",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "imam",
+        "gloss": "this one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sanā̭bhiru̱ta",
+      "words": [
+       {
+        "w": "sa-nābhiḥ",
+        "gloss": "by a kinsman",
+        "gram": "m. inst. sg. (tat-puruṣa/bahuvrīhi)"
+       },
+       {
+        "w": "uta",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱nyanā̭bhi̱rmemaṃ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anya-nābhiḥ",
+        "gloss": "by a non-kinsman",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "imam",
+        "gloss": "this one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāpa̱t",
+      "words": [
+       {
+        "w": "prāpat",
+        "gloss": "reach",
+        "gram": "3 sg. aor. subj. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "paurṷṣeyo",
+      "words": [
+       {
+        "w": "pauruṣeyaḥ",
+        "gloss": "human, man-made",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱dho",
+      "words": [
+       {
+        "w": "vadhaḥ",
+        "gloss": "deadly stroke",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सब देवो, हे वसुओ, इस (पुरुष) की रक्षा करो; हे आदित्यो, तुम इसके विषय में जागरूक रहो। मनुष्य से उत्पन्न जो घातक प्रहार है, वह इस तक न पहुँचे, चाहे वह सगे-सम्बन्धी की ओर से हो या अन्य की ओर से।",
+  "english": "All you gods, you Vasus, protect this one; and you Ādityas, be watchful over him. Let no deadly stroke of human origin reach him, whether it comes from a kinsman or from a non-kinsman.",
+  "text_flags": [],
+  "notes": "sanābhi = 'of the same navel' (kinsman); anyanābhi = of another navel (non-kinsman). pauruṣeya vadha: 'slaying/deadly stroke coming from a man'; 'weapon' is also possible for vadha. 'this one' is left unnamed as in the text.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "devāḥ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pi̱taro̱",
+      "words": [
+       {
+        "w": "pitaraḥ",
+        "gloss": "fathers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pu̱trāḥ",
+      "words": [
+       {
+        "w": "putrāḥ",
+        "gloss": "sons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sacḙtaso",
+      "words": [
+       {
+        "w": "sa-cetasaḥ",
+        "gloss": "of one mind",
+        "gram": "m. voc. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my, to me",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śṛṇute̱damu̱ktam",
+      "words": [
+       {
+        "w": "śṛṇuta",
+        "gloss": "hear",
+        "gram": "2 pl. impv. √śru"
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uktam",
+        "gloss": "said (word)",
+        "gram": "n. acc. sg. ppp √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvḙbhyo",
+      "words": [
+       {
+        "w": "sarvebhyaḥ",
+        "gloss": "to all",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "va̱ḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "of you",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pa̭ri",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "over, to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadāmye̱taṃ",
+      "words": [
+       {
+        "w": "dadāmi",
+        "gloss": "I hand over",
+        "gram": "1 sg. pres. pari-√dā"
+       },
+       {
+        "w": "etam",
+        "gloss": "this one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̱stye'naṃ",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "in well-being",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rasḙ",
+      "words": [
+       {
+        "w": "jarase",
+        "gloss": "to old age",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vahātha",
+      "words": [
+       {
+        "w": "vahātha",
+        "gloss": "carry",
+        "gram": "2 pl. impv. √vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो तुम देव हो, पितर हो और जो पुत्र हो, हे समान मन वाले (देवो), मेरा यह कहा हुआ वचन सुनो। तुम सब को मैं इस (पुरुष) को सौंपता हूँ; इसे कल्याणपूर्वक बुढ़ापे तक पहुँचाओ।",
+  "english": "You who are gods, fathers and sons, of one mind, hear this word of mine: I hand this one over to all of you; carry him in well-being to old age.",
+  "text_flags": [
+   {
+    "src": "sva̱stye'naṃ",
+    "suggest": "svastyenaṃ",
+    "why": "possible: the avagraha mark is probably stray; svasti + enam gives svastyenam"
+   }
+  ],
+  "notes": "'ye vo devāḥ pitaro ye ca putrāḥ': 'you who are gods, fathers and sons' (vaḥ read as 'your/you' joined with ye). 'sacetasaḥ' taken as vocative of address; it could also be nominative describing the same beings. 'vaḥ' after sarvebhyaḥ read as genitive 'of you all'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dḙvā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "di̱vi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣṭha",
+      "words": [
+       {
+        "w": "stha",
+        "gloss": "you are",
+        "gram": "2 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭thi̱vyāṃ",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntari̭kṣa̱",
+      "words": [
+       {
+        "w": "antarikṣe",
+        "gloss": "in the mid-air",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "oṣa̭dhīṣu",
+      "words": [
+       {
+        "w": "oṣadhīṣu",
+        "gloss": "among the plants",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pa̱śuṣva̱psva̭1ntaḥ",
+      "words": [
+       {
+        "w": "paśuṣu",
+        "gloss": "among cattle",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṇuta",
+      "words": [
+       {
+        "w": "kṛṇuta",
+        "gloss": "make",
+        "gram": "2 pl. impv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ja̱rasa̱māyṷra̱smai",
+      "words": [
+       {
+        "w": "jarasam",
+        "gloss": "(lasting) to old age",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life-span",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tama̱nyān",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "a hundred",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anyān",
+        "gloss": "other",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "aside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṇaktu",
+      "words": [
+       {
+        "w": "vṛṇaktu",
+        "gloss": "let (him/it) turn aside",
+        "gram": "3 sg. impv. pari-√vṛj"
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱tyūn",
+      "words": [
+       {
+        "w": "mṛtyūn",
+        "gloss": "deaths",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वर्ग में, पृथ्वी पर, अन्तरिक्ष में, ओषधियों में, पशुओं में और जलों के भीतर जो तुम देव हो, वे इसके लिए बुढ़ापे तक की आयु बनाओ; और (वह) अन्य सौ मृत्युओं को दूर हटा दे।",
+  "english": "You gods who are in heaven, on earth, in the mid-air, among the plants, among cattle and within the waters: make for him a life-span lasting to old age, and let him (or it) turn aside the other hundred deaths.",
+  "text_flags": [],
+  "notes": "The subject of 'pari vṛṇaktu' (singular) is not stated; it may be the person or the life-span, or a shift to one deity. 'jarasam āyuḥ' read as life-span reaching old age (jarasam as an adverbial accusative). 'ṣṭha' is stha after the sandhi of divi.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yeṣā̭ṃ",
+      "words": [
+       {
+        "w": "yeṣām",
+        "gloss": "of whom",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayā̱jā",
+      "words": [
+       {
+        "w": "prayājāḥ",
+        "gloss": "fore-offerings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭nuyā̱jā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anuyājāḥ",
+        "gloss": "after-offerings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hu̱tabhā̭gā",
+      "words": [
+       {
+        "w": "huta-bhāgāḥ",
+        "gloss": "having shares of the offered",
+        "gram": "m. nom. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ahu̱tāda̭śca",
+      "words": [
+       {
+        "w": "a-huta-adaḥ",
+        "gloss": "eaters of the unoffered",
+        "gram": "m. nom. pl. (bahuvrīhi)"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vāḥ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yeṣā̭ṃ",
+      "words": [
+       {
+        "w": "yeṣām",
+        "gloss": "of whom",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "va̱ḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "of you",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca̭",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "pra̱diśo̱",
+      "words": [
+       {
+        "w": "pradiśaḥ",
+        "gloss": "directions",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vibha̭ktā̱stān",
+      "words": [
+       {
+        "w": "vibhaktāḥ",
+        "gloss": "apportioned",
+        "gram": "f. nom. pl. ppp vi-√bhaj"
+       },
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vo",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱smai",
+      "words": [
+       {
+        "w": "asmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭tra̱sada̭ḥ",
+      "words": [
+       {
+        "w": "satra-sadaḥ",
+        "gloss": "sitting at the session",
+        "gram": "m. acc. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "kṛṇomi",
+      "words": [
+       {
+        "w": "kṛṇomi",
+        "gloss": "I make",
+        "gram": "1 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनके प्रयाज और अनुयाज हैं, जो हुत (अर्पित) में भाग वाले हैं और जो अनर्पित को खाने वाले देव हैं; तुम में से जिनके लिए पाँच दिशाएँ बाँटी गई हैं, उन तुम सबको मैं इसके लिए (यज्ञ-)सत्र में बैठने वाला बनाता हूँ।",
+  "english": "You gods whose are the fore-offerings and the after-offerings, who have a share of what is offered and who eat what is not offered, you among whom the five directions are apportioned: I make you, sitting together in session, for him.",
+  "text_flags": [],
+  "notes": "Reading of the two lines is uncertain: 'vo' and 'vaḥ' are read as 'you/of you'. 'satrasadaḥ' (those sitting at a sacrificial session) is taken as predicative to 'tān vaḥ'; the sense 'I make you attendants/sharers in session for him' is literal but loose. prayāja/anuyāja are named parts of the ritual; no commentary imported.",
+  "confidence": "medium"
+ }
+]

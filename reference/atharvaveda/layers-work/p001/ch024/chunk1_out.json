@@ -1,0 +1,559 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "su̱pa̱rṇo",
+      "words": [
+       {
+        "w": "suparṇaḥ",
+        "gloss": "Suparṇa, well-winged one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̱taḥ",
+      "words": [
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "m. nom. sg. p.p. √jan"
+       }
+      ]
+     },
+     {
+      "src": "pra̭tha̱mastasya̱",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱ttamā̭sitha",
+      "words": [
+       {
+        "w": "pittam",
+        "gloss": "gall, bile",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "āsitha",
+        "gloss": "you were",
+        "gram": "2 sg. pf. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tadā̭su̱rī",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "āsurī",
+        "gloss": "Asura-woman, belonging to the Asuras",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱dhā",
+      "words": [
+       {
+        "w": "yudhā",
+        "gloss": "in battle",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̱tā",
+      "words": [
+       {
+        "w": "jitā",
+        "gloss": "conquered",
+        "gram": "f. nom. sg. p.p. √ji"
+       }
+      ]
+     },
+     {
+      "src": "rū̱paṃ",
+      "words": [
+       {
+        "w": "rūpam",
+        "gloss": "form",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭kre̱",
+      "words": [
+       {
+        "w": "cakre",
+        "gloss": "made",
+        "gram": "3 sg. pf. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "vana̱spatī̭n",
+      "words": [
+       {
+        "w": "vanaspatīn",
+        "gloss": "trees",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सुपर्ण पहले उत्पन्न हुआ; तुम उसका पित्त (पित्तरस) थीं। तब असुर-स्त्री ने, युद्ध में जीती जाकर, वनस्पतियों को रूप बना लिया।",
+  "english": "The well-winged one (Suparṇa) was born first; you were his gall. Then the Asura-woman, conquered in battle, made the trees (her) form.",
+  "text_flags": [],
+  "notes": "suparṇaḥ is kept as the name/epithet 'well-winged one'; no identification is made. pittam is the literal 'gall/bile'. The last words rūpaṃ cakre vanaspatīn are ambiguous: 'made the trees her form' is a literal rendering; Whitney-type readings differ (assumed shape as trees). The referent of tvam (the herb or the colour addressed) is not stated.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱su̱rī",
+      "words": [
+       {
+        "w": "āsurī",
+        "gloss": "Asura-woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭kre",
+      "words": [
+       {
+        "w": "cakre",
+        "gloss": "made",
+        "gram": "3 sg. pf. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pratha̱medaṃ",
+      "words": [
+       {
+        "w": "prathamā",
+        "gloss": "first",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ki̭lāsabheṣa̱jami̱daṃ",
+      "words": [
+       {
+        "w": "kilāsa-bheṣajam",
+        "gloss": "remedy for kilāsa",
+        "gram": "n. acc. sg., tat-puruṣa"
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ki̭lāsa̱nāśa̭nam",
+      "words": [
+       {
+        "w": "kilāsa-nāśanam",
+        "gloss": "destroyer of kilāsa",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anī̭naśat",
+      "words": [
+       {
+        "w": "anīnaśat",
+        "gloss": "made vanish",
+        "gram": "3 sg. aor. caus. √naś"
+       }
+      ]
+     },
+     {
+      "src": "ki̱lāsa̱ṃ",
+      "words": [
+       {
+        "w": "kilāsam",
+        "gloss": "kilāsa",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṷ̄pāmakara̱t",
+      "words": [
+       {
+        "w": "sa-rūpām",
+        "gloss": "of like form",
+        "gram": "f. acc. sg., bahuvrīhi"
+       },
+       {
+        "w": "akarat",
+        "gloss": "made",
+        "gram": "3 sg. impf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tvaca̭m",
+      "words": [
+       {
+        "w": "tvacam",
+        "gloss": "skin",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "असुर-स्त्री ने सबसे पहले यह किलास का उपचार बनाया, यह किलास को नष्ट करने वाला है। उसने किलास को मिटा दिया और त्वचा को समान रूप वाली कर दिया।",
+  "english": "The Asura-woman was the first to make this remedy for kilāsa, this destroyer of kilāsa. She made the kilāsa vanish and made the skin of like form.",
+  "text_flags": [],
+  "notes": "prathamā is read as an adjective of āsurī ('first'). bheṣaja is rendered literally 'remedy'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarṷ̄pā̱",
+      "words": [
+       {
+        "w": "sa-rūpā",
+        "gloss": "Sarūpā (of like form)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma̭",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tā",
+      "words": [
+       {
+        "w": "mātā",
+        "gloss": "mother",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṷ̄po̱",
+      "words": [
+       {
+        "w": "sa-rūpaḥ",
+        "gloss": "Sarūpa (of like form)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma̭",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tā",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱rū̱pa̱kṛt",
+      "words": [
+       {
+        "w": "sarūpa-kṛt",
+        "gloss": "maker of like form",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tvamo̭ṣadhe̱",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       },
+       {
+        "w": "oṣadhe",
+        "gloss": "O herb",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṷ̄pami̱daṃ",
+      "words": [
+       {
+        "w": "sa-rūpam",
+        "gloss": "of like form",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭dhi",
+      "words": [
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सरूपा नाम की तुम्हारी माता है और सरूप नाम का तुम्हारा पिता है। हे ओषधि, तुम समान रूप करने वाली हो; वह तुम इसे समान रूप वाला कर दो।",
+  "english": "Sarūpā by name is your mother, Sarūpa by name is your father. You, O herb, are the maker of like form: so make this of like form.",
+  "text_flags": [],
+  "notes": "Sarūpā and Sarūpa are treated as names built from sa-rūpa 'of like form'. oṣadhe is the plain 'herb'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śyā̱mā",
+      "words": [
+       {
+        "w": "śyāmā",
+        "gloss": "dark one",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭rūpa̱ṃkara̭ṇī",
+      "words": [
+       {
+        "w": "sarūpam-karaṇī",
+        "gloss": "maker of like form",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyā",
+      "words": [
+       {
+        "w": "pṛthivyāḥ",
+        "gloss": "from the earth",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhyudbhṛ̭tā",
+      "words": [
+       {
+        "w": "adhi-ud-bhṛtā",
+        "gloss": "lifted up",
+        "gram": "f. nom. sg. p.p. adhi-ud-√bhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱damū̱",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣu",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sā̭dhaya̱",
+      "words": [
+       {
+        "w": "sādhaya",
+        "gloss": "accomplish, bring about",
+        "gram": "2 sg. impv. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "punā̭",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rū̱pāṇi̭",
+      "words": [
+       {
+        "w": "rūpāṇi",
+        "gloss": "forms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalpaya",
+      "words": [
+       {
+        "w": "kalpaya",
+        "gloss": "arrange, fashion",
+        "gram": "2 sg. impv. caus. √kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काली (श्यामा), समान रूप करने वाली, पृथ्वी से ऊपर उठाई गई, तुम इसे भली-भाँति सिद्ध करो और फिर से रूपों को यथास्थान रचो।",
+  "english": "Dark one, maker of like form, lifted up from the earth: accomplish this well, and fashion the forms again.",
+  "text_flags": [],
+  "notes": "adhyudbhṛtā 'lifted up out of the earth' is taken as a participle of the herb addressed; the herb is not identified. In rūpāṇi kalpaya the sense is 'put the forms (colours) in order again'.",
+  "confidence": "medium"
+ }
+]

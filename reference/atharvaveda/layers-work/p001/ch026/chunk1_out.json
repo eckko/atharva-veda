@@ -1,0 +1,383 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱re̱3sāva̱smada̭stu",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       },
+       {
+        "w": "asau",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "pron. abl. pl."
+       },
+       {
+        "w": "astu",
+        "gloss": "let be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "he̱tirdḙvāso",
+      "words": [
+       {
+        "w": "hetiḥ",
+        "gloss": "missile",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "devāsaḥ",
+        "gloss": "gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "asat|",
+      "words": [
+       {
+        "w": "asat",
+        "gloss": "may it be",
+        "gram": "3 sg. aor. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "ā̱re",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aśmā̱",
+      "words": [
+       {
+        "w": "aśmā",
+        "gloss": "stone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yamasya̭tha",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "which",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asyatha",
+        "gloss": "you hurl",
+        "gram": "2 pl. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देवो, वह शस्त्र हमसे दूर रहे; ऐसा ही हो। वह पत्थर भी दूर रहे जिसे तुम फेंकते हो।",
+  "english": "Let that missile be far from us, O gods; may it be so. Far be the stone which you hurl.",
+  "text_flags": [],
+  "notes": "asat after devāsaḥ is unclear (3 sg. aor. subj. 'may it be', echoing astu); the rendering 'may it be so' is tentative. The printed 3 after āre is a pluta sign. The second 'far' has no verb; astu is understood. The mark | is part of the printed token asat|.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sakhā̱sāva̱smabhya̭mastu",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asau",
+        "gloss": "that",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asmabhyam",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       },
+       {
+        "w": "astu",
+        "gloss": "let be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "rā̱tiḥ",
+      "words": [
+       {
+        "w": "rātiḥ",
+        "gloss": "gift",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sakhendro̱",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaga̭ḥ",
+      "words": [
+       {
+        "w": "bhagaḥ",
+        "gloss": "Bhaga",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "savi̱tā",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̱trarā̭dhāḥ",
+      "words": [
+       {
+        "w": "citra-rādhāḥ",
+        "gloss": "of bright gifts",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह दान हमारे लिए मित्र हो; मित्र इन्द्र, भग और विचित्र (उज्ज्वल) दान वाला सविता हों।",
+  "english": "Let that gift be a friend to us; a friend (be) Indra, Bhaga, Savitṛ of bright gifts.",
+  "text_flags": [],
+  "notes": "sakhā is masculine in form although it is used with the feminine rātiḥ; the second sakhā is read as the predicate of the three names (Indra, Bhaga, Savitṛ), which may also be read as three subjects in apposition. citra-rādhas is 'of manifold/bright bounty'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yū̱yaṃ",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "pron. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "pravato",
+      "words": [
+       {
+        "w": "pravataḥ",
+        "gloss": "of the steep, slope",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "napā̱nmarṷta̱ḥ",
+      "words": [
+       {
+        "w": "napāt",
+        "gloss": "offspring",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "marutaḥ",
+        "gloss": "Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭tvacasaḥ",
+      "words": [
+       {
+        "w": "sūrya-tvacasaḥ",
+        "gloss": "sun-skinned",
+        "gram": "m. voc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "śarma̭",
+      "words": [
+       {
+        "w": "śarma",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yacchātha",
+      "words": [
+       {
+        "w": "yacchātha",
+        "gloss": "you extend, grant",
+        "gram": "2 pl. pres. √yam"
+       }
+      ]
+     },
+     {
+      "src": "sa̱prathā̭ḥ",
+      "words": [
+       {
+        "w": "saprathāḥ",
+        "gloss": "far-spreading",
+        "gram": "m. voc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे मरुतो, तुम ऊँचाई (ढलान) की सन्तान, सूर्य के समान त्वचा वाले, हमें आश्रय प्रदान करते हो, हे विस्तृत फैले हुए।",
+  "english": "You, O Maruts, offspring of the steep, sun-skinned, grant shelter to us, far-spreading ones.",
+  "text_flags": [],
+  "notes": "pravato napāt marutaḥ: napāt is singular in form beside the plural marutaḥ and is read as an address 'offspring' of the group; 'of the steep' (pravataḥ) is literal and uncertain (height, slope). sūrya-tvacasaḥ is rendered 'sun-skinned' (with skin like the sun). The mark | counts as a printed token.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "su̱ṣū̱data̭",
+      "words": [
+       {
+        "w": "suṣūdata",
+        "gloss": "set right, gladden (?)",
+        "gram": "2 pl. impv. √sūd"
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱ḍata̭",
+      "words": [
+       {
+        "w": "mṛḍata",
+        "gloss": "be gracious",
+        "gram": "2 pl. impv. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱ḍayā̭",
+      "words": [
+       {
+        "w": "mṛḍaya",
+        "gloss": "make gracious",
+        "gram": "2 sg. impv. caus. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "nasta̱nūbhyo̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       },
+       {
+        "w": "tanūbhyaḥ",
+        "gloss": "for the bodies",
+        "gram": "f. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "maya̭sto̱kebhya̭skṛdhi̭",
+      "words": [
+       {
+        "w": "mayaḥ",
+        "gloss": "well-being",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tokebhyaḥ",
+        "gloss": "for the offspring",
+        "gram": "n. dat. pl."
+       },
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमें सन्तुष्ट करो, कृपालु होओ, हमें कृपालु बनाओ; हमारे शरीरों के लिए और सन्तानों के लिए कल्याण करो।",
+  "english": "Gladden us, be gracious, show grace to us; make well-being for our bodies and for our offspring.",
+  "text_flags": [],
+  "notes": "suṣūdata is uncertain (set right/gladden). mṛḍayā is read as an imperative of the causative with Vedic lengthening; kṛdhi is singular although the address is plural, so the speaker may address one power at the end. The line has no grammatical object for suṣūdata; 'us' is supplied.",
+  "confidence": "low"
+ }
+]
