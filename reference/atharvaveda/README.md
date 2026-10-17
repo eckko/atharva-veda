@@ -1,6 +1,6 @@
 # Atharvaveda Saṃhitā (Śaunaka): raw extracted source bank
 
-Stage 1 (extraction) of a pipeline: verify, review, fix, proofread come next. This folder holds the raw text, not a finished edition. Nothing here has been proofread, and it comes from a single source (S1) that has not been compared with a printed edition.
+Stage 1 (extraction) is done and stage 2 (verification) has started: see `VERIFY.md`. Sandhi/Hindi/English AI draft layers exist for parts 001, 014 and 017 only (`text/p001-*.md` etc., feed in `feed/`); they are reviewed drafts, not human-checked. This folder holds the raw text, not a finished edition. Nothing here has been proofread, and it comes from a single source (S1) that has not been compared with a printed edition.
 
 Read, in order: FORMAT.md (file and line format), toc.md (structure), STATUS.md (what is done), sources.md (where text came from), ISSUES.md (known doubts), sukta-headers.md (title and ṛṣi/devatā/chandas lines of each sūkta).
 
