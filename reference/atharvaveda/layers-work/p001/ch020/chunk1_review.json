@@ -1,0 +1,118 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(यह), (वस्तु), अभिभव (आक्रमण)",
+     "problem": "Bracketed glosses in the Hindi (not allowed); the unstated subject '(यह)' is an addition.",
+     "fix": "हे देव सोम, इस यज्ञ में अविदारक हो; हे मरुतो, हमारे प्रति कृपालु होओ। न हमें अभिभूत करने वाला प्रहार प्राप्त हो, न अभिशाप; न हमें वह कुटिल और द्वेष्य प्राप्त हो जो ...",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "हे देव सोम, इस यज्ञ में अविदारक हो; हे मरुतो, हमारे प्रति कृपालु होओ। न हमें अभिभूत करने वाला प्रहार प्राप्त हो, न अभिशाप; न हमें वह कुटिल और द्वेष्य प्राप्त हो जो ..."
+     }
+    },
+    {
+     "field": "english",
+     "where": "ill-repute",
+     "problem": "aśasti is glossed 'ill-speech, curse' but rendered 'ill-repute'; English and gloss disagree (and Hindi अपयश).",
+     "fix": "curse",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "ill-repute",
+      "new": "curse"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Let it be unsplitting",
+     "problem": "'it' is not in the text; bhavatu has no stated subject (deva soma is a vocative). Already hedged in notes, keep confidence low.",
+     "fix": "(no change; keep low)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "udīrate",
+     "problem": "3 pl. verb glossed as singular 'rises'.",
+     "fix": "rise",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "udīrate",
+      "field": "gloss",
+      "value": "rise"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "aghāyūnām",
+     "problem": "gender missing.",
+     "fix": "m. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "aghāyūnām",
+      "field": "gram",
+      "value": "m. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(आए)",
+     "problem": "Bracketed supplied verb in Hindi; English 'comes' is likewise supplied (no verb in the text).",
+     "fix": "यहाँ से और वहाँ से जो भी घातक शस्त्र, हे वरुण, उसे दूर हटा दो",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो भी घातक शस्त्र (आए), हे वरुण",
+      "new": "जो भी घातक शस्त्र, हे वरुण"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Whatever weapon comes",
+     "problem": "'comes' added.",
+     "fix": "Whatever weapon from here and whatever from there",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "Whatever weapon comes from here",
+      "new": "Whatever weapon from here"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Unit 4 ok. Minor: bracketed/supplied words in Hindi and English (units 1,3), aśasti rendering, one gloss number/gender slip. No regrouping. Confidence low on unit 1 is honest."
+}

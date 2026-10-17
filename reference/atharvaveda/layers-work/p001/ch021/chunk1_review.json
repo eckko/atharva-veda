@@ -1,0 +1,83 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'naḥ' in line 1 ...",
+     "problem": "Garbled sentence.",
+     "fix": "naḥ is read as the enclitic pronoun 'our' (naḥ + indra giving na indra);",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "'naḥ' in line 1 is read as the enclitic pronoun with naḥ indra giving na indra;",
+      "new": "naḥ is read as the enclitic pronoun 'our' (naḥ + indra giving na indra);"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pṛtanyataḥ",
+     "problem": "pṛtanya is not a root; participle is of the denominative pṛtanya- (from pṛtanā).",
+     "fix": "m. acc. pl. pres. part. of denom. pṛtanya-",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "pṛtanyataḥ",
+      "field": "gram",
+      "value": "m. acc. pl. pres. part. denom. pṛtanya- (from pṛtanā)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "who assails us",
+     "problem": "'us' is not in the text (abhidāsataḥ has no object).",
+     "fix": "who assails",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "of the enemy who assails us.",
+      "new": "of the enemy who assails."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राक्षस",
+     "problem": "GLOSSARY keeps the word rakṣas; Hindi राक्षस is a different (later) form.",
+     "fix": "रक्षस् को चूर-चूर करो",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राक्षस को",
+      "new": "रक्षस् को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Units 1 and 4 ok; small fixes in 2 and 3 (garbled note, denominative label, added 'us', rakṣas spelling). No regrouping."
+}

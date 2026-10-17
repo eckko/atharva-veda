@@ -1,0 +1,162 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(भूरा/सफ़ेद चिह्न)",
+     "problem": "Bracketed gloss with two guesses.",
+     "fix": "जो पलित है",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो पलित (भूरा/सफ़ेद चिह्न) है",
+      "new": "जो पलित है"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "palitam",
+     "problem": "'patch' is an addition (palita = grey); English 'that there is' is awkward filler.",
+     "fix": "grey",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "palitam",
+      "field": "gloss",
+      "value": "grey"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the grey (patch) that there is",
+     "problem": "'patch' added.",
+     "fix": "the kilāsa and the grey, whichever it is",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "niritaḥ",
+     "problem": "nirito is nir + itaḥ ('out from here'), two words, not one indeclinable niritaḥ.",
+     "fix": "w: nir (out) + itaḥ (from here)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "grey patch",
+     "problem": "'patch' added; 'and the speckle' has no ca in the text.",
+     "fix": "Both the kilāsa and the grey, the speckle: make them vanish from here.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "सफ़ेद (चिह्नों)",
+     "problem": "Bracket and 'marks' not in text (śuklāni = white things).",
+     "fix": "सफ़ेद वस्तुओं को दूर गिरा दो",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सफ़ेद (चिह्नों) को",
+      "new": "सफ़ेद वस्तुओं को"
+     }
+    },
+    {
+     "field": "english",
+     "where": "white (marks)",
+     "problem": "'marks' added.",
+     "fix": "make the white things fall away",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "make the white (marks) fall away",
+      "new": "make the white things fall away"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रलयन (विलय-स्थान)",
+     "problem": "Bracketed gloss in Hindi; English says 'resting-place' while gloss says 'dissolving place, refuge (?)': inconsistent.",
+     "fix": "काला तुम्हारा विलय-स्थान है ... ; English: Dark is your dissolving-place (pralayana)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रलयन (विलय-स्थान)",
+      "new": "विलय-स्थान"
+     }
+    },
+    {
+     "field": "english",
+     "where": "resting-place (pralayana)",
+     "problem": "Disagrees with gloss.",
+     "fix": "dissolving-place (pralayana)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "resting-place (pralayana)",
+      "new": "dissolving-place (pralayana)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(विकृति), (मन्त्र)",
+     "problem": "Bracketed glosses; 'विकृति' is interpretation of dūṣyā.",
+     "fix": "दोष द्वारा ... ब्रह्म से",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोष (विकृति) द्वारा",
+      "new": "दोष द्वारा"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ब्रह्म (मन्त्र)",
+     "problem": "bracket",
+     "fix": "ब्रह्म से",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ब्रह्म (मन्त्र) से",
+      "new": "ब्रह्म से"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "No errors that change sense; minor bracketed additions and one missed sandhi split (nir itaḥ). Low confidence on units 3, 4 is honest. No regrouping."
+}

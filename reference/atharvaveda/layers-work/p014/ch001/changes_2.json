@@ -1,0 +1,210 @@
+[
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "dhātā",
+  "old": "Dhātṛ (the Establisher)",
+  "new": "Dhātṛ",
+  "why": "reviewer (minor): Gloss adds a translation 'the Establisher' to a divine name; the glossary says transliterate divine names only."
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "anṛkṣarāḥ",
+  "old": "thornless, free of harm",
+  "new": "thornless",
+  "why": "reviewer (minor): 'free of harm' is an addition; anṛkṣara = without thorns."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "हमारे मित्र जिन मार्गों से वरण (विवाह-याचना) के लिए जाते हैं, वे मार्ग काँटों से रहित और सीधे हों। भग, अर्यमा और धाता तेज से संयुक्त करें।",
+  "new": "हमारे मित्र जिन मार्गों से विवाह-याचना के लिए जाते हैं, वे मार्ग काँटों से रहित और सीधे हों। भग, अर्यमा और धाता तेज से संयुक्त करें।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "Token 'goṣva̱śvinā̱' = goṣu + aśvinā. Line a is a short line (about 12 syllables).",
+  "new": "Token 'goṣva̱śvinā̱' = goṣu + aśvinā. Line a is a short line (about 12 syllables). 'imām' is only 'this (feminine)' in the unit; 'woman' is an inference.",
+  "why": "reviewer (minor): 'imām' is only 'this (fem.)' in this unit; 'woman' is an inference from other verses."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "जिस (तेज) से महानग्नी का जघन-भाग, हे अश्विनो, अथवा जिससे सुरा, और जिससे पासे सींचे गए, उस तेज से इस स्त्री को अनुगृहीत करो।",
+  "new": "जिससे महानग्नी का जघन-भाग, हे अश्विनो, अथवा जिससे सुरा, और जिससे पासे सींचे गए, उस तेज से इस स्त्री को अनुगृहीत करो।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed). 'splendour' is also supplied."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "Line a is elliptical and unclear: no verb is given and 'tena ... varcasā' in line b is the apparent main clause. 'Mahānagnī' is kept as a name or epithet, not explained. 'surā' appears as nominative here. Reading is doubtful.",
+  "new": "Line a is elliptical and unclear: no verb is given and 'tena ... varcasā' in line b is the apparent main clause. 'Mahānagnī' is kept as a name or epithet, not explained. 'surā' appears as nominative here. Reading is doubtful. 'imām' is only 'this (feminine)' in the unit; 'woman' is an inference.",
+  "why": "reviewer (minor): Same as unit 35: 'woman' is inferred."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "This bright seizure that defiles the body I remove; that which is auspicious and shining, that I raise up.",
+  "new": "This bright grasp (grābha) that defiles the body I remove; that which is auspicious and shining, that I raise up.",
+  "why": "reviewer (minor): 'seizure' reads as a medical term; grābha is 'seizing/grasp' and the glossary forbids medical claims."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "इस चमकते हुए, शरीर को दूषित करने वाले ग्राभ (पकड़) को मैं दूर करता हूँ; जो कल्याणकारी और दीप्तिमान है, उसे मैं ऊपर उठाता हूँ।",
+  "new": "इस चमकते हुए, शरीर को दूषित करने वाले ग्राभ को मैं दूर करता हूँ; जो कल्याणकारी और दीप्तिमान है, उसे मैं ऊपर उठाता हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "इसके लिए ब्राह्मण स्नान के (जल) लाएँ; वे उन जलों को ऊपर खींच लाएँ जो वीरों का वध नहीं करते। अर्यमा की अग्नि के चारों ओर (वह) जाए; हे पूषन्, ससुर और देवर प्रतीक्षा कर रहे हैं।",
+  "new": "इसके लिए ब्राह्मण स्नान के जल लाएँ; वे उन जलों को ऊपर खींच लाएँ जो वीरों का वध नहीं करते। अर्यमा की अग्नि के चारों ओर (वह) जाए; हे पूषन्, ससुर और देवर प्रतीक्षा कर रहे हैं।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "इसके लिए ब्राह्मण स्नान के जल लाएँ; वे उन जलों को ऊपर खींच लाएँ जो वीरों का वध नहीं करते। अर्यमा की अग्नि के चारों ओर (वह) जाए; हे पूषन्, ससुर और देवर प्रतीक्षा कर रहे हैं।",
+  "new": "इसके लिए ब्राह्मण स्नान के जल लाएँ; वे उन जलों को ऊपर खींच लाएँ जो वीरों का वध नहीं करते। अर्यमा की अग्नि के चारों ओर जाए; हे पूषन्, ससुर और देवर प्रतीक्षा कर रहे हैं।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "As the Sindhu, the bull, has won sovereignty over the rivers, so you, having gone to your husband's home, be queen.",
+  "new": "As the Sindhu, the bull, has brought forth sovereignty over the rivers, so you, having gone to your husband's home, be queen.",
+  "why": "reviewer (minor): √sū (suṣuve) is 'brought forth/set in motion'; 'won/प्राप्त' is not in the word and the draft's own notes call it free."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "जैसे वृषभ-रूप सिन्धु ने नदियों का साम्राज्य प्राप्त किया है, वैसे ही तुम पति के घर जाकर साम्राज्ञी बनो।",
+  "new": "जैसे वृषभ-रूप सिन्धु ने नदियों का साम्राज्य उत्पन्न किया है, वैसे ही तुम पति के घर जाकर साम्राज्ञी बनो।",
+  "why": "reviewer (minor): √sū (suṣuve) is 'brought forth/set in motion'; 'won/प्राप्त' is not in the word and the draft's own notes call it free."
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "suṣuve",
+  "old": "has brought forth, won",
+  "new": "has brought forth",
+  "why": "reviewer (minor): √sū (suṣuve) is 'brought forth/set in motion'; 'won/प्राप्त' is not in the word and the draft's own notes call it free."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "The (women) who cut, who wove, and who stretched out, the goddesses who gave the ends all around: may they clothe you together for old age. O long-lived one, put on this garment.",
+  "new": "Those who cut, who wove, and who stretched out, the goddesses who gave the ends all around: may they clothe you together for old age. O long-lived one, put on this garment.",
+  "why": "reviewer (minor): 'women' is added in brackets; yāḥ is only 'those (fem.) who'."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "vi",
+  "old": "forth",
+  "new": "apart, away (vi-√nī, to conduct)",
+  "why": "reviewer (minor): 'vi' is not 'forth' (that is pra); vi-√nī is 'lead out/conduct'."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "They weep for the living one; they lead forth the sacrifice; along the long extension the men have contemplated. Those who have set this lovely thing in motion for the fathers (grant) joy for the husbands, for the wife, for the embrace.",
+  "new": "They weep for the living one; they conduct the sacrifice; along the long extension the men have contemplated. Those who have set this lovely thing in motion for the fathers (grant) joy for the husbands, for the wife, for the embrace.",
+  "why": "reviewer (minor): 'vi' is not 'forth' (that is pra); vi-√nī is 'lead out/conduct'."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "जीवित के लिए वे रोते हैं, यज्ञ को आगे ले चलते हैं; लम्बे विस्तार के साथ पुरुषों ने ध्यान किया है। जिन्होंने पितरों के लिए यह प्रिय (कर्म) चलाया है, (वे) पतियों के लिए, पत्नी के लिए, आलिङ्गन के लिए आनन्द (दें)।",
+  "new": "जीवित के लिए वे रोते हैं, यज्ञ का संचालन करते हैं; लम्बे विस्तार के साथ-साथ पुरुषों ने ध्यान किया है। जिन्होंने पितरों के लिए यह प्रिय वस्तु चलाई है — पतियों के लिए, पत्नी के लिए, आलिङ्गन के लिए आनन्द।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed). '(कर्म)' is also an addition: vāmam is just 'lovely thing' (n.); 'अनु' is 'along', not 'with'. Also 'आगे ले चलते' follows the wrong 'vi'."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "जिस (ग्रहण) से अग्नि ने इस भूमि का दाहिना हाथ पकड़ा, उसी से मैं तुम्हारा हाथ पकड़ता हूँ; मेरे साथ, सन्तान और धन के साथ व्याकुल मत होओ।",
+  "new": "जिससे अग्नि ने इस भूमि का दाहिना हाथ पकड़ा, उसी से मैं तुम्हारा हाथ पकड़ता हूँ; मेरे साथ, सन्तान और धन के साथ व्याकुल मत होओ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed). 'ग्रहण' is supplied."
+ },
+ {
+  "n": "51",
+  "field": "word.gram",
+  "word": "dharmaṇā",
+  "old": "m. inst. sg.",
+  "new": "n. inst. sg.",
+  "why": "reviewer (minor): dharman- is neuter, not masculine."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "भग ने तुम्हारा हाथ पकड़ा, सविता ने हाथ पकड़ा। तुम धर्म से (मेरी) पत्नी हो, मैं तुम्हारा गृहपति हूँ।",
+  "new": "भग ने तुम्हारा हाथ पकड़ा, सविता ने हाथ पकड़ा। तुम धर्म से पत्नी हो, मैं तुम्हारा गृहपति हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed). 'मेरी' is supplied."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "यह मेरी हो, पालन करने योग्य; बृहस्पति ने तुम्हें मुझे दिया। हे सन्तान वाली, मुझ पति के साथ सौ शरद (वर्ष) जीओ।",
+  "new": "यह मेरी हो, पालन करने योग्य; बृहस्पति ने तुम्हें मुझे दिया। हे सन्तान वाली, मुझ पति के साथ सौ शरद जीओ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Tvaṣṭṛ arranged the garment for beauty, by the instruction of Bṛhaspati and of the seers. With that, may Savitṛ and Bhaga clothe this woman with offspring, as they did Sūryā.",
+  "new": "Tvaṣṭṛ arranged the garment for beauty, by the instruction of Bṛhaspati and of the seers. With that, may Savitṛ and Bhaga clothe this woman with offspring, like Sūryā.",
+  "why": "reviewer (minor): 'as they did' is an addition; the text has only 'sūryām iva' (like Sūryā)."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "त्वष्टा ने बृहस्पति और कवियों के निर्देश से शोभा के लिए वस्त्र धारण कराया। उसी से सविता और भग इस स्त्री को सूर्या के समान सन्तान से आच्छादित करें।",
+  "new": "त्वष्टा ने बृहस्पति और कवियों के निर्देश से शोभा के लिए वस्त्र को व्यवस्थित किया। उसी से सविता और भग इस स्त्री को सूर्या के समान सन्तान से आच्छादित करें।",
+  "why": "reviewer (minor): vy-adadhāt (vi-√dhā) is 'arranged'; 'made (her) wear' says something else and contradicts the English."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "यह वही रूप है जिसे युवती ने धारण किया है; मैं मन से विचरती हुई पत्नी को जानना चाहता हूँ। मैं नवग्वा मित्रों के साथ उसके पीछे चलूँगा। कौन जानने वाला इन पाशों को खोलता है?",
+  "new": "यह वही रूप है जिसे युवती ने धारण किया है; मैं मन से विचरती हुई पत्नी को जानना चाहता हूँ। मैं नवग्वा मित्रों के साथ उसके पीछे चलूँगा। कौन जानने वाला इन पाशों को खोल चुका है?",
+  "why": "reviewer (minor): cacarta is perfect; English says 'has loosened', Hindi has present."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "मैं खोलता हूँ; मुझमें इसका रूप है, मन के निवास को जानते हुए, देखते हुए। मैं चोरी का (अन्न) नहीं खाता; मन से मैं मुक्त हुआ हूँ, स्वयं वरुण के पाशों को ढीला करता हुआ।",
+  "new": "मैं खोलता हूँ; मुझमें इसका रूप है, मन के निवास को जानते हुए, देखते हुए। मैं चोरी की वस्तु नहीं खाता; मन से मैं मुक्त हुआ हूँ, स्वयं वरुण के पाशों को ढीला करता हुआ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed). 'अन्न' is an addition: steya is only 'what is stolen'."
+ },
+ {
+  "n": "59",
+  "field": "english",
+  "old": "Rise up, strike away the harmful beings, place this woman in the well-done (good deed). The wise Dhātṛ found a husband for her; let King Bhaga, knowing, go in front.",
+  "new": "Rise up, strike away the rakṣas (harmful beings), place this woman in the well-done (good deed). The wise Dhātṛ found a husband for her; let King Bhaga, knowing, go in front.",
+  "why": "reviewer (minor): Glossary: keep the word rakṣas with the gloss 'harmful being'."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "उठो, राक्षसों को दूर मारो, इस स्त्री को सुकृत में स्थापित करो। बुद्धिमान धाता ने इसके लिए पति पाया; जानते हुए राजा भग आगे-आगे चले।",
+  "new": "उठो, रक्षस् को दूर मारो, इस स्त्री को सुकृत में स्थापित करो। बुद्धिमान धाता ने इसके लिए पति पाया; जानते हुए राजा भग आगे-आगे चले।",
+  "why": "reviewer (minor): Glossary: keep rakṣas; 'राक्षस' is a different word."
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "भग ने चार पाए गढ़े, भग ने चार उष्पल गढ़े; त्वष्टा ने बीच से (आरम्भ कर) रस्सियों को सजाया। वह हमारे लिए अत्यन्त मङ्गलकारिणी हो।",
+  "new": "भग ने चार पाए गढ़े, भग ने चार उष्पल गढ़े; त्वष्टा ने बीच से आगे रस्सियों को सजाया। वह हमारे लिए अत्यन्त मङ्गलकारिणी हो।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "भाइयों का वध न करने वाली, हे वरुण, पशुओं का वध न करने वाली, हे बृहस्पति, पति का वध न करने वाली, हे इन्द्र, पुत्रों वाली (स्त्री) को, हे सविता, हमारे लिए ले आओ।",
+  "new": "भाइयों का वध न करने वाली, हे वरुण, पशुओं का वध न करने वाली, हे बृहस्पति, पति का वध न करने वाली, हे इन्द्र, पुत्रों वाली को, हे सविता, हमारे लिए ले आओ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: none allowed)."
+ }
+]
