@@ -1,0 +1,681 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidan",
+      "words": [
+       {
+        "w": "vidan",
+        "gloss": "may they find",
+        "gram": "3 pl. inj. √vid"
+       }
+      ]
+     },
+     {
+      "src": "vivyā̱dhino̱",
+      "words": [
+       {
+        "w": "vivyādhinaḥ",
+        "gloss": "piercers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mo",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhivyā̱dhino̭",
+      "words": [
+       {
+        "w": "abhivyādhinaḥ",
+        "gloss": "strikers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidan",
+      "words": [
+       {
+        "w": "vidan",
+        "gloss": "may they find",
+        "gram": "3 pl. inj. √vid"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱rāccha̭ra̱vyā",
+      "words": [
+       {
+        "w": "ārāt",
+        "gloss": "far",
+        "gram": "ind."
+       },
+       {
+        "w": "śaravyāḥ",
+        "gloss": "arrows",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "'",
+      "words": [
+       {
+        "w": "'",
+        "gloss": "stray avagraha mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱smadviṣṷ̄cīrindra",
+      "words": [
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl."
+       },
+       {
+        "w": "viṣūcīḥ",
+        "gloss": "scattered",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pātaya",
+      "words": [
+       {
+        "w": "pātaya",
+        "gloss": "make fall",
+        "gram": "2 sg. impv. caus. √pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भेदने वाले हमें न पाएँ, और प्रहार करने वाले भी हमें न पाएँ। हे इन्द्र, बाणों को हमसे दूर बिखेरकर गिराओ।",
+  "english": "Let not the piercers find us, nor the strikers find us. O Indra, make the arrows fall scattered, far from us.",
+  "text_flags": [
+   {
+    "src": "'",
+    "suggest": "(delete)",
+    "why": "possible stray avagraha: it stands alone as a token in the printed text (likely a hiatus or elision mark misplaced by the typist); no word is lost either way"
+   }
+  ],
+  "notes": "The stray token ' is a separate avagraha mark in the print. Src 'asmadviṣṷ̄cīr' is a transliteration artefact for asmad viṣūcīr.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣva̭ñco",
+      "words": [
+       {
+        "w": "viṣvañcaḥ",
+        "gloss": "scattered",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱smacchara̭vaḥ",
+      "words": [
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl."
+       },
+       {
+        "w": "śaravaḥ",
+        "gloss": "arrows",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "patantu̱",
+      "words": [
+       {
+        "w": "patantu",
+        "gloss": "let them fall",
+        "gram": "3 pl. impv. √pat"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱stā",
+      "words": [
+       {
+        "w": "astāḥ",
+        "gloss": "shot",
+        "gram": "m. nom. pl. p.p. √as"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "cā̱syāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asyāḥ",
+        "gloss": "to be shot",
+        "gram": "m. nom. pl. gerundive √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "daivī̭rmanuṣyeṣavo̱",
+      "words": [
+       {
+        "w": "daivīḥ",
+        "gloss": "divine",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "manuṣya-iṣavaḥ",
+        "gloss": "human arrows",
+        "gram": "tat-puruṣa m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mamā̱mitrān",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "amitrān",
+        "gloss": "enemies",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "through",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭dhyata",
+      "words": [
+       {
+        "w": "vidhyata",
+        "gloss": "pierce",
+        "gram": "2 pl. impv. √vyadh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमसे दूर बिखरे हुए बाण गिरें, जो छोड़े जा चुके हैं और जो छोड़े जाने वाले हैं। दिव्य, मनुष्यों के बाण, मेरे शत्रुओं को बेधो।",
+  "english": "Let the arrows fall scattered away from us, those that have been shot and those that are to be shot. Divine, human arrows, pierce my enemies.",
+  "text_flags": [],
+  "notes": "'Asyāḥ' is read as 'to be shot' (doubtful form). 'Daivīr manuṣyeṣavaḥ': there is no 'and', so it may also be read 'divine arrows of men'; the translation reads two groups, divine and human.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̱ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "svo",
+      "words": [
+       {
+        "w": "svaḥ",
+        "gloss": "own",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ara̭ṇaḥ",
+      "words": [
+       {
+        "w": "araṇaḥ",
+        "gloss": "stranger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sajā̱ta",
+      "words": [
+       {
+        "w": "sajātaḥ",
+        "gloss": "kinsman",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niṣṭyo̱",
+      "words": [
+       {
+        "w": "niṣṭyaḥ",
+        "gloss": "outsider",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱smā~",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhi̱dāsa̭ti",
+      "words": [
+       {
+        "w": "abhidāsati",
+        "gloss": "he assails",
+        "gram": "3 sg. pres. abhi-√dās"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ru̱draḥ",
+      "words": [
+       {
+        "w": "rudraḥ",
+        "gloss": "Rudra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭ravya",
+      "words": [
+       {
+        "w": "śaravyayā",
+        "gloss": "with the arrow",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "'",
+      "words": [
+       {
+        "w": "'",
+        "gloss": "stray avagraha mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yai̱tān",
+      "words": [
+       {
+        "w": "etān",
+        "gloss": "these",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mamā̱mitrā̱n",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "amitrān",
+        "gloss": "enemies",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "through",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭dhyatu",
+      "words": [
+       {
+        "w": "vidhyatu",
+        "gloss": "let him pierce",
+        "gram": "3 sg. impv. √vyadh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो हमारा अपना हो, जो अपरिचित हो, जो सजात हो, या जो बाहरी हो, और जो हम पर आक्रमण करता है, इन मेरे शत्रुओं को रुद्र बाण से बेध दे।",
+  "english": "Whoever of our own, whoever a stranger, whether kinsman or outsider, who assails us: let Rudra pierce these my enemies with his arrow.",
+  "text_flags": [
+   {
+    "src": "śaravya ' yaitān",
+    "suggest": "śaravyayaitān",
+    "why": "possible: the stray avagraha splits the one word śaravyayā + etān across tokens; the split is kept as printed"
+   }
+  ],
+  "notes": "Printed 'śaravya ' yaitān' is read as śaravyayā + etān (the vowel ā-e gives ai, so 'yaitān' holds the end of śaravyayā); see text_flags. 'Araṇa' = 'stranger, alien'; 'niṣṭya' = 'outsider'. 'Abhidāsati' is a tentative 'assails'. Rudra is a name of a deity.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱patno̱",
+      "words": [
+       {
+        "w": "sapatnaḥ",
+        "gloss": "rival",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo'sa̭patno̱",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asapatnaḥ",
+        "gloss": "non-rival",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaśca̭",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣan",
+      "words": [
+       {
+        "w": "dviṣan",
+        "gloss": "hating",
+        "gram": "m. nom. sg. pres. part. √dviṣ"
+       }
+      ]
+     },
+     {
+      "src": "chapā̭ti",
+      "words": [
+       {
+        "w": "śapāti",
+        "gloss": "he curses",
+        "gram": "3 sg. pres. √śap"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "de̱vāstaṃ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvḙ",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhūrvantu̱",
+      "words": [
+       {
+        "w": "dhūrvantu",
+        "gloss": "let them destroy",
+        "gram": "3 pl. impv. √dhūrv"
+       }
+      ]
+     },
+     {
+      "src": "brahma̱",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "sacred utterance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varma̱",
+      "words": [
+       {
+        "w": "varma",
+        "gloss": "armour",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mamānta̭ram",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "antaram",
+        "gloss": "inner",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो प्रतिद्वन्द्वी हो, या जो प्रतिद्वन्द्वी न हो, और जो द्वेष करता हुआ हमें शाप देता है, उसे सब देव नष्ट करें। ब्रह्म मेरा कवच है, मेरा भीतरी।",
+  "english": "Whoever is a rival, or not a rival, and whoever, hating, curses us: let all the gods destroy him. The sacred utterance is my armour, my inner one.",
+  "text_flags": [],
+  "notes": "Src 'chapāti' is śapāti (sandhi after dviṣan). 'Mamāntaram' = mama + antaram, 'my inner (protection)' is a tentative reading. 'Sapatna' may be 'rival' or 'co-wife's rival'; 'rival' used. 'Brahma' = sacred utterance (or prayer).",
+  "confidence": "medium"
+ }
+]
