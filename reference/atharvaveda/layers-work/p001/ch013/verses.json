@@ -1,0 +1,745 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nama̭ste",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "astu",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dyute̱",
+      "words": [
+       {
+        "w": "vidyute",
+        "gloss": "to the lightning",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "nama̭ste",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "stanayi̱tnave",
+      "words": [
+       {
+        "w": "stanayitnave",
+        "gloss": "to the thunder",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nama̭ste",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱stvaśma̭ne̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       },
+       {
+        "w": "aśmane",
+        "gloss": "to the stone",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "yenā̭",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "with which",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dū̱ḍāśe̱",
+      "words": [
+       {
+        "w": "dūḍāśe",
+        "gloss": "to the irreverent",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "asya̭si",
+      "words": [
+       {
+        "w": "asyasi",
+        "gloss": "you hurl",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हें नमस्कार हो, बिजली को; तुम्हें नमस्कार, गर्जन को। तुम्हें नमस्कार हो, उस पत्थर को, जिससे तुम अनादर करने वाले पर प्रहार करते हो।",
+  "english": "Let there be homage to you, to the lightning; homage to you, to the thunder. Let there be homage to you, to the stone with which you hurl at the irreverent one.",
+  "text_flags": [],
+  "notes": "Src 'yenā' is yena with a lengthened final vowel as printed. 'Dūḍāśe' is read as dative of dūḍāś 'irreverent, not worshipping' (doubtful; some read it as a vocative). 'Te' in 'namas te' is addressed to the same deity throughout; the lines do not name him.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.013.1a",
+   "001.013.1b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते अस्तु वि॒द्युते॒ नम॑स्ते स्तनयि॒त्नवे",
+   "नम॑स्ते अ॒स्त्वश्म॑ने॒ येना॑ दू॒डाशे॒ अस्य॑सि"
+  ],
+  "lines_iast": [
+   "nama̭ste astu vi̱dyute̱ nama̭ste stanayi̱tnave",
+   "nama̭ste a̱stvaśma̭ne̱ yenā̭ dū̱ḍāśe̱ asya̭si"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nama̭ste",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravato",
+      "words": [
+       {
+        "w": "pravataḥ",
+        "gloss": "of the height",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "napā̱dyata̱stapa̭ḥ",
+      "words": [
+       {
+        "w": "napāt",
+        "gloss": "O offspring",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "yataḥ",
+        "gloss": "from where",
+        "gram": "ind."
+       },
+       {
+        "w": "tapaḥ",
+        "gloss": "heat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱mūha̭si",
+      "words": [
+       {
+        "w": "samūhasi",
+        "gloss": "you gather",
+        "gram": "2 sg. pres. sam-√ūh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mṛ̱ḍayā̭",
+      "words": [
+       {
+        "w": "mṛḍaya",
+        "gloss": "be gracious",
+        "gram": "2 sg. impv. caus. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "nasta̱nūbhyo̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       },
+       {
+        "w": "tanūbhyaḥ",
+        "gloss": "for bodies",
+        "gram": "f. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "maya̭sto̱kebhya̭skṛdhi",
+      "words": [
+       {
+        "w": "mayaḥ",
+        "gloss": "comfort",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tokebhyaḥ",
+        "gloss": "for offspring",
+        "gram": "n. dat. pl."
+       },
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे ऊँचाई की सन्तान, तुम्हें नमस्कार, जहाँ से तुम ताप को एकत्र करते हो। हमारे शरीरों के लिए कृपालु हो और सन्तानों के लिए सुख करो।",
+  "english": "Homage to you, O offspring of the height, from where you gather heat. Be gracious to us for our bodies, and make comfort for our offspring.",
+  "text_flags": [],
+  "notes": "Src 'mṛḍayā' is kept as printed (imperative mṛḍaya with lengthened vowel). 'Pravat' is 'height, slope' (uncertain). 'Napāt' = 'offspring, descendant'. 'Yataḥ' is read as 'from where, whence'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.013.2a",
+   "001.013.2b"
+  ],
+  "lines_deva": [
+   "नम॑स्ते प्रवतो नपा॒द्यत॒स्तपः॑ स॒मूह॑सि",
+   "मृ॒डया॑ नस्त॒नूभ्यो॒ मय॑स्तो॒केभ्य॑स्कृधि"
+  ],
+  "lines_iast": [
+   "nama̭ste pravato napā̱dyata̱stapa̭ḥ sa̱mūha̭si",
+   "mṛ̱ḍayā̭ nasta̱nūbhyo̱ maya̭sto̱kebhya̭skṛdhi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prava̭to",
+      "words": [
+       {
+        "w": "pravataḥ",
+        "gloss": "of the height",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "napā̱nnama̭",
+      "words": [
+       {
+        "w": "napāt",
+        "gloss": "O offspring",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "e̱vāstu̱",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "tubhya̱ṃ",
+      "words": [
+       {
+        "w": "tubhyam",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "nama̭ste",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "he̱taye̱",
+      "words": [
+       {
+        "w": "hetaye",
+        "gloss": "to the missile",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tapṷṣe",
+      "words": [
+       {
+        "w": "tapuṣe",
+        "gloss": "to the heat",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇmaḥ",
+      "words": [
+       {
+        "w": "kṛṇmaḥ",
+        "gloss": "we make",
+        "gram": "1 pl. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱dma",
+      "words": [
+       {
+        "w": "vidma",
+        "gloss": "we know",
+        "gram": "1 pl. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāma̭",
+      "words": [
+       {
+        "w": "dhāma",
+        "gloss": "abode",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "para̱maṃ",
+      "words": [
+       {
+        "w": "paramam",
+        "gloss": "highest",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guhā̱",
+      "words": [
+       {
+        "w": "guhā",
+        "gloss": "in secret",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭mu̱dre",
+      "words": [
+       {
+        "w": "samudre",
+        "gloss": "in the sea",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntarni̭hi̭tāsi̱",
+      "words": [
+       {
+        "w": "antar",
+        "gloss": "within",
+        "gram": "ind."
+       },
+       {
+        "w": "nihitā",
+        "gloss": "placed",
+        "gram": "f. nom. sg. p.p. ni-√dhā"
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "nābhi̭ḥ",
+      "words": [
+       {
+        "w": "nābhiḥ",
+        "gloss": "navel",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे ऊँचाई की सन्तान, तुम्हें नमस्कार ही हो; तुम्हारे अस्त्र को और ताप को हम नमस्कार करते हैं। हम तुम्हारे परम धाम को जानते हैं, गुप्त रूप से, कि समुद्र के भीतर तुम नाभि के रूप में स्थापित हो।",
+  "english": "O offspring of the height, let there be homage to you; we render homage to your missile and to your heat. We know your highest abode, hidden, that within the sea you are placed as navel.",
+  "text_flags": [],
+  "notes": "Src 'tapṷṣe' is tapuṣe (transliteration artefact). 'Nihitā' is feminine, so the addressee is treated as feminine in line b, while line a addresses a masculine 'napāt'; the lines do not say who is addressed. 'Hetaye' is read as dative of heti 'missile'. 'Guhā' may be 'in the cave, in secret'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.013.3a",
+   "001.013.3b"
+  ],
+  "lines_deva": [
+   "प्रव॑तो नपा॒न्नम॑ ए॒वास्तु॒ तुभ्यं॒ नम॑स्ते हे॒तये॒ तपु॑षे च कृण्मः",
+   "वि॒द्म ते॒ धाम॑ पर॒मं गुहा॒ यत् स॑मु॒द्रे अ॒न्तर्नि॑हि॑तासि॒ नाभिः॑"
+  ],
+  "lines_iast": [
+   "prava̭to napā̱nnama̭ e̱vāstu̱ tubhya̱ṃ nama̭ste he̱taye̱ tapṷṣe ca kṛṇmaḥ",
+   "vi̱dma te̱ dhāma̭ para̱maṃ guhā̱ yat sa̭mu̱dre a̱ntarni̭hi̭tāsi̱ nābhi̭ḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yāṃ",
+      "words": [
+       {
+        "w": "yām",
+        "gloss": "whom",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "asṛ̭janta̱",
+      "words": [
+       {
+        "w": "asṛjanta",
+        "gloss": "they made",
+        "gram": "3 pl. impf. mid. √sṛj"
+       }
+      ]
+     },
+     {
+      "src": "viśva̱",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iṣṷṃ",
+      "words": [
+       {
+        "w": "iṣum",
+        "gloss": "arrow",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇvā̱nā",
+      "words": [
+       {
+        "w": "kṛṇvānāḥ",
+        "gloss": "making",
+        "gram": "m. nom. pl. pres. part. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "asa̭nāya",
+      "words": [
+       {
+        "w": "asanāya",
+        "gloss": "for shooting",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhṛ̱ṣṇum",
+      "words": [
+       {
+        "w": "dhṛṣṇum",
+        "gloss": "bold",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛḍa",
+      "words": [
+       {
+        "w": "mṛḍa",
+        "gloss": "be gracious",
+        "gram": "2 sg. impv. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the gathering",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛṇā̱nā",
+      "words": [
+       {
+        "w": "gṛṇānā",
+        "gloss": "being praised",
+        "gram": "f. nom. sg. pres. part. pass. √gṝ"
+       }
+      ]
+     },
+     {
+      "src": "tasyai̭",
+      "words": [
+       {
+        "w": "tasyai",
+        "gloss": "to that one",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "namo̭",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "astu",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "devi",
+      "words": [
+       {
+        "w": "devi",
+        "gloss": "O goddess",
+        "gram": "f. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस तुम को सब देवों ने बाण बनाते हुए, फेंकने के लिए, साहसी रूप में रचा, वह तुम हमारे प्रति कृपालु बनो, सभा में स्तुति पाती हुई। उस तुम्हें, हे देवी, नमस्कार हो।",
+  "english": "You whom all the gods made, making you an arrow, bold, for shooting: be gracious to us, being praised in the gathering. To you, that one, O goddess, let there be homage.",
+  "text_flags": [],
+  "notes": "Src 'iṣṷṃ' is iṣuṃ (transliteration artefact); 'vidathe' means 'in the gathering/rite'. 'Dhṛṣṇum' is taken with the arrow ('bold'). The addressed goddess is not named.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.013.4a",
+   "001.013.4b"
+  ],
+  "lines_deva": [
+   "यां त्वा॑ दे॒वा असृ॑जन्त॒ विश्व॒ इषुं॑ कृण्वा॒ना अस॑नाय धृ॒ष्णुम्",
+   "सा नो॑ मृड वि॒दथे॑ गृणा॒ना तस्यै॑ ते॒ नमो॑ अस्तु देवि"
+  ],
+  "lines_iast": [
+   "yāṃ tvā̭ de̱vā asṛ̭janta̱ viśva̱ iṣṷṃ kṛṇvā̱nā asa̭nāya dhṛ̱ṣṇum",
+   "sā no̭ mṛḍa vi̱dathḙ gṛṇā̱nā tasyai̭ te̱ namo̭ astu devi"
+  ],
+  "uncertain": []
+ }
+]

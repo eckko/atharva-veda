@@ -1,0 +1,55 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "manuṣya-iṣavaḥ",
+     "problem": "daivīḥ is feminine, so iṣu is feminine here, not masculine.",
+     "fix": "tat-puruṣa f. nom. pl. (iṣu f.; agrees with daivīḥ)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "manuṣya-iṣavaḥ",
+      "field": "gram",
+      "value": "tat-puruṣa f. nom. pl. (iṣu f.; agrees with daivīḥ)",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "'co-wife's rival' is invented; sapatna is masculine 'rival'.",
+     "fix": "'Sapatna' = 'rival'.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'Sapatna' may be 'rival' or 'co-wife's rival'; 'rival' used.",
+      "new": "'Sapatna' = 'rival'.",
+      "n": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 2 with issues; 0 errors, 2 minor; no regrouping suggested. Unreviewed AI draft."
+}

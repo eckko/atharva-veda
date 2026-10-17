@@ -1,0 +1,855 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yada̱gnirāpo̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni, fire",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ada̭hat",
+      "words": [
+       {
+        "w": "adahat",
+        "gloss": "burned",
+        "gram": "3 sg. impf. √dah"
+       }
+      ]
+     },
+     {
+      "src": "pra̱viśya̱",
+      "words": [
+       {
+        "w": "praviśya",
+        "gloss": "having entered",
+        "gram": "abs. pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "yatrākṛ̭ṇvan",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "akṛṇvan",
+        "gloss": "made",
+        "gram": "3 pl. impf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "dharma̱dhṛto̱",
+      "words": [
+       {
+        "w": "dharma-dhṛtaḥ",
+        "gloss": "upholders of dharma",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "namā̭ṃsi",
+      "words": [
+       {
+        "w": "namāṃsi",
+        "gloss": "homages",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tatra̭",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "āhuḥ",
+      "words": [
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "para̱maṃ",
+      "words": [
+       {
+        "w": "paramam",
+        "gloss": "highest",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱nitra̱ṃ",
+      "words": [
+       {
+        "w": "janitram",
+        "gloss": "birthplace",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃvi̱dvān",
+      "words": [
+       {
+        "w": "saṃvidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. saṃ-√vid"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around, aside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṅgdhi",
+      "words": [
+       {
+        "w": "vṛṅgdhi",
+        "gloss": "turn aside, spare",
+        "gram": "2 sg. impv. √vṛj"
+       }
+      ]
+     },
+     {
+      "src": "takman",
+      "words": [
+       {
+        "w": "takman",
+        "gloss": "takman",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब अग्नि ने जल में प्रवेश करके जलाया, जहाँ धर्म को धारण करने वालों ने नमस्कार किए, वहाँ, वे कहते हैं, तुम्हारा परम जन्मस्थान है। हे तक्मन्, वह तुम जानते हुए हमें छोड़ दो।",
+  "english": "When Agni, having entered the waters, burned, where the upholders of dharma made their homages: there, they say, is your highest birthplace. Knowing this, pass us by, O takman.",
+  "text_flags": [],
+  "notes": "takman is kept as a name (an affliction); it is not identified. 'dharma-dhṛtaḥ' is rendered 'upholders of the ordinance' (dharma here is support/ordinance). adahat has no stated object; āpaḥ is the object of praviśya (entering); reading of the first line is tentative. 'Knowing this' supplies the object from the context.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.025.1a",
+   "001.025.1b"
+  ],
+  "lines_deva": [
+   "यद॒ग्निरापो॒ अद॑हत् प्र॒विश्य॒ यत्राकृ॑ण्वन् धर्म॒धृतो॒ नमां॑सि",
+   "तत्र॑ त आहुः पर॒मं ज॒नित्रं॒ स नः॑ संवि॒द्वान् परि॑ वृङ्ग्धि तक्मन्"
+  ],
+  "lines_iast": [
+   "yada̱gnirāpo̱ ada̭hat pra̱viśya̱ yatrākṛ̭ṇvan dharma̱dhṛto̱ namā̭ṃsi",
+   "tatra̭ ta āhuḥ para̱maṃ ja̱nitra̱ṃ sa na̭ḥ saṃvi̱dvān pari̭ vṛṅgdhi takman"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadya̱rci̭ryadi̱",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       },
+       {
+        "w": "arciḥ",
+        "gloss": "flame",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāsi̭",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "śo̱ciḥ",
+      "words": [
+       {
+        "w": "śociḥ",
+        "gloss": "heat, glow",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭kalye̱ṣi",
+      "words": [
+       {
+        "w": "śakalya",
+        "gloss": "of the splinter (?)",
+        "gram": "adj. (?)"
+       },
+       {
+        "w": "eṣi",
+        "gloss": "you come",
+        "gram": "2 sg. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "yadi̭",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱nitra̭m",
+      "words": [
+       {
+        "w": "janitram",
+        "gloss": "birthplace",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hrūḍu̱rnāmā̭si",
+      "words": [
+       {
+        "w": "hrūḍuḥ",
+        "gloss": "Hrūḍu (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "haritasya",
+      "words": [
+       {
+        "w": "haritasya",
+        "gloss": "of the yellow one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva̱",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃvi̱dvān",
+      "words": [
+       {
+        "w": "saṃvidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. saṃ-√vid"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around, aside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṅgdhi",
+      "words": [
+       {
+        "w": "vṛṅgdhi",
+        "gloss": "turn aside, spare",
+        "gram": "2 sg. impv. √vṛj"
+       }
+      ]
+     },
+     {
+      "src": "takman",
+      "words": [
+       {
+        "w": "takman",
+        "gloss": "takman",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि तुम ज्वाला हो, या यदि तुम ताप हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम जानते हुए हमें छोड़ दो।",
+  "english": "If you are flame, or if you are heat, if you come from the śakalya, or if (that) is your birthplace: you are called Hrūḍu, O god of the yellow one. Knowing this, pass us by, O takman.",
+  "text_flags": [],
+  "notes": "śakalyeṣi is uncertain: sandhi suggests śakalya + eṣi; śakalya is not clearly analysable (possibly 'of a splinter/chip'); the clause is read tentatively. The text calls the addressee hrūḍu by name; haritasya deva is rendered literally 'god of the yellow one' and its referent is not stated. ",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.025.2a",
+   "001.025.2b"
+  ],
+  "lines_deva": [
+   "यद्य॒र्चि॑र्यदि॒ वासि॑ शो॒चिः श॑कल्ये॒षि यदि॑ वा ते ज॒नित्र॑म्",
+   "ह्रूडु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान् परि॑ वृङ्ग्धि तक्मन्"
+  ],
+  "lines_iast": [
+   "yadya̱rci̭ryadi̱ vāsi̭ śo̱ciḥ śa̭kalye̱ṣi yadi̭ vā te ja̱nitra̭m",
+   "hrūḍu̱rnāmā̭si haritasya deva̱ sa na̭ḥ saṃvi̱dvān pari̭ vṛṅgdhi takman"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadi̭",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śo̱ko",
+      "words": [
+       {
+        "w": "śokaḥ",
+        "gloss": "burning",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadi̭",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vābhiśo̱ko",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "abhiśokaḥ",
+        "gloss": "scorching upon",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadi̭",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājño̱",
+      "words": [
+       {
+        "w": "rājñaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇa̱syāsi̭",
+      "words": [
+       {
+        "w": "varuṇasya",
+        "gloss": "of Varuṇa",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "pu̱traḥ",
+      "words": [
+       {
+        "w": "putraḥ",
+        "gloss": "son",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hrū̱ḍu̱rnāmā̭si",
+      "words": [
+       {
+        "w": "hrūḍuḥ",
+        "gloss": "Hrūḍu (name)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nāma",
+        "gloss": "by name",
+        "gram": "ind."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "haritasya",
+      "words": [
+       {
+        "w": "haritasya",
+        "gloss": "of the yellow one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva̱",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃvi̱dvān",
+      "words": [
+       {
+        "w": "saṃvidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. saṃ-√vid"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around, aside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṅgdhi",
+      "words": [
+       {
+        "w": "vṛṅgdhi",
+        "gloss": "turn aside, spare",
+        "gram": "2 sg. impv. √vṛj"
+       }
+      ]
+     },
+     {
+      "src": "takman",
+      "words": [
+       {
+        "w": "takman",
+        "gloss": "takman",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि तुम दाह हो, या अभिदाह हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम जानते हुए हमें छोड़ दो।",
+  "english": "If you are burning, or scorching upon, or if you are the son of king Varuṇa: you are called Hrūḍu, O god of the yellow one. Knowing this, pass us by, O takman.",
+  "text_flags": [],
+  "notes": "śoka and abhiśoka are rendered literally ('burning', 'scorching upon'). The second line repeats 25.2b.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.025.3a",
+   "001.025.3b"
+  ],
+  "lines_deva": [
+   "यदि॑ शो॒को यदि॑ वाभिशो॒को यदि॑ वा॒ राज्ञो॒ वरु॑ण॒स्यासि॑ पु॒त्रः",
+   "ह्रू॒डु॒र्नामा॑सि हरितस्य देव॒ स नः॑ संवि॒द्वान् परि॑ वृङ्ग्धि तक्मन्"
+  ],
+  "lines_iast": [
+   "yadi̭ śo̱ko yadi̭ vābhiśo̱ko yadi̭ vā̱ rājño̱ varṷṇa̱syāsi̭ pu̱traḥ",
+   "hrū̱ḍu̱rnāmā̭si haritasya deva̱ sa na̭ḥ saṃvi̱dvān pari̭ vṛṅgdhi takman"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nama̭ḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śī̱tāya̭",
+      "words": [
+       {
+        "w": "śītāya",
+        "gloss": "to the cold",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱kmane̱",
+      "words": [
+       {
+        "w": "takmane",
+        "gloss": "to the takman",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "namo̭",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rū̱rāya̭",
+      "words": [
+       {
+        "w": "rūrāya",
+        "gloss": "to the fierce, rough",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śo̱ciṣḙ",
+      "words": [
+       {
+        "w": "śociṣe",
+        "gloss": "to the heat",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇomi",
+      "words": [
+       {
+        "w": "kṛṇomi",
+        "gloss": "I make",
+        "gram": "1 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭nye̱dyurṷbhaya̱dyura̱bhyeti̱",
+      "words": [
+       {
+        "w": "anyedyuḥ",
+        "gloss": "on the next day",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhayadyuḥ",
+        "gloss": "on both days",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyeti",
+        "gloss": "approaches",
+        "gram": "3 sg. pres. abhi-√i"
+       }
+      ]
+     },
+     {
+      "src": "tṛtī̭yakāya̱",
+      "words": [
+       {
+        "w": "tṛtīyakāya",
+        "gloss": "to the third-day (one)",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "namo̭",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "astu",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "ta̱kmanḙ",
+      "words": [
+       {
+        "w": "takmane",
+        "gloss": "to the takman",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शीत वाले तक्मन् को नमस्कार, कठोर ताप को नमस्कार करता हूँ। जो अगले दिन और दोनों दिन पास आता है, उस तृतीयक तक्मन् को नमस्कार हो।",
+  "english": "Homage to the cold takman; I make homage to the fierce heat. To the one who approaches on the next day, on both days, to the third-day (takman): let there be homage.",
+  "text_flags": [],
+  "notes": "anyedyuḥ 'on the next day' and ubhayadyuḥ 'on both days' are rendered literally; the pattern tṛtīyaka 'third-day' is a name for a kind of takman. rūra is taken as 'fierce/rough' (uncertain). The printed ḙ in śociṣḙ and takmanḙ is e with an accent mark.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.025.4a",
+   "001.025.4b"
+  ],
+  "lines_deva": [
+   "नमः॑ शी॒ताय॑ त॒क्मने॒ नमो॑ रू॒राय॑ शो॒चिषे॑ कृणोमि",
+   "यो अ॑न्ये॒द्युरु॑भय॒द्युर॒भ्येति॒ तृती॑यकाय॒ नमो॑ अस्तु त॒क्मने॑"
+  ],
+  "lines_iast": [
+   "nama̭ḥ śī̱tāya̭ ta̱kmane̱ namo̭ rū̱rāya̭ śo̱ciṣḙ kṛṇomi",
+   "yo a̭nye̱dyurṷbhaya̱dyura̱bhyeti̱ tṛtī̭yakāya̱ namo̭ astu ta̱kmanḙ"
+  ],
+  "uncertain": []
+ }
+]

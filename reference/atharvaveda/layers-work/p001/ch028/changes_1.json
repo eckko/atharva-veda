@@ -1,0 +1,58 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "देव अग्नि पास आ गया है, जो राक्षसों को मारने वाला और पीड़ा को भगाने वाला है; वह दोगली चाल वाले यातुधानों और किमीदियों को जलाकर दूर करता हुआ (आया है)।",
+  "new": "देव अग्नि पास आ गया है, जो रक्षसों को मारने वाला और पीड़ा को भगाने वाला है; वह दोगली चाल वाले यातुधानों और किमीदियों को जलाकर दूर करता हुआ (आया है)।",
+  "why": "reviewer (minor): Glossary: keep the word rakṣas."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "देव अग्नि पास आ गया है, जो रक्षसों को मारने वाला और पीड़ा को भगाने वाला है; वह दोगली चाल वाले यातुधानों और किमीदियों को जलाकर दूर करता हुआ (आया है)।",
+  "new": "देव अग्नि पास आ गया है, जो रक्षसों को मारने वाला और पीड़ा को भगाने वाला है; वह दोगली चाल वाले यातुधानों और किमीदियों को जलाकर दूर करता हुआ।",
+  "why": "reviewer (minor): Bracketed supplied words."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे देव, यातुधानों को लौटकर जलाओ, किमीदियों को लौटकर जलाओ। हे कृष्ण-मार्ग वाले, सामने आती हुई यातुधानियों को एक साथ जला दो।",
+  "new": "हे देव, यातुधानों को लौटकर जलाओ, किमीदियों को लौटकर जलाओ। हे कृष्ण-मार्ग वाले, लौटती हुई यातुधानियों को एक साथ जला दो।",
+  "why": "reviewer (minor): pratīcīḥ is glossed 'turned back' and the English says 'turn back'; Hindi says 'facing/coming'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जिसने अभिशाप द्वारा शाप दिया है, जिसने पाप रूपी मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए उत्पन्न (शिशु) को पकड़ा है, वह अपनी सन्तान को खाए।",
+  "new": "जिसने अभिशाप द्वारा शाप दिया है, जिसने अशुभ मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए उत्पन्न (शिशु) को पकड़ा है, वह अपनी सन्तान को खाए।",
+  "why": "reviewer (minor): 'रूपी' and 'पाप' add 'sin-like'; agham is 'evil'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जिसने अभिशाप द्वारा शाप दिया है, जिसने अशुभ मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए उत्पन्न (शिशु) को पकड़ा है, वह अपनी सन्तान को खाए।",
+  "new": "जिसने अभिशाप द्वारा शाप दिया है, जिसने अशुभ मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए जन्मे हुए को पकड़ा है, वह अपनी सन्तान को खाए।",
+  "why": "reviewer (minor): Bracketed 'child' (and English 'new-born') are interpretation of jātam ('born')."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "She who has cursed with a curse, she who has taken up an evil mūra, she who has seized the new-born to take away its essence: let her eat (her own) offspring.",
+  "new": "She who has cursed with a curse, she who has taken up an evil mūra, she who has seized the born one to take away its essence: let her eat (her own) offspring.",
+  "why": "reviewer (minor): interpretation of jātam; notes/gloss say 'the born (child)'."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "She who has cursed with a curse, she who has taken up an evil mūra, she who has seized the born one to take away its essence: let her eat (her own) offspring.",
+  "new": "She who has cursed with a curse, she who has taken up an evil mūra, she who has seized the born one to take away its essence: let her eat the offspring.",
+  "why": "reviewer (minor): Supplied word, admitted in notes; not in the text."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जिसने अभिशाप द्वारा शाप दिया है, जिसने अशुभ मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए जन्मे हुए को पकड़ा है, वह अपनी सन्तान को खाए।",
+  "new": "जिसने अभिशाप द्वारा शाप दिया है, जिसने अशुभ मूर को ग्रहण किया है, जिसने रस को हर लेने के लिए जन्मे हुए को पकड़ा है, वह सन्तान को खाए।",
+  "why": "reviewer (minor): same addition."
+ }
+]

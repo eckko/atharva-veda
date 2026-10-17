@@ -1,0 +1,59 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे ओषधि, तुम रात में उत्पन्न हो; हे श्यामा, हे काली, हे असिक्नी। हे रजनी, इसे रंग दो: जो किलास है और जो पलित (भूरा/सफ़ेद चिह्न) है।",
+  "new": "हे ओषधि, तुम रात में उत्पन्न हो; हे श्यामा, हे काली, हे असिक्नी। हे रजनी, इसे रंग दो: जो किलास है और जो पलित है।",
+  "why": "reviewer (minor): Bracketed gloss with two guesses."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "palitam",
+  "old": "grey (patch)",
+  "new": "grey",
+  "why": "reviewer (minor): 'patch' is an addition (palita = grey); English 'that there is' is awkward filler."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "किलास और पलित को, और चितकबरे धब्बे को यहाँ से बाहर निकालकर नष्ट कर दो। तुम्हारा अपना वर्ण तुम में प्रवेश करे; सफ़ेद (चिह्नों) को दूर गिरा दो।",
+  "new": "किलास और पलित को, और चितकबरे धब्बे को यहाँ से बाहर निकालकर नष्ट कर दो। तुम्हारा अपना वर्ण तुम में प्रवेश करे; सफ़ेद वस्तुओं को दूर गिरा दो।",
+  "why": "reviewer (minor): Bracket and 'marks' not in text (śuklāni = white things)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Both the kilāsa and the grey patch, and the speckle: make them vanish from here. Let your own colour enter you; make the white (marks) fall away.",
+  "new": "Both the kilāsa and the grey patch, and the speckle: make them vanish from here. Let your own colour enter you; make the white things fall away.",
+  "why": "reviewer (minor): 'marks' added."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "काला तुम्हारा प्रलयन (विलय-स्थान) है, काला तुम्हारा आवास है। हे ओषधि, तुम काली हो; चितकबरे धब्बे को यहाँ से हटाकर नष्ट करो।",
+  "new": "काला तुम्हारा विलय-स्थान है, काला तुम्हारा आवास है। हे ओषधि, तुम काली हो; चितकबरे धब्बे को यहाँ से हटाकर नष्ट करो।",
+  "why": "reviewer (minor): Bracketed gloss in Hindi; English says 'resting-place' while gloss says 'dissolving place, refuge (?)': inconsistent."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Dark is your resting-place (pralayana), dark is your abode. You are dark, O herb; make the speckle vanish from here.",
+  "new": "Dark is your dissolving-place (pralayana), dark is your abode. You are dark, O herb; make the speckle vanish from here.",
+  "why": "reviewer (minor): Disagrees with gloss."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हड्डी से उत्पन्न और शरीर से उत्पन्न किलास का, जो त्वचा में है, और दोष (विकृति) द्वारा उत्पन्न किया गया है, उसके सफ़ेद चिह्न को मैंने ब्रह्म (मन्त्र) से नष्ट कर दिया है।",
+  "new": "हड्डी से उत्पन्न और शरीर से उत्पन्न किलास का, जो त्वचा में है, और दोष द्वारा उत्पन्न किया गया है, उसके सफ़ेद चिह्न को मैंने ब्रह्म (मन्त्र) से नष्ट कर दिया है।",
+  "why": "reviewer (minor): Bracketed glosses; 'विकृति' is interpretation of dūṣyā."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हड्डी से उत्पन्न और शरीर से उत्पन्न किलास का, जो त्वचा में है, और दोष द्वारा उत्पन्न किया गया है, उसके सफ़ेद चिह्न को मैंने ब्रह्म (मन्त्र) से नष्ट कर दिया है।",
+  "new": "हड्डी से उत्पन्न और शरीर से उत्पन्न किलास का, जो त्वचा में है, और दोष द्वारा उत्पन्न किया गया है, उसके सफ़ेद चिह्न को मैंने ब्रह्म से नष्ट कर दिया है।",
+  "why": "reviewer (minor): bracket"
+ }
+]

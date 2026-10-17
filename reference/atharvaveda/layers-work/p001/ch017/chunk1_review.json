@@ -1,0 +1,166 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "avare / pare",
+     "problem": "Unmatched pair: notes say nearer/farther; Hindi says lower/upper; English lower/farther.",
+     "fix": "Stand in the nearer, stand in the farther,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Stand in the lower, stand in the farther,",
+      "new": "Stand in the nearer, stand in the farther,",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi 'नीचे/ऊपर' does not match English 'farther'.",
+     "fix": "निकट वाले में ठहरो, दूर वाले में ठहरो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "नीचे वाले में ठहरो, ऊपर वाले में ठहरो",
+      "new": "निकट वाले में ठहरो, दूर वाले में ठहरो",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "avare",
+     "problem": "pair with pare 'in the farther'.",
+     "fix": "in the nearer",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "avare",
+      "field": "gloss",
+      "value": "in the nearer",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "dhamaniḥ",
+     "problem": "धमनी is the modern anatomical word for artery; English deliberately says 'pipe'. Do not identify.",
+     "fix": "बड़ी नली भी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बड़ी धमनी भी",
+      "new": "बड़ी नली भी",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "dhamanīnām",
+     "problem": "Same: avoid identifying as arteries.",
+     "fix": "सौ नलियों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौ धमनियों",
+      "new": "सौ नलियों",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english 'too'",
+     "problem": "'too' is added (sākam antāḥ araṃsata).",
+     "fix": "the ends have come to rest together",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the ends too have come to rest together",
+      "new": "the ends have come to rest together",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'भी'",
+     "problem": "'भी' (also) is added.",
+     "fix": "सिरे साथ-साथ शान्त हो गए हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिरे भी साथ ही शान्त हो गए हैं",
+      "new": "सिरे साथ-साथ शान्त हो गए हैं",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dhanūḥ",
+     "problem": "'sandy sandbank' is redundant: sikatāvatī already means sandy; dhanu = dry land / sandbank.",
+     "fix": "the great sandy dry land",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the great sandy sandbank",
+      "new": "the great sandy dry land",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dhanūḥ",
+     "problem": "avoid doubling 'sand'.",
+     "fix": "dry land, sandbank",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhanūḥ",
+      "field": "gloss",
+      "value": "dry land, sandbank",
+      "n": "4"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ilayata",
+     "problem": "Printed final -ā (ilayatā); the word list gives ilayata silently.",
+     "fix": "Src 'ilayatā' has a lengthened final vowel as printed; read ilayata.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Src 'ilayatā' has a lengthened final vowel as printed; read ilayata.",
+      "n": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 3 with issues; 0 errors, 10 minor; no regrouping suggested. Unreviewed AI draft."
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Vaṣaṭ to you, O Pūṣan. In this birthing let Aryaman, the hotṛ priest, the ordainer, do the work. Let the woman, duly delivered, relax; let her joints open apart for the bearing.",
+  "new": "O Pūṣan, in this birthing let Aryaman, the hotṛ priest, the ordainer, make the vaṣaṭ for you. Let the woman, duly delivered, relax; let her joints open apart for the bearing.",
+  "why": "reviewer (error): kṛṇotu has no object in the draft; 'do the work' / 'कर्म करें' is an unsupported addition (there is no karma/work word). vaṣaṭ te ... kṛṇotu is the natural idiom: vaṣaṭ is what Aryaman 'makes' for Pūṣan."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे पूषन्, तुम्हारे लिए वषट्। इस प्रसव में अर्यमा, होता और विधाता कर्म करें। ऋत के अनुसार प्रसव करने वाली नारी शिथिल हो जाए, उसके जोड़ प्रसव के लिए खुल जाएँ।",
+  "new": "हे पूषन्, इस प्रसव में होता अर्यमा, विधाता, तुम्हारे लिए वषट् करें। ऋत के अनुसार प्रसव करने वाली नारी शिथिल हो जाए, उसके जोड़ प्रसव के लिए खुल जाएँ।",
+  "why": "reviewer (error): Same addition ('कर्म'); also Hindi lists अर्यमा, होता, विधाता as three agents while English and notes treat hotṛ and ordainer as apposition to Aryaman."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "jihatām",
+  "old": "impv. mid. √hā",
+  "new": "3 pl. impv. mid. √hā",
+  "why": "reviewer (minor): person/number missing; subject is parvāṇi (plural)."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "ṛta-prajātā",
+  "old": "bahuvrīhi f. nom. sg.",
+  "new": "tat-puruṣa f. nom. sg. p.p. pra-√jan",
+  "why": "reviewer (minor): 'bahuvrīhi' is wrong for ṛta- + a past participle used predicatively."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "ūrṇuvantu",
+  "old": "3 pl. impv. √ṛṇu",
+  "new": "3 pl. impv. vi-√ūrṇu (= vi-√vṛ)",
+  "why": "reviewer (error): root '√ṛnu' does not exist; the verb is vi-ūrṇu (√vṛ 'uncover, open')."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "vyūrṇotu",
+  "old": "3 sg. impv. vi-√ṛṇu",
+  "new": "3 sg. impv. vi-√ūrṇu (= vi-√vṛ)",
+  "why": "reviewer (error): root 'vi-√ṛṇu' does not exist; same verb as in unit 2."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Let the bearing woman open; we cause the womb to part. Loosen, O deliverer; you, O Biṣkalā, let go downward.",
+  "new": "Let the bearing woman open; we cause the womb to part. Loosen, O Sūṣaṇā; you, O Biṣkalā, let go downward.",
+  "why": "reviewer (minor): Hindi transliterates (हे सूषणा) while English translates ('deliverer'); notes say the sense is uncertain/possibly a name. Make both the same."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "sūṣaṇe",
+  "old": "O deliverer",
+  "new": "O Sūṣaṇā (obscure; perhaps 'deliverer')",
+  "why": "reviewer (minor): keep the uncertainty in the gloss once English transliterates."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "śevalam",
+  "old": "n. acc. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (minor): accusative is impossible with the intransitive avaitu 'let it go away'; śevalam must be nominative (agreeing with pṛśni as adjective or in apposition)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मानो मांस में नहीं, चर्बी में नहीं, मानो मज्जाओं में धँसा हुआ नहीं। चितकबरी नीचे चली जाए, वह चिपचिपी वस्तु, कुत्ते के खाने के लिए; जरायु नीचे गिर जाए।",
+  "new": "मानो मांस में नहीं, चर्बी में नहीं, मानो मज्जाओं में धँसा हुआ नहीं। चितकबरी नीचे चली जाए, शेवल, कुत्ते के लिए, जरायु खाने के लिए; जरायु नीचे गिर जाए।",
+  "why": "reviewer (minor): 'वह चिपचिपी वस्तु' (that sticky thing) is invented paraphrase of śevala; and jarāyu in 'śune jarāyv attave' is dropped from both languages."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Not as if in flesh, not in fat, not as if lodged in the marrows. Let the speckled one go down, the slime, to the dog for eating; let the afterbirth fall down.",
+  "new": "Not as if in flesh, not in fat, not as if lodged in the marrows. Let the speckled one go down, the slime; to the dog the afterbirth for eating; let the afterbirth fall down.",
+  "why": "reviewer (minor): jarāyu in 'śune jarāyv attave' is split off in the words (jarāyu + attave) but absent from the translation."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "मैं तुम्हारे मूत्रमार्ग को अलग करता हूँ, योनि को अलग करता हूँ, दोनों गवीनिकाओं को अलग करता हूँ। माता और पुत्र को अलग करता हूँ, बालक को जरायु से अलग करता हूँ; जरायु नीचे गिर जाए।",
+  "new": "मैं तुम्हारे मूत्रमार्ग को अलग करता हूँ, योनि को अलग करता हूँ, दोनों गवीनी को अलग करता हूँ। माता और पुत्र को अलग करता हूँ, बालक को जरायु से अलग करता हूँ; जरायु नीचे गिर जाए।",
+  "why": "reviewer (minor): English keeps 'gavīnī', Hindi uses a different form 'गवीनिका'; use one rendering."
+ }
+]

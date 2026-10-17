@@ -1,0 +1,581 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱mūḥ",
+      "words": [
+       {
+        "w": "amūḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pā̱re",
+      "words": [
+       {
+        "w": "pāre",
+        "gloss": "on the far side",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭dā̱kva",
+      "words": [
+       {
+        "w": "pṛdākvaḥ",
+        "gloss": "pṛdākus (creature name)",
+        "gram": "f. nom. pl. (stem pṛdākū)"
+       }
+      ]
+     },
+     {
+      "src": "'",
+      "words": [
+       {
+        "w": "'",
+        "gloss": "stray avagraha mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "striṣa̱ptā",
+      "words": [
+       {
+        "w": "tri-saptāḥ",
+        "gloss": "thrice-seven",
+        "gram": "f. nom. pl., dvigu (tri + sapta)"
+       }
+      ]
+     },
+     {
+      "src": "nirja̭rāyavaḥ",
+      "words": [
+       {
+        "w": "nirjarāyavaḥ",
+        "gloss": "free from the membrane (?)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tāsā̭ṃ",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of those",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyṷbhirva̱yama̱kṣyā̱vapi̭",
+      "words": [
+       {
+        "w": "jarāyubhiḥ",
+        "gloss": "with the outer membranes",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "pron. nom. pl."
+       },
+       {
+        "w": "akṣyau",
+        "gloss": "the two eyes",
+        "gram": "n. acc. du."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyayāmasyaghā̱yoḥ",
+      "words": [
+       {
+        "w": "vyayāmasi",
+        "gloss": "we cover over (?)",
+        "gram": "1 pl. pres. vi-√vye"
+       },
+       {
+        "w": "aghāyoḥ",
+        "gloss": "of the evil-minded",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̭ripa̱nthina̭ḥ",
+      "words": [
+       {
+        "w": "paripanthinaḥ",
+        "gloss": "of the lurker, highwayman",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उधर पार वे पृदाकु हैं, तिगुने सात, जो आवरण से मुक्त हैं। उनके जरायुओं से हम बुरा चाहने वाले घात लगाने वाले की दोनों आँखों को भी ढक देते हैं।",
+  "english": "Yonder, on the far side, are the pṛdākus, thrice-seven, free from their membranes. With the outer membranes of those we also cover the two eyes of the evil-minded lurker.",
+  "text_flags": [
+   {
+    "src": "'",
+    "suggest": "(omit the mark)",
+    "why": "possible stray avagraha: the visarga of pṛdākvaḥ appears as s in striṣaptā, so no word is lost"
+   }
+  ],
+  "notes": "pṛdāku is kept as a creature name and not identified; nirjarāyu and jarāyu are tentative (outer membrane/slough). vyayāmasi is uncertain (we cover/bind over). The tri-saptāḥ compound and 'free from' are tentative. The reading of the first line is low confidence.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.027.1a",
+   "001.027.1b"
+  ],
+  "lines_deva": [
+   "अ॒मूः पा॒रे पृ॑दा॒क्व ऽ स्त्रिष॒प्ता निर्ज॑रायवः",
+   "तासां॑ ज॒रायु॑भिर्व॒यम॒क्ष्या॒वपि॑ व्ययामस्यघा॒योः प॑रिप॒न्थिनः॑"
+  ],
+  "lines_iast": [
+   "a̱mūḥ pā̱re pṛ̭dā̱kva ' striṣa̱ptā nirja̭rāyavaḥ",
+   "tāsā̭ṃ ja̱rāyṷbhirva̱yama̱kṣyā̱vapi̭ vyayāmasyaghā̱yoḥ pa̭ripa̱nthina̭ḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣṷ̄cyetu",
+      "words": [
+       {
+        "w": "viṣūcī",
+        "gloss": "going apart, in all directions",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "etu",
+        "gloss": "let go",
+        "gram": "3 sg. impv. √i"
+       }
+      ]
+     },
+     {
+      "src": "kṛnta̱tī",
+      "words": [
+       {
+        "w": "kṛntatī",
+        "gloss": "cutting",
+        "gram": "f. nom. sg. pres. part. √kṛt"
+       }
+      ]
+     },
+     {
+      "src": "pinā̭kamiva̱",
+      "words": [
+       {
+        "w": "pinākam",
+        "gloss": "pināka (staff or bow)",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bibhra̭tī",
+      "words": [
+       {
+        "w": "bibhratī",
+        "gloss": "bearing",
+        "gram": "f. nom. sg. pres. part. √bhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viṣva̭k",
+      "words": [
+       {
+        "w": "viṣvak",
+        "gloss": "in all directions",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puna̱rbhuvā̱",
+      "words": [
+       {
+        "w": "punar-bhuvā",
+        "gloss": "by the one becoming again (?)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mano'sa̭mṛddhā",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "in mind",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asamṛddhāḥ",
+        "gloss": "unprospered",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "aghā̱yava̭ḥ",
+      "words": [
+       {
+        "w": "aghāyavaḥ",
+        "gloss": "evil-minded ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काटती हुई, मानो पिनाक धारण करती हुई, वह चारों ओर बिखरती हुई चली जाए। चारों ओर, पुनः उत्पन्न होने वाली के द्वारा, बुरा चाहने वाले मन में असफल रहें।",
+  "english": "Let the cutting one go apart in all directions, bearing a pināka, as it were. On every side, by the again-becoming one, the evil-minded are unprospered in mind.",
+  "text_flags": [],
+  "notes": "Low confidence: the subject of etu, the referent of punarbhū and the sense of 'viṣvak punarbhuvā' are not stated in the unit. pināka is kept as a name for a staff or bow. 'manaḥ asamṛddhāḥ' is read as 'unprospered in mind'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.027.2a",
+   "001.027.2b"
+  ],
+  "lines_deva": [
+   "विषू॑च्येतु कृन्त॒ती पिना॑कमिव॒ बिभ्र॑ती",
+   "विष्व॑क् पुन॒र्भुवा॒ मनोऽस॑मृद्धा अघा॒यवः॑"
+  ],
+  "lines_iast": [
+   "viṣṷ̄cyetu kṛnta̱tī pinā̭kamiva̱ bibhra̭tī",
+   "viṣva̭k puna̱rbhuvā̱ mano'sa̭mṛddhā aghā̱yava̭ḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ba̱hava̱ḥ",
+      "words": [
+       {
+        "w": "bahavaḥ",
+        "gloss": "many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sama̭śaka̱n",
+      "words": [
+       {
+        "w": "samaśakan",
+        "gloss": "were able",
+        "gram": "3 pl. aor. sam-√śak"
+       }
+      ]
+     },
+     {
+      "src": "nārbha̱kā",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       },
+       {
+        "w": "arbhakāḥ",
+        "gloss": "small ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dā̭dhṛṣuḥ",
+      "words": [
+       {
+        "w": "dādhṛṣuḥ",
+        "gloss": "dared",
+        "gram": "3 pl. pf. √dhṛṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ve̱ṇoradgā̭",
+      "words": [
+       {
+        "w": "veṇoḥ",
+        "gloss": "of the reed",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "adgāḥ",
+        "gloss": "adgās (obscure)",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ivā̱bhito'sa̭mṛddhā",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "abhitaḥ",
+        "gloss": "all around",
+        "gram": "ind."
+       },
+       {
+        "w": "asamṛddhāḥ",
+        "gloss": "unprospered",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "aghā̱yava̭ḥ",
+      "words": [
+       {
+        "w": "aghāyavaḥ",
+        "gloss": "evil-minded ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न बहुत से समर्थ हुए, न छोटे आक्रमण करने का साहस कर सके। बाँस के अद्गाओं के समान, बुरा चाहने वाले चारों ओर असफल हैं।",
+  "english": "Not many were able, nor did the small ones dare to attack. Like the adgās of the reed, the evil-minded are unprospered on every side.",
+  "text_flags": [],
+  "notes": "adgāḥ is obscure and kept as a name; 'veṇoḥ' is read as 'of the reed (bamboo)'. The simile is tentative.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.027.3a",
+   "001.027.3b"
+  ],
+  "lines_deva": [
+   "न ब॒हवः॒ सम॑शक॒न् नार्भ॒का अ॒भि दा॑धृषुः",
+   "वे॒णोरद्गा॑ इवा॒भितोऽस॑मृद्धा अघा॒यवः॑"
+  ],
+  "lines_iast": [
+   "na ba̱hava̱ḥ sama̭śaka̱n nārbha̱kā a̱bhi dā̭dhṛṣuḥ",
+   "ve̱ṇoradgā̭ ivā̱bhito'sa̭mṛddhā aghā̱yava̭ḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "preta̭ṃ",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       },
+       {
+        "w": "itam",
+        "gloss": "go",
+        "gram": "2 du. impv. √i"
+       }
+      ]
+     },
+     {
+      "src": "pādau̱",
+      "words": [
+       {
+        "w": "pādau",
+        "gloss": "two feet",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sphṷrata̱ṃ",
+      "words": [
+       {
+        "w": "sphuratam",
+        "gloss": "spring",
+        "gram": "2 du. impv. √sphur"
+       }
+      ]
+     },
+     {
+      "src": "vaha̭taṃ",
+      "words": [
+       {
+        "w": "vahatam",
+        "gloss": "carry",
+        "gram": "2 du. impv. √vah"
+       }
+      ]
+     },
+     {
+      "src": "pṛṇa̱to",
+      "words": [
+       {
+        "w": "pṛṇataḥ",
+        "gloss": "of the bountiful one",
+        "gram": "m. gen. sg. pres. part. √pṛ"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱hān",
+      "words": [
+       {
+        "w": "gṛhān",
+        "gloss": "houses",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱ndrā̱ṇye'tu",
+      "words": [
+       {
+        "w": "indrāṇī",
+        "gloss": "Indrāṇī",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "etu",
+        "gloss": "let go",
+        "gram": "3 sg. impv. √i"
+       }
+      ]
+     },
+     {
+      "src": "pratha̱mājī̱tāmṷṣitā",
+      "words": [
+       {
+        "w": "prathamā",
+        "gloss": "first",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ajītā",
+        "gloss": "unconquered",
+        "gram": "f. nom. sg. p.p."
+       },
+       {
+        "w": "amuṣitā",
+        "gloss": "unrobbed",
+        "gram": "f. nom. sg. p.p. √muṣ"
+       }
+      ]
+     },
+     {
+      "src": "pu̱raḥ",
+      "words": [
+       {
+        "w": "puraḥ",
+        "gloss": "in front",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे दोनों पैरों, आगे बढ़ो, उछलो, उदार दाता के घरों तक ले चलो। इन्द्राणी सबसे पहले, अजेय और अलुटी हुई, आगे-आगे जाए।",
+  "english": "Go forth, you two feet; spring forth; carry on to the houses of the bountiful one. Let Indrāṇī go in front, first, unconquered and unrobbed.",
+  "text_flags": [],
+  "notes": "indrāṇye'tu is irregular in its sandhi (the avagraha); it is read as indrāṇī + etu. The object of vahatam is not stated. pṛṇataḥ is singular and read as 'the bountiful (giver)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.027.4a",
+   "001.027.4b"
+  ],
+  "lines_deva": [
+   "प्रेतं॑ पादौ॒ प्र स्फु॑रतं॒ वह॑तं पृण॒तो गृ॒हान्",
+   "इ॒न्द्रा॒ण्येऽतु प्रथ॒माजी॒तामु॑षिता पु॒रः"
+  ],
+  "lines_iast": [
+   "preta̭ṃ pādau̱ pra sphṷrata̱ṃ vaha̭taṃ pṛṇa̱to gṛ̱hān",
+   "i̱ndrā̱ṇye'tu pratha̱mājī̱tāmṷṣitā pu̱raḥ"
+  ],
+  "uncertain": []
+ }
+]

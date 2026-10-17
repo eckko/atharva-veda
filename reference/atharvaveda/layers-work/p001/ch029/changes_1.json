@@ -1,0 +1,60 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "pṛtanyantam",
+  "old": "m. acc. sg. pres. part. √pṛtanya",
+  "new": "m. acc. sg. pres. part. denom. pṛtanya- (from pṛtanā)",
+  "why": "reviewer (minor): pṛtanya is not a root; denominative participle."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "durasyati",
+  "old": "3 sg. pres. √durasya",
+  "new": "3 sg. pres. denom. durasya-",
+  "why": "reviewer (minor): durasya- is a denominative, not a root (notes say so)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "देव सविता ने तुम्हें बढ़ाया, सोम ने भी तुम्हें बढ़ाया; सब प्राणियों ने भी तुम्हें (बढ़ाया), जिससे तुम अभीवर्त (अभिभूत करने वाले) हो जाओ।",
+  "new": "देव सविता ने तुम्हें बढ़ाया, सोम ने भी तुम्हें बढ़ाया; सब प्राणियों ने भी तुम्हें बढ़ाया, जिससे तुम अभीवर्त (अभिभूत करने वाले) हो जाओ।",
+  "why": "reviewer (minor): Bracketed glosses in Hindi."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "देव सविता ने तुम्हें बढ़ाया, सोम ने भी तुम्हें बढ़ाया; सब प्राणियों ने भी तुम्हें बढ़ाया, जिससे तुम अभीवर्त (अभिभूत करने वाले) हो जाओ।",
+  "new": "देव सविता ने तुम्हें बढ़ाया, सोम ने भी तुम्हें बढ़ाया; सब प्राणियों ने भी तुम्हें बढ़ाया, जिससे तुम अभीवर्त हो जाओ।",
+  "why": "reviewer (minor): bracket"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "Line b has no verb of its own; avīvṛdhat (or avīvṛdhan) is understood from line a, so 'have made you grow' is supplied. The addressee (the amulet) is not named in the unit. asasi is the Vedic form of asi.",
+  "new": "Line b has no verb of its own; avīvṛdhat (or avīvṛdhan) is understood from line a, so 'have made you grow' is supplied. The addressee (the amulet) is not named in the unit. asasi is the subjunctive of √as ('you may be').",
+  "why": "reviewer (minor): asasi is the subjunctive (as the gram says), not just a variant of asi."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "वह सूर्य ऊपर उठ गया है; यह मेरा वचन भी ऊपर उठे, जिससे मैं शत्रुओं का नाश करने वाला, प्रतिद्वन्द्वी-रहित और प्रतिद्वन्द्वियों का नाश करने वाला हो जाऊँ।",
+  "new": "वह सूर्य ऊपर उठ गया है; यह मेरा वचन ऊपर उठे, जिससे मैं शत्रुओं का नाश करने वाला, प्रतिद्वन्द्वी-रहित और प्रतिद्वन्द्वियों का नाश करने वाला हो जाऊँ।",
+  "why": "reviewer (minor): 'भी' (also) is not in the text; and Hindi optative 'उठे' vs English 'goes'."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "शत्रुओं का नाश करने वाला, बलवान् (वृषभ), राज्य पर अधिकार रखने वाला, सब पर विजय पाने वाला (यह मणि है), जिससे मैं इन वीरों और जन पर शासन करूँ।",
+  "new": "शत्रुओं का नाश करने वाला, बलवान् (वृषभ), राज्य पर अधिकार रखने वाला, सब पर विजय पाने वाला, जिससे मैं इन वीरों और जन पर शासन करूँ।",
+  "why": "reviewer (minor): Bracketed supplied subject; the unit names no subject (as the notes say)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "शत्रुओं का नाश करने वाला, बलवान् (वृषभ), राज्य पर अधिकार रखने वाला, सब पर विजय पाने वाला, जिससे मैं इन वीरों और जन पर शासन करूँ।",
+  "new": "शत्रुओं का नाश करने वाला, बलवान् वृषभ, राज्य पर अधिकार रखने वाला, सब पर विजय पाने वाला, जिससे मैं इन वीरों और जन पर शासन करूँ।",
+  "why": "reviewer (minor): Bracketed gloss."
+ }
+]

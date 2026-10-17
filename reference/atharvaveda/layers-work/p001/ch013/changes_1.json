@@ -1,0 +1,55 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Homage to you, let there be, to the lightning; homage to you, to the thunder. Homage to you, let there be, to the stone with which you hurl at the irreverent one.",
+  "new": "Let there be homage to you, to the lightning; homage to you, to the thunder. Let there be homage to you, to the stone with which you hurl at the irreverent one.",
+  "why": "reviewer (minor): 'Homage to you, let there be, to the lightning' is garbled word order; astu belongs to the first and third lines."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "pravataḥ",
+  "old": "m. gen. sg.",
+  "new": "f. gen. sg.",
+  "why": "reviewer (minor): pravat is feminine."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "pravataḥ",
+  "old": "m. gen. sg.",
+  "new": "f. gen. sg.",
+  "why": "reviewer (minor): pravat is feminine."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "yat",
+  "old": "which",
+  "new": "that",
+  "why": "reviewer (minor): yat is the conjunction 'that', not a relative to dhāma (nihitā is feminine and cannot agree with dhāma)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "O offspring of the height, let there be homage to you; we render homage to your missile and to your heat. We know your highest abode, which is in secret: within the sea you are placed, as navel.",
+  "new": "O offspring of the height, let there be homage to you; we render homage to your missile and to your heat. We know your highest abode, hidden, that within the sea you are placed as navel.",
+  "why": "reviewer (minor): 'which is in secret' adds a copula and wrongly makes yat a relative of dhāma."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे ऊँचाई की सन्तान, तुम्हें नमस्कार ही हो; तुम्हारे अस्त्र को और ताप को हम नमस्कार करते हैं। हम तुम्हारे परम धाम को जानते हैं, जो गुप्त है; समुद्र के भीतर तुम नाभि के रूप में स्थापित हो।",
+  "new": "हे ऊँचाई की सन्तान, तुम्हें नमस्कार ही हो; तुम्हारे अस्त्र को और ताप को हम नमस्कार करते हैं। हम तुम्हारे परम धाम को जानते हैं, गुप्त रूप से, कि समुद्र के भीतर तुम नाभि के रूप में स्थापित हो।",
+  "why": "reviewer (minor): Same: yat dropped/misconstrued."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "iṣum",
+  "old": "m. acc. sg.",
+  "new": "f. acc. sg.",
+  "why": "reviewer (minor): iṣu is feminine; dhṛṣṇum is already f. acc. sg. in the same unit."
+ }
+]

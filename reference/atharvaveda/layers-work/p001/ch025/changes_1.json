@@ -1,0 +1,108 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "When Agni, having entered the waters, burned (them), where the upholders of the ordinance made their homages: there, they say, is your highest birthplace. Knowing this, pass us by, O takman.",
+  "new": "When Agni, having entered the waters, burned, where the upholders of the ordinance made their homages: there, they say, is your highest birthplace. Knowing this, pass us by, O takman.",
+  "why": "reviewer (error): adahat has no object in the text; āpaḥ is the object of praviśya ('having entered the waters'), not of adahat. Notes say the opposite (self-contradictory) and '(them)' is an addition."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जब अग्नि ने जल में प्रवेश करके (उन्हें) जलाया, जहाँ धर्म को धारण करने वालों ने नमस्कार किए, वहाँ, वे कहते हैं, तुम्हारा परम जन्मस्थान है। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "जब अग्नि ने जल में प्रवेश करके जलाया, जहाँ धर्म को धारण करने वालों ने नमस्कार किए, वहाँ, वे कहते हैं, तुम्हारा परम जन्मस्थान है। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (error): same addition in Hindi."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "takman is kept as a name (an affliction); it is not identified. 'dharma-dhṛtaḥ' is rendered 'upholders of the ordinance' (dharma here is support/ordinance). The object of adahat (the waters) is taken from āpaḥ; reading of the first line is tentative. 'Knowing this' supplies the object from the context.",
+  "new": "takman is kept as a name (an affliction); it is not identified. 'dharma-dhṛtaḥ' is rendered 'upholders of the ordinance' (dharma here is support/ordinance). adahat has no stated object; āpaḥ is the object of praviśya (entering); reading of the first line is tentative. 'Knowing this' supplies the object from the context.",
+  "why": "reviewer (error): Wrong analysis (see above)."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "When Agni, having entered the waters, burned, where the upholders of the ordinance made their homages: there, they say, is your highest birthplace. Knowing this, pass us by, O takman.",
+  "new": "When Agni, having entered the waters, burned, where the upholders of dharma made their homages: there, they say, is your highest birthplace. Knowing this, pass us by, O takman.",
+  "why": "reviewer (minor): Fixed rendering: dharma = dharma. Gloss and English translate it away."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "dharma-dhṛtaḥ",
+  "old": "upholders of the ordinance",
+  "new": "upholders of dharma",
+  "why": "reviewer (minor): same."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जब अग्नि ने जल में प्रवेश करके जलाया, जहाँ धर्म को धारण करने वालों ने नमस्कार किए, वहाँ, वे कहते हैं, तुम्हारा परम जन्मस्थान है। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "जब अग्नि ने जल में प्रवेश करके जलाया, जहाँ धर्म को धारण करने वालों ने नमस्कार किए, वहाँ, वे कहते हैं, तुम्हारा परम जन्मस्थान है। हे तक्मन्, वह तुम जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Bracketed supplied object in Hindi."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "यदि तुम ज्वाला हो, या यदि तुम ताप (शोचि) हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले (हरित) के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "यदि तुम ज्वाला हो, या यदि तुम ताप हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले (हरित) के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Bracketed gloss (Devanagari transliteration of the word)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "यदि तुम ज्वाला हो, या यदि तुम ताप हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले (हरित) के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "यदि तुम ज्वाला हो, या यदि तुम ताप हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Bracketed gloss."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "यदि तुम ज्वाला हो, या यदि तुम ताप हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "यदि तुम ज्वाला हो, या यदि तुम ताप हो, यदि तुम शकल्य से आते हो, या यदि वही तुम्हारा जन्मस्थान है — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Bracketed supplied object in Hindi."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "यदि तुम शोक (ताप) हो, या अभिशोक हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले (हरित) के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "यदि तुम दाह हो, या अभिदाह हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले (हरित) के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Hindi शोक means grief; śoka here is 'burning' (English draft says burning)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "If you are burning, or scorching upon (us), or if you are the son of king Varuṇa: you are called Hrūḍu, O god of the yellow one. Knowing this, pass us by, O takman.",
+  "new": "If you are burning, or scorching upon, or if you are the son of king Varuṇa: you are called Hrūḍu, O god of the yellow one. Knowing this, pass us by, O takman.",
+  "why": "reviewer (minor): 'us' is added."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "यदि तुम दाह हो, या अभिदाह हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले (हरित) के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "यदि तुम दाह हो, या अभिदाह हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Bracketed gloss."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "यदि तुम दाह हो, या अभिदाह हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम (यह) जानते हुए हमें छोड़ दो।",
+  "new": "यदि तुम दाह हो, या अभिदाह हो, या यदि तुम राजा वरुण के पुत्र हो — तो हे पीले के देव, तुम ह्रूडु नाम वाले हो। हे तक्मन्, वह तुम जानते हुए हमें छोड़ दो।",
+  "why": "reviewer (minor): Bracketed supplied object in Hindi."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "शीत वाले तक्मन् को नमस्कार, कठोर ताप (शोचि) को नमस्कार करता हूँ। जो एक दिन छोड़कर, दोनों दिन आक्रमण करता है, उस तृतीयक तक्मन् को नमस्कार हो।",
+  "new": "शीत वाले तक्मन् को नमस्कार, कठोर ताप (शोचि) को नमस्कार करता हूँ। जो अगले दिन और दोनों दिन पास आता है, उस तृतीयक तक्मन् को नमस्कार हो।",
+  "why": "reviewer (error): anyedyuḥ is 'on the next day', not 'every other day'; abhyeti is 'approaches', not 'attacks'. Hindi disagrees with the English and the gloss."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "शीत वाले तक्मन् को नमस्कार, कठोर ताप (शोचि) को नमस्कार करता हूँ। जो अगले दिन और दोनों दिन पास आता है, उस तृतीयक तक्मन् को नमस्कार हो।",
+  "new": "शीत वाले तक्मन् को नमस्कार, कठोर ताप को नमस्कार करता हूँ। जो अगले दिन और दोनों दिन पास आता है, उस तृतीयक तक्मन् को नमस्कार हो।",
+  "why": "reviewer (minor): Bracketed gloss."
+ }
+]

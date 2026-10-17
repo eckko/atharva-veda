@@ -1,0 +1,650 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svasti̱dā",
+      "words": [
+       {
+        "w": "svasti-dāḥ",
+        "gloss": "giver of well-being",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śāṃ",
+      "words": [
+       {
+        "w": "viśām",
+        "gloss": "of the clans",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pati̭rvṛtra̱hā",
+      "words": [
+       {
+        "w": "patiḥ",
+        "gloss": "lord",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vṛtra-hā",
+        "gloss": "slayer of Vṛtra",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vi̭mṛ̱dho̭",
+      "words": [
+       {
+        "w": "vimṛdhaḥ",
+        "gloss": "scatterer of foes",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱śī",
+      "words": [
+       {
+        "w": "vaśī",
+        "gloss": "master, controlling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛṣendra̭ḥ",
+      "words": [
+       {
+        "w": "vṛṣā",
+        "gloss": "bull, mighty",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱ra",
+      "words": [
+       {
+        "w": "puraḥ",
+        "gloss": "in front",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ḙtu",
+      "words": [
+       {
+        "w": "etu",
+        "gloss": "let go",
+        "gram": "3 sg. impv. √i"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "soma̱pā",
+      "words": [
+       {
+        "w": "soma-pāḥ",
+        "gloss": "Soma-drinker",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "a̭bhayaṃka̱raḥ",
+      "words": [
+       {
+        "w": "abhayaṃ-karaḥ",
+        "gloss": "maker of fearlessness",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कल्याण देने वाला, जनों का स्वामी, वृत्र को मारने वाला, शत्रुओं को कुचलने वाला, वश में रखने वाला, बलवान् इन्द्र, सोम पीने वाला और अभय करने वाला, हमारे आगे-आगे चले।",
+  "english": "Giver of well-being, lord of the clans, slayer of Vṛtra, scatterer of foes, the master, mighty Indra, drinker of Soma, maker of fearlessness, let him go before us.",
+  "text_flags": [],
+  "notes": "vṛṣā is read as an epithet 'bull, mighty' of Indra. The printed ḙ in etu is the letter e carrying a Vedic accent mark, not a typo. puraḥ etu is taken as 'let him go in front'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.021.1a",
+   "001.021.1b"
+  ],
+  "lines_deva": [
+   "स्वस्ति॒दा वि॒शां पति॑र्वृत्र॒हा वि॑मृ॒धो॑ व॒शी",
+   "वृषेन्द्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयंक॒रः"
+  ],
+  "lines_iast": [
+   "svasti̱dā vi̱śāṃ pati̭rvṛtra̱hā vi̭mṛ̱dho̭ va̱śī",
+   "vṛṣendra̭ḥ pu̱ra ḙtu naḥ soma̱pā a̭bhayaṃka̱raḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̱",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛdho̭",
+      "words": [
+       {
+        "w": "mṛdhaḥ",
+        "gloss": "foes",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jahi",
+      "words": [
+       {
+        "w": "jahi",
+        "gloss": "strike",
+        "gram": "2 sg. impv. √han"
+       }
+      ]
+     },
+     {
+      "src": "nīcā̱",
+      "words": [
+       {
+        "w": "nīcā",
+        "gloss": "down, low",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ya̭ccha",
+      "words": [
+       {
+        "w": "yaccha",
+        "gloss": "hold, press",
+        "gram": "2 sg. impv. √yam"
+       }
+      ]
+     },
+     {
+      "src": "pṛtanya̱taḥ",
+      "words": [
+       {
+        "w": "pṛtanyataḥ",
+        "gloss": "those who fight",
+        "gram": "m. acc. pl. pres. part. denom. pṛtanya- (from pṛtanā)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱dha̱maṃ",
+      "words": [
+       {
+        "w": "adhamam",
+        "gloss": "lowest",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ga̭mayā̱",
+      "words": [
+       {
+        "w": "gamaya",
+        "gloss": "make go",
+        "gram": "2 sg. impv. caus. √gam"
+       }
+      ]
+     },
+     {
+      "src": "tamo̱",
+      "words": [
+       {
+        "w": "tamaḥ",
+        "gloss": "darkness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱smā~",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhi̱dāsa̭ti",
+      "words": [
+       {
+        "w": "abhidāsati",
+        "gloss": "assails",
+        "gram": "3 sg. pres. abhi-√dās"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, हमारे शत्रुओं को चूर-चूर कर दो; युद्ध करने वालों को नीचे दबा दो। जो हम पर आक्रमण करता है, उसे सबसे नीचे के अन्धकार में पहुँचा दो।",
+  "english": "Indra, strike apart our foes; press down those who make war on us. Whoever assails us, send him to the lowest darkness.",
+  "text_flags": [],
+  "notes": "naḥ is read as the enclitic pronoun 'our' (naḥ + indra giving na indra); vi ... jahi taken as 'smite apart'. mṛdh (f.) is 'foe/enemy' (also 'contempt').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.021.2a",
+   "001.021.2b"
+  ],
+  "lines_deva": [
+   "वि न॑ इन्द्र॒ मृधो॑ जहि नीचा॒ य॑च्छ पृतन्य॒तः",
+   "अ॒ध॒मं ग॑मया॒ तमो॒ यो अ॒स्माँ अ॑भि॒दास॑ति"
+  ],
+  "lines_iast": [
+   "vi na̭ indra̱ mṛdho̭ jahi nīcā̱ ya̭ccha pṛtanya̱taḥ",
+   "a̱dha̱maṃ ga̭mayā̱ tamo̱ yo a̱smā~ a̭bhi̱dāsa̭ti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣo̱",
+      "words": [
+       {
+        "w": "rakṣaḥ",
+        "gloss": "harmful being",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mṛdho̭",
+      "words": [
+       {
+        "w": "mṛdhaḥ",
+        "gloss": "foes",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jahi",
+      "words": [
+       {
+        "w": "jahi",
+        "gloss": "strike",
+        "gram": "2 sg. impv. √han"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱trasya̱",
+      "words": [
+       {
+        "w": "vṛtrasya",
+        "gloss": "of Vṛtra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hanṷ̄",
+      "words": [
+       {
+        "w": "hanū",
+        "gloss": "two jaws",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ruja",
+      "words": [
+       {
+        "w": "ruja",
+        "gloss": "break",
+        "gram": "2 sg. impv. √ruj"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ma̱nyumi̭ndra",
+      "words": [
+       {
+        "w": "manyum",
+        "gloss": "wrath",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛtrahanna̱mitra̭syābhi̱dāsa̭taḥ",
+      "words": [
+       {
+        "w": "vṛtra-han",
+        "gloss": "Vṛtra-slayer",
+        "gram": "m. voc. sg., tat-puruṣa"
+       },
+       {
+        "w": "amitrasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "abhidāsataḥ",
+        "gloss": "of the one who assails",
+        "gram": "m. gen. sg. pres. part. abhi-√dās"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्षस् को चूर-चूर करो, शत्रुओं को चूर-चूर करो; वृत्र के दोनों जबड़े तोड़ डालो। हे वृत्रहन् इन्द्र, आक्रमण करने वाले शत्रु के क्रोध को तोड़ दो।",
+  "english": "Strike the rakṣas apart, strike the foes apart; break apart the two jaws of Vṛtra. Break apart, Indra, slayer of Vṛtra, the wrath of the enemy who assails.",
+  "text_flags": [],
+  "notes": "The verb ruja is understood with vi in line 2. rakṣaḥ is the harmful being (rakṣas), taken as singular collective. hanū is the dual 'two jaws'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.021.3a",
+   "001.021.3b"
+  ],
+  "lines_deva": [
+   "वि रक्षो॒ वि मृधो॑ जहि वि वृ॒त्रस्य॒ हनू॑ रुज",
+   "वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः"
+  ],
+  "lines_iast": [
+   "vi rakṣo̱ vi mṛdho̭ jahi vi vṛ̱trasya̱ hanṷ̄ ruja",
+   "vi ma̱nyumi̭ndra vṛtrahanna̱mitra̭syābhi̱dāsa̭taḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apḙndra",
+      "words": [
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind."
+       },
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dviṣa̱to",
+      "words": [
+       {
+        "w": "dviṣataḥ",
+        "gloss": "of the hater",
+        "gram": "m. gen. sg. pres. part. √dviṣ"
+       }
+      ]
+     },
+     {
+      "src": "mano'pa̱",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jijyā̭sato",
+      "words": [
+       {
+        "w": "jijyāsataḥ",
+        "gloss": "of one wishing to harm",
+        "gram": "m. gen. sg. desid. part. √jyā"
+       }
+      ]
+     },
+     {
+      "src": "va̱dham",
+      "words": [
+       {
+        "w": "vadham",
+        "gloss": "weapon",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahaccharma̭",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "śarma",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaccha̱",
+      "words": [
+       {
+        "w": "yaccha",
+        "gloss": "extend, grant",
+        "gram": "2 sg. impv. √yam"
+       }
+      ]
+     },
+     {
+      "src": "varī̭yo",
+      "words": [
+       {
+        "w": "varīyaḥ",
+        "gloss": "wider, ampler",
+        "gram": "n. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "yāvayā",
+      "words": [
+       {
+        "w": "yāvaya",
+        "gloss": "drive away",
+        "gram": "2 sg. impv. caus. √yu"
+       }
+      ]
+     },
+     {
+      "src": "va̱dham",
+      "words": [
+       {
+        "w": "vadham",
+        "gloss": "weapon",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, द्वेष करने वाले के मन को दूर करो; हानि पहुँचाने की इच्छा वाले के शस्त्र को दूर करो। महान् और अधिक विस्तृत आश्रय प्रदान करो; घातक शस्त्र को दूर हटाओ।",
+  "english": "Turn away, Indra, the mind of the one who hates; turn away the weapon of the one who wishes to harm. Extend great and ampler shelter; drive the weapon away.",
+  "text_flags": [],
+  "notes": "Both apa are read with an understood verb ('turn away'). The printed ḙ in apḙndra is e with an accent mark. Line 2 repeats 20.3b.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.021.4a",
+   "001.021.4b"
+  ],
+  "lines_deva": [
+   "अपे॑न्द्र द्विष॒तो मनोऽप॒ जिज्या॑सतो व॒धम्",
+   "वि महच्छर्म॑ यच्छ॒ वरी॑यो यावया व॒धम्"
+  ],
+  "lines_iast": [
+   "apḙndra dviṣa̱to mano'pa̱ jijyā̭sato va̱dham",
+   "vi mahaccharma̭ yaccha̱ varī̭yo yāvayā va̱dham"
+  ],
+  "uncertain": []
+ }
+]

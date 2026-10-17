@@ -1,0 +1,533 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱mūryā",
+      "words": [
+       {
+        "w": "amūḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "yāḥ",
+        "gloss": "who",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yanti̭",
+      "words": [
+       {
+        "w": "yanti",
+        "gloss": "they go",
+        "gram": "3 pl. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "yo̱ṣito̭",
+      "words": [
+       {
+        "w": "yoṣitaḥ",
+        "gloss": "women",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi̱rā",
+      "words": [
+       {
+        "w": "hirāḥ",
+        "gloss": "hirā",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "lohi̭tavāsasaḥ",
+      "words": [
+       {
+        "w": "lohita-vāsasaḥ",
+        "gloss": "red-clothed",
+        "gram": "bahuvrīhi f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱bhrāta̭ra",
+      "words": [
+       {
+        "w": "a-bhrātaraḥ",
+        "gloss": "brotherless",
+        "gram": "bahuvrīhi f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jā̱maya̱stiṣṭha̭ntu",
+      "words": [
+       {
+        "w": "jāmayaḥ",
+        "gloss": "sisters",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tiṣṭhantu",
+        "gloss": "let them stand",
+        "gram": "3 pl. impv. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "ha̱tava̭rcasaḥ",
+      "words": [
+       {
+        "w": "hata-varcasaḥ",
+        "gloss": "with vigour destroyed",
+        "gram": "bahuvrīhi f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे जो स्त्रियाँ जाती हैं, हिराएँ, लाल वस्त्र वाली; भाई-रहित बहनों के समान वे खड़ी रहें, उनका तेज नष्ट हुआ हो।",
+  "english": "Those women who go, the hirā, red-clothed: like sisters without brothers, let them stand still, their vigour destroyed.",
+  "text_flags": [],
+  "notes": "'Hirā' is kept as a word (literally a channel or band; here in apposition to 'women'); no identification is made. 'Jāmi' = sister or kinswoman.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.017.1a",
+   "001.017.1b"
+  ],
+  "lines_deva": [
+   "अ॒मूर्या यन्ति॑ यो॒षितो॑ हि॒रा लोहि॑तवाससः",
+   "अ॒भ्रात॑र इव जा॒मय॒स्तिष्ठ॑न्तु ह॒तव॑र्चसः"
+  ],
+  "lines_iast": [
+   "a̱mūryā yanti̭ yo̱ṣito̭ hi̱rā lohi̭tavāsasaḥ",
+   "a̱bhrāta̭ra iva jā̱maya̱stiṣṭha̭ntu ha̱tava̭rcasaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tiṣṭhā̭vare̱",
+      "words": [
+       {
+        "w": "tiṣṭha",
+        "gloss": "stand",
+        "gram": "2 sg. impv. √sthā"
+       },
+       {
+        "w": "avare",
+        "gloss": "in the nearer",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭha̭",
+      "words": [
+       {
+        "w": "tiṣṭha",
+        "gloss": "stand",
+        "gram": "2 sg. impv. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "para",
+      "words": [
+       {
+        "w": "pare",
+        "gloss": "in the farther",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ti̭ṣṭha",
+      "words": [
+       {
+        "w": "tiṣṭha",
+        "gloss": "stand",
+        "gram": "2 sg. impv. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "madhyame",
+      "words": [
+       {
+        "w": "madhyame",
+        "gloss": "in the middle",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ka̱ni̱ṣṭhi̱kā",
+      "words": [
+       {
+        "w": "kaniṣṭhikā",
+        "gloss": "smallest one",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭha̭ti̱",
+      "words": [
+       {
+        "w": "tiṣṭhati",
+        "gloss": "stands",
+        "gram": "3 sg. pres. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhā̱diddha̱mani̭rma̱hī",
+      "words": [
+       {
+        "w": "tiṣṭhāt",
+        "gloss": "let it stand",
+        "gram": "3 sg. impv. √sthā"
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "dhamaniḥ",
+        "gloss": "pipe",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "mahī",
+        "gloss": "great",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निकट वाले में ठहरो, दूर वाले में ठहरो, और तुम बीच वाले में ठहरो। सबसे छोटी भी ठहरती है; बड़ी नली भी ठहर जाए।",
+  "english": "Stand in the nearer, stand in the farther, and you stand in the middle. The smallest one also stands; let the great pipe stand still as well.",
+  "text_flags": [],
+  "notes": "'Avare ... pare' = 'lower ... farther' (nearer/farther). 'Dhamani' is kept as 'pipe' (literal). Src 'tiṣṭhādiddhamanirmahī' = tiṣṭhāt it dhamaniḥ mahī.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.017.2a",
+   "001.017.2b"
+  ],
+  "lines_deva": [
+   "तिष्ठा॑वरे॒ तिष्ठ॑ पर उ॒त त्वं ति॑ष्ठ मध्यमे",
+   "क॒नि॒ष्ठि॒का च॒ तिष्ठ॑ति॒ तिष्ठा॒दिद्ध॒मनि॑र्म॒ही"
+  ],
+  "lines_iast": [
+   "tiṣṭhā̭vare̱ tiṣṭha̭ para u̱ta tvaṃ ti̭ṣṭha madhyame",
+   "ka̱ni̱ṣṭhi̱kā ca̱ tiṣṭha̭ti̱ tiṣṭhā̱diddha̱mani̭rma̱hī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śa̱tasya̭",
+      "words": [
+       {
+        "w": "śatasya",
+        "gloss": "of a hundred",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dha̱manī̭nāṃ",
+      "words": [
+       {
+        "w": "dhamanīnām",
+        "gloss": "of the pipes",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasra̭sya",
+      "words": [
+       {
+        "w": "sahasrasya",
+        "gloss": "of a thousand",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi̱rāṇā̭m",
+      "words": [
+       {
+        "w": "hirāṇām",
+        "gloss": "of the hirā",
+        "gram": "f. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "asthu̱rinma̭dhya̱mā",
+      "words": [
+       {
+        "w": "asthuḥ",
+        "gloss": "they have stood",
+        "gram": "3 pl. aor. √sthā"
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "madhyamāḥ",
+        "gloss": "middle ones",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̱māḥ",
+      "words": [
+       {
+        "w": "imāḥ",
+        "gloss": "these",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sā̱kamantā̭",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together",
+        "gram": "ind."
+       },
+       {
+        "w": "antāḥ",
+        "gloss": "ends",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "araṃsata",
+      "words": [
+       {
+        "w": "araṃsata",
+        "gloss": "they came to rest",
+        "gram": "3 pl. aor. mid. √ram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सौ नलियों और हज़ार हिराओं में से ये बीच वाली ठहर गई हैं; सिरे साथ-साथ शान्त हो गए हैं।",
+  "english": "Of the hundred pipes and the thousand hirā, these middle ones have stood still; the ends have come to rest together.",
+  "text_flags": [],
+  "notes": "'Antāḥ' is 'ends' (or 'borders'); the subject of 'araṃsata' is read as these 'ends'. No identification of the terms is made beyond the literal.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.017.3a",
+   "001.017.3b"
+  ],
+  "lines_deva": [
+   "श॒तस्य॑ ध॒मनी॑नां स॒हस्र॑स्य हि॒राणा॑म्",
+   "अस्थु॒रिन्म॑ध्य॒मा इ॒माः सा॒कमन्ता॑ अरंसत"
+  ],
+  "lines_iast": [
+   "śa̱tasya̭ dha̱manī̭nāṃ sa̱hasra̭sya hi̱rāṇā̭m",
+   "asthu̱rinma̭dhya̱mā i̱māḥ sā̱kamantā̭ araṃsata"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̱ḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sika̭tāvatī",
+      "words": [
+       {
+        "w": "sikatā-vatī",
+        "gloss": "sandy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dha̱nūrbṛ̭ha̱tya'kramīt|tiṣṭha̭te̱laya̭tā̱",
+      "words": [
+       {
+        "w": "dhanūḥ",
+        "gloss": "dry land, sandbank",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "bṛhatī",
+        "gloss": "great",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "akramīt",
+        "gloss": "has stepped",
+        "gram": "3 sg. aor. √kram"
+       },
+       {
+        "w": "|",
+        "gloss": "danda (pause mark)",
+        "gram": "punct."
+       },
+       {
+        "w": "tiṣṭhata",
+        "gloss": "stand",
+        "gram": "2 pl. impv. √sthā"
+       },
+       {
+        "w": "ilayata",
+        "gloss": "be still",
+        "gram": "2 pl. impv. √ilay"
+       }
+      ]
+     },
+     {
+      "src": "su",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭m",
+      "words": [
+       {
+        "w": "kam",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे चारों ओर बालू वाली विशाल रेत-भूमि ने घेरा डाल दिया है; ठहरो, शान्त रहो, भली-भाँति।",
+  "english": "Around you the great sandy dry land has stepped; stand, be still, well and good.",
+  "text_flags": [],
+  "notes": "Unit is a single printed line. Src token 'dhanūrbṛhatya'kramīt|tiṣṭhatelayatā' contains a danda (|) and covers dhanūḥ bṛhatī akramīt | tiṣṭhata ilayata. 'Dhanū' is taken as a feminine 'sandbank, dry land' (alternatively 'bow'); 'ilayata' is a tentative 'be still'. 'Su kam' = 'well, indeed'. Src 'ilayatā' has a lengthened final vowel as printed; read ilayata.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.017.4"
+  ],
+  "lines_deva": [
+   "परि॑ वः॒ सिक॑तावती ध॒नूर्बृ॑ह॒त्यऽक्रमीत्।तिष्ठ॑ते॒लय॑ता॒ सु क॑म्"
+  ],
+  "lines_iast": [
+   "pari̭ va̱ḥ sika̭tāvatī dha̱nūrbṛ̭ha̱tya'kramīt|tiṣṭha̭te̱laya̭tā̱ su ka̭m"
+  ],
+  "uncertain": []
+ }
+]

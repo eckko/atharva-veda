@@ -1,0 +1,46 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे देव सोम, इस यज्ञ में (यह) अविदारक हो; हे मरुतो, हमारे प्रति कृपालु होओ। न हमें अभिभव (आक्रमण) प्राप्त हो, न अपयश; न हमें वह कुटिल और द्वेषयोग्य (वस्तु) प्राप्त हो जो ...",
+  "new": "हे देव सोम, इस यज्ञ में अविदारक हो; हे मरुतो, हमारे प्रति कृपालु होओ। न हमें अभिभूत करने वाला प्रहार प्राप्त हो, न अभिशाप; न हमें वह कुटिल और द्वेष्य प्राप्त हो जो ...",
+  "why": "reviewer (minor): Bracketed glosses in the Hindi (not allowed); the unstated subject '(यह)' is an addition."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Let it be unsplitting, O god Soma, in this sacrifice; O Maruts, be gracious to us. May no overpowering assault find us, nor ill-repute; may no crooked, hateful thing find us which ...",
+  "new": "Let it be unsplitting, O god Soma, in this sacrifice; O Maruts, be gracious to us. May no overpowering assault find us, nor curse; may no crooked, hateful thing find us which ...",
+  "why": "reviewer (minor): aśasti is glossed 'ill-speech, curse' but rendered 'ill-repute'; English and gloss disagree (and Hindi अपयश)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "udīrate",
+  "old": "rises",
+  "new": "rise",
+  "why": "reviewer (minor): 3 pl. verb glossed as singular 'rises'."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "aghāyūnām",
+  "old": "gen. pl.",
+  "new": "m. gen. pl.",
+  "why": "reviewer (minor): gender missing."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "यहाँ से और वहाँ से जो भी घातक शस्त्र (आए), हे वरुण, उसे दूर हटा दो; महान् और अधिक विस्तृत आश्रय प्रदान करो; घातक शस्त्र को दूर करो।",
+  "new": "यहाँ से और वहाँ से जो भी घातक शस्त्र, हे वरुण, उसे दूर हटा दो; महान् और अधिक विस्तृत आश्रय प्रदान करो; घातक शस्त्र को दूर करो।",
+  "why": "reviewer (minor): Bracketed supplied verb in Hindi; English 'comes' is likewise supplied (no verb in the text)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Whatever weapon comes from here and whatever from there, Varuṇa, drive it away; extend great and ampler shelter; drive the weapon away.",
+  "new": "Whatever weapon from here and whatever from there, Varuṇa, drive it away; extend great and ampler shelter; drive the weapon away.",
+  "why": "reviewer (minor): 'comes' added."
+ }
+]

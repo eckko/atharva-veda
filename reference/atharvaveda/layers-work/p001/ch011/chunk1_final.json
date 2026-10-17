@@ -1,0 +1,1084 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaṣa̭ṭ",
+      "words": [
+       {
+        "w": "vaṣaṭ",
+        "gloss": "vaṣaṭ (offering call)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūṣanna̱smintsṷ̄tāvarya̱mā",
+      "words": [
+       {
+        "w": "pūṣan",
+        "gloss": "O Pūṣan",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "sūtau",
+        "gloss": "in the birthing",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "aryamā",
+        "gloss": "Aryaman",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hotā̭",
+      "words": [
+       {
+        "w": "hotā",
+        "gloss": "hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇotu",
+      "words": [
+       {
+        "w": "kṛṇotu",
+        "gloss": "let him do",
+        "gram": "3 sg. impv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ve̱dhāḥ",
+      "words": [
+       {
+        "w": "vedhāḥ",
+        "gloss": "ordainer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sisra̭tā̱ṃ",
+      "words": [
+       {
+        "w": "sisratām",
+        "gloss": "let her relax",
+        "gram": "3 sg. impv. mid. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "nāryṛ̱tapra̭jātā̱",
+      "words": [
+       {
+        "w": "nārī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛta-prajātā",
+        "gloss": "duly delivered",
+        "gram": "tat-puruṣa f. nom. sg. p.p. pra-√jan"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parvā̭ṇi",
+      "words": [
+       {
+        "w": "parvāṇi",
+        "gloss": "joints",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jihatā̱ṃ",
+      "words": [
+       {
+        "w": "jihatām",
+        "gloss": "let them open",
+        "gram": "3 pl. impv. mid. √hā"
+       }
+      ]
+     },
+     {
+      "src": "sūta̱vā",
+      "words": [
+       {
+        "w": "sūtavai",
+        "gloss": "for bearing",
+        "gram": "inf. √sū"
+       }
+      ]
+     },
+     {
+      "src": "ṷ",
+      "words": [
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे पूषन्, इस प्रसव में होता अर्यमा, विधाता, तुम्हारे लिए वषट् करें। ऋत के अनुसार प्रसव करने वाली नारी शिथिल हो जाए, उसके जोड़ प्रसव के लिए खुल जाएँ।",
+  "english": "O Pūṣan, in this birthing let Aryaman, the hotṛ priest, the ordainer, make the vaṣaṭ for you. Let the woman, duly delivered, relax; let her joints open apart for the bearing.",
+  "text_flags": [],
+  "notes": "Src 'sūtavā ṷ' is sūtavai (Vedic infinitive) + u before a vowel (Devanagari सूत॒वा उ॑); the token ṷ is the particle u. Src 'sūtāv' with ṷ̄ is a transliteration artefact for ū/u. 'ṛta-prajātā' literally 'born/delivered in due order'; sense uncertain. Pūṣan, Aryaman are names of deities; hotṛ is a priest title, here an epithet of Aryaman by apposition. jihatām: form as printed, taken from √hā 'open'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.011.1a",
+   "001.011.1b"
+  ],
+  "lines_deva": [
+   "वष॑ट् ते पूषन्न॒स्मिन्त्सू॑तावर्य॒मा होता॑ कृणोतु वे॒धाः",
+   "सिस्र॑तां॒ नार्यृ॒तप्र॑जाता॒ वि पर्वा॑णि जिहतां॒ सूत॒वा उ॑"
+  ],
+  "lines_iast": [
+   "vaṣa̭ṭ te pūṣanna̱smintsṷ̄tāvarya̱mā hotā̭ kṛṇotu ve̱dhāḥ",
+   "sisra̭tā̱ṃ nāryṛ̱tapra̭jātā̱ vi parvā̭ṇi jihatā̱ṃ sūta̱vā ṷ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cata̭sro",
+      "words": [
+       {
+        "w": "catasraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "di̱vaḥ",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of the sky",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱diśa̱ścata̭sro̱",
+      "words": [
+       {
+        "w": "pradiśaḥ",
+        "gloss": "regions",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "catasraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhūmyā̱",
+      "words": [
+       {
+        "w": "bhūmyāḥ",
+        "gloss": "of the earth",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "garbha̱ṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "embryo",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samai̭raya̱n",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       },
+       {
+        "w": "airayan",
+        "gloss": "they set in motion",
+        "gram": "3 pl. impf. √īr"
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyṷ̄rṇuvantu̱",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       },
+       {
+        "w": "ūrṇuvantu",
+        "gloss": "let them open",
+        "gram": "3 pl. impv. vi-√ūrṇu (= vi-√vṛ)"
+       }
+      ]
+     },
+     {
+      "src": "sūta̭ve",
+      "words": [
+       {
+        "w": "sūtave",
+        "gloss": "for bearing",
+        "gram": "inf. √sū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आकाश की चार दिशाएँ और पृथ्वी की चार दिशाएँ, देवों ने गर्भ को गति दी है; वे उसे प्रसव के लिए खोल दें।",
+  "english": "The four regions of the sky and the four of the earth, the gods have set the embryo in motion together; let them open it up for the bearing.",
+  "text_flags": [],
+  "notes": "'Four regions' of sky and earth are read as the quarters; src 'catasro divaḥ' has catasraḥ before voiced consonant. 'Sam airayan' could also be 'they sent forth together'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.011.2a",
+   "001.011.2b"
+  ],
+  "lines_deva": [
+   "चत॑स्रो दि॒वः प्र॒दिश॒श्चत॑स्रो॒ भूम्या॒ उ॒त",
+   "दे॒वा गर्भं॒ समै॑रय॒न् तं व्यू॑र्णुवन्तु॒ सूत॑वे"
+  ],
+  "lines_iast": [
+   "cata̭sro di̱vaḥ pra̱diśa̱ścata̭sro̱ bhūmyā̱ u̱ta",
+   "de̱vā garbha̱ṃ samai̭raya̱n taṃ vyṷ̄rṇuvantu̱ sūta̭ve"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sū̱ṣā",
+      "words": [
+       {
+        "w": "sūṣā",
+        "gloss": "bearing woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyṷ̄rṇotu̱",
+      "words": [
+       {
+        "w": "vyūrṇotu",
+        "gloss": "let her open",
+        "gram": "3 sg. impv. vi-√ūrṇu (= vi-√vṛ)"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoni̭ṃ",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "womb",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hāpayāmasi",
+      "words": [
+       {
+        "w": "hāpayāmasi",
+        "gloss": "we cause to part",
+        "gram": "1 pl. pres. caus. √hā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śra̱thayā̭",
+      "words": [
+       {
+        "w": "śrathayā",
+        "gloss": "loosen",
+        "gram": "2 sg. impv. caus. √śrath"
+       }
+      ]
+     },
+     {
+      "src": "sūṣaṇe̱",
+      "words": [
+       {
+        "w": "sūṣaṇe",
+        "gloss": "O Sūṣaṇā (obscure; perhaps 'deliverer')",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvamava̱",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bi̭ṣkale",
+      "words": [
+       {
+        "w": "biṣkale",
+        "gloss": "O Biṣkalā",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṛja",
+      "words": [
+       {
+        "w": "sṛja",
+        "gloss": "release",
+        "gram": "2 sg. impv. √sṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रसव करने वाली खोल दे; हम योनि को खुलवाते हैं। हे सूषणा, तुम ढीला करो; हे बिष्कला, तुम नीचे छोड़ो।",
+  "english": "Let the bearing woman open; we cause the womb to part. Loosen, O Sūṣaṇā; you, O Biṣkalā, let go downward.",
+  "text_flags": [],
+  "notes": "Src 'śrathayā' is kept as printed (imperative of the causative, vowel length unusual). 'Sūṣaṇe' and 'biṣkale' are vocatives of uncertain sense; they may be names or epithets of a female deliverer; the lines do not say. 'Ava sṛja' = release downward (literal). hāpayāmasi: 'we make part/open' is a literal reading of the causative of √hā.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.011.3a",
+   "001.011.3b"
+  ],
+  "lines_deva": [
+   "सू॒षा व्यू॑र्णोतु॒ वि योनिं॑ हापयामसि",
+   "श्र॒थया॑ सूषणे॒ त्वमव॒ त्वं बि॑ष्कले सृज"
+  ],
+  "lines_iast": [
+   "sū̱ṣā vyṷ̄rṇotu̱ vi yoni̭ṃ hāpayāmasi",
+   "śra̱thayā̭ sūṣaṇe̱ tvamava̱ tvaṃ bi̭ṣkale sṛja"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "neva̭",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mā̱ṃse",
+      "words": [
+       {
+        "w": "māṃse",
+        "gloss": "in flesh",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pīva̭si̱",
+      "words": [
+       {
+        "w": "pīvasi",
+        "gloss": "in fat",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "neva̭",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ma̱jjasvāha̭tam",
+      "words": [
+       {
+        "w": "majjasu",
+        "gloss": "in marrows",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "āhatam",
+        "gloss": "fixed, struck",
+        "gram": "n. nom. sg. p.p."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "avai̭tu̱",
+      "words": [
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       },
+       {
+        "w": "etu",
+        "gloss": "let it go",
+        "gram": "3 sg. impv. √i"
+       }
+      ]
+     },
+     {
+      "src": "pṛśni̱",
+      "words": [
+       {
+        "w": "pṛśni",
+        "gloss": "speckled one",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeva̭la̱ṃ",
+      "words": [
+       {
+        "w": "śevalam",
+        "gloss": "slime",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śunḙ",
+      "words": [
+       {
+        "w": "śune",
+        "gloss": "to the dog",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyvatta̱ve'va̭",
+      "words": [
+       {
+        "w": "jarāyu",
+        "gloss": "afterbirth",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "attave",
+        "gloss": "for eating",
+        "gram": "inf. √ad"
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyṷ",
+      "words": [
+       {
+        "w": "jarāyu",
+        "gloss": "afterbirth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "padyatām",
+      "words": [
+       {
+        "w": "padyatām",
+        "gloss": "let it fall",
+        "gram": "3 sg. impv. pass. √pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मानो मांस में नहीं, चर्बी में नहीं, मानो मज्जाओं में धँसा हुआ नहीं। चितकबरी नीचे चली जाए, शेवल, कुत्ते के लिए, जरायु खाने के लिए; जरायु नीचे गिर जाए।",
+  "english": "Not as if in flesh, not in fat, not as if lodged in the marrows. Let the speckled one go down, the slime; to the dog the afterbirth for eating; let the afterbirth fall down.",
+  "text_flags": [],
+  "notes": "Src 'jarāyvattave'va' = jarāyu + attave + ava (avagraha as printed). 'Pṛśni' is taken as 'speckled, dappled' (f.); its referent is unclear. 'Śevala' is 'slime, water-weed'; 'slime' used. 'Āhatam' could also be 'struck'. The sentence is obscure; low confidence. 'Jarāyu' is literally the membrane enclosing the unborn, glossed 'afterbirth'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.011.4a",
+   "001.011.4b"
+  ],
+  "lines_deva": [
+   "नेव॑ मां॒से न पीव॑सि॒ नेव॑ म॒ज्जस्वाह॑तम्",
+   "अवै॑तु॒ पृश्नि॒ शेव॑लं॒ शुने॑ ज॒राय्वत्त॒वेऽव॑ ज॒रायु॑ पद्यताम्"
+  ],
+  "lines_iast": [
+   "neva̭ mā̱ṃse na pīva̭si̱ neva̭ ma̱jjasvāha̭tam",
+   "avai̭tu̱ pṛśni̱ śeva̭la̱ṃ śunḙ ja̱rāyvatta̱ve'va̭ ja̱rāyṷ padyatām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhinadmi̱",
+      "words": [
+       {
+        "w": "bhinadmi",
+        "gloss": "I split",
+        "gram": "1 sg. pres. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "meha̭na̱ṃ",
+      "words": [
+       {
+        "w": "mehanam",
+        "gloss": "urinary passage",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱ṃ",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "womb",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ga̱vīni̭ke",
+      "words": [
+       {
+        "w": "gavīnike",
+        "gloss": "the two gavīnī",
+        "gram": "f. acc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tara̭ṃ",
+      "words": [
+       {
+        "w": "mātaram",
+        "gloss": "mother",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pu̱traṃ",
+      "words": [
+       {
+        "w": "putram",
+        "gloss": "son",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṷmā̱raṃ",
+      "words": [
+       {
+        "w": "kumāram",
+        "gloss": "boy, child",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyu̱ṇāva̭",
+      "words": [
+       {
+        "w": "jarāyuṇā",
+        "gloss": "from the afterbirth",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyṷ",
+      "words": [
+       {
+        "w": "jarāyu",
+        "gloss": "afterbirth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "padyatām",
+      "words": [
+       {
+        "w": "padyatām",
+        "gloss": "let it fall",
+        "gram": "3 sg. impv. pass. √pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं तुम्हारे मूत्रमार्ग को अलग करता हूँ, योनि को अलग करता हूँ, दोनों गवीनी को अलग करता हूँ। माता और पुत्र को अलग करता हूँ, बालक को जरायु से अलग करता हूँ; जरायु नीचे गिर जाए।",
+  "english": "I part your urinary passage, I part the womb, I part the two gavīnī. I part mother and son, I part the child from the afterbirth; let the afterbirth fall down.",
+  "text_flags": [],
+  "notes": "Src 'kṷmāraṃ', 'tḙ' are transliteration artefacts for kumāraṃ, te. 'Gavīnike' is a dual of an obscure body-word (gavīnī); kept as 'the two gavīnī'. 'Bhinadmi' is 'I split/break apart' (literal). The instrumental 'jarāyuṇā' with 'vi' is read as 'apart from the afterbirth'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "001.011.5a",
+   "001.011.5b"
+  ],
+  "lines_deva": [
+   "वि ते॑ भिनद्मि॒ मेह॑नं॒ वि योनिं॒ वि ग॒वीनि॑के",
+   "वि मा॒तरं॑ च पु॒त्रं च॒ वि कु॑मा॒रं ज॒रायु॒णाव॑ ज॒रायु॑ पद्यताम्"
+  ],
+  "lines_iast": [
+   "vi tḙ bhinadmi̱ meha̭na̱ṃ vi yoni̱ṃ vi ga̱vīni̭ke",
+   "vi mā̱tara̭ṃ ca pu̱traṃ ca̱ vi kṷmā̱raṃ ja̱rāyu̱ṇāva̭ ja̱rāyṷ padyatām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāto̱",
+      "words": [
+       {
+        "w": "vātaḥ",
+        "gloss": "wind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mano̱",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pata̭nti",
+      "words": [
+       {
+        "w": "patanti",
+        "gloss": "they fly",
+        "gram": "3 pl. pres. √pat"
+       }
+      ]
+     },
+     {
+      "src": "pa̱kṣi̭ṇa̭ḥ",
+      "words": [
+       {
+        "w": "pakṣiṇaḥ",
+        "gloss": "birds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭śamāsya",
+      "words": [
+       {
+        "w": "daśa-māsya",
+        "gloss": "O ten-month one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̱kaṃ",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyṷṇā",
+      "words": [
+       {
+        "w": "jarāyuṇā",
+        "gloss": "with the afterbirth",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱tāva̭",
+      "words": [
+       {
+        "w": "pata",
+        "gloss": "fall",
+        "gram": "2 sg. impv. √pat"
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyṷ",
+      "words": [
+       {
+        "w": "jarāyu",
+        "gloss": "afterbirth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "padyatām",
+      "words": [
+       {
+        "w": "padyatām",
+        "gloss": "let it fall",
+        "gram": "3 sg. impv. pass. √pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे वायु, जैसे मन, जैसे पक्षी उड़ते हैं, वैसे ही हे दस मास वाले, तुम जरायु के साथ नीचे गिरो; जरायु नीचे गिर जाए।",
+  "english": "As the wind, as the mind, as the birds fly, so you, O ten-month one, fall down together with the afterbirth; let the afterbirth fall down.",
+  "text_flags": [],
+  "notes": "Src 'patāva' = pata + ava. 'Daśamāsya' is read as 'one of ten months' (vocative). Src 'jarāyṷṇā' is a transliteration artefact for jarāyuṇā.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.011.6a",
+   "001.011.6b"
+  ],
+  "lines_deva": [
+   "यथा॒ वातो॒ यथा॒ मनो॒ यथा॒ पत॑न्ति प॒क्षि॑णः॑",
+   "ए॒वा त्वं द॑शमास्य सा॒कं ज॒रायु॑णा प॒ताव॑ ज॒रायु॑ पद्यताम्"
+  ],
+  "lines_iast": [
+   "yathā̱ vāto̱ yathā̱ mano̱ yathā̱ pata̭nti pa̱kṣi̭ṇa̭ḥ",
+   "e̱vā tvaṃ da̭śamāsya sā̱kaṃ ja̱rāyṷṇā pa̱tāva̭ ja̱rāyṷ padyatām"
+  ],
+  "uncertain": []
+ }
+]

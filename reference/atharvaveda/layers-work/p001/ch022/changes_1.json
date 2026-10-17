@@ -1,0 +1,81 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Let your heart-glow and your yellowness rise up following the sun. With the colour of the red one of the cow, with that we place (a covering) around you.",
+  "new": "Let your heart-glow and your yellowness rise up following the sun. With the colour of the red one of the cow, with that we place around you.",
+  "why": "reviewer (minor): '(a covering)' is a bracketed interpretive addition; pari dadhmasi = 'we put around'."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "तुम्हारी हृदय की जलन और पीलापन सूर्य के पीछे-पीछे ऊपर उठ जाएँ। गाय के लाल (रंग) के उस वर्ण से हम तुम्हें चारों ओर से ढकते हैं।",
+  "new": "तुम्हारी हृदय की जलन और पीलापन सूर्य के पीछे-पीछे ऊपर उठ जाएँ। गाय के लाल के उस वर्ण से हम तुम्हें चारों ओर से ढकते हैं।",
+  "why": "reviewer (minor): Bracketed gloss in Hindi."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "With red colours we place (a covering) around you for length of life, so that this one may be free from harm and not yellow.",
+  "new": "With red colours we place around you for length of life, so that this one may be free from harm and not yellow.",
+  "why": "reviewer (minor): '(a covering)' is a bracketed interpretive addition; pari dadhmasi = 'we put around'."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "लम्बी आयु के लिए हम तुम्हें लाल रंगों से चारों ओर से ढकते हैं, जिससे यह (पुरुष) हानि से मुक्त हो और पीला न रहे।",
+  "new": "लम्बी आयु के लिए हम तुम्हें लाल रंगों से चारों ओर से ढकते हैं, जिससे यह हानि से मुक्त हो और पीला न रहे।",
+  "why": "reviewer (minor): Bracketed addition."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "dīrgha-āyu-tvāya",
+  "old": "n. dat. sg., tat-puruṣa",
+  "new": "n. dat. sg., karmadhāraya + -tva",
+  "why": "reviewer (minor): Not a tat-puruṣa: dīrgha-āyus is a karmadhāraya/adjective compound plus abstract -tva."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The red ones that belong to the gods, the cows, and those that are red as well: with them, for every form and every age (vigour), we place (a covering) around you.",
+  "new": "The red ones that belong to the gods, the cows, and those that are red as well: with them, for every form and every age (vigour), we place around you.",
+  "why": "reviewer (minor): '(a covering)' is a bracketed interpretive addition; pari dadhmasi = 'we put around'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जो लाल (गायें) देवों की हैं, और जो अन्य गायें भी लाल हैं, उनके द्वारा, प्रत्येक रूप और प्रत्येक आयु (बल) के लिए, हम तुम्हें चारों ओर से ढकते हैं।",
+  "new": "जो लाल गायें देवों की हैं, और जो अन्य भी लाल हैं, उनके द्वारा, प्रत्येक रूप और प्रत्येक आयु (बल) के लिए, हम तुम्हें चारों ओर से ढकते हैं।",
+  "why": "reviewer (minor): Bracketed glosses in Hindi; gāvaḥ is in the text."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जो लाल गायें देवों की हैं, और जो अन्य भी लाल हैं, उनके द्वारा, प्रत्येक रूप और प्रत्येक आयु (बल) के लिए, हम तुम्हें चारों ओर से ढकते हैं।",
+  "new": "जो लाल गायें देवों की हैं, और जो अन्य भी लाल हैं, उनके द्वारा, प्रत्येक रूप और प्रत्येक आयु के लिए, हम तुम्हें चारों ओर से ढकते हैं।",
+  "why": "reviewer (minor): bracket"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The red ones that belong to the gods, the cows, and those that are red as well: with them, for every form and every age (vigour), we place around you.",
+  "new": "The red ones that belong to the gods, the cows, and those that are red as well: with them, for every form and every age, we place around you.",
+  "why": "reviewer (minor): Bracketed alternative; vayas is already flagged uncertain in notes."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "ropaṇākāsu",
+  "old": "ropaṇākā (bird name?)",
+  "new": "ropaṇākā (name)",
+  "why": "reviewer (minor): '(bird name?)' is speculation; hāridraveṣu is only 'name'."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "ropaṇākā and hāridrava are kept as names; they are not identified here (they may be bird or yellow-coloured beings). śuka is the literal word 'parrot'.",
+  "new": "ropaṇākā and hāridrava are kept as names; they are not identified here. śuka is the literal word 'parrot'.",
+  "why": "reviewer (minor): Unsupported guess."
+ }
+]

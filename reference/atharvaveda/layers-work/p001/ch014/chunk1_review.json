@@ -1,0 +1,106 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "varca̱ => varcaḥ + ā [here]",
+     "problem": "The token 'varca̱' contains only varcaḥ. The extra word ā 'here' is invented: the ā belongs to the next token ādiṣy-adhi, whose word 'ādiṣi' already contains ā-√dā. Remove the word {w: ā}.",
+     "fix": "delete the word entry 'ā' (gloss 'here') from token varca̱",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'इस प्रकार'",
+     "problem": "'इस प्रकार' (in this way) is not in the text.",
+     "fix": "तेज ग्रहण करता हूँ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेज इस प्रकार ग्रहण करता हूँ",
+      "new": "तेज ग्रहण करता हूँ",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "te",
+     "problem": "English and Hindi translate 'yours / तुम्हारी' (genitive), gloss says 'to you'.",
+     "fix": "your",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "te",
+      "field": "gloss",
+      "value": "your",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi 'हाथ में'",
+     "problem": "'in your hand' is added.",
+     "fix": "उसे हम तुम्हें सौंपते हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे हम तुम्हारे हाथ में सौंपते हैं",
+      "new": "उसे हम तुम्हें सौंपते हैं",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes call them 'sages' while saying the lines give no role: role must not be imported (LAYER_NOTES 3).",
+     "fix": "are names (genitives); the lines give no role.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "are names of sages as the genitives of names; the lines give no role.",
+      "new": "are names (genitives); the lines give no role.",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "jāmayaḥ",
+     "problem": "Hindi 'sisters' vs English/gloss 'kinswomen'.",
+     "fix": "सम्बन्धी स्त्रियाँ भी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बहनें भी",
+      "new": "सम्बन्धी स्त्रियाँ भी",
+      "n": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 4 with issues; 1 errors, 5 minor; no regrouping suggested. Unreviewed AI draft."
+}

@@ -1,0 +1,829 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhī̱va̱rtena̭",
+      "words": [
+       {
+        "w": "abhīvartena",
+        "gloss": "by the overpowering",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ṇinā̱",
+      "words": [
+       {
+        "w": "maṇinā",
+        "gloss": "by the amulet",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yenendro̭",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhivāvṛ̱dhḙ",
+      "words": [
+       {
+        "w": "abhivāvṛdhe",
+        "gloss": "grew mighty",
+        "gram": "3 sg. pf. mid. abhi-√vṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tenā̱smān",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bra̭hmaṇaspate̱'bhi",
+      "words": [
+       {
+        "w": "brahmaṇaspate",
+        "gloss": "O lord of the sacred utterance",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over, further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rā̱ṣṭrāya̭",
+      "words": [
+       {
+        "w": "rāṣṭrāya",
+        "gloss": "for the kingdom",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vardhaya",
+      "words": [
+       {
+        "w": "vardhaya",
+        "gloss": "make grow",
+        "gram": "2 sg. impv. caus. √vṛdh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस अभीवर्त मणि से, जिससे इन्द्र बढ़ा और प्रबल हुआ, उसी से हे ब्रह्मणस्पति, हमें राज्य के लिए बढ़ाओ।",
+  "english": "By the amulet abhīvarta (the overpowering), by which Indra grew mighty: with that, O Brahmaṇaspati, make us grow, for the kingdom.",
+  "text_flags": [],
+  "notes": "abhīvarta is kept as the name of the amulet ('the overpowering'); maṇi is the plain word 'amulet, jewel'. abhi in the second line is read as a preverb or intensifier with vardhaya ('make us grow further'). brahmaṇaspati is 'lord of the brahman (sacred utterance)'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.029.1a",
+   "001.029.1b"
+  ],
+  "lines_deva": [
+   "अ॒भी॒व॒र्तेन॑ म॒णिना॒ येनेन्द्रो॑ अभिवावृ॒धे॑",
+   "तेना॒स्मान् ब्र॑ह्मणस्पते॒ऽभि रा॒ष्ट्राय॑ वर्धय"
+  ],
+  "lines_iast": [
+   "a̱bhī̱va̱rtena̭ ma̱ṇinā̱ yenendro̭ abhivāvṛ̱dhḙ",
+   "tenā̱smān bra̭hmaṇaspate̱'bhi rā̱ṣṭrāya̭ vardhaya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi̱vṛtya̭",
+      "words": [
+       {
+        "w": "abhivṛtya",
+        "gloss": "having overcome",
+        "gram": "abs. abhi-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "sa̱patnā̭na̱bhi",
+      "words": [
+       {
+        "w": "sapatnān",
+        "gloss": "rivals",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "arā̭tayaḥ",
+      "words": [
+       {
+        "w": "arātayaḥ",
+        "gloss": "hostile powers, ill-wishers",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "abhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭ta̱nyanta̭ṃ",
+      "words": [
+       {
+        "w": "pṛtanyantam",
+        "gloss": "one who fights",
+        "gram": "m. acc. sg. pres. part. denom. pṛtanya- (from pṛtanā)"
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhā̱bhi",
+      "words": [
+       {
+        "w": "tiṣṭha",
+        "gloss": "stand, prevail",
+        "gram": "2 sg. impv. √sthā"
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dura̱syati̭",
+      "words": [
+       {
+        "w": "durasyati",
+        "gloss": "intends evil",
+        "gram": "3 sg. pres. denom. durasya-"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रतिद्वन्द्वियों को और हमारी जो शत्रुतापूर्ण शक्तियाँ हैं उन्हें जीतकर, युद्ध करने वाले के ऊपर स्थित हो जाओ, और उसके ऊपर भी जो हमारे प्रति बुरा चाहता है।",
+  "english": "Having overcome the rivals and those hostile powers of ours, prevail over the one who wages war, and over the one who intends evil to us.",
+  "text_flags": [],
+  "notes": "yāḥ naḥ arātayaḥ is read 'those hostile powers that are ours / against us' (naḥ is genitive). The verb of the first line is the absolutive abhivṛtya, whose main verb is tiṣṭha in the second line. durasyati is a denominative 'wishes ill'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.029.2a",
+   "001.029.2b"
+  ],
+  "lines_deva": [
+   "अ॒भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः",
+   "अभि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो नो॑ दुर॒स्यति॑"
+  ],
+  "lines_iast": [
+   "a̱bhi̱vṛtya̭ sa̱patnā̭na̱bhi yā no̱ arā̭tayaḥ",
+   "abhi pṛ̭ta̱nyanta̭ṃ tiṣṭhā̱bhi yo no̭ dura̱syati̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaḥ",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭vi̱tābhi",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "somo̭",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avīvṛdhat",
+      "words": [
+       {
+        "w": "avīvṛdhat",
+        "gloss": "made grow",
+        "gram": "3 sg. aor. caus. √vṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhū̱tānya̭bhīva̱rto",
+      "words": [
+       {
+        "w": "bhūtāni",
+        "gloss": "beings",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "abhīvartaḥ",
+        "gloss": "the overpowering",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāsa̭si",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       },
+       {
+        "w": "asasi",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देव सविता ने तुम्हें बढ़ाया, सोम ने भी तुम्हें बढ़ाया; सब प्राणियों ने भी तुम्हें बढ़ाया, जिससे तुम अभीवर्त हो जाओ।",
+  "english": "The god Savitṛ has made you grow, and Soma has made you grow; all beings have too (made you grow), so that you may be abhīvarta, the overpowering.",
+  "text_flags": [],
+  "notes": "Line b has no verb of its own; avīvṛdhat (or avīvṛdhan) is understood from line a, so 'have made you grow' is supplied. The addressee (the amulet) is not named in the unit. asasi is the subjunctive of √as ('you may be').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.029.3a",
+   "001.029.3b"
+  ],
+  "lines_deva": [
+   "अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृधत्",
+   "अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि"
+  ],
+  "lines_iast": [
+   "a̱bhi tvā̭ de̱vaḥ sa̭vi̱tābhi somo̭ avīvṛdhat",
+   "a̱bhi tvā̱ viśvā̭ bhū̱tānya̭bhīva̱rto yathāsa̭si"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhī̱va̱rto",
+      "words": [
+       {
+        "w": "abhīvartaḥ",
+        "gloss": "the overpowering",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhibha̱vaḥ",
+      "words": [
+       {
+        "w": "abhibhavaḥ",
+        "gloss": "overcoming",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭patna̱kṣaya̭ṇo",
+      "words": [
+       {
+        "w": "sapatna-kṣayaṇaḥ",
+        "gloss": "destroyer of rivals",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ṇiḥ",
+      "words": [
+       {
+        "w": "maṇiḥ",
+        "gloss": "amulet",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rā̱ṣṭrāya̱",
+      "words": [
+       {
+        "w": "rāṣṭrāya",
+        "gloss": "for the kingdom",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahya̭ṃ",
+      "words": [
+       {
+        "w": "mahyam",
+        "gloss": "for me",
+        "gram": "pron. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "badhyatāṃ",
+      "words": [
+       {
+        "w": "badhyatām",
+        "gloss": "let be bound",
+        "gram": "3 sg. impv. pass. √bandh"
+       }
+      ]
+     },
+     {
+      "src": "sa̱patnḙbhyaḥ",
+      "words": [
+       {
+        "w": "sapatnebhyaḥ",
+        "gloss": "for the rivals",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "parā̱bhuvḙ",
+      "words": [
+       {
+        "w": "parābhuve",
+        "gloss": "for defeat",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अभीवर्त, पराभूत करने वाला, शत्रुओं का नाश करने वाला मणि मेरे राज्य के लिए बाँधा जाए, शत्रुओं की पराजय के लिए।",
+  "english": "The overpowering amulet, the overcoming one, the destroyer of rivals: let it be bound for me, for the kingdom, for the defeat of the rivals.",
+  "text_flags": [],
+  "notes": "badhyatām is read as 'let it be bound (on me)'; the object is the amulet of line a. parābhuve is 'for defeat/overthrow (of the rivals)'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "001.029.4a",
+   "001.029.4b"
+  ],
+  "lines_deva": [
+   "अ॒भी॒व॒र्तो अ॑भिभ॒वः स॑पत्न॒क्षय॑णो म॒णिः",
+   "रा॒ष्ट्राय॒ मह्यं॑ बध्यतां स॒पत्ने॑भ्यः परा॒भुवे॑"
+  ],
+  "lines_iast": [
+   "a̱bhī̱va̱rto a̭bhibha̱vaḥ sa̭patna̱kṣaya̭ṇo ma̱ṇiḥ",
+   "rā̱ṣṭrāya̱ mahya̭ṃ badhyatāṃ sa̱patnḙbhyaḥ parā̱bhuvḙ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uda̱sau",
+      "words": [
+       {
+        "w": "ut",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "asau",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūryo̭",
+      "words": [
+       {
+        "w": "sūryaḥ",
+        "gloss": "sun",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agā̱dudi̱daṃ",
+      "words": [
+       {
+        "w": "agāt",
+        "gloss": "has gone",
+        "gram": "3 sg. aor. √gā"
+       },
+       {
+        "w": "ut",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̭ma̱kaṃ",
+      "words": [
+       {
+        "w": "māmakam",
+        "gloss": "my",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaca̭ḥ",
+      "words": [
+       {
+        "w": "vacaḥ",
+        "gloss": "word",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathā̱haṃ",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭tru̱ho'sā̭nyasapatnaḥ",
+      "words": [
+       {
+        "w": "śatru-haḥ",
+        "gloss": "slayer of enemies",
+        "gram": "m. nom. sg., tat-puruṣa"
+       },
+       {
+        "w": "asāni",
+        "gloss": "may I be",
+        "gram": "1 sg. subj. √as"
+       },
+       {
+        "w": "asapatnaḥ",
+        "gloss": "without rivals",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sapatnahā̭",
+      "words": [
+       {
+        "w": "sapatna-hā",
+        "gloss": "slayer of rivals",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह सूर्य ऊपर उठ गया है; यह मेरा वचन ऊपर उठे, जिससे मैं शत्रुओं का नाश करने वाला, प्रतिद्वन्द्वी-रहित और प्रतिद्वन्द्वियों का नाश करने वाला हो जाऊँ।",
+  "english": "Up has gone yonder sun; up (goes) this word of mine, so that I may be a slayer of enemies, without rivals, a slayer of rivals.",
+  "text_flags": [],
+  "notes": "udasau is ut + asau and agādudidam is agāt + ut + idam; 'ut' in the second half is taken with agāt understood ('up goes this word of mine').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.029.5a",
+   "001.029.5b"
+  ],
+  "lines_deva": [
+   "उद॒सौ सूर्यो॑ अगा॒दुदि॒दं मा॑म॒कं वचः॑",
+   "यथा॒हं श॑त्रु॒होऽसा॑न्यसपत्नः सपत्नहा॑"
+  ],
+  "lines_iast": [
+   "uda̱sau sūryo̭ agā̱dudi̱daṃ mā̭ma̱kaṃ vaca̭ḥ",
+   "yathā̱haṃ śa̭tru̱ho'sā̭nyasapatnaḥ sapatnahā̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱pa̱tna̱kṣaya̭ṇo̱",
+      "words": [
+       {
+        "w": "sapatna-kṣayaṇaḥ",
+        "gloss": "destroyer of rivals",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vṛṣā̱bhirā̭ṣṭro",
+      "words": [
+       {
+        "w": "vṛṣā",
+        "gloss": "bull, mighty",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhi-rāṣṭraḥ",
+        "gloss": "dominant over the kingdom (?)",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "viṣāsa̱hiḥ",
+      "words": [
+       {
+        "w": "viṣāsahiḥ",
+        "gloss": "all-conquering",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathā̱hame̱ṣāṃ",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vī̱rāṇā̭ṃ",
+      "words": [
+       {
+        "w": "vīrāṇām",
+        "gloss": "of the heroes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi̱rājā̭ni̱",
+      "words": [
+       {
+        "w": "virājāni",
+        "gloss": "may I rule",
+        "gram": "1 sg. subj. vi-√rāj"
+       }
+      ]
+     },
+     {
+      "src": "jana̭sya",
+      "words": [
+       {
+        "w": "janasya",
+        "gloss": "of the people",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रुओं का नाश करने वाला, बलवान् वृषभ, राज्य पर अधिकार रखने वाला, सब पर विजय पाने वाला, जिससे मैं इन वीरों और जन पर शासन करूँ।",
+  "english": "The destroyer of rivals, the mighty bull, dominant over the kingdom, all-conquering: so that I may rule over these heroes and over the people.",
+  "text_flags": [],
+  "notes": "abhirāṣṭra is uncertain (dominant over the kingdom / having the kingdom within reach). The subject of line a (the amulet) is not stated here. virājāni is 'may I rule/shine over'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.029.6a",
+   "001.029.6b"
+  ],
+  "lines_deva": [
+   "स॒प॒त्न॒क्षय॑णो॒ वृषा॒भिरा॑ष्ट्रो विषास॒हिः",
+   "यथा॒हमे॒षां वी॒राणां॑ वि॒राजा॑नि॒ जन॑स्य च"
+  ],
+  "lines_iast": [
+   "sa̱pa̱tna̱kṣaya̭ṇo̱ vṛṣā̱bhirā̭ṣṭro viṣāsa̱hiḥ",
+   "yathā̱hame̱ṣāṃ vī̱rāṇā̭ṃ vi̱rājā̭ni̱ jana̭sya ca"
+  ],
+  "uncertain": []
+ }
+]

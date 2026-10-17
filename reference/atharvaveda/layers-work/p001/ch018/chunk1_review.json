@@ -1,0 +1,84 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Unsupported assertion; should be a text_flag or hedged.",
+     "fix": "The numeral 1 in 'lalāmyaṃ1' is not a word; whether it is an accent notation or a stray digit is not certain.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The numeral 1 in 'lalāmyaṃ1' is an accent notation, not a word.",
+      "new": "The numeral 1 in 'lalāmyaṃ1' is not a word; whether it is an accent notation or a stray digit is not certain.",
+      "n": "1"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prajāyā arātim nayāmasi",
+     "problem": "prajāyā could equally be prajāyai (dative, 'for the offspring') by sandhi; English also adds 'away' (nayāmasi = we lead).",
+     "fix": "Mention the dative alternative in notes; consider dropping 'away'.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "padoḥ",
+     "problem": "pad is masculine.",
+     "fix": "m. gen. du.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "padoḥ",
+      "field": "gram",
+      "value": "m. gen. du.",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "'goddess of favour' imports a role the lines do not state (LAYER_NOTES 3).",
+     "fix": "'Anumati' is treated as a name here.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'Anumati' is a name (goddess of favour), treated as a name here.",
+      "new": "'Anumati' is treated as a name here.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "lalāmyam",
+     "problem": "lalāmya is n. acc. sg. in unit 1 but f. acc. sg. here; pick one and note why.",
+     "fix": "keep the gender agreeing with tāḥ here but note the unit-1 form.",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 3 with issues; 0 errors, 5 minor; no regrouping suggested. Unreviewed AI draft."
+}

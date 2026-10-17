@@ -1,0 +1,24 @@
+[
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "yātu-hā",
+  "old": "slayer of yātu",
+  "new": "slayer of yātu (harmful beings)",
+  "why": "reviewer (minor): GLOSSARY: yātu-type words are glossed 'harmful being'."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जो भक्षक अमावस्या की रात में उठकर बाड़े में आए, उनके विषय में चौथे अग्नि, यातुओं के नाशक, वे हमारे पक्ष में बोलें।",
+  "new": "जो भक्षक अमावस्या की रात में उठकर बाड़े में आए, चौथे अग्नि, यातुओं के नाशक, वे हमारे पक्ष में बोलें।",
+  "why": "reviewer (minor): 'concerning them' is added."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "यदि तुम हमारी गाय को मारते हो, या घोड़े को, या पुरुष को, तो उस तुम को हम सीसे से बेधते हैं, ताकि तुम हमारे वीरों के हत्यारे न रहो।",
+  "new": "यदि तुम हमारी गाय को मारते हो, या घोड़े को, या पुरुष को, तो उस तुम को हम सीसे से बेधते हैं, ताकि तुम हमारे पुरुषों के हत्यारे न रहो।",
+  "why": "reviewer (minor): Gloss and English say 'men'; Hindi says 'heroes'."
+ }
+]

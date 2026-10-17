@@ -1,0 +1,74 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Stand in the lower, stand in the farther, and you stand in the middle. The smallest one also stands; let the great pipe stand still as well.",
+  "new": "Stand in the nearer, stand in the farther, and you stand in the middle. The smallest one also stands; let the great pipe stand still as well.",
+  "why": "reviewer (minor): Unmatched pair: notes say nearer/farther; Hindi says lower/upper; English lower/farther."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "नीचे वाले में ठहरो, ऊपर वाले में ठहरो, और तुम बीच वाले में ठहरो। सबसे छोटी भी ठहरती है; बड़ी धमनी भी ठहर जाए।",
+  "new": "निकट वाले में ठहरो, दूर वाले में ठहरो, और तुम बीच वाले में ठहरो। सबसे छोटी भी ठहरती है; बड़ी धमनी भी ठहर जाए।",
+  "why": "reviewer (minor): Hindi 'नीचे/ऊपर' does not match English 'farther'."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "avare",
+  "old": "in the lower",
+  "new": "in the nearer",
+  "why": "reviewer (minor): pair with pare 'in the farther'."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "निकट वाले में ठहरो, दूर वाले में ठहरो, और तुम बीच वाले में ठहरो। सबसे छोटी भी ठहरती है; बड़ी धमनी भी ठहर जाए।",
+  "new": "निकट वाले में ठहरो, दूर वाले में ठहरो, और तुम बीच वाले में ठहरो। सबसे छोटी भी ठहरती है; बड़ी नली भी ठहर जाए।",
+  "why": "reviewer (minor): धमनी is the modern anatomical word for artery; English deliberately says 'pipe'. Do not identify."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सौ धमनियों और हज़ार हिराओं में से ये बीच वाली ठहर गई हैं; सिरे भी साथ ही शान्त हो गए हैं।",
+  "new": "सौ नलियों और हज़ार हिराओं में से ये बीच वाली ठहर गई हैं; सिरे भी साथ ही शान्त हो गए हैं।",
+  "why": "reviewer (minor): Same: avoid identifying as arteries."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Of the hundred pipes and the thousand hirā, these middle ones have stood still; the ends too have come to rest together.",
+  "new": "Of the hundred pipes and the thousand hirā, these middle ones have stood still; the ends have come to rest together.",
+  "why": "reviewer (minor): 'too' is added (sākam antāḥ araṃsata)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सौ नलियों और हज़ार हिराओं में से ये बीच वाली ठहर गई हैं; सिरे भी साथ ही शान्त हो गए हैं।",
+  "new": "सौ नलियों और हज़ार हिराओं में से ये बीच वाली ठहर गई हैं; सिरे साथ-साथ शान्त हो गए हैं।",
+  "why": "reviewer (minor): 'भी' (also) is added."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Around you the great sandy sandbank has stepped; stand, be still, well and good.",
+  "new": "Around you the great sandy dry land has stepped; stand, be still, well and good.",
+  "why": "reviewer (minor): 'sandy sandbank' is redundant: sikatāvatī already means sandy; dhanu = dry land / sandbank."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "dhanūḥ",
+  "old": "sandbank",
+  "new": "dry land, sandbank",
+  "why": "reviewer (minor): avoid doubling 'sand'."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Unit is a single printed line. Src token 'dhanūrbṛhatya'kramīt|tiṣṭhatelayatā' contains a danda (|) and covers dhanūḥ bṛhatī akramīt | tiṣṭhata ilayata. 'Dhanū' is taken as a feminine 'sandbank, dry land' (alternatively 'bow'); 'ilayata' is a tentative 'be still'. 'Su kam' = 'well, indeed'.",
+  "new": "Unit is a single printed line. Src token 'dhanūrbṛhatya'kramīt|tiṣṭhatelayatā' contains a danda (|) and covers dhanūḥ bṛhatī akramīt | tiṣṭhata ilayata. 'Dhanū' is taken as a feminine 'sandbank, dry land' (alternatively 'bow'); 'ilayata' is a tentative 'be still'. 'Su kam' = 'well, indeed'. Src 'ilayatā' has a lengthened final vowel as printed; read ilayata.",
+  "why": "reviewer (minor): Printed final -ā (ilayatā); the word list gives ilayata silently."
+ }
+]

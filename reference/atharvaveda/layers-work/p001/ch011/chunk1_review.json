@@ -1,0 +1,206 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kṛṇotu",
+     "problem": "kṛṇotu has no object in the draft; 'do the work' / 'कर्म करें' is an unsupported addition (there is no karma/work word). vaṣaṭ te ... kṛṇotu is the natural idiom: vaṣaṭ is what Aryaman 'makes' for Pūṣan.",
+     "fix": "O Pūṣan, in this birthing let Aryaman, the hotṛ priest, the ordainer, make the vaṣaṭ for you. Let the woman, duly delivered, relax; let her joints open apart for the bearing.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "O Pūṣan, in this birthing let Aryaman, the hotṛ priest, the ordainer, make the vaṣaṭ for you. Let the woman, duly delivered, relax; let her joints open apart for the bearing.",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'कर्म करें'",
+     "problem": "Same addition ('कर्म'); also Hindi lists अर्यमा, होता, विधाता as three agents while English and notes treat hotṛ and ordainer as apposition to Aryaman.",
+     "fix": "हे पूषन्, इस प्रसव में होता अर्यमा, विधाता, तुम्हारे लिए वषट् करें। ऋत के अनुसार प्रसव करने वाली नारी शिथिल हो जाए, उसके जोड़ प्रसव के लिए खुल जाएँ।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "हे पूषन्, इस प्रसव में होता अर्यमा, विधाता, तुम्हारे लिए वषट् करें। ऋत के अनुसार प्रसव करने वाली नारी शिथिल हो जाए, उसके जोड़ प्रसव के लिए खुल जाएँ।",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jihatām",
+     "problem": "person/number missing; subject is parvāṇi (plural).",
+     "fix": "3 pl. impv. mid. √hā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jihatām",
+      "field": "gram",
+      "value": "3 pl. impv. mid. √hā",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ṛta-prajātā",
+     "problem": "'bahuvrīhi' is wrong for ṛta- + a past participle used predicatively.",
+     "fix": "tat-puruṣa f. nom. sg. p.p. pra-√jan",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ṛta-prajātā",
+      "field": "gram",
+      "value": "tat-puruṣa f. nom. sg. p.p. pra-√jan",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ūrṇuvantu",
+     "problem": "root '√ṛnu' does not exist; the verb is vi-ūrṇu (√vṛ 'uncover, open').",
+     "fix": "3 pl. impv. vi-√ūrṇu (= vi-√vṛ)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "ūrṇuvantu",
+      "field": "gram",
+      "value": "3 pl. impv. vi-√ūrṇu (= vi-√vṛ)",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vyūrṇotu",
+     "problem": "root 'vi-√ṛṇu' does not exist; same verb as in unit 2.",
+     "fix": "3 sg. impv. vi-√ūrṇu (= vi-√vṛ)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vyūrṇotu",
+      "field": "gram",
+      "value": "3 sg. impv. vi-√ūrṇu (= vi-√vṛ)",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sūṣaṇe",
+     "problem": "Hindi transliterates (हे सूषणा) while English translates ('deliverer'); notes say the sense is uncertain/possibly a name. Make both the same.",
+     "fix": "O Sūṣaṇā",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "O deliverer",
+      "new": "O Sūṣaṇā",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sūṣaṇe",
+     "problem": "keep the uncertainty in the gloss once English transliterates.",
+     "fix": "O Sūṣaṇā (obscure; perhaps 'deliverer')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sūṣaṇe",
+      "field": "gloss",
+      "value": "O Sūṣaṇā (obscure; perhaps 'deliverer')",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śevalam",
+     "problem": "accusative is impossible with the intransitive avaitu 'let it go away'; śevalam must be nominative (agreeing with pṛśni as adjective or in apposition).",
+     "fix": "n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śevalam",
+      "field": "gram",
+      "value": "n. nom. sg.",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'वह चिपचिपी वस्तु'",
+     "problem": "'वह चिपचिपी वस्तु' (that sticky thing) is invented paraphrase of śevala; and jarāyu in 'śune jarāyv attave' is dropped from both languages.",
+     "fix": "शेवल, कुत्ते के लिए, जरायु खाने के लिए;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह चिपचिपी वस्तु, कुत्ते के खाने के लिए;",
+      "new": "शेवल, कुत्ते के लिए, जरायु खाने के लिए;",
+      "n": "4"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "jarāyu in 'śune jarāyv attave' is split off in the words (jarāyu + attave) but absent from the translation.",
+     "fix": "the slime; to the dog the afterbirth for eating;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the slime, to the dog for eating;",
+      "new": "the slime; to the dog the afterbirth for eating;",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "gavīnike",
+     "problem": "English keeps 'gavīnī', Hindi uses a different form 'गवीनिका'; use one rendering.",
+     "fix": "दोनों गवीनी को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों गवीनिकाओं को",
+      "new": "दोनों गवीनी को",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "6 units; 5 with issues; 4 errors, 8 minor; no regrouping suggested. Unreviewed AI draft."
+}

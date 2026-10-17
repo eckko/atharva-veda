@@ -1,0 +1,126 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "'Homage to you, let there be, to the lightning' is garbled word order; astu belongs to the first and third lines.",
+     "fix": "Let there be homage to you, to the lightning; homage to you, to the thunder. Let there be homage to you, to the stone with which you hurl at the irreverent one.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Let there be homage to you, to the lightning; homage to you, to the thunder. Let there be homage to you, to the stone with which you hurl at the irreverent one.",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pravataḥ",
+     "problem": "pravat is feminine.",
+     "fix": "f. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pravataḥ",
+      "field": "gram",
+      "value": "f. gen. sg.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pravataḥ",
+     "problem": "pravat is feminine.",
+     "fix": "f. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pravataḥ",
+      "field": "gram",
+      "value": "f. gen. sg.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yat",
+     "problem": "yat is the conjunction 'that', not a relative to dhāma (nihitā is feminine and cannot agree with dhāma).",
+     "fix": "that",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yat",
+      "field": "gloss",
+      "value": "that",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english 'which is in secret'",
+     "problem": "'which is in secret' adds a copula and wrongly makes yat a relative of dhāma.",
+     "fix": "hidden, that within the sea you are placed as navel.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "which is in secret: within the sea you are placed, as navel.",
+      "new": "hidden, that within the sea you are placed as navel.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi 'जो गुप्त है'",
+     "problem": "Same: yat dropped/misconstrued.",
+     "fix": "गुप्त रूप से, कि समुद्र के भीतर तुम नाभि के रूप में स्थापित हो।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो गुप्त है; समुद्र के भीतर तुम नाभि के रूप में स्थापित हो।",
+      "new": "गुप्त रूप से, कि समुद्र के भीतर तुम नाभि के रूप में स्थापित हो।",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "iṣum",
+     "problem": "iṣu is feminine; dhṛṣṇum is already f. acc. sg. in the same unit.",
+     "fix": "f. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "iṣum",
+      "field": "gram",
+      "value": "f. acc. sg.",
+      "n": "4"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "4 units; 4 with issues; 0 errors, 7 minor; no regrouping suggested. Unreviewed AI draft."
+}

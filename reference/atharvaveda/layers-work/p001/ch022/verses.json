@@ -1,0 +1,611 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anu̱",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "after, following",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̱muda̭yatāṃ",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "the sun",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "udayatām",
+        "gloss": "let both rise",
+        "gram": "3 du. impv. ud-√i"
+       }
+      ]
+     },
+     {
+      "src": "hṛddayo̱to",
+      "words": [
+       {
+        "w": "hṛd-dyotaḥ",
+        "gloss": "heart-glow, heart-burning",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ha̭ri̱mā",
+      "words": [
+       {
+        "w": "harimā",
+        "gloss": "yellowness",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "go",
+      "words": [
+       {
+        "w": "goḥ",
+        "gloss": "of the cow",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rohi̭tasya̱",
+      "words": [
+       {
+        "w": "rohitasya",
+        "gloss": "of the red one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇḙna̱",
+      "words": [
+       {
+        "w": "varṇena",
+        "gloss": "colour",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadhmasi",
+      "words": [
+       {
+        "w": "dadhmasi",
+        "gloss": "we place, put",
+        "gram": "1 pl. pres. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारी हृदय की जलन और पीलापन सूर्य के पीछे-पीछे ऊपर उठ जाएँ। गाय के लाल के उस वर्ण से हम तुम्हें चारों ओर से ढकते हैं।",
+  "english": "Let your heart-glow and your yellowness rise up following the sun. With the colour of the red one of the cow, with that we place around you.",
+  "text_flags": [
+   {
+    "src": "hṛddayo̱to",
+    "suggest": "hṛddyoto",
+    "why": "possible: extra 'a'; the form is hṛd-dyotaḥ, and the metre gives 8 syllables only without it"
+   }
+  ],
+  "notes": "Taken as hṛd-dyotaḥ 'heart-glow/heart-burning' (literal). udayatām is a dual imperative with the two subjects hṛddyotaḥ and harimā. 'goḥ rohitasya' is read as 'of the red one of the cow'; the exact referent is not stated in the line. pari dadhmasi is read as 'we clothe around'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.022.1a",
+   "001.022.1b"
+  ],
+  "lines_deva": [
+   "अनु॒ सूर्य॒मुद॑यतां हृद्दयो॒तो ह॑रि॒मा च॑ ते",
+   "गो रोहि॑तस्य॒ वर्णे॑न॒ तेन॑ त्वा॒ परि॑ दध्मसि"
+  ],
+  "lines_iast": [
+   "anu̱ sūrya̱muda̭yatāṃ hṛddayo̱to ha̭ri̱mā ca̭ te",
+   "go rohi̭tasya̱ varṇḙna̱ tena̭ tvā̱ pari̭ dadhmasi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rohi̭tai̱rvarṇai̭rdīrghāyu̱tvāya̭",
+      "words": [
+       {
+        "w": "rohitaiḥ",
+        "gloss": "red",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "varṇaiḥ",
+        "gloss": "colours",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "dīrgha-āyu-tvāya",
+        "gloss": "for long life",
+        "gram": "n. dat. sg., karmadhāraya + -tva"
+       }
+      ]
+     },
+     {
+      "src": "dadhmasi",
+      "words": [
+       {
+        "w": "dadhmasi",
+        "gloss": "we place",
+        "gram": "1 pl. pres. √dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathā̱yama̭ra̱pā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "arapāḥ",
+        "gloss": "free from harm (?)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asa̱datho̱",
+      "words": [
+       {
+        "w": "asat",
+        "gloss": "may be",
+        "gram": "3 sg. subj. √as"
+       },
+       {
+        "w": "atho",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aha̭rito̱",
+      "words": [
+       {
+        "w": "aharitaḥ",
+        "gloss": "not yellow",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭t",
+      "words": [
+       {
+        "w": "bhuvat",
+        "gloss": "may become",
+        "gram": "3 sg. aor. subj. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लम्बी आयु के लिए हम तुम्हें लाल रंगों से चारों ओर से ढकते हैं, जिससे यह हानि से मुक्त हो और पीला न रहे।",
+  "english": "With red colours we place around you for length of life, so that this one may be free from harm and not yellow.",
+  "text_flags": [],
+  "notes": "arapāḥ is taken as 'free from harm' (a-rapas-type sense); the exact word analysis is uncertain. dīrghāyutvāya is dīrgha-āyu-tva 'state of long life'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.022.2a",
+   "001.022.2b"
+  ],
+  "lines_deva": [
+   "परि॑ त्वा॒ रोहि॑तै॒र्वर्णै॑र्दीर्घायु॒त्वाय॑ दध्मसि",
+   "यथा॒यम॑र॒पा अस॒दथो॒ अह॑रितो॒ भुव॑त्"
+  ],
+  "lines_iast": [
+   "pari̭ tvā̱ rohi̭tai̱rvarṇai̭rdīrghāyu̱tvāya̭ dadhmasi",
+   "yathā̱yama̭ra̱pā asa̱datho̱ aha̭rito̱ bhuva̭t"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rohi̭ṇīrdeva̱tyā̱3",
+      "words": [
+       {
+        "w": "rohiṇīḥ",
+        "gloss": "red ones",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "devatyāḥ",
+        "gloss": "belonging to the gods",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gāvo̱",
+      "words": [
+       {
+        "w": "gāvaḥ",
+        "gloss": "cows",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rohi̭ṇīḥ",
+      "words": [
+       {
+        "w": "rohiṇīḥ",
+        "gloss": "red ones",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "rū̱paṃrṷ̄paṃ",
+      "words": [
+       {
+        "w": "rūpam",
+        "gloss": "form",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "rūpam",
+        "gloss": "form",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vayo̭vaya̱stābhi̭ṣṭvā̱",
+      "words": [
+       {
+        "w": "vayaḥ",
+        "gloss": "age, vigour",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "vayaḥ",
+        "gloss": "age, vigour",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "tābhiḥ",
+        "gloss": "with those",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadhmasi",
+      "words": [
+       {
+        "w": "dadhmasi",
+        "gloss": "we place",
+        "gram": "1 pl. pres. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो लाल गायें देवों की हैं, और जो अन्य भी लाल हैं, उनके द्वारा, प्रत्येक रूप और प्रत्येक आयु के लिए, हम तुम्हें चारों ओर से ढकते हैं।",
+  "english": "The red ones that belong to the gods, the cows, and those that are red as well: with them, for every form and every age, we place around you.",
+  "text_flags": [],
+  "notes": "The printed 3 after devatyā is the pluta (prolongation) sign. rūpaṃ-rūpam and vayo-vayaḥ are repetitions meaning 'each form' and 'each age/vigour'; the exact sense of vayas here (age or vigour) is uncertain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.022.3a",
+   "001.022.3b"
+  ],
+  "lines_deva": [
+   "या रोहि॑णीर्देव॒त्या॒३ गावो॒ या उ॒त रोहि॑णीः",
+   "रू॒पंरू॑पं वयो॑वय॒स्ताभि॑ष्ट्वा॒ परि॑ दध्मसि"
+  ],
+  "lines_iast": [
+   "yā rohi̭ṇīrdeva̱tyā̱3 gāvo̱ yā u̱ta rohi̭ṇīḥ",
+   "rū̱paṃrṷ̄paṃ vayo̭vaya̱stābhi̭ṣṭvā̱ pari̭ dadhmasi"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śukḙṣu",
+      "words": [
+       {
+        "w": "śukeṣu",
+        "gloss": "parrots",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hari̱māṇa̭ṃ",
+      "words": [
+       {
+        "w": "harimāṇam",
+        "gloss": "yellowness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ropa̱ṇākā̭su",
+      "words": [
+       {
+        "w": "ropaṇākāsu",
+        "gloss": "ropaṇākā (name)",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dadhmasi",
+      "words": [
+       {
+        "w": "dadhmasi",
+        "gloss": "we place",
+        "gram": "1 pl. pres. √dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "atho̱",
+      "words": [
+       {
+        "w": "atho",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hāri̭draveṣu",
+      "words": [
+       {
+        "w": "hāridraveṣu",
+        "gloss": "hāridrava (name)",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hari̱māṇa̱ṃ",
+      "words": [
+       {
+        "w": "harimāṇam",
+        "gloss": "yellowness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhmasi",
+      "words": [
+       {
+        "w": "dadhmasi",
+        "gloss": "we place",
+        "gram": "1 pl. pres. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे पीलेपन को हम तोतों में और रोपणाकाओं में रखते हैं; और हारिद्रवों में भी तुम्हारे पीलेपन को स्थापित करते हैं।",
+  "english": "Your yellowness we place in the parrots, in the ropaṇākās; and in the hāridravas too we set down your yellowness.",
+  "text_flags": [],
+  "notes": "ropaṇākā and hāridrava are kept as names; they are not identified here. śuka is the literal word 'parrot'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.022.4a",
+   "001.022.4b"
+  ],
+  "lines_deva": [
+   "शुके॑षु ते हरि॒माणं॑ रोप॒णाका॑सु दध्मसि",
+   "अथो॒ हारि॑द्रवेषु ते हरि॒माणं॒ नि द॑ध्मसि"
+  ],
+  "lines_iast": [
+   "śukḙṣu te hari̱māṇa̭ṃ ropa̱ṇākā̭su dadhmasi",
+   "atho̱ hāri̭draveṣu te hari̱māṇa̱ṃ ni da̭dhmasi"
+  ],
+  "uncertain": []
+ }
+]
