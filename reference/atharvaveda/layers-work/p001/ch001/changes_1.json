@@ -1,0 +1,23 @@
+[
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "vacaspate",
+    "suggest": "vācaspate",
+    "why": "possible: short a for long ā; the same name is printed vācaspati elsewhere in this hymn."
+   }
+  ],
+  "why": "reviewer (minor): Printed vacaspate has short a; the vocative of vācaspati is vācaspate (as in 1a, 3b, 4 and the draft's own split). Not flagged."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "ubhe",
+  "old": "acc. du.",
+  "new": "nom./acc. du.",
+  "why": "reviewer (minor): ubhe is nom./acc. dual (here agreeing with ārtnī), labelled only acc.; inconsistent with ārtnī nom. du."
+ }
+]

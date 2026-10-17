@@ -1,0 +1,509 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱mbayo̭",
+      "words": [
+       {
+        "w": "ambayaḥ",
+        "gloss": "mothers",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ya̱ntyadhva̭bhirjā̱mayo̭",
+      "words": [
+       {
+        "w": "yanti",
+        "gloss": "they go",
+        "gram": "3 pl. pres. √i"
+       },
+       {
+        "w": "adhvabhiḥ",
+        "gloss": "along the paths",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "jāmayaḥ",
+        "gloss": "sisters, kinswomen",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "adhvarīya̱tām|",
+      "words": [
+       {
+        "w": "adhvarīyatām",
+        "gloss": "of those seeking the rite",
+        "gram": "pres. part. gen. pl. denom. adhvarīya"
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱ñca̱tīrma̭dhṷnā̱",
+      "words": [
+       {
+        "w": "pṛñcatīḥ",
+        "gloss": "mixing",
+        "gram": "pres. part. f. nom. pl. √pṛc"
+       },
+       {
+        "w": "madhunā",
+        "gloss": "with honey, sweetness",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "paya̭ḥ",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "माताएँ मार्गों से जाती हैं, यज्ञ चाहने वालों की बहनें, मधु से दूध को मिलाती हुई।",
+  "english": "The mothers go along the paths, the sisters of those who seek the rite, mixing the milk with honey.",
+  "text_flags": [],
+  "notes": "The line does not name the subject; ambayaḥ 'mothers' is read as the waters of the hymn (see unit 3, apo devīḥ). jāmayaḥ is read as nominative in apposition. madhunā is rendered 'with sweetness' (also 'honey'); payaḥ 'milk' (it may also mean water).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.004.1"
+  ],
+  "lines_deva": [
+   "अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्। पृ॒ञ्च॒तीर्म॑धु॑ना॒ पयः॑"
+  ],
+  "lines_iast": [
+   "a̱mbayo̭ ya̱ntyadhva̭bhirjā̱mayo̭ adhvarīya̱tām| pṛ̱ñca̱tīrma̭dhṷnā̱ paya̭ḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱mūryā",
+      "words": [
+       {
+        "w": "amūḥ",
+        "gloss": "those",
+        "gram": "dem. f. nom. pl."
+       },
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "rel. f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "upa̱",
+      "words": [
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūrye̱",
+      "words": [
+       {
+        "w": "sūrye",
+        "gloss": "the sun",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yābhi̭rvā̱",
+      "words": [
+       {
+        "w": "yābhiḥ",
+        "gloss": "with which",
+        "gram": "rel. f. inst. pl."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭ḥ",
+      "words": [
+       {
+        "w": "sūryaḥ",
+        "gloss": "the sun",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ha|",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "they",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hinvantvadhva̱ram",
+      "words": [
+       {
+        "w": "hinvantu",
+        "gloss": "let them speed",
+        "gram": "3 pl. imp. √hi"
+       },
+       {
+        "w": "adhvaram",
+        "gloss": "rite",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे जो सूर्य के समीप हैं, अथवा जिनके साथ सूर्य है, वे हमारे यज्ञ को आगे बढ़ाएँ।",
+  "english": "Those that are near the sun, or with which the sun is together — may they speed our rite.",
+  "text_flags": [],
+  "notes": "amūryā: read as amūḥ yāḥ ('those which'). 'Waters' is not named in this unit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.004.2"
+  ],
+  "lines_deva": [
+   "अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह। ता नो॑ हिन्वन्त्वध्व॒रम्"
+  ],
+  "lines_iast": [
+   "a̱mūryā upa̱ sūrye̱ yābhi̭rvā̱ sūrya̭ḥ sa̱ha| tā no̭ hinvantvadhva̱ram"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱po",
+      "words": [
+       {
+        "w": "apaḥ",
+        "gloss": "waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vīrupa̭",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "divine",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "upa",
+        "gloss": "near, to",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "hvaye̱",
+      "words": [
+       {
+        "w": "hvaye",
+        "gloss": "I call",
+        "gram": "1 sg. pres. mid. √hve"
+       }
+      ]
+     },
+     {
+      "src": "yatra̱",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gāva̱ḥ",
+      "words": [
+       {
+        "w": "gāvaḥ",
+        "gloss": "cows",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "piba̭nti",
+      "words": [
+       {
+        "w": "pibanti",
+        "gloss": "they drink",
+        "gram": "3 pl. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sindhṷbhya̱ḥ",
+      "words": [
+       {
+        "w": "sindhubhyaḥ",
+        "gloss": "for the rivers",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "kartva̭ṃ",
+      "words": [
+       {
+        "w": "kartvam",
+        "gloss": "to be made",
+        "gram": "gerundive n. nom. sg. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ha̱viḥ",
+      "words": [
+       {
+        "w": "haviḥ",
+        "gloss": "oblation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं दिव्य जलों को बुलाता हूँ, जहाँ हमारी गौएँ पीती हैं; नदियों के लिए हवि अर्पित करनी है।",
+  "english": "I call to the divine waters, where our cows drink; an oblation is to be made for the rivers.",
+  "text_flags": [],
+  "notes": "sindhu rendered 'river'. kartvam haviḥ read as 'an oblation to be made' (gerundive); an infinitive reading 'to make' is possible.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.004.3"
+  ],
+  "lines_deva": [
+   "अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः । सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः"
+  ],
+  "lines_iast": [
+   "a̱po de̱vīrupa̭ hvaye̱ yatra̱ gāva̱ḥ piba̭nti naḥ | sindhṷbhya̱ḥ kartva̭ṃ ha̱viḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱psva̭1ntara̱mṛta̭ma̱psu",
+      "words": [
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "immortality",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhḙṣa̱jam",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "remedy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱pāmu̱ta",
+      "words": [
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "uta",
+        "gloss": "and also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praśa̭stibhi̱raśvā̱",
+      "words": [
+       {
+        "w": "praśastibhiḥ",
+        "gloss": "by the praises",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "aśvāḥ",
+        "gloss": "O horses",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhava̭tha",
+      "words": [
+       {
+        "w": "bhavatha",
+        "gloss": "you become",
+        "gram": "2 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "vā̱jino̱",
+      "words": [
+       {
+        "w": "vājinaḥ",
+        "gloss": "swift, vigorous",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gāvo̭",
+      "words": [
+       {
+        "w": "gāvaḥ",
+        "gloss": "O cows",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavatha",
+      "words": [
+       {
+        "w": "bhavatha",
+        "gloss": "you become",
+        "gram": "2 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "vā̱jinī̭ḥ",
+      "words": [
+       {
+        "w": "vājinīḥ",
+        "gloss": "swift, vigorous",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जलों के भीतर अमृत है, जलों में औषध है; और जलों की प्रशस्तियों से, हे घोड़ो, तुम बलवान बनो, हे गौओ, तुम बलवती बनो।",
+  "english": "Within the waters is immortality, in the waters is remedy; and by the praises of the waters, O horses, become vigorous; O cows, become vigorous.",
+  "text_flags": [],
+  "notes": "The unit has two printed lines of different length. apsu antaḥ amṛtam: 'immortality' (or the drink of immortality). bheṣaja is glossed 'remedy' only. vājin rendered 'vigorous' (also 'swift').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.004.4a",
+   "001.004.4b"
+  ],
+  "lines_deva": [
+   "अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्",
+   "अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑"
+  ],
+  "lines_iast": [
+   "a̱psva̭1ntara̱mṛta̭ma̱psu bhḙṣa̱jam",
+   "a̱pāmu̱ta praśa̭stibhi̱raśvā̱ bhava̭tha vā̱jino̱ gāvo̭ bhavatha vā̱jinī̭ḥ"
+  ],
+  "uncertain": []
+ }
+]

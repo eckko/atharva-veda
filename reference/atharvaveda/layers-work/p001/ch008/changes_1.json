@@ -1,0 +1,44 @@
+[
+ {
+  "n": "1",
+  "field": "word.w",
+  "word": "akaḥ",
+  "old": "akaḥ",
+  "new": "akar",
+  "why": "reviewer (error): The printed word is akar (aor. 3 sg. of √kṛ); w 'akaḥ' is not a verb form, and the note defends it."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "akar (aor. 3 sg. of √kṛ) is written akaḥ in the split; nadī phenam iva ā vahat is read 'as a river carries foam' (the verb 'carry' is shared with the simile). stuvatām: 'let him praise'; the sense (praise, confess) is not stated further.",
+  "new": "akar is the aor. 3 sg. of √kṛ; nadī phenam iva ā vahat is read 'as a river carries foam' (the verb 'carry' is shared with the simile). stuvatām: 'let him praise'; the sense (praise, confess) is not stated further.",
+  "why": "reviewer (error): The printed word is akar (aor. 3 sg. of √kṛ); w 'akaḥ' is not a verb form, and the note defends it."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "This one has come, praising; welcome this one. O Bṛhaspati, having brought him into your power, O Agni and Soma, pierce him through.",
+  "new": "This one has come, praising; welcome this one. O Bṛhaspati, having obtained him in your power, O Agni and Soma, pierce him through.",
+  "why": "reviewer (minor): 'brought him into your power' makes labdhvā 'having brought'; it is 'having obtained'. Hindi 'अपने वश में करके' also drifts."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "यह स्तुति करता हुआ आ गया है; इस का स्वागत करो। हे बृहस्पति, इसे अपने वश में करके, हे अग्नि और सोम, तुम दोनों इसे बींध दो।",
+  "new": "यह स्तुति करता हुआ आ गया है; इस का स्वागत करो। हे बृहस्पति, इसे वश में पाकर, हे अग्नि और सोम, तुम दोनों इसे बींध दो।",
+  "why": "reviewer (minor): 'brought him into your power' makes labdhvā 'having brought'; it is 'having obtained'. Hindi 'अपने वश में करके' also drifts."
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "ja̱hye'ṣāṃ",
+    "suggest": "jahy eṣām",
+    "why": "possible: the avagraha after e is unexplained; read as jahi + eṣām."
+   }
+  ],
+  "why": "reviewer (minor): The avagraha in jahye'ṣām is unexplained; the same kind of mark was flagged in 2.2, here it is not."
+ }
+]

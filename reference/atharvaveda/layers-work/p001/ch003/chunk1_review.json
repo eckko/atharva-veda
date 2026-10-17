@@ -1,0 +1,93 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "gavīnyoḥ",
+     "problem": "Gloss adds '(ducts)', an identification; the note says it is glossed by its name only.",
+     "fix": "in the two gavīnī (name of a bodily part)",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "gavīnyoḥ",
+      "field": "gloss",
+      "value": "in the two gavīnī (name of a bodily part)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "saṃśrutam",
+     "problem": "Printed ś (√śru 'heard') but gloss 'flowed together' assumes √sru; gram gives no root, so the mismatch is invisible.",
+     "fix": "p.p. n. nom. sg. saṃ-√śru as printed; the sense 'collected' suggests saṃ-√sru",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "saṃśrutam",
+      "field": "gram",
+      "value": "p.p. n. nom. sg. saṃ-√śru as printed; the sense 'collected' suggests saṃ-√sru"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "first clause",
+     "problem": "The first 'yat' (what) of the pair is dropped; Hindi starts with a bare locative list.",
+     "fix": "जो आँतों में है, जो दोनों गवीनियों में है, और जो मूत्राशय में एकत्र हुआ है",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आँतों में, दोनों गवीनियों में, और जो मूत्राशय में एकत्र हुआ है",
+      "new": "जो आँतों में है, जो दोनों गवीनियों में है, और जो मूत्राशय में एकत्र हुआ है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Sound; refrain consistent. Three minor fixes in unit 6 (gavīnī gloss, saṃśrutam root, dropped yat in Hindi). No regrouping suggested."
+}

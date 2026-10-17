@@ -1,0 +1,138 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yoḥ",
+     "problem": "yos is an indeclinable 'welfare' in the fixed pair śaṃ yoḥ, not a neuter nominative.",
+     "fix": "ind. (yos, 'welfare'; fixed pair śaṃ yoḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "yoḥ",
+      "field": "gram",
+      "value": "ind. (yos, 'welfare'; fixed pair śaṃ yoḥ)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vi̱śvaśa̭ṃ bhuvam",
+     "problem": "Printed as two tokens with a space, but the compound is viśvaśambhuvam; only the notes mention it, text_flags is empty.",
+     "fix": "text_flags entry for the split compound",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vi̱śvaśa̭ṃ",
+        "suggest": "viśvaśambhuvam",
+        "why": "possible: one compound word printed as two tokens (viśvaśaṃ bhuvam)."
+       }
+      ]
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "viśva-śam / bhuvam",
+     "problem": "The halves of one compound are glossed as if separate words ('all-beneficent' on the first, 'bringing, being' on the second).",
+     "fix": "viśva-śam: 'all well-being' (first members of viśvaśambhuvam); bhuvam: 'bringing (last member)'",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "viśva-śam",
+       "field": "gloss",
+       "value": "all well-being (first members of the compound viśvaśambhuvam)"
+      },
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "viśva-śam",
+       "field": "gram",
+       "value": "compound member (viśva + śam)"
+      },
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "bhuvam",
+       "field": "gloss",
+       "value": "bringing (last member of the compound)"
+      },
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "bhuvam",
+       "field": "gram",
+       "value": "m. acc. sg. -bhū (√bhū), compound member"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pṛṇīta",
+     "problem": "Labelled middle; pṛṇīta is the active 2 pl. imperative (middle would be pṛṇīdhvam). Notes already say only '2 pl. imperative'.",
+     "fix": "2 pl. imp. √pṝ",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "pṛṇīta",
+      "field": "gram",
+      "value": "2 pl. imp. √pṝ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āpaḥ (second line)",
+     "problem": "Labelled vocative, but the line is the nominative subject ('may the dug waters be well-being'), as in the draft's own English and the first line.",
+     "fix": "gloss 'waters', gram f. nom. pl.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "āpaḥ",
+       "occurrence": 2,
+       "field": "gloss",
+       "value": "waters"
+      },
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "āpaḥ",
+       "occurrence": 2,
+       "field": "gram",
+       "value": "f. nom. pl."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "Two label errors (pṛṇīta voice, second āpaḥ vocative should be nominative) and three minor fixes. No regrouping suggested."
+}

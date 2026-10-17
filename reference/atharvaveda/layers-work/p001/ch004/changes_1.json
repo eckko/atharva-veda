@@ -1,0 +1,23 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The mothers go along the paths, the sisters of those who seek the rite, mixing the milk with sweetness.",
+  "new": "The mothers go along the paths, the sisters of those who seek the rite, mixing the milk with honey.",
+  "why": "reviewer (minor): English 'sweetness' but Hindi 'मधु' (honey); the two translations disagree."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "माताएँ उन मार्गों से जाती हैं, यज्ञ चाहने वालों की बहनें, जो मधु से दूध को मिलाती हैं।",
+  "new": "माताएँ मार्गों से जाती हैं, यज्ञ चाहने वालों की बहनें, मधु से दूध को मिलाती हुई।",
+  "why": "reviewer (minor): 'उन मार्गों' adds a demonstrative; 'जो ... मिलाती हैं' turns the participle pṛñcatīḥ into a relative clause."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "मैं दिव्य जलों को बुलाता हूँ, जहाँ हमारी गौएँ पीती हैं; सिन्धुओं के लिए हवि अर्पित करनी है।",
+  "new": "मैं दिव्य जलों को बुलाता हूँ, जहाँ हमारी गौएँ पीती हैं; नदियों के लिए हवि अर्पित करनी है।",
+  "why": "reviewer (minor): Notes and English say 'river'; Hindi leaves सिन्धु, which reads as a name."
+ }
+]

@@ -1,0 +1,93 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "akaḥ",
+     "problem": "The printed word is akar (aor. 3 sg. of √kṛ); w 'akaḥ' is not a verb form, and the note defends it.",
+     "fix": "w akar; note corrected",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "1",
+       "op": "word",
+       "match_w": "akaḥ",
+       "field": "w",
+       "value": "akar"
+      },
+      {
+       "n": "1",
+       "op": "replace",
+       "field": "notes",
+       "old": "akar (aor. 3 sg. of √kṛ) is written akaḥ in the split; ",
+       "new": "akar is the aor. 3 sg. of √kṛ; "
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vaśe labdhvā",
+     "problem": "'brought him into your power' makes labdhvā 'having brought'; it is 'having obtained'. Hindi 'अपने वश में करके' also drifts.",
+     "fix": "having obtained him in your power / इसे वश में पाकर",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "english",
+       "old": "having brought him into your power",
+       "new": "having obtained him in your power"
+      },
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "hindi",
+       "old": "इसे अपने वश में करके",
+       "new": "इसे वश में पाकर"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ja̱hye'ṣāṃ",
+     "problem": "The avagraha in jahye'ṣām is unexplained; the same kind of mark was flagged in 2.2, here it is not.",
+     "fix": "flag, suggest jahy eṣām",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "ja̱hye'ṣāṃ",
+        "suggest": "jahy eṣām",
+        "why": "possible: the avagraha after e is unexplained; read as jahi + eṣām."
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "One error: akar printed, w given as akaḥ. Two minor (labdhvā, missing flag for jahye'ṣām). Units 3 and 4 low confidence is honest. No regrouping suggested."
+}

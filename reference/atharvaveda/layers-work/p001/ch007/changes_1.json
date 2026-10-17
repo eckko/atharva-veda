@@ -1,0 +1,39 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "O Parameṣṭhin, Jātavedas, ruler of the body, O Agni, partake of the clarified butter and of the taula; make the yātudhānas lament.",
+  "new": "O Parameṣṭhin, Jātavedas, one having power over the body, O Agni, partake of the clarified butter and of the taula; make the yātudhānas lament.",
+  "why": "reviewer (minor): 'ruler of the body' is stronger than the gloss ('having power over the body') and the note says the sense is uncertain."
+ },
+ {
+  "n": "4",
+  "field": "text_flags.0.why",
+  "old": "possible: the nominative visarga is missing before pūrva; the sense and metre need agniḥ.",
+  "new": "possible: the nominative visarga is missing before pūrva; agniḥ expected.",
+  "why": "reviewer (minor): The 'metre' claim in the flag cannot be checked here; the grammatical reason alone is enough."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे जातवेदा, हम तुम्हारा पराक्रम देखें; हे मनुष्यों के द्रष्टा, हमें यातुधानों के बारे में बताओ। तुमसे चारों ओर तपाए हुए वे सब सामने आएँ, घोषणा करते हुए, इस स्थान पर।",
+  "new": "हे जातवेदा, हम तुम्हारा पराक्रम देखें; हे मनुष्यों के द्रष्टा, हमें यातुधानों को बताओ। तुमसे चारों ओर तपाए हुए वे सब सामने आएँ, घोषणा करते हुए, इस स्थान पर।",
+  "why": "reviewer (minor): Hindi 'के बारे में' (about) changes the construction; English and the note have the yātudhānas as the thing declared."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "api",
+  "old": "also",
+  "new": "(preverb with vṛścatu) off",
+  "why": "reviewer (minor): Glossed 'also, even' but the translations leave it out; with vṛścatu it is far more naturally a separated preverb (api-vṛścatu, cut off)."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "api",
+  "old": "ind.",
+  "new": "ind. (preverb, separated from vṛścatu)",
+  "why": "reviewer (minor): Glossed 'also, even' but the translations leave it out; with vṛścatu it is far more naturally a separated preverb (api-vṛścatu, cut off)."
+ }
+]

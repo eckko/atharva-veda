@@ -1,0 +1,79 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "yoḥ",
+  "old": "n. nom. sg.",
+  "new": "ind. (yos, 'welfare'; fixed pair śaṃ yoḥ)",
+  "why": "reviewer (minor): yos is an indeclinable 'welfare' in the fixed pair śaṃ yoḥ, not a neuter nominative."
+ },
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "vi̱śvaśa̭ṃ",
+    "suggest": "viśvaśambhuvam",
+    "why": "possible: one compound word printed as two tokens (viśvaśaṃ bhuvam)."
+   }
+  ],
+  "why": "reviewer (minor): Printed as two tokens with a space, but the compound is viśvaśambhuvam; only the notes mention it, text_flags is empty."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "viśva-śam",
+  "old": "all-beneficent",
+  "new": "all well-being (first members of the compound viśvaśambhuvam)",
+  "why": "reviewer (minor): The halves of one compound are glossed as if separate words ('all-beneficent' on the first, 'bringing, being' on the second)."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "viśva-śam",
+  "old": "n. acc. sg.",
+  "new": "compound member (viśva + śam)",
+  "why": "reviewer (minor): The halves of one compound are glossed as if separate words ('all-beneficent' on the first, 'bringing, being' on the second)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "bhuvam",
+  "old": "bringing, being",
+  "new": "bringing (last member of the compound)",
+  "why": "reviewer (minor): The halves of one compound are glossed as if separate words ('all-beneficent' on the first, 'bringing, being' on the second)."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "bhuvam",
+  "old": "m. acc. sg. √bhū",
+  "new": "m. acc. sg. -bhū (√bhū), compound member",
+  "why": "reviewer (minor): The halves of one compound are glossed as if separate words ('all-beneficent' on the first, 'bringing, being' on the second)."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "pṛṇīta",
+  "old": "2 pl. imp. mid. √pṝ",
+  "new": "2 pl. imp. √pṝ",
+  "why": "reviewer (error): Labelled middle; pṛṇīta is the active 2 pl. imperative (middle would be pṛṇīdhvam). Notes already say only '2 pl. imperative'."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "āpaḥ",
+  "old": "O waters",
+  "new": "waters",
+  "why": "reviewer (error): Labelled vocative, but the line is the nominative subject ('may the dug waters be well-being'), as in the draft's own English and the first line."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "āpaḥ",
+  "old": "f. voc. pl.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (error): Labelled vocative, but the line is the nominative subject ('may the dug waters be well-being'), as in the draft's own English and the first line."
+ }
+]

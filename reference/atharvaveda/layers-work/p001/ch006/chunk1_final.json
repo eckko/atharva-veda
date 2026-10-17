@@ -1,0 +1,635 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat./gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vīra̱bhiṣṭa̭ya̱",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "divine",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "abhiṣṭaye",
+        "gloss": "for help",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "āpo̭",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavantu",
+      "words": [
+       {
+        "w": "bhavantu",
+        "gloss": "let them be",
+        "gram": "3 pl. imp. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yora̱bhi",
+      "words": [
+       {
+        "w": "yoḥ",
+        "gloss": "welfare",
+        "gram": "ind. (yos, 'welfare'; fixed pair śaṃ yoḥ)"
+       },
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sra̭vantu",
+      "words": [
+       {
+        "w": "sravantu",
+        "gloss": "let them flow",
+        "gram": "3 pl. imp. √sru"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दिव्य जल हमारे लिए सहायता के लिए, पीने के लिए कल्याणकारी हों; वे हम पर कल्याण और सुख के साथ बहें।",
+  "english": "May the divine waters be well-being for us, for help and for drinking; may they flow upon us with well-being and welfare.",
+  "text_flags": [],
+  "notes": "yos (yoḥ) is rendered 'welfare'; the phrase śaṃ yoḥ is a fixed pair 'well-being and welfare'. abhi sravantu: 'flow towards/over us'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.006.1"
+  ],
+  "lines_deva": [
+   "शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑ । शं योर॒भि स्र॑वन्तु नः"
+  ],
+  "lines_iast": [
+   "śaṃ no̭ de̱vīra̱bhiṣṭa̭ya̱ āpo̭ bhavantu pī̱tayḙ | śaṃ yora̱bhi sra̭vantu naḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱psu",
+      "words": [
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "me̱",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "to me",
+        "gram": "1 sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "somo̭",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma (name of a deity)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abravīda̱ntarviśvā̭ni",
+      "words": [
+       {
+        "w": "abravīt",
+        "gloss": "said",
+        "gram": "3 sg. impf. √brū"
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       },
+       {
+        "w": "viśvāni",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bheṣa̱jā|a̱gniṃ",
+      "words": [
+       {
+        "w": "bheṣajā",
+        "gloss": "remedies",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "agnim",
+        "gloss": "Agni (name of a deity)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvaśa̭ṃ",
+      "words": [
+       {
+        "w": "viśva-śam",
+        "gloss": "all well-being (first members of the compound viśvaśambhuvam)",
+        "gram": "compound member (viśva + śam)"
+       }
+      ]
+     },
+     {
+      "src": "bhuvam",
+      "words": [
+       {
+        "w": "bhuvam",
+        "gloss": "bringing (last member of the compound)",
+        "gram": "m. acc. sg. -bhū (√bhū), compound member"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सोम ने मुझसे कहा कि जलों के भीतर सब औषध हैं, और सबका कल्याण करने वाले अग्नि भी।",
+  "english": "Soma said to me: within the waters are all remedies, and Agni, the all-beneficent.",
+  "text_flags": [
+   {
+    "src": "vi̱śvaśa̭ṃ",
+    "suggest": "viśvaśambhuvam",
+    "why": "possible: one compound word printed as two tokens (viśvaśaṃ bhuvam)."
+   }
+  ],
+  "notes": "The token bheṣajā|agniṃ is printed joined by a danda with no space; it is split into bheṣajā and agnim. viśvaśaṃ bhuvam is split across two printed tokens and read as the compound viśvaśambhuvam 'bringing all well-being', in apposition to Agni.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.006.2"
+  ],
+  "lines_deva": [
+   "अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।अ॒ग्निं च॑ वि॒श्वशं॑ भुवम्"
+  ],
+  "lines_iast": [
+   "a̱psu me̱ somo̭ abravīda̱ntarviśvā̭ni bheṣa̱jā|a̱gniṃ ca̭ vi̱śvaśa̭ṃ bhuvam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āpa̭ḥ",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "O waters",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛṇī̱ta",
+      "words": [
+       {
+        "w": "pṛṇīta",
+        "gloss": "supply, fill",
+        "gram": "2 pl. imp. √pṝ"
+       }
+      ]
+     },
+     {
+      "src": "bhḙṣa̱jaṃ",
+      "words": [
+       {
+        "w": "bheṣajam",
+        "gloss": "remedy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷ̄thaṃ",
+      "words": [
+       {
+        "w": "varūtham",
+        "gloss": "protection",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̭ma",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse break (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "jyok",
+      "words": [
+       {
+        "w": "jyok",
+        "gloss": "for long",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭ṃ",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "the sun",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛ̱śḙ",
+      "words": [
+       {
+        "w": "dṛśe",
+        "gloss": "to see",
+        "gram": "dat. inf. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे जलो, मेरे शरीर के लिए औषध और रक्षा प्रदान करो, और चिरकाल तक सूर्य को देखने के लिए भी।",
+  "english": "O waters, supply a remedy, a protection, for my body, and that I may see the sun for long.",
+  "text_flags": [],
+  "notes": "pṛṇīta is taken as 2 pl. imperative of √pṝ 'fill, supply'. The relation of jyok ca sūryaṃ dṛśe (purpose clause) to the first line is an interpretation; the literal words are 'long, and the sun, to see'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.006.3"
+  ],
+  "lines_deva": [
+   "आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॒३ म॑म । ज्योक् च॒ सूर्यं॑ दृ॒शे॑"
+  ],
+  "lines_iast": [
+   "āpa̭ḥ pṛṇī̱ta bhḙṣa̱jaṃ varṷ̄thaṃ ta̱nve̱3 ma̭ma | jyok ca̱ sūrya̭ṃ dṛ̱śḙ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat./gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpo̭",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhanva̱nyā̱3",
+      "words": [
+       {
+        "w": "dhanvanyāḥ",
+        "gloss": "of the dry land",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śamṷ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "santvanū̱pyāḥ",
+      "words": [
+       {
+        "w": "santu",
+        "gloss": "let them be",
+        "gram": "3 pl. imp. √as"
+       },
+       {
+        "w": "anūpyāḥ",
+        "gloss": "of the watery land",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "khani̱trimā̱",
+      "words": [
+       {
+        "w": "khanitrimāḥ",
+        "gloss": "dug",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpa̱ḥ",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śamu̱",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāḥ",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "rel. f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ku̱mbha",
+      "words": [
+       {
+        "w": "kumbhe",
+        "gloss": "in a pot",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ābhṛ̭tāḥ",
+      "words": [
+       {
+        "w": "ābhṛtāḥ",
+        "gloss": "brought",
+        "gram": "p.p. f. nom. pl. ā-√bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "śi̱vā",
+      "words": [
+       {
+        "w": "śivāḥ",
+        "gloss": "kind, auspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̭ḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "santu̱",
+      "words": [
+       {
+        "w": "santu",
+        "gloss": "let them be",
+        "gram": "3 pl. imp. √as"
+       }
+      ]
+     },
+     {
+      "src": "vārṣi̭kīḥ",
+      "words": [
+       {
+        "w": "vārṣikīḥ",
+        "gloss": "of the rains",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सूखी भूमि के जल हमारे लिए कल्याण हों, और दलदली भूमि के जल भी; खोदे हुए जल हमारे लिए कल्याण हों, और वे भी जो घड़े में लाए गए; वर्षा के जल हमारे लिए मंगलकारी हों।",
+  "english": "May the waters of the dry land be well-being for us, and those of the watery land; may the dug waters be well-being for us, and those that are brought in a pot; may the rain waters be kind to us.",
+  "text_flags": [],
+  "notes": "dhanvanyā3 is read as dhanvanyāḥ with the pluta mark; dhanvanya 'of dry/waterless land', anūpya 'of watery land'. khanitrimāḥ 'dug' (waters from dug places). The two printed lines are kept as one unit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "001.006.4a",
+   "001.006.4b"
+  ],
+  "lines_deva": [
+   "शं न॒ आपो॑ धन्व॒न्या॒३ शमु॑ सन्त्वनू॒प्याः",
+   "शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः शि॒वा नः॑ सन्तु॒ वार्षि॑कीः"
+  ],
+  "lines_iast": [
+   "śaṃ na̱ āpo̭ dhanva̱nyā̱3 śamṷ santvanū̱pyāḥ",
+   "śaṃ na̭ḥ khani̱trimā̱ āpa̱ḥ śamu̱ yāḥ ku̱mbha ābhṛ̭tāḥ śi̱vā na̭ḥ santu̱ vārṣi̭kīḥ"
+  ],
+  "uncertain": []
+ }
+]

@@ -1,0 +1,60 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vacaspate (verse 2a)",
+     "problem": "Printed vacaspate has short a; the vocative of vācaspati is vācaspate (as in 1a, 3b, 4 and the draft's own split). Not flagged.",
+     "fix": "text_flags entry src vacaspate, suggest vācaspate",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "vacaspate",
+        "suggest": "vācaspate",
+        "why": "possible: short a for long ā; the same name is printed vācaspati elsewhere in this hymn."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ubhe",
+     "problem": "ubhe is nom./acc. dual (here agreeing with ārtnī), labelled only acc.; inconsistent with ārtnī nom. du.",
+     "fix": "nom./acc. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "ubhe",
+      "field": "gram",
+      "value": "nom./acc. du."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Mostly sound. Two minor fixes (vacaspate typo flag, ubhe label). Units 1 and 3 left medium. No regrouping suggested."
+}
