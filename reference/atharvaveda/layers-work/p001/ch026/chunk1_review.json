@@ -1,0 +1,105 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह पत्थर भी",
+     "problem": "'भी' (also) is not in the text.",
+     "fix": "वह पत्थर दूर रहे जिसे तुम फेंकते हो",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह पत्थर भी दूर रहे",
+      "new": "वह पत्थर दूर रहे"
+     }
+    },
+    {
+     "field": "english",
+     "where": "may it be so",
+     "problem": "'so' / 'ऐसा ही हो' reads asat as an amen formula; unsupported. Keep as tentative 'may it be' only.",
+     "fix": "may it be",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "may it be so",
+      "new": "may it be"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "asau",
+     "problem": "asau agrees with feminine hetiḥ; 'm.' is misleading.",
+     "fix": "f. nom. sg. (agreeing with hetiḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "asau",
+      "field": "gram",
+      "value": "f. nom. sg. (agreeing with hetiḥ)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विचित्र (उज्ज्वल)",
+     "problem": "Bracketed gloss; English says 'bright'.",
+     "fix": "विचित्र दान वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विचित्र (उज्ज्वल) दान",
+      "new": "विचित्र दान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऊँचाई (ढलान)",
+     "problem": "Bracketed gloss and 'ऊँचाई' (height) contradicts 'steep/slope'.",
+     "fix": "ढलान की सन्तान",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऊँचाई (ढलान) की सन्तान",
+      "new": "ढलान की सन्तान"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "yacchātha",
+     "problem": "A prayer for shelter; the form (2 pl., injunctive/imperative sense 'grant') is better rendered as a request than a statement 'you grant'. Check; no patch.",
+     "fix": "tentative: 'grant shelter to us'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Unit 4 ok (low confidence honest). Minor bracket/addition fixes in 1-3. No regrouping. Doubts: asat in unit 1, napāt/pravataḥ and the verb mood in unit 3."
+}

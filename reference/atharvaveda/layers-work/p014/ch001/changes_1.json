@@ -1,0 +1,287 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जब लोग ओषधि को कूटते-पीसते हैं, तब पीने वाला समझता है कि उसने सोम पी लिया; पर जिस सोम को ब्रह्माण जानते हैं, उसमें से कोई पार्थिव नहीं खाता।",
+  "new": "जब लोग ओषधि को कूटते-पीसते हैं, तब पीने वाला समझता है कि उसने सोम पी लिया; पर जिस सोम को ब्रह्मा-पुरोहित जानते हैं, उसमें से कोई पार्थिव नहीं खाता।",
+  "why": "reviewer (minor): \"ब्रह्माण\" is not a Hindi word (a bare transliteration of brahmāṇaḥ); glossary renders the m. brahman as priest."
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "guptaḥ",
+  "old": "guptaḥ",
+  "new": "gupitaḥ",
+  "why": "reviewer (error): Printed \"gupito\" = gupitaḥ; the draft normalised it to guptaḥ, which is not the printed form."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Guarded by coverings and arrangements, protected by the Bārhata ones, O Soma; hearing only the pressing-stones you stand; no earthly one eats of you.",
+  "new": "Guarded by covering-arrangements, protected by the Bārhata ones, O Soma; hearing only the pressing-stones you stand; no earthly one eats of you.",
+  "why": "reviewer (minor): Gloss/English read the compound as a dvandva (\"coverings and arrangements\") but gram says tat-puruṣa and Hindi/notes say \"covering-arrangements\"."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "ācchad-vidhānaiḥ",
+  "old": "by coverings and arrangements",
+  "new": "by covering-arrangements",
+  "why": "reviewer (minor): Gloss \"by coverings and arrangements\" conflicts with the tat-puruṣa label."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे सोम, तुम आच्छादन के विधानों से गुप्त और बार्हत (मन्त्रों) से रक्षित हो; केवल ग्रावाओं को सुनते हुए तुम स्थित रहते हो; कोई पार्थिव तुम्हें नहीं खाता।",
+  "new": "हे सोम, तुम आच्छादन के विधानों से गुप्त और बार्हतों से रक्षित हो; केवल ग्रावाओं को सुनते हुए तुम स्थित रहते हो; कोई पार्थिव तुम्हें नहीं खाता।",
+  "why": "reviewer (error): Hindi adds \"मन्त्रों\" in brackets; the text has no noun (the notes say so) and bracketed glosses are not allowed in the Hindi."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "raibhī",
+  "old": "Raibhī (a kind of verse)",
+  "new": "Raibhī (feminine word; sense uncertain)",
+  "why": "reviewer (error): Gloss \"a kind of verse\" imports later commentary; the line gives only a feminine word."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "nārāśaṃsī",
+  "old": "Nārāśaṃsī (a kind of verse)",
+  "new": "Nārāśaṃsī (feminine word; sense uncertain)",
+  "why": "reviewer (error): Same: \"a kind of verse\" is not stated by the line."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "anudeyī and nyocanī are left as transliterated; sense uncertain (anudeyī: \"that which is given along\", nyocanī unclear). Raibhī and Nārāśaṃsī are names of verse-types (stated as feminine nouns). Tense shift was/goes is in the text. Subject of eti taken as Sūryā (pariṣkṛtā f.); gāthā could also be the instrument for the garment.",
+  "new": "anudeyī and nyocanī are left as transliterated; sense uncertain (anudeyī: \"that which is given along\", nyocanī unclear). Raibhī and Nārāśaṃsī are feminine words kept transliterated; later tradition links them to kinds of verse, which this line does not state. Tense shift was/goes is in the text. Subject of eti taken as Sūryā (pariṣkṛtā f.); gāthā could also be the instrument for the garment.",
+  "why": "reviewer (minor): Note asserts these are verse-types as if the line said so."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "anudeyī",
+  "old": "accompanying gift (attendant)",
+  "new": "anudeyī (sense uncertain; \"to be given along\")",
+  "why": "reviewer (minor): Gloss \"accompanying gift (attendant)\" fixes an interpretation while the note calls the sense uncertain."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "kurīram",
+  "old": "kurīra (a head-ornament)",
+  "new": "kurīra (word of unclear sense)",
+  "why": "reviewer (error): Glosses \"(a head-ornament)\" are imported commentary; the line does not say what they are, and the English \"the metre was the kurīra and the opaśa\" imposes a syntax the notes call unclear."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "opaśaḥ",
+  "old": "opaśa (a head-ornament)",
+  "new": "opaśa (word of unclear sense)",
+  "why": "reviewer (error): Same: \"(a head-ornament)\" is not stated by the line."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Syntax of \"kurīraṃ chanda opaśaḥ\" is unclear: kurīra and opaśa are probably ornaments (head-gear) and chandas the metre; pratidhi (a part of a vehicle/frame?) uncertain. Kept as transliterated. purogava: literally \"ox in front\", i.e. leader.",
+  "new": "Syntax of \"kurīraṃ chanda opaśaḥ\" is unclear: the senses of kurīra, opaśa and pratidhi are uncertain; chandas is the metre. Kept as transliterated. purogava: literally \"ox in front\", i.e. leader.",
+  "why": "reviewer (minor): Note states head-gear sense as probable; not supported by the line."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "सोम वधू की कामना करने वाला हुआ; दोनों अश्विन् वर थे, जब सविता ने मन से झुकी हुई (अपनी इच्छा कहती हुई) सूर्या को पति को दे दिया।",
+  "new": "सोम वधू की कामना करने वाला हुआ; दोनों अश्विन् वर थे, जब सविता ने मन से झुकी हुई सूर्या को पति को दे दिया।",
+  "why": "reviewer (error): Bracketed gloss in the Hindi, and it adds \"her wish\", which is not in the text."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "śaṃsantīm",
+  "old": "inclining, declaring (her wish)",
+  "new": "declaring (sense uncertain)",
+  "why": "reviewer (minor): Gloss \"declaring (her wish)\" adds \"her wish\"; English/Hindi say \"inclined\" while the gloss says \"declaring\": inconsistent."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Soma became the wooer, the two Aśvins were both suitors, when Savitar gave Sūryā, who was inclined in mind, to her husband.",
+  "new": "Soma became the wooer, the two Aśvins were both wooers, when Savitar gave Sūryā, who was inclined in mind, to her husband.",
+  "why": "reviewer (minor): Same word varā is \"wooers\" in unit 8 (gloss here too); \"suitors\" is inconsistent."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "śaṃsantīm: \"declaring/approving (her wish)\"; manasā attached to it (\"in mind\"); alternatively \"Savitar gave her with his mind\". vadhūyuḥ \"desiring a bride\".",
+  "new": "śaṃsantīm: \"declaring/approving (her wish)\"; manasā attached to it (\"in mind\"); alternatively \"Savitar gave her with his mind\". vadhūyuḥ \"desiring a bride\". Also possible: patye goes with śaṃsantīm (\"declaring to the husband\"); \"inclined\" is an interpretation of √śaṃs.",
+  "why": "reviewer (minor): Note: patye (\"to the husband\") could also go with śaṃsantīm (\"declaring to her husband in mind\"); the draft sense \"inclined\" is not literal."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "उसका मन गाड़ी था, द्यौ और आवरण भी था; दो उज्ज्वल बैल (गाड़ी खींचने वाले) थे, जब सूर्या पति के पास गई।",
+  "new": "उसका मन गाड़ी था और द्यौ आवरण था; दो उज्ज्वल गाड़ी खींचने वाले बैल थे, जब सूर्या पति के पास गई।",
+  "why": "reviewer (error): Hindi reads as \"sky and covering both were\" (two subjects); the Sanskrit is \"the sky was the covering\" (dyaur āsīd uta chadiḥ). Also a bracketed gloss."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "तुम्हारे दोनों चक्र शुद्ध थे; चलते समय व्यान अक्ष में जुड़ा हुआ था। सूर्या मन से बनी गाड़ी पर चढ़ी और पति की ओर चली।",
+  "new": "तुम्हारे दोनों चक्र उज्ज्वल थे; चलते समय व्यान अक्ष में जुड़ा हुआ था। सूर्या मन से बनी गाड़ी पर चढ़ी और पति की ओर चली।",
+  "why": "reviewer (minor): English/gloss \"bright\"; Hindi \"शुद्ध\" (pure) differs (unit 10 uses उज्ज्वल for śukra)."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Bright were your two wheels as (she) went; vyāna (a breath) was the axle fixed in. Sūryā mounted the cart made of mind, going forth to her husband.",
+  "new": "Bright were your two wheels in going; vyāna (a breath) was the axle fixed in. Sūryā mounted the cart made of mind, going forth to her husband.",
+  "why": "reviewer (minor): Adds \"she\" for the form yātyā, which the draft itself marks uncertain."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "सूर्या की बारात (वहतु) चल पड़ी, जिसे सविता ने भेजा। मघा में गायें मारी जाती हैं, फल्गुनियों में (वह) ले जाई जाती है।",
+  "new": "सूर्या की बारात चल पड़ी, जिसे सविता ने भेजा। मघाओं में गायें मारी जाती हैं, फल्गुनियों में ले जाया जाता है।",
+  "why": "reviewer (error): Bracketed glosses in the Hindi (\"(वहतु)\", \"(वह)\" adds a subject the text lacks); maghāsu is plural but Hindi has singular \"मघा में\"."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे अश्विन्, जब तुम दोनों सूर्या की बारात के लिए पूछते हुए तीन चक्र वाले (यान) से गए, तब तुम्हारा एक चक्र कहाँ था? दिशा दिखाने के लिए तुम दोनों कहाँ खड़े हुए?",
+  "new": "हे अश्विन्, जब तुम दोनों सूर्या की बारात के लिए पूछते हुए तीन चक्र वाले से गए, तब तुम्हारा एक चक्र कहाँ था? दिशा दिखाने के लिए तुम दोनों कहाँ खड़े हुए?",
+  "why": "reviewer (error): Bracketed gloss that supplies a noun the text lacks."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "O Aśvins, when you two went asking, with a three-wheeled (conveyance), for Sūryā's bridal procession, where was your one wheel? Where did you two stand for pointing the way?",
+  "new": "O Aśvins, when you two went asking, with a three-wheeled (conveyance), for Sūryā's bridal procession, where was your one wheel? Where did you two stand for the pointing (guiding)?",
+  "why": "reviewer (minor): \"the way\" is added; the word is only deṣṭrāya \"for pointing/guiding\" (uncertain)."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे अश्विन्, जब तुम दोनों सूर्या की बारात के लिए पूछते हुए तीन चक्र वाले से गए, तब तुम्हारा एक चक्र कहाँ था? दिशा दिखाने के लिए तुम दोनों कहाँ खड़े हुए?",
+  "new": "हे अश्विन्, जब तुम दोनों सूर्या की बारात के लिए पूछते हुए तीन चक्र वाले से गए, तब तुम्हारा एक चक्र कहाँ था? निर्देश करने के लिए तुम दोनों कहाँ खड़े हुए?",
+  "why": "reviewer (minor): Same addition (\"दिशा\")."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "\"kva'deṣṭrāya\": the avagraha is a pada-separation mark here (kva deṣṭrāya). deṣṭrāya: dative, \"for the pointing/guide\" (uncertain). The vehicle word for tricakreṇa is left unstated.",
+  "new": "\"kva'deṣṭrāya\": the avagraha is a pada-separation mark here (kva deṣṭrāya). deṣṭrāya: dative, \"for the pointing/guide\" (uncertain). The vehicle word for tricakreṇa is left unstated. Source has क्वऽदेष्ट्राय: in this edition ऽ elsewhere marks an elided a, so the pada might be kva + adeṣṭrāya; kept kva deṣṭrāya, not settled.",
+  "why": "reviewer (minor): Devanagari reads क्वऽदेष्ट्राय with an avagraha after short kva. The avagraha elsewhere (व्यऽश्नुतम्, यातोऽर्णवम्) marks an elided initial a, so the pada may be kva + a-deṣṭrāya; the note's \"pada-separation mark\" is a guess."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "हे शोभा के स्वामी दोनों, जब तुम सूर्या को वरने के लिए पहुँचे, तब सब देवों ने तुम्हारे उस (कार्य) को अनुमोदित किया; पुत्र पूषा ने पिता को चुना।",
+  "new": "हे शोभा के स्वामी दोनों, जब तुम सूर्या को वरने के लिए पहुँचे, तब सब देवों ने तुम दोनों के उस को अनुमोदन दिया; पुत्र पूषा ने पिता को चुना।",
+  "why": "reviewer (error): Bracketed gloss in the Hindi adding \"कार्य\"."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "हे सूर्या, तुम्हारे दो चक्र हैं; उन्हें ब्रह्माण ऋतु के अनुसार जानते हैं। पर जो एक चक्र गुहा में है, उसे केवल अद्धातयः जानते हैं।",
+  "new": "हे सूर्या, तुम्हारे दो चक्र हैं; उन्हें ब्रह्मा-पुरोहित ऋतु के अनुसार जानते हैं। पर जो एक चक्र गुहा में है, उसे केवल अद्धातयः जानते हैं।",
+  "why": "reviewer (minor): As in unit 3."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "urvārukam",
+  "old": "urvāruka (a plant fruit)",
+  "new": "urvāruka (plant name)",
+  "why": "reviewer (minor): Gloss \"a plant fruit\" asserts more than the text; glossary says \"plant name\"."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "मैं तुम्हें वरुण के पाश से मुक्त करता हूँ, जिससे अति कल्याणकारी सविता ने तुम्हें बाँधा था। ऋत के उद्गम स्थान में, सुकृत के लोक में तुम्हारे लिए सुख हो, सम्भला के साथ।",
+  "new": "मैं तुम्हें वरुण के पाश से मुक्त करता हूँ, जिससे अति कल्याणकारी सविता ने तुम्हें बाँधा था। ऋत के स्थान में, सुकृत के लोक में तुम्हारे लिए सुख हो, सम्भला के साथ।",
+  "why": "reviewer (minor): \"उद्गम\" (origin) is added to yonau \"in the seat\" (English/gloss \"seat\")."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "May Bhaga lead you from here, taking you by the hand; may the two Aśvins carry you forth in a chariot. Go to the house, that you may be mistress of the house; being in control, you shall address the assembly.",
+  "new": "May Bhaga lead you from here, taking you by the hand; may the two Aśvins carry you forth in a chariot. Go to the houses (home), that you may be mistress of the house; being in control, you shall address the assembly.",
+  "why": "reviewer (minor): gṛhān is plural (Hindi \"घरों को\" is plural); English singular loses it."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "samṛdhyatām",
+  "old": "3 sg. imper. pass. sam-√ṛdh",
+  "new": "3 sg. imper. mid. sam-√ṛdh (class 4)",
+  "why": "reviewer (minor): ṛdhyate is a class-4 middle, not a passive; \"pass.\" is wrong."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "शामुल्य को दे दो; ब्रह्मों को धन बाँट दो। यह कृत्या पैरों वाली होकर पत्नी के रूप में पति में प्रवेश करती है।",
+  "new": "शामुल्य को दे दो; ब्रह्म-पुरोहितों को धन बाँट दो। यह कृत्या पैरों वाली होकर पत्नी के रूप में पति में प्रवेश करती है।",
+  "why": "reviewer (minor): \"ब्रह्मों\" is not Hindi; English says priests."
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "śāmulyam",
+  "old": "śāmulya (a garment, uncertain)",
+  "new": "śāmulya (word of unclear sense)",
+  "why": "reviewer (error): \"(a garment, uncertain)\" and \"(a made harmful thing)\" import sense not given by the line."
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "kṛtyā",
+  "old": "kṛtyā (a made harmful thing)",
+  "new": "kṛtyā (that which is made; sense uncertain)",
+  "why": "reviewer (minor): \"a made harmful thing\" imports \"harmful\"; literal sense only."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "śāmulya: meaning uncertain (a kind of cloth/garment), left transliterated. kṛtyā: literally \"what is made\", a harmful made thing; kept transliterated. brahmabhyaḥ: dat. pl. of brahman (m.) \"priests\", or n. \"sacred utterances\". The referent of eṣā is not stated.",
+  "new": "śāmulya: meaning uncertain, left transliterated. kṛtyā: literally \"what is made\", a harmful made thing; kept transliterated. brahmabhyaḥ: dat. pl. of brahman (m.) \"priests\", or n. \"sacred utterances\". The referent of eṣā is not stated.",
+  "why": "reviewer (minor): Notes repeat the garment and \"harmful\" glosses."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "śāmulya: meaning uncertain, left transliterated. kṛtyā: literally \"what is made\", a harmful made thing; kept transliterated. brahmabhyaḥ: dat. pl. of brahman (m.) \"priests\", or n. \"sacred utterances\". The referent of eṣā is not stated.",
+  "new": "śāmulya: meaning uncertain, left transliterated. kṛtyā: literally \"what is made\"; kept transliterated. brahmabhyaḥ: dat. pl. of brahman (m.) \"priests\", or n. \"sacred utterances\". The referent of eṣā is not stated.",
+  "why": "reviewer (minor): \"a harmful made thing\" in notes."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "उस पापी (कृत्या) के कारण शरीर अशुभ हो जाता है, चमकता हुआ भी; जब पति वधू के वस्त्र से अपने अंग को ढकता है।",
+  "new": "शरीर अशुभ हो जाता है, चमकता हुआ, उस पापिनी के द्वारा; जब पति वधू के वस्त्र से अपने अंग को ढकता है।",
+  "why": "reviewer (error): Bracketed \"(कृत्या)\" names a referent the note says is not stated; \"भी\"/\"because of\" add \"though/because\" to bare ruśatī and instrumental; pāpayā is feminine (\"पापी\" is not)."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "The body becomes ill-omened, though shining, because of that evil one; when the husband covers his own limb with the bride's garment.",
+  "new": "The body becomes ill-omened, shining, by that evil one; when the husband covers his own limb with the bride's garment.",
+  "why": "reviewer (minor): Adds \"though\" and \"because of\"; the text has ruśatī (shining) and an instrumental."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "तुम दोनों समृद्ध भग को एक साथ लाओ, ऋत-वचनों में सत्य बोलते हुए। हे ब्रह्मणस्पति, इसके लिए पति को प्रिय बनाओ; सम्भल इस वाणी को सुन्दर रूप से बोले।",
+  "new": "तुम दोनों समृद्ध सौभाग्य को एक साथ लाओ, ऋत-वचनों में सत्य बोलते हुए। हे ब्रह्मणस्पति, इसके लिए पति को प्रिय बनाओ; सम्भल इस वाणी को सुन्दर रूप से बोले।",
+  "why": "reviewer (minor): Hindi leaves bhagam untranslated while gloss/English say \"good fortune\"."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "यहीं रहो, आगे दूर मत जाओ; हे गायो, इसे सन्तान के साथ बढ़ाओ। हे शुभ चलती हुई, उज्ज्वल, सोम की कान्ति वाली गायो, सब देवों ने यहाँ तुम्हारे मन स्थापित किए हैं।",
+  "new": "यहीं रहो, आगे दूर मत जाओ; हे गायो, इसे सन्तान के साथ बढ़ाओ। हे सुन्दरता से चलती हुई, उज्ज्वल, सोम की कान्ति वाली गायो, सब देवों ने यहाँ तुम्हारे मन स्थापित किए हैं।",
+  "why": "reviewer (minor): \"शुभ\" reads as an adjective of the cows; śubham is an adverb (gloss \"splendidly\")."
+ }
+]
