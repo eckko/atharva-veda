@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.061.1a",
+   "007.061.1b"
+  ],
+  "lines_deva": [
+   "यद॑ग्ने॒ तप॑सा॒ तप॑ उपत॒प्याम॑हे॒ तपः॑",
+   "प्रि॒याः श्रु॒तस्य॑ भूया॒स्मायु॑ष्मन्तः सुमे॒धसः॑"
+  ],
+  "lines_iast": [
+   "yada̭gne̱ tapa̭sā̱ tapa̭ upata̱pyāma̭he̱ tapa̭ḥ",
+   "pri̱yāḥ śru̱tasya̭ bhūyā̱smāyṷṣmantaḥ sume̱dhasa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.061.2a",
+   "007.061.2b"
+  ],
+  "lines_deva": [
+   "अग्ने॒ तप॑स्तप्यामह॒ उप॑ तप्यामहे॒ तपः॑",
+   "श्रु॒तानि॑ शृ॒ण्वन्तो॑ व॒यमायु॑ष्मन्तः सुमे॒धसः॑"
+  ],
+  "lines_iast": [
+   "agne̱ tapa̭stapyāmaha̱ upa̭ tapyāmahe̱ tapa̭ḥ",
+   "śru̱tāni̭ śṛ̱ṇvanto̭ va̱yamāyṷṣmantaḥ sume̱dhasa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

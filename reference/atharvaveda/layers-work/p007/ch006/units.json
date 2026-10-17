@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.006.1a",
+   "007.006.1b"
+  ],
+  "lines_deva": [
+   "अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः",
+   "विश्वे॑ दे॒वा अदि॑तिः॒ पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम्"
+  ],
+  "lines_iast": [
+   "adi̭ti̱rdyauradi̭tira̱ntari̭kṣa̱madi̭tirmā̱tā sa pi̱tā sa pu̱traḥ",
+   "viśvḙ de̱vā adi̭ti̱ḥ pañca̱ janā̱ adi̭tirjā̱tamadi̭ti̱rjani̭tvam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.006.2a",
+   "007.006.2b"
+  ],
+  "lines_deva": [
+   "म॒हीमू॒ षु मा॒तरं॑ सुव्र॒ताना॑मृ॒तस्य॒ पत्नी॒मव॑से हवामहे",
+   "तु॒वि॒क्ष॒त्राम॒जर॑न्तीमुरू॒चीं सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्"
+  ],
+  "lines_iast": [
+   "ma̱hīmū̱ ṣu mā̱tara̭ṃ suvra̱tānā̭mṛ̱tasya̱ patnī̱mava̭se havāmahe",
+   "tu̱vi̱kṣa̱trāma̱jara̭ntīmurū̱cīṃ su̱śarmā̭ṇa̱madi̭tiṃ su̱praṇī̭tim"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.006.3a",
+   "007.006.3b"
+  ],
+  "lines_deva": [
+   "सु॒त्रामा॑णं पृथि॒वीं द्याम॑ने॒हसं॑ सु॒शर्मा॑ण॒मदि॑तिं सु॒प्रणी॑तिम्",
+   "दैवीं॒ नावं॑ स्वरि॒त्रामना॑गसो॒ अस्र॑वन्ती॒मा रु॑हेमा स्व॒स्तये॑"
+  ],
+  "lines_iast": [
+   "su̱trāmā̭ṇaṃ pṛthi̱vīṃ dyāma̭ne̱hasa̭ṃ su̱śarmā̭ṇa̱madi̭tiṃ su̱praṇī̭tim",
+   "daivī̱ṃ nāva̭ṃ svari̱trāmanā̭gaso̱ asra̭vantī̱mā rṷhemā sva̱stayḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.006.4a",
+   "007.006.4b"
+  ],
+  "lines_deva": [
+   "वाज॑स्य॒ नु प्र॑स॒वे मा॒तरं॑ म॒हीमदि॑तिं॒ नाम॒ वच॑सा करामहे",
+   "यस्या॑ उ॒पस्थ॑ उ॒र्व॑१न्तरि॑क्षं॒ सा नः॒ शर्म॑ त्रि॒वरू॑थं॒ नि य॑च्छात्"
+  ],
+  "lines_iast": [
+   "vāja̭sya̱ nu pra̭sa̱ve mā̱tara̭ṃ ma̱hīmadi̭ti̱ṃ nāma̱ vaca̭sā karāmahe",
+   "yasyā̭ u̱pastha̭ u̱rva̭1ntari̭kṣa̱ṃ sā na̱ḥ śarma̭ tri̱varṷ̄tha̱ṃ ni ya̭cchāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

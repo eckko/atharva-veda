@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.012.1a",
+   "001.012.1b"
+  ],
+  "lines_deva": [
+   "ज॒रा॒यु॒जः प्र॑थ॒म उ॒स्रियो॒ वृषा॒ वात॑भ्रजा स्त॒नय॑न्नेति वृ॒ष्ट्या",
+   "स नो॑ मृडाति त॒न्व ऋजु॒गो रु॒जन् य एक॒मोज॑स्त्रे॒धा वि॑चक्र॒मे"
+  ],
+  "lines_iast": [
+   "ja̱rā̱yu̱jaḥ pra̭tha̱ma u̱sriyo̱ vṛṣā̱ vāta̭bhrajā sta̱naya̭nneti vṛ̱ṣṭyā",
+   "sa no̭ mṛḍāti ta̱nva ṛju̱go ru̱jan ya eka̱moja̭stre̱dhā vi̭cakra̱me"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.012.2a",
+   "001.012.2b"
+  ],
+  "lines_deva": [
+   "अङ्गे॑ अङ्गे शो॒चिषा॑ शिश्रिया॒णं न॑म॒स्यन्त॑स्त्वा ह॒विषा॑ विधेम",
+   "अ॒ङ्कान्त्स॑म॒ङ्कान् ह॒विषा॑ विधेम॒ यो अग्र॑भी॒त् पर्वा॑स्या॒ ग्रभी॑ता"
+  ],
+  "lines_iast": [
+   "aṅgḙ aṅge śo̱ciṣā̭ śiśriyā̱ṇaṃ na̭ma̱syanta̭stvā ha̱viṣā̭ vidhema",
+   "a̱ṅkāntsa̭ma̱ṅkān ha̱viṣā̭ vidhema̱ yo agra̭bhī̱t parvā̭syā̱ grabhī̭tā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.012.3a",
+   "001.012.3b"
+  ],
+  "lines_deva": [
+   "मु॒ञ्च शी॑र्ष॒क्त्या उ॒त का॒स ए॑नं॒ परु॑ष्परुरावि॒वेशा॒ यो अ॑स्य",
+   "यो अ॑भ्र॒जा वा॑त॒जा यश्च॒ शुष्मो॒ वन॒स्पती॑न्त्सचतां॒ पर्व॑तांश्च"
+  ],
+  "lines_iast": [
+   "mu̱ñca śī̭rṣa̱ktyā u̱ta kā̱sa ḙna̱ṃ parṷṣparurāvi̱veśā̱ yo a̭sya",
+   "yo a̭bhra̱jā vā̭ta̱jā yaśca̱ śuṣmo̱ vana̱spatī̭ntsacatā̱ṃ parva̭tāṃśca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.012.4a",
+   "001.012.4b"
+  ],
+  "lines_deva": [
+   "शं मे॒ पर॑स्मै॒ गात्रा॑य॒ शम॒स्त्वव॑राय मे",
+   "शं मे॑ च॒तुर्भ्यो॒ अङ्गे॑भ्यः॒ शम॑स्तु त॒न्वे॒३मम॑"
+  ],
+  "lines_iast": [
+   "śaṃ me̱ para̭smai̱ gātrā̭ya̱ śama̱stvava̭rāya me",
+   "śaṃ mḙ ca̱turbhyo̱ aṅgḙbhya̱ḥ śama̭stu ta̱nve̱3mama̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

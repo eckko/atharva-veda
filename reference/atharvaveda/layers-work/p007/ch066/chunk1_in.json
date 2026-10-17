@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.066.1a",
+   "007.066.1b"
+  ],
+  "lines_deva": [
+   "यद्य॒न्तरि॑क्षे॒ यदि॒ वात॒ आस॒ यदि॑ वृ॒क्षेषु॒ यदि॒ वोल॑पेषु",
+   "यदश्र॑वन् प॒शव॑ उ॒द्यमा॑नं॒ तद् ब्राह्म॑णं॒ पुन॑र॒स्मानु॒पैतु॑"
+  ],
+  "lines_iast": [
+   "yadya̱ntari̭kṣe̱ yadi̱ vāta̱ āsa̱ yadi̭ vṛ̱kṣeṣu̱ yadi̱ vola̭peṣu",
+   "yadaśra̭van pa̱śava̭ u̱dyamā̭na̱ṃ tad brāhma̭ṇa̱ṃ puna̭ra̱smānu̱paitṷ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

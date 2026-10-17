@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.019.1a",
+   "006.019.1b"
+  ],
+  "lines_deva": [
+   "पु॒नन्तु॑ मा देवज॒नाः पु॒नन्तु॒ मन॑वो धि॒या",
+   "पु॒नन्तु॒ विश्वा॑ भू॒तानि॒ पव॑मानः पुनातु मा"
+  ],
+  "lines_iast": [
+   "pu̱nantṷ mā devaja̱nāḥ pu̱nantu̱ mana̭vo dhi̱yā",
+   "pu̱nantu̱ viśvā̭ bhū̱tāni̱ pava̭mānaḥ punātu mā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.019.2a",
+   "006.019.2b"
+  ],
+  "lines_deva": [
+   "पव॑मानः पुनातु मा॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑",
+   "अथो॑ अरि॒ष्टता॑तये"
+  ],
+  "lines_iast": [
+   "pava̭mānaḥ punātu mā̱ kratve̱ dakṣā̭ya jī̱vasḙ",
+   "atho̭ ari̱ṣṭatā̭taye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.019.3a",
+   "006.019.3b"
+  ],
+  "lines_deva": [
+   "उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च",
+   "अ॒स्मान् पु॑नीहि॒ चक्ष॑से"
+  ],
+  "lines_iast": [
+   "u̱bhābhyā̭ṃ deva savitaḥ pa̱vitrḙṇa sa̱vena̭ ca",
+   "a̱smān pṷnīhi̱ cakṣa̭se"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.017.1a",
+   "007.017.1b"
+  ],
+  "lines_deva": [
+   "धा॒ता द॑धातु नो र॒यिमीशा॑नो॒ जग॑त॒स्पतिः॑",
+   "स नः॑ पू॒र्णेन॑ यच्छतु"
+  ],
+  "lines_iast": [
+   "dhā̱tā da̭dhātu no ra̱yimīśā̭no̱ jaga̭ta̱spati̭ḥ",
+   "sa na̭ḥ pū̱rṇena̭ yacchatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.017.2a",
+   "007.017.2b"
+  ],
+  "lines_deva": [
+   "धा॒ता द॑धातु दा॒शुषे॒ प्राचीं॑ जी॒वातु॒क्षि॑ताम्",
+   "व॒यं दे॒वस्य॑ धीमहि सुम॒तिं वि॒श्वरा॑धसः"
+  ],
+  "lines_iast": [
+   "dhā̱tā da̭dhātu dā̱śuṣe̱ prācī̭ṃ jī̱vātu̱kṣi̭tām",
+   "va̱yaṃ de̱vasya̭ dhīmahi suma̱tiṃ vi̱śvarā̭dhasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.017.3a",
+   "007.017.3b"
+  ],
+  "lines_deva": [
+   "धा॒ता विश्वा॒ वार्या॑ दधातु प्र॒जाका॑माय दा॒शुषे॑ दुरो॒णे",
+   "तस्मै॑ दे॒वाअ॒मृतं॒ सं व्य॑यन्तु॒ विश्वे॑ दे॒वा अदि॑तिः स॒जोषाः॑"
+  ],
+  "lines_iast": [
+   "dhā̱tā viśvā̱ vāryā̭ dadhātu pra̱jākā̭māya dā̱śuṣḙ duro̱ṇe",
+   "tasmai̭ de̱vāa̱mṛta̱ṃ saṃ vya̭yantu̱ viśvḙ de̱vā adi̭tiḥ sa̱joṣā̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.017.4a",
+   "007.017.4b"
+  ],
+  "lines_deva": [
+   "धा॒ता रा॒तिः स॑वि॒तेदं जु॑षन्तां प्र॒जाप॑तिर्नि॒धिप॑तिर्नो अ॒ग्निः",
+   "त्वष्टा॒ विष्णुः॑ प्र॒जया॑ संररा॒णो यज॑मानाय॒ द्रवि॑णं दधातु"
+  ],
+  "lines_iast": [
+   "dhā̱tā rā̱tiḥ sa̭vi̱tedaṃ jṷṣantāṃ pra̱jāpa̭tirni̱dhipa̭tirno a̱gniḥ",
+   "tvaṣṭā̱ viṣṇṷḥ pra̱jayā̭ saṃrarā̱ṇo yaja̭mānāya̱ dravi̭ṇaṃ dadhātu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

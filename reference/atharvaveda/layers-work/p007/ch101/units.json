@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.101.1a",
+   "007.101.1b"
+  ],
+  "lines_deva": [
+   "यत् स्वप्ने॒ अन्न॑म॒श्नामि॒ न प्रा॒तर॑धिग॒म्यते॑",
+   "सर्वं॒ तद॑स्तु मे शि॒वं न॒हि तद् दृ॒ष्यते॒ दिवा॑"
+  ],
+  "lines_iast": [
+   "yat svapne̱ anna̭ma̱śnāmi̱ na prā̱tara̭dhiga̱myatḙ",
+   "sarva̱ṃ tada̭stu me śi̱vaṃ na̱hi tad dṛ̱ṣyate̱ divā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

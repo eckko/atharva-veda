@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.002.1a",
+   "006.002.1b"
+  ],
+  "lines_deva": [
+   "इन्द्रा॑य॒ सोम॑मृत्विजः सु॒नोता च॑ धावत",
+   "स्तो॒तुर्यो वचः॑ शृ॒णव॒द्धवं॑ च मे"
+  ],
+  "lines_iast": [
+   "indrā̭ya̱ soma̭mṛtvijaḥ su̱notā ca̭ dhāvata",
+   "sto̱turyo vaca̭ḥ śṛ̱ṇava̱ddhava̭ṃ ca me"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.002.2a",
+   "006.002.2b"
+  ],
+  "lines_deva": [
+   "आ यं वि॒शन्तीन्द॑वो॒ वयो॒ न वृ॒क्षमन्ध॑सः",
+   "विर॑प्शि॒न् विमृधो॑ जहि रक्ष॒स्विनीः॑"
+  ],
+  "lines_iast": [
+   "ā yaṃ vi̱śantīnda̭vo̱ vayo̱ na vṛ̱kṣamandha̭saḥ",
+   "vira̭pśi̱n vimṛdho̭ jahi rakṣa̱svinī̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.002.3a",
+   "006.002.3b"
+  ],
+  "lines_deva": [
+   "सु॒नोता॑ सोम॒पाव्ने॑ सोम॒मिन्द्रा॑य व॒ज्रिणे॑",
+   "युवा॒ जेतेशा॑नः॒ स पु॑रुष्टु॒तः"
+  ],
+  "lines_iast": [
+   "su̱notā̭ soma̱pāvnḙ soma̱mindrā̭ya va̱jriṇḙ",
+   "yuvā̱ jeteśā̭na̱ḥ sa pṷruṣṭu̱taḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.137.1a",
+   "006.137.1b"
+  ],
+  "lines_deva": [
+   "यां ज॒मद॑ग्नि॒रख॑नद् दुहि॒त्रे के॑श॒वर्ध॑नीम्",
+   "तां वी॒तह॑व्य॒ आभ॑र॒दसि॑तस्य गृ॒हेभ्यः॑"
+  ],
+  "lines_iast": [
+   "yāṃ ja̱mada̭gni̱rakha̭nad duhi̱tre kḙśa̱vardha̭nīm",
+   "tāṃ vī̱taha̭vya̱ ābha̭ra̱dasi̭tasya gṛ̱hebhya̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.137.2a",
+   "006.137.2b"
+  ],
+  "lines_deva": [
+   "अ॒भीशु॑ना॒ मेया॑ आसन् व्या॒मेना॑नु॒मेयाः॑",
+   "केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑"
+  ],
+  "lines_iast": [
+   "a̱bhīśṷnā̱ meyā̭ āsan vyā̱menā̭nu̱meyā̭ḥ",
+   "keśā̭ na̱ḍā i̭va vardhantāṃ śī̱rṣṇastḙ asi̱tāḥ pari̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.137.3a",
+   "006.137.3b"
+  ],
+  "lines_deva": [
+   "दृंह॑ मूल॒माग्रं॑ यच्छ॒ वि मध्यं॑ यामयौषधे",
+   "केशा॑ न॒डा इ॑व वर्धन्तां शी॒र्ष्णस्ते॑ असि॒ताः परि॑"
+  ],
+  "lines_iast": [
+   "dṛṃha̭ mūla̱māgra̭ṃ yaccha̱ vi madhya̭ṃ yāmayauṣadhe",
+   "keśā̭ na̱ḍā i̭va vardhantāṃ śī̱rṣṇastḙ asi̱tāḥ pari̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

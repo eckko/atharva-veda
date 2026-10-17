@@ -1,0 +1,299 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.003.1a",
+   "001.003.1b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ प॒र्जन्यं॑ श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ pa̱rjanya̭ṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.003.2a",
+   "001.003.2b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ मि॒त्रं श॒तवृ॑ष्ण्यम्",
+   "ते॑ना ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ mi̱traṃ śa̱tavṛ̭ṣṇyam",
+   "tḙnā te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.003.3a",
+   "001.003.3b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॒ वरु॑णं श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̱ṃ varṷṇaṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.003.4a",
+   "001.003.4b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॑ च॒न्द्रं श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̭ṃ ca̱ndraṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "001.003.5a",
+   "001.003.5b"
+  ],
+  "lines_deva": [
+   "वि॒द्मा श॒रस्य॑ पि॒तरं॒ सूर्यं॑ श॒तवृ॑ष्ण्यम्",
+   "तेना॑ ते त॒न्वे॒३ शं क॑रं पृथि॒व्यां ते॑ नि॒षेच॑नं ब॒हिष्टे॑ अस्तु॒ बालिति॑"
+  ],
+  "lines_iast": [
+   "vi̱dmā śa̱rasya̭ pi̱tara̱ṃ sūrya̭ṃ śa̱tavṛ̭ṣṇyam",
+   "tenā̭ te ta̱nve̱3 śaṃ ka̭raṃ pṛthi̱vyāṃ tḙ ni̱ṣeca̭naṃ ba̱hiṣṭḙ astu̱ bāliti̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "001.003.6a",
+   "001.003.6b"
+  ],
+  "lines_deva": [
+   "यदा॒न्त्रेषु॑ गवी॒न्योर्यद्व॒स्तावधि॒ संश्रु॑तम्",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "yadā̱ntreṣṷ gavī̱nyoryadva̱stāvadhi̱ saṃśrṷtam",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "001.003.7a",
+   "001.003.7b"
+  ],
+  "lines_deva": [
+   "प्र ते॑ भिनद्मि॒ मेह॑नं॒ वर्त्रं॑ वेश॒न्त्या इ॑व",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "pra tḙ bhinadmi̱ meha̭na̱ṃ vartra̭ṃ veśa̱ntyā i̭va",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "001.003.8a",
+   "001.003.8b"
+  ],
+  "lines_deva": [
+   "विषि॑तं ते वस्तिबि॒लं स॑मु॒द्रस्यो॑द॒धेरि॑व",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "viṣi̭taṃ te vastibi̱laṃ sa̭mu̱drasyo̭da̱dheri̭va",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "001.003.9a",
+   "001.003.9b"
+  ],
+  "lines_deva": [
+   "यथे॑षु॒का प॒राप॑त॒दव॑सृ॒ष्टाधि॒ धन्व॑नः",
+   "ए॒वा ते॒ मूत्रं॑ मुच्यतां ब॒हिर्बालिति॑ सर्व॒कम्"
+  ],
+  "lines_iast": [
+   "yathḙṣu̱kā pa̱rāpa̭ta̱dava̭sṛ̱ṣṭādhi̱ dhanva̭naḥ",
+   "e̱vā te̱ mūtra̭ṃ mucyatāṃ ba̱hirbāliti̭ sarva̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

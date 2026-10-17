@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.129.1a",
+   "006.129.1b"
+  ],
+  "lines_deva": [
+   "भगे॑न मा शांश॒पेन॑ सा॒कमिन्द्रे॑ण मे॒दिना॑",
+   "कृ॒णोमि॑ भ॒गिनं॒ माप॑ द्रा॒न्त्वरा॑तयः"
+  ],
+  "lines_iast": [
+   "bhagḙna mā śāṃśa̱pena̭ sā̱kamindrḙṇa me̱dinā̭",
+   "kṛ̱ṇomi̭ bha̱gina̱ṃ māpa̭ drā̱ntvarā̭tayaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.129.2a",
+   "006.129.2b"
+  ],
+  "lines_deva": [
+   "येन॑ वृ॒क्षाँ अ॒भ्यभ॑वो॒ भगे॑न॒ वर्च॑सा स॒ह",
+   "तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः"
+  ],
+  "lines_iast": [
+   "yena̭ vṛ̱kṣā~ a̱bhyabha̭vo̱ bhagḙna̱ varca̭sā sa̱ha",
+   "tena̭ mā bha̱gina̭ṃ kṛ̱ṇvapa̭ drā̱ntvarā̭tayaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.129.3a",
+   "006.129.3b"
+  ],
+  "lines_deva": [
+   "यो अ॒न्धो यः पु॑नःस॒रो भगो॑ वृ॒क्षेष्वाहि॑तः",
+   "तेन॑ मा भ॒गिनं॑ कृ॒ण्वप॑ द्रा॒न्त्वरा॑तयः"
+  ],
+  "lines_iast": [
+   "yo a̱ndho yaḥ pṷnaḥsa̱ro bhago̭ vṛ̱kṣeṣvāhi̭taḥ",
+   "tena̭ mā bha̱gina̭ṃ kṛ̱ṇvapa̭ drā̱ntvarā̭tayaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

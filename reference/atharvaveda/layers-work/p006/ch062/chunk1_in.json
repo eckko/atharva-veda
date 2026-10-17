@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.062.1a",
+   "006.062.1b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रो र॒श्मिभि॑र्नः पुनातु॒ वातः॑ प्रा॒णेने॑षि॒रो नभो॑भिः",
+   "द्यावा॑पृथि॒वी पय॑सा॒ पय॑स्वती ऋ॒ताव॑री य॒ज्ञिये॑ न पुनीताम्"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱ro ra̱śmibhi̭rnaḥ punātu̱ vāta̭ḥ prā̱ṇenḙṣi̱ro nabho̭bhiḥ",
+   "dyāvā̭pṛthi̱vī paya̭sā̱ paya̭svatī ṛ̱tāva̭rī ya̱jñiyḙ na punītām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.062.2a",
+   "006.062.2b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रीं सू॒नृता॒मा र॑भध्वं॒ यस्या॒ आशा॑स्त॒न्वोऽवी॒तपृ॑ष्ठाः",
+   "तया॑ गृ॒णन्तः॑ सध॒मादे॑षु व॒यं स्या॑म॒ पत॑यो रयी॒नाम्"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱rīṃ sū̱nṛtā̱mā ra̭bhadhva̱ṃ yasyā̱ āśā̭sta̱nvo'vī̱tapṛ̭ṣṭhāḥ",
+   "tayā̭ gṛ̱ṇanta̭ḥ sadha̱mādḙṣu va̱yaṃ syā̭ma̱ pata̭yo rayī̱nām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.062.3a",
+   "006.062.3b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रीं वर्च॑स॒ आ र॑भध्वं शु॒द्धा भव॑न्तः॒ शुच॑यः पाव॒काः",
+   "इ॒हेड॑या सध॒मादं॒ मद॑न्तो॒ ज्योक् प॑श्येम॒ सूर्य॑मु॒च्चर॑न्तम्"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱rīṃ varca̭sa̱ ā ra̭bhadhvaṃ śu̱ddhā bhava̭nta̱ḥ śuca̭yaḥ pāva̱kāḥ",
+   "i̱heḍa̭yā sadha̱māda̱ṃ mada̭nto̱ jyok pa̭śyema̱ sūrya̭mu̱ccara̭ntam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

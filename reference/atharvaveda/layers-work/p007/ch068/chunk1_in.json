@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.068.1a",
+   "007.068.1b"
+  ],
+  "lines_deva": [
+   "सर॑स्वति व्र॒तेषु॑ ते दि॒व्येषु॑ देवि॒ धाम॑सु",
+   "जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि ररास्व नः"
+  ],
+  "lines_iast": [
+   "sara̭svati vra̱teṣṷ te di̱vyeṣṷ devi̱ dhāma̭su",
+   "ju̱ṣasva̭ ha̱vyamāhṷtaṃ pra̱jāṃ dḙvi rarāsva naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.068.2a",
+   "007.068.2b"
+  ],
+  "lines_deva": [
+   "इ॒दं ते॑ ह॒व्यं घृ॒तव॑त् सरस्वती॒दं पि॑तॄ॒णां ह॒विरा॒स्यं॑१ यत्",
+   "इ॒मानि॑ त उदि॒ता शंत॑मानि॒ तेभि॑र्व॒यं मधु॑मन्तः स्याम"
+  ],
+  "lines_iast": [
+   "i̱daṃ tḙ ha̱vyaṃ ghṛ̱tava̭t sarasvatī̱daṃ pi̭tṝ̱ṇāṃ ha̱virā̱sya̭ṃ1 yat",
+   "i̱māni̭ ta udi̱tā śaṃta̭māni̱ tebhi̭rva̱yaṃ madhṷmantaḥ syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.068.3a",
+   "007.068.3b"
+  ],
+  "lines_deva": [
+   "शि॒वा नः॒ शंत॑मा भव सुमृडी॒का स॑रस्वति",
+   "मा ते॑ युयोम सं॒दृशः॑"
+  ],
+  "lines_iast": [
+   "śi̱vā na̱ḥ śaṃta̭mā bhava sumṛḍī̱kā sa̭rasvati",
+   "mā tḙ yuyoma sa̱ṃdṛśa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

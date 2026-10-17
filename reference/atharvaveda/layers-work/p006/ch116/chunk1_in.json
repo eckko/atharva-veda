@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.116.1a",
+   "006.116.1b"
+  ],
+  "lines_deva": [
+   "यद् या॒मं च॒क्रुर्नि॒खन॑न्तो॒ अग्रे॒ कार्षी॑वणा अन्न॒विदो॒ न वि॒द्यया॑",
+   "वै॒व॒स्व॒ते राज॑नि॒ तज्जु॑हो॒म्यथ॑ य॒ज्ञियं॒ मधु॑मदस्तु॒ नोऽन्न॑म्"
+  ],
+  "lines_iast": [
+   "yad yā̱maṃ ca̱krurni̱khana̭nto̱ agre̱ kārṣī̭vaṇā anna̱vido̱ na vi̱dyayā̭",
+   "vai̱va̱sva̱te rāja̭ni̱ tajjṷho̱myatha̭ ya̱jñiya̱ṃ madhṷmadastu̱ no'nna̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.116.2a",
+   "006.116.2b"
+  ],
+  "lines_deva": [
+   "वै॒व॒स्व॒तः कृ॑णवद् भाग॒धेयं॒ मधु॑भागो॒ मधु॑ना॒ सं सृ॑जाति",
+   "मा॒तुर्यदेन॑ इषि॒तं न॒ आग॒न् यद् वा॑ पि॒ताप॑राद्धो जिही॒डे"
+  ],
+  "lines_iast": [
+   "vai̱va̱sva̱taḥ kṛ̭ṇavad bhāga̱dheya̱ṃ madhṷbhāgo̱ madhṷnā̱ saṃ sṛ̭jāti",
+   "mā̱turyadena̭ iṣi̱taṃ na̱ āga̱n yad vā̭ pi̱tāpa̭rāddho jihī̱ḍe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.116.3a",
+   "006.116.3b"
+  ],
+  "lines_deva": [
+   "यदी॒दं मा॒तुर्यदि॑ पि॒तुर्नः॒ परि॒ भ्रातुः॑ पु॒त्राच्चेत॑स॒ एन॒ आग॑न्",
+   "याव॑न्तो अ॒स्मान् पि॒तरः॒ सच॑न्ते॒ तेषां॒ सर्वे॑षां शि॒वो अ॑स्तु म॒न्युः"
+  ],
+  "lines_iast": [
+   "yadī̱daṃ mā̱turyadi̭ pi̱turna̱ḥ pari̱ bhrātṷḥ pu̱trācceta̭sa̱ ena̱ āga̭n",
+   "yāva̭nto a̱smān pi̱tara̱ḥ saca̭nte̱ teṣā̱ṃ sarvḙṣāṃ śi̱vo a̭stu ma̱nyuḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

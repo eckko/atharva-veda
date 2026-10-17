@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.082.1a",
+   "020.082.1b"
+  ],
+  "lines_deva": [
+   "यदि॑न्द्र॒ याव॑त॒स्त्वमे॒ताव॑द॒हमीशी॑य",
+   "स्तो॒तार॒मिद् दि॑धिषेय रदावसो॒ न पा॑प॒त्वाय॑ रासीय"
+  ],
+  "lines_iast": [
+   "yadi̭ndra̱ yāva̭ta̱stvame̱tāva̭da̱hamīśī̭ya",
+   "sto̱tāra̱mid di̭dhiṣeya radāvaso̱ na pā̭pa̱tvāya̭ rāsīya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.082.2a",
+   "020.082.2b"
+  ],
+  "lines_deva": [
+   "शिक्षे॑य॒मिन्म॑हय॒ते दि॒वेदि॑वे रा॒य आ कु॑हचि॒द्विदे॑",
+   "न॒हि त्वद॒न्यन्म॑घवन् न॒ आप्यं॒ वस्यो॒ अस्ति॑ पि॒ता च॒न"
+  ],
+  "lines_iast": [
+   "śikṣḙya̱minma̭haya̱te di̱vedi̭ve rā̱ya ā kṷhaci̱dvidḙ",
+   "na̱hi tvada̱nyanma̭ghavan na̱ āpya̱ṃ vasyo̱ asti̭ pi̱tā ca̱na"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.105.1a",
+   "006.105.1b"
+  ],
+  "lines_deva": [
+   "यथा॒ मनो॑ मनस्के॒तः॑ प॑रा॒पत॑त्याशु॒मत्",
+   "ए॒वा त्वं कासे॒ प्र प॑त॒ मन॒सोऽनु॑ प्रवा॒य्यऽम्"
+  ],
+  "lines_iast": [
+   "yathā̱ mano̭ manaske̱ta̭ḥ pa̭rā̱pata̭tyāśu̱mat",
+   "e̱vā tvaṃ kāse̱ pra pa̭ta̱ mana̱so'nṷ pravā̱yya'm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.105.2a",
+   "006.105.2b"
+  ],
+  "lines_deva": [
+   "यथा॒ बाणः॒ सुसं॑शितः परा॒पत॑त्याशु॒मत्",
+   "ए॒वा त्वं कासे॒ प्र प॑त पृथि॒व्या अनु॑ सं॒वत॑म्"
+  ],
+  "lines_iast": [
+   "yathā̱ bāṇa̱ḥ susa̭ṃśitaḥ parā̱pata̭tyāśu̱mat",
+   "e̱vā tvaṃ kāse̱ pra pa̭ta pṛthi̱vyā anṷ sa̱ṃvata̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.105.3a",
+   "006.105.3b"
+  ],
+  "lines_deva": [
+   "यथा॒ सूर्य॑स्य र॒श्मयः॑ परा॒पत॑न्त्याशु॒मत्",
+   "ए॒वा त्वं कासे॒ प्र प॑त समु॒द्रस्यानु॑ विक्ष॒रम्"
+  ],
+  "lines_iast": [
+   "yathā̱ sūrya̭sya ra̱śmaya̭ḥ parā̱pata̭ntyāśu̱mat",
+   "e̱vā tvaṃ kāse̱ pra pa̭ta samu̱drasyānṷ vikṣa̱ram"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

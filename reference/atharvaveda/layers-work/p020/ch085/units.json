@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.085.1a",
+   "020.085.1b"
+  ],
+  "lines_deva": [
+   "मा चि॑द॒न्यद् वि शं॑सत॒ सखा॑यो॒ मा रि॑षण्यत",
+   "इन्द्र॒मित् स्तो॑ता॒ वृष॑णं॒ सचा॑ सु॒ते मुहु॑रु॒क्था च॑ शंसत"
+  ],
+  "lines_iast": [
+   "mā ci̭da̱nyad vi śa̭ṃsata̱ sakhā̭yo̱ mā ri̭ṣaṇyata",
+   "indra̱mit sto̭tā̱ vṛṣa̭ṇa̱ṃ sacā̭ su̱te muhṷru̱kthā ca̭ śaṃsata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.085.2a",
+   "020.085.2b"
+  ],
+  "lines_deva": [
+   "अ॒व॒क्र॒क्षिणं॑ वृष॒भं य॑था॒जुरं॒ गां न च॑र्षणी॒सह॑म्",
+   "वि॒द्वेष॑णं सं॒वन॑नोभयंक॒रं मंहि॑ष्ठमुभया॒विन॑म्"
+  ],
+  "lines_iast": [
+   "a̱va̱kra̱kṣiṇa̭ṃ vṛṣa̱bhaṃ ya̭thā̱jura̱ṃ gāṃ na ca̭rṣaṇī̱saha̭m",
+   "vi̱dveṣa̭ṇaṃ sa̱ṃvana̭nobhayaṃka̱raṃ maṃhi̭ṣṭhamubhayā̱vina̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.085.3a",
+   "020.085.3b"
+  ],
+  "lines_deva": [
+   "यच्चि॒द्धि त्वा॒ जना॑ इ॒मे नाना॒ हव॑न्त ऊ॒तये॑",
+   "अ॒स्माकं॒ ब्रह्मे॒दमि॑न्द्र भूतु॒ तेहा॒ विश्वा॑ च॒ वर्ध॑नम्"
+  ],
+  "lines_iast": [
+   "yacci̱ddhi tvā̱ janā̭ i̱me nānā̱ hava̭nta ū̱tayḙ",
+   "a̱smāka̱ṃ brahme̱dami̭ndra bhūtu̱ tehā̱ viśvā̭ ca̱ vardha̭nam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "020.085.4a",
+   "020.085.4b"
+  ],
+  "lines_deva": [
+   "वि त॑र्तूर्यन्ते मघवन् विप॒श्चितो॒ऽर्यो विपो॒ जना॑नाम्",
+   "उप॑ क्रमस्व पुरु॒रूप॒मा भ॑र॒ वाजं॒ नेदि॑ष्ठमू॒तये॑"
+  ],
+  "lines_iast": [
+   "vi ta̭rtūryante maghavan vipa̱ścito̱'ryo vipo̱ janā̭nām",
+   "upa̭ kramasva puru̱rūpa̱mā bha̭ra̱ vāja̱ṃ nedi̭ṣṭhamū̱tayḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

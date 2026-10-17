@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.016.1a",
+   "007.016.1b"
+  ],
+  "lines_deva": [
+   "बृह॑स्पते॒ सवि॑तर्व॒र्धयै॑नं ज्यो॒तयै॑नं मह॒ते सौभ॑गाय",
+   "संशि॑तं चित् संत॒रं सं शि॑शाधि॒ विश्व॑ एन॒मनु॑ मदन्तु दे॒वाः"
+  ],
+  "lines_iast": [
+   "bṛha̭spate̱ savi̭tarva̱rdhayai̭naṃ jyo̱tayai̭naṃ maha̱te saubha̭gāya",
+   "saṃśi̭taṃ cit saṃta̱raṃ saṃ śi̭śādhi̱ viśva̭ ena̱manṷ madantu de̱vāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.050.1a",
+   "020.050.1b"
+  ],
+  "lines_deva": [
+   "कन्नव्यो॑ अत॒सीनां॑ तु॒रो गृ॑णीत॒ मर्त्यः॑",
+   "न॒ही न्व॑स्य महि॒मान॑मिन्द्रि॒यं स्वर्गृ॒णन्त॑ आन॒शुः"
+  ],
+  "lines_iast": [
+   "kannavyo̭ ata̱sīnā̭ṃ tu̱ro gṛ̭ṇīta̱ martya̭ḥ",
+   "na̱hī nva̭sya mahi̱māna̭mindri̱yaṃ svargṛ̱ṇanta̭ āna̱śuḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.050.2a",
+   "020.050.2b"
+  ],
+  "lines_deva": [
+   "कदु॑ स्तु॒वन्त॑ ऋतयन्त दे॒वत॒ ऋषिः॒ को विप्र॑ ओहते",
+   "क॒दा हवं॑ मघवन्निन्द्र सुन्व॒तः कदु॑ स्तुव॒त आ ग॑मः"
+  ],
+  "lines_iast": [
+   "kadṷ stu̱vanta̭ ṛtayanta de̱vata̱ ṛṣi̱ḥ ko vipra̭ ohate",
+   "ka̱dā hava̭ṃ maghavannindra sunva̱taḥ kadṷ stuva̱ta ā ga̭maḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

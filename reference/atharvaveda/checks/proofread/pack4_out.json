@@ -1,0 +1,21 @@
+[
+ {"id": "011.003.161", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose mantra, grammar and sense consistent with neighbouring lines."},
+ {"id": "011.008.11a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Regular anushtubh half-verse, forms are correct."},
+ {"id": "012.001.13b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct sandhi and accents; nothing wrong."},
+ {"id": "012.002.14b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Regular anushtubh line, forms correct."},
+ {"id": "012.002.53a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Grammar and sense sound; matches parallel line in 'after'."},
+ {"id": "012.003.44a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Correct forms and sandhi."},
+ {"id": "012.004.17b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Regular anushtubh line, parikramya+ishum sandhi correct."},
+ {"id": "012.005.11", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose line, forms consistent with the hymn's refrain."},
+ {"id": "012.005.29", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose pair of the hymn's pattern, forms correct."},
+ {"id": "012.005.44", "kind": "sample", "verdict": "ok", "suggest": "", "why": "jnatin+sarvan written with the edition's -nts- sandhi; nothing wrong."},
+ {"id": "014.001.28a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Regular anushtubh line, forms correct."},
+ {"id": "017.001.16c", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Avagraha in vyo'man marks the trisyllabic reading, same device as viryani in the neighbours; edition style."},
+ {"id": "018.003.10b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Trishtubh line, forms and sandhi correct."},
+ {"id": "018.003.27a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Forms correct, matches the parallel protective formula."},
+ {"id": "018.004.11b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Trishtubh line, forms correct."},
+ {"id": "019.017.3a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "tasmin+shraye written with the edition's anusvara-ch sandhi; same formula as neighbouring verses."},
+ {"id": "019.027.9a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Trishtubh line, forms and sandhi correct."},
+ {"id": "019.029.1b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Repeats the hymn's refrain pattern; forms correct."},
+ {"id": "019.035.4b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Forms correct, continues the pari ma series of the previous line."}
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.091.1a",
+   "006.091.1b"
+  ],
+  "lines_deva": [
+   "इ॒मं यव॑मष्टायो॒गैः ष॑ड्यो॒गेभि॑रचर्कृषुः",
+   "तेना॑ ते त॒न्वो॒३रपो॑ ऽपा॒चीन॒मप॑ व्यये"
+  ],
+  "lines_iast": [
+   "i̱maṃ yava̭maṣṭāyo̱gaiḥ ṣa̭ḍyo̱gebhi̭racarkṛṣuḥ",
+   "tenā̭ te ta̱nvo̱3rapo̭ 'pā̱cīna̱mapa̭ vyaye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.091.2a",
+   "006.091.2b"
+  ],
+  "lines_deva": [
+   "न्य॑१ग्वातो॑ वाति॒ न्यऽक् तपति॑ सूर्यः॑",
+   "नी॒चीन॑म॒घ्न्या दु॑हे॒ न्यऽग् भवतु ते॒ रपः॑"
+  ],
+  "lines_iast": [
+   "nya̭1gvāto̭ vāti̱ nya'k tapati̭ sūrya̭ḥ",
+   "nī̱cīna̭ma̱ghnyā dṷhe̱ nya'g bhavatu te̱ rapa̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.091.3a",
+   "006.091.3b"
+  ],
+  "lines_deva": [
+   "आप॒ इद् वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः",
+   "आपो॑ विश्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम्"
+  ],
+  "lines_iast": [
+   "āpa̱ id vā ṷ bheṣa̱jīrāpo̭ amīva̱cāta̭nīḥ",
+   "āpo̭ viśva̭sya bheṣa̱jīstāstḙ kṛṇvantu bheṣa̱jam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

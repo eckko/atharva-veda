@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.031.1a",
+   "020.031.1b"
+  ],
+  "lines_deva": [
+   "ता व॒ज्रिणं॑ म॒न्दिनं॒ स्तोम्यं॒ मद॒ इन्द्रं॒ रथे॑ वहतो हर्य॒ता हरी॑",
+   "पु॒रूण्य॑स्मै॒ सव॑नानि॒ हर्य॑त॒ इन्द्रा॑य॒ सोमा॒ हर॑यो दधन्विरे"
+  ],
+  "lines_iast": [
+   "tā va̱jriṇa̭ṃ ma̱ndina̱ṃ stomya̱ṃ mada̱ indra̱ṃ rathḙ vahato harya̱tā harī̭",
+   "pu̱rūṇya̭smai̱ sava̭nāni̱ harya̭ta̱ indrā̭ya̱ somā̱ hara̭yo dadhanvire"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.031.2a",
+   "020.031.2b"
+  ],
+  "lines_deva": [
+   "अरं कामा॑य॒ हर॑यो दधन्विरे स्थि॒राय॑ हिन्व॒न् हर॑यो॒ हरी॑ तु॒रा",
+   "अर्व॑द्भि॒र्यो हरि॑भि॒र्जोष॒मीय॑ते॒ सो अ॑स्य॒ कामं॒ हरि॑वन्तमानशे"
+  ],
+  "lines_iast": [
+   "araṃ kāmā̭ya̱ hara̭yo dadhanvire sthi̱rāya̭ hinva̱n hara̭yo̱ harī̭ tu̱rā",
+   "arva̭dbhi̱ryo hari̭bhi̱rjoṣa̱mīya̭te̱ so a̭sya̱ kāma̱ṃ hari̭vantamānaśe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.031.3a",
+   "020.031.3b"
+  ],
+  "lines_deva": [
+   "हरि॑श्मशारु॒र्हरि॑केश आय॒सस्तु॑र॒स्पेये॒ यो ह॑रि॒पा अव॑र्धत",
+   "अर्व॑द्भि॒र्यो हरि॑भिर्वा॒जिनी॑वसु॒रति॒ विश्वा॑ दुरि॒ता पारि॑ष॒द्धरी॑"
+  ],
+  "lines_iast": [
+   "hari̭śmaśāru̱rhari̭keśa āya̱sastṷra̱speye̱ yo ha̭ri̱pā ava̭rdhata",
+   "arva̭dbhi̱ryo hari̭bhirvā̱jinī̭vasu̱rati̱ viśvā̭ duri̱tā pāri̭ṣa̱ddharī̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "020.031.4a",
+   "020.031.4b"
+  ],
+  "lines_deva": [
+   "स्रुवे॑व॒ यस्य॒ हरि॑णी विपे॒ततुः॒ शिप्रे॒ वाजा॑य॒ हरि॑णी॒ दवि॑ध्वतः",
+   "प्र यत् कृ॒ते च॑म॒से मर्मृ॑ज॒द्धरी॑ पी॒त्वा मद॑स्य हर्य॒तस्यान्ध॑सः"
+  ],
+  "lines_iast": [
+   "sruvḙva̱ yasya̱ hari̭ṇī vipe̱tatu̱ḥ śipre̱ vājā̭ya̱ hari̭ṇī̱ davi̭dhvataḥ",
+   "pra yat kṛ̱te ca̭ma̱se marmṛ̭ja̱ddharī̭ pī̱tvā mada̭sya harya̱tasyāndha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "020.031.5a",
+   "020.031.5b"
+  ],
+  "lines_deva": [
+   "उ॒त स्म॒ सद्म॑ हर्य॒तस्य॑ प॒स्त्यो॒३रत्यो॒ न वाजं॒ हरि॑वां अचिक्रदत्",
+   "म॒ही चि॒द्धि धि॒षणाह॑र्य॒दोज॑सा बृ॒हद् वयो॑ दधिषे हर्य॒तश्चि॒दा"
+  ],
+  "lines_iast": [
+   "u̱ta sma̱ sadma̭ harya̱tasya̭ pa̱styo̱3ratyo̱ na vāja̱ṃ hari̭vāṃ acikradat",
+   "ma̱hī ci̱ddhi dhi̱ṣaṇāha̭rya̱doja̭sā bṛ̱had vayo̭ dadhiṣe harya̱taści̱dā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

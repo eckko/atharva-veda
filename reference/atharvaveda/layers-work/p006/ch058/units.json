@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.058.1a",
+   "006.058.1b"
+  ],
+  "lines_deva": [
+   "य॒शसं॒ मेन्द्रो॑ म॒घवान् कृणोतु य॒शसं॒ द्यावा॑पृथि॒वी उ॒भे इ॒मे",
+   "य॒शसं॑ मा दे॒वः स॑वि॒ता कृ॑णोतु प्रि॒यो दा॒तुर्दक्षि॑णाया इ॒ह स्या॑म्"
+  ],
+  "lines_iast": [
+   "ya̱śasa̱ṃ mendro̭ ma̱ghavān kṛṇotu ya̱śasa̱ṃ dyāvā̭pṛthi̱vī u̱bhe i̱me",
+   "ya̱śasa̭ṃ mā de̱vaḥ sa̭vi̱tā kṛ̭ṇotu pri̱yo dā̱turdakṣi̭ṇāyā i̱ha syā̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.058.2a",
+   "006.058.2b"
+  ],
+  "lines_deva": [
+   "यथेन्द्रो॒ द्यावा॑पृथि॒व्योर्यश॑स्वा॒न् यथाप॒ ओष॑धीषु॒ यश॑स्वतीः",
+   "ए॒वा विश्वे॑षु दे॒वेषु॑ व॒यं सर्वे॑षु य॒शसः॑ स्याम"
+  ],
+  "lines_iast": [
+   "yathendro̱ dyāvā̭pṛthi̱vyoryaśa̭svā̱n yathāpa̱ oṣa̭dhīṣu̱ yaśa̭svatīḥ",
+   "e̱vā viśvḙṣu de̱veṣṷ va̱yaṃ sarvḙṣu ya̱śasa̭ḥ syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.058.3a",
+   "006.058.3b"
+  ],
+  "lines_deva": [
+   "य॒शा इन्द्रो॑ य॒शा अ॒ग्निर्य॒शाः सोमो॑ अजायत",
+   "य॒शा विश्व॑स्य भू॒तस्या॒हम॑स्मि य॒शस्त॑मः"
+  ],
+  "lines_iast": [
+   "ya̱śā indro̭ ya̱śā a̱gnirya̱śāḥ somo̭ ajāyata",
+   "ya̱śā viśva̭sya bhū̱tasyā̱hama̭smi ya̱śasta̭maḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,108 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.046.1a",
+   "006.046.1b"
+  ],
+  "lines_deva": [
+   "यो न जी॒वोऽसि॒ न मृ॒तो दे॒वाना॑ममृतग॒र्भोऽसि स्वप्न",
+   "व॒रु॒णा॒नी ते॑ मा॒ता य॒मः पि॒तार॑रु॒र्नामा॑सि"
+  ],
+  "lines_iast": [
+   "yo na jī̱vo'si̱ na mṛ̱to de̱vānā̭mamṛtaga̱rbho'si svapna",
+   "va̱ru̱ṇā̱nī tḙ mā̱tā ya̱maḥ pi̱tāra̭ru̱rnāmā̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.046.2a",
+   "006.046.2b",
+   "006.046.2c"
+  ],
+  "lines_deva": [
+   "वि॒द्म ते॑ स्वप्न ज॒नित्रं॑ देवजामी॒नां पु॒त्रोऽसि य॒मस्य॒ कर॑णः",
+   "अन्त॑कोऽसि मृ॒त्युर॑सि",
+   "तं त्वा॑ स्वप्न॒ तथा॒ सं वि॑द्म॒ स नः॑ स्वप्न दु॒ष्वप्न्या॑त् पाहि"
+  ],
+  "lines_iast": [
+   "vi̱dma tḙ svapna ja̱nitra̭ṃ devajāmī̱nāṃ pu̱tro'si ya̱masya̱ kara̭ṇaḥ",
+   "anta̭ko'si mṛ̱tyura̭si",
+   "taṃ tvā̭ svapna̱ tathā̱ saṃ vi̭dma̱ sa na̭ḥ svapna du̱ṣvapnyā̭t pāhi"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.046.3a",
+   "006.046.3b"
+  ],
+  "lines_deva": [
+   "यथा॑ क॒लां यथा॑ श॒फं यथ॒र्णं सं॒नय॑न्ति",
+   "ए॒वा दु॒ष्वप्न्यं॒ सर्वं॑ द्विष॒ते सं न॑यामसि"
+  ],
+  "lines_iast": [
+   "yathā̭ ka̱lāṃ yathā̭ śa̱phaṃ yatha̱rṇaṃ sa̱ṃnaya̭nti",
+   "e̱vā du̱ṣvapnya̱ṃ sarva̭ṃ dviṣa̱te saṃ na̭yāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

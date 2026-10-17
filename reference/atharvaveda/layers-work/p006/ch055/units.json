@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.055.1a",
+   "006.055.1b"
+  ],
+  "lines_deva": [
+   "ये पन्था॑नो ब॒हवो॑ देव॒याना॑ अन्त॒रा द्यावा॑पृथि॒वी सं॒चर॑न्ति",
+   "तेषा॒मज्या॑निं यत॒मो वहा॑ति॒ तस्मै॑ मा देवाः॒ परि॑ धत्ते॒ह सर्वे॑"
+  ],
+  "lines_iast": [
+   "ye panthā̭no ba̱havo̭ deva̱yānā̭ anta̱rā dyāvā̭pṛthi̱vī sa̱ṃcara̭nti",
+   "teṣā̱majyā̭niṃ yata̱mo vahā̭ti̱ tasmai̭ mā devā̱ḥ pari̭ dhatte̱ha sarvḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.055.2a",
+   "006.055.2b"
+  ],
+  "lines_deva": [
+   "ग्री॒ष्मो हे॑म॒न्तः शिशि॑रो वस॒न्तः श॒रद् व॒र्षाः स्वि॒ते नो॑ दधात",
+   "आ नो॒ गोषु॒ भज॒ता प्र॒जायां॑ निवा॒त इद् वः॑ शर॒णे स्या॑म"
+  ],
+  "lines_iast": [
+   "grī̱ṣmo hḙma̱ntaḥ śiśi̭ro vasa̱ntaḥ śa̱rad va̱rṣāḥ svi̱te no̭ dadhāta",
+   "ā no̱ goṣu̱ bhaja̱tā pra̱jāyā̭ṃ nivā̱ta id va̭ḥ śara̱ṇe syā̭ma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.055.3a",
+   "006.055.3b"
+  ],
+  "lines_deva": [
+   "इ॒दा॒व॒त्स॒राय॑ परिवत्स॒राय॑ संवत्स॒राय॑ कृणुता बृ॒हन्नमः॑",
+   "तेषां॑ व॒यं सु॑म॒तौ य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से स्या॑म"
+  ],
+  "lines_iast": [
+   "i̱dā̱va̱tsa̱rāya̭ parivatsa̱rāya̭ saṃvatsa̱rāya̭ kṛṇutā bṛ̱hannama̭ḥ",
+   "teṣā̭ṃ va̱yaṃ sṷma̱tau ya̱jñiyā̭nā̱mapi̭ bha̱dre saṷmana̱se syā̭ma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

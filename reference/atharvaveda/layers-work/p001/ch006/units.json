@@ -1,0 +1,113 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.006.1"
+  ],
+  "lines_deva": [
+   "शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑ । शं योर॒भि स्र॑वन्तु नः"
+  ],
+  "lines_iast": [
+   "śaṃ no̭ de̱vīra̱bhiṣṭa̭ya̱ āpo̭ bhavantu pī̱tayḙ | śaṃ yora̱bhi sra̭vantu naḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.006.2"
+  ],
+  "lines_deva": [
+   "अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा।अ॒ग्निं च॑ वि॒श्वशं॑ भुवम्"
+  ],
+  "lines_iast": [
+   "a̱psu me̱ somo̭ abravīda̱ntarviśvā̭ni bheṣa̱jā|a̱gniṃ ca̭ vi̱śvaśa̭ṃ bhuvam"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.006.3"
+  ],
+  "lines_deva": [
+   "आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॒३ म॑म । ज्योक् च॒ सूर्यं॑ दृ॒शे॑"
+  ],
+  "lines_iast": [
+   "āpa̭ḥ pṛṇī̱ta bhḙṣa̱jaṃ varṷ̄thaṃ ta̱nve̱3 ma̭ma | jyok ca̱ sūrya̭ṃ dṛ̱śḙ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.006.4a",
+   "001.006.4b"
+  ],
+  "lines_deva": [
+   "शं न॒ आपो॑ धन्व॒न्या॒३ शमु॑ सन्त्वनू॒प्याः",
+   "शं नः॑ खनि॒त्रिमा॒ आपः॒ शमु॒ याः कु॒म्भ आभृ॑ताः शि॒वा नः॑ सन्तु॒ वार्षि॑कीः"
+  ],
+  "lines_iast": [
+   "śaṃ na̱ āpo̭ dhanva̱nyā̱3 śamṷ santvanū̱pyāḥ",
+   "śaṃ na̭ḥ khani̱trimā̱ āpa̱ḥ śamu̱ yāḥ ku̱mbha ābhṛ̭tāḥ śi̱vā na̭ḥ santu̱ vārṣi̭kīḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

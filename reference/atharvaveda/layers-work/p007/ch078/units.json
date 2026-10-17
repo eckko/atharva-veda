@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.078.1a",
+   "007.078.1b"
+  ],
+  "lines_deva": [
+   "वि ते॑ मुञ्चामि रश॒नां वि योक्त्रं॒ वि नि॒योज॑नम्",
+   "इ॒हैव त्वमज॑स्र एध्यग्ने"
+  ],
+  "lines_iast": [
+   "vi tḙ muñcāmi raśa̱nāṃ vi yoktra̱ṃ vi ni̱yoja̭nam",
+   "i̱haiva tvamaja̭sra edhyagne"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.078.2a",
+   "007.078.2b"
+  ],
+  "lines_deva": [
+   "अ॒स्मै क्ष॒त्राणि॑ धा॒रय॑न्तमग्ने यु॒नज्मि॑ त्वा॒ ब्रह्म॑णा॒ दैव्ये॑न",
+   "दी॒दि॒ह्य॑१स्मभ्यं॒ द्रवि॑णे॒ह भ॒द्रं प्रेमं वो॑चो हवि॒र्दां दे॒वता॑सु"
+  ],
+  "lines_iast": [
+   "a̱smai kṣa̱trāṇi̭ dhā̱raya̭ntamagne yu̱najmi̭ tvā̱ brahma̭ṇā̱ daivyḙna",
+   "dī̱di̱hya̭1smabhya̱ṃ dravi̭ṇe̱ha bha̱draṃ premaṃ vo̭co havi̱rdāṃ de̱vatā̭su"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

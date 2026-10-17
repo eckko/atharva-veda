@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.022.1a",
+   "006.022.1b"
+  ],
+  "lines_deva": [
+   "कृ॒ष्णं नि॒यानं॒ हर॑यः सुप॒र्णा अ॒पो वसा॑ना॒ दिव॒मुत् प॑तन्ति",
+   "त आव॑वृत्र॒न्त्सद॑नादृ॒तस्यादिद् घृ॒तेन॑ पृथि॒वीं व्यूऽदुः"
+  ],
+  "lines_iast": [
+   "kṛ̱ṣṇaṃ ni̱yāna̱ṃ hara̭yaḥ supa̱rṇā a̱po vasā̭nā̱ diva̱mut pa̭tanti",
+   "ta āva̭vṛtra̱ntsada̭nādṛ̱tasyādid ghṛ̱tena̭ pṛthi̱vīṃ vyū'duḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.022.2a",
+   "006.022.2b"
+  ],
+  "lines_deva": [
+   "पय॑स्वतीः कृणुथा॒प ओष॑धीः शि॒वा यदेज॑था मरुतो रुक्मवक्षसः",
+   "ऊर्जं॑ च॒ तत्र॑ सुम॒तिं च॑ पिन्वत॒ यत्रा॑ नरो मरुतः सि॒ञ्चथा॒ मधु॑"
+  ],
+  "lines_iast": [
+   "paya̭svatīḥ kṛṇuthā̱pa oṣa̭dhīḥ śi̱vā yadeja̭thā maruto rukmavakṣasaḥ",
+   "ūrja̭ṃ ca̱ tatra̭ suma̱tiṃ ca̭ pinvata̱ yatrā̭ naro marutaḥ si̱ñcathā̱ madhṷ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.022.3a",
+   "006.022.3b"
+  ],
+  "lines_deva": [
+   "उ॒द॒प्रुतो॑ म॒रुत॒स्तां इ॑यर्त वृ॒ष्टिर्या विश्वा॑ नि॒वत॑स्पृ॒णाति॑",
+   "एजा॑ति॒ ग्लहा॑ क॒न्येऽव तु॒न्नैरुं॑ तुन्दा॒ना पत्ये॑व जा॒या"
+  ],
+  "lines_iast": [
+   "u̱da̱pruto̭ ma̱ruta̱stāṃ i̭yarta vṛ̱ṣṭiryā viśvā̭ ni̱vata̭spṛ̱ṇāti̭",
+   "ejā̭ti̱ glahā̭ ka̱nye'va tu̱nnairṷṃ tundā̱nā patyḙva jā̱yā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

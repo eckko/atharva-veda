@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.014.1a",
+   "007.014.1b"
+  ],
+  "lines_deva": [
+   "अ॒भि त्यं दे॒वं स॑वि॒तार॑मो॒ण्योः क॒विक्र॑तुम्",
+   "अर्चा॑मि स॒त्यस॑वं रत्न॒धाम॒भि प्रि॒यं म॒तिम्"
+  ],
+  "lines_iast": [
+   "a̱bhi tyaṃ de̱vaṃ sa̭vi̱tāra̭mo̱ṇyoḥ ka̱vikra̭tum",
+   "arcā̭mi sa̱tyasa̭vaṃ ratna̱dhāma̱bhi pri̱yaṃ ma̱tim"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.014.2a",
+   "007.014.2b"
+  ],
+  "lines_deva": [
+   "उ॒र्ध्वा यस्या॒मति॒र्भा अदि॑द्युत॒त् सवी॑मनि",
+   "हिर॑ण्यपाणिरमिमीत सु॒क्रतुः॑ कृ॒पात् स्वः"
+  ],
+  "lines_iast": [
+   "u̱rdhvā yasyā̱mati̱rbhā adi̭dyuta̱t savī̭mani",
+   "hira̭ṇyapāṇiramimīta su̱kratṷḥ kṛ̱pāt svaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.014.3a",
+   "007.014.3b"
+  ],
+  "lines_deva": [
+   "सावी॒र्हि दे॑व प्रथ॒माय॑ पि॒त्रे व॒र्ष्माण॑मस्मै वरि॒माण॑मस्मै",
+   "अथा॒स्मभ्यं॑ सवित॒र्वार्या॑णि दि॒वोदि॑व॒ आ सु॑वा॒ भूरि॑ प॒श्वः"
+  ],
+  "lines_iast": [
+   "sāvī̱rhi dḙva pratha̱māya̭ pi̱tre va̱rṣmāṇa̭masmai vari̱māṇa̭masmai",
+   "athā̱smabhya̭ṃ savita̱rvāryā̭ṇi di̱vodi̭va̱ ā sṷvā̱ bhūri̭ pa̱śvaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.014.4a",
+   "007.014.4b"
+  ],
+  "lines_deva": [
+   "दमू॑ना दे॒वः स॑वि॒ता वरे॑ण्यो॒ दध॒द् रत्नं॒ दक्षं पि॒तृभ्य॒ आयूं॑षि",
+   "पिबा॒त् सोमं॑ म॒मद॑देनमि॒ष्टे परि॑ज्मा चित् क्रमते अस्य॒ धर्म॑णि"
+  ],
+  "lines_iast": [
+   "damṷ̄nā de̱vaḥ sa̭vi̱tā varḙṇyo̱ dadha̱d ratna̱ṃ dakṣaṃ pi̱tṛbhya̱ āyṷ̄ṃṣi",
+   "pibā̱t soma̭ṃ ma̱mada̭denami̱ṣṭe pari̭jmā cit kramate asya̱ dharma̭ṇi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

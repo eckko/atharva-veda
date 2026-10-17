@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.071.1a",
+   "007.071.1b"
+  ],
+  "lines_deva": [
+   "परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि",
+   "धृ॒षद् व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑तः"
+  ],
+  "lines_iast": [
+   "pari̭ tvāgne̱ pura̭ṃ va̱yaṃ vipra̭ṃ sahasya dhīmahi",
+   "dhṛ̱ṣad va̭rṇaṃ di̱vedi̭ve ha̱ntāra̭ṃ bhaṅgu̱rāva̭taḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

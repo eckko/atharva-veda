@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.030.1a",
+   "006.030.1b"
+  ],
+  "lines_deva": [
+   "दे॒वा इ॒मं मधु॑ना॒ संयु॑तं॒ यवं॒ सर॑स्वत्या॒मधि॑ म॒णाव॑चर्कृषुः",
+   "इन्द्र॑ आसी॒त् सीर॑पतिः श॒तक्र॑तुः की॒नाशा॑ आसन् म॒रुतः॑ सु॒दान॑वः"
+  ],
+  "lines_iast": [
+   "de̱vā i̱maṃ madhṷnā̱ saṃyṷta̱ṃ yava̱ṃ sara̭svatyā̱madhi̭ ma̱ṇāva̭carkṛṣuḥ",
+   "indra̭ āsī̱t sīra̭patiḥ śa̱takra̭tuḥ kī̱nāśā̭ āsan ma̱ruta̭ḥ su̱dāna̭vaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.030.2a",
+   "006.030.2b"
+  ],
+  "lines_deva": [
+   "यस्ते॒ मदो॑ऽवके॒शो वि॑के॒शो येना॑भि॒हस्यं॒ पुरु॑षं कृ॒णोषि॑",
+   "आ॒रात् त्वद॒न्या वना॑नि वृक्षि॒ त्वं श॑मि श॒तव॑ल्शा॒ वि रो॑ह"
+  ],
+  "lines_iast": [
+   "yaste̱ mado̭'vake̱śo vi̭ke̱śo yenā̭bhi̱hasya̱ṃ purṷṣaṃ kṛ̱ṇoṣi̭",
+   "ā̱rāt tvada̱nyā vanā̭ni vṛkṣi̱ tvaṃ śa̭mi śa̱tava̭lśā̱ vi ro̭ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.030.3a",
+   "006.030.3b"
+  ],
+  "lines_deva": [
+   "बृह॑त्पलाशे॒ सुभ॑गे॒ वर्ष॑वृद्ध॒ ऋता॑वरि",
+   "मा॒तेव॑ पु॒त्रेभ्यो॑ मृड॒ केशे॑भ्यः शमि"
+  ],
+  "lines_iast": [
+   "bṛha̭tpalāśe̱ subha̭ge̱ varṣa̭vṛddha̱ ṛtā̭vari",
+   "mā̱teva̭ pu̱trebhyo̭ mṛḍa̱ keśḙbhyaḥ śami"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

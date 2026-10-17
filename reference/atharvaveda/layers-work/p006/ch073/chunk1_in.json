@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.073.1a",
+   "006.073.1b"
+  ],
+  "lines_deva": [
+   "एह या॑तु॒ वरु॑णः॒ सोमो॑ अ॒ग्निर्बृह॒स्पति॒र्वसु॑भि॒रेह या॑तु",
+   "अ॒स्य श्रिय॑मुप॒संया॑त॒ सर्व॑ उ॒ग्रस्य॑ चे॒त्तुः संम॑नसः सजाताः"
+  ],
+  "lines_iast": [
+   "eha yā̭tu̱ varṷṇa̱ḥ somo̭ a̱gnirbṛha̱spati̱rvasṷbhi̱reha yā̭tu",
+   "a̱sya śriya̭mupa̱saṃyā̭ta̱ sarva̭ u̱grasya̭ ce̱ttuḥ saṃma̭nasaḥ sajātāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.073.2a",
+   "006.073.2b"
+  ],
+  "lines_deva": [
+   "यो वः॒ शुष्मो॒ हृद॑येष्व॒न्तराकू॑ति॒र्या वो॒ मन॑सि॒ प्रवि॑ष्टा",
+   "तान्त्सी॑वयामि ह॒विषा॑ घृ॒तेन॒ मयि॑ सजाता र॒मति॑र्वो अस्तु"
+  ],
+  "lines_iast": [
+   "yo va̱ḥ śuṣmo̱ hṛda̭yeṣva̱ntarākṷ̄ti̱ryā vo̱ mana̭si̱ pravi̭ṣṭā",
+   "tāntsī̭vayāmi ha̱viṣā̭ ghṛ̱tena̱ mayi̭ sajātā ra̱mati̭rvo astu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.073.3a",
+   "006.073.3b"
+  ],
+  "lines_deva": [
+   "इ॒हैव स्त॒ माप॑ या॒ताध्य॒स्मत् पू॒षा प॒रस्ता॒दप॑थं वः कृणोतु",
+   "वास्तो॒ष्पति॒रनु॑ वो जोहवीतु॒ मयि॑ सजाता र॒मति॑र्वो अस्तु"
+  ],
+  "lines_iast": [
+   "i̱haiva sta̱ māpa̭ yā̱tādhya̱smat pū̱ṣā pa̱rastā̱dapa̭thaṃ vaḥ kṛṇotu",
+   "vāsto̱ṣpati̱ranṷ vo johavītu̱ mayi̭ sajātā ra̱mati̭rvo astu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

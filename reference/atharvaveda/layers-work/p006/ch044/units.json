@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.044.1a",
+   "006.044.1b"
+  ],
+  "lines_deva": [
+   "अस्था॒द् द्यौरस्था॑त् पृथि॒व्यस्था॒द् विश्व॑मि॒दं जग॑त्",
+   "अस्थु॑र्वृ॒क्षा ऊ॒र्ध्वस्व॑प्ना॒स्तिष्ठा॒द् रोगो॑ अ॒यं तव॑"
+  ],
+  "lines_iast": [
+   "asthā̱d dyaurasthā̭t pṛthi̱vyasthā̱d viśva̭mi̱daṃ jaga̭t",
+   "asthṷrvṛ̱kṣā ū̱rdhvasva̭pnā̱stiṣṭhā̱d rogo̭ a̱yaṃ tava̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.044.2a",
+   "006.044.2b"
+  ],
+  "lines_deva": [
+   "श॒तं या भे॑ष॒जानि॑ ते स॒हस्रं॒ संग॑तानि च",
+   "श्रेष्ठ॑मास्रावभेष॒जं वसि॑ष्ठं रोग॒नाश॑नम्"
+  ],
+  "lines_iast": [
+   "śa̱taṃ yā bhḙṣa̱jāni̭ te sa̱hasra̱ṃ saṃga̭tāni ca",
+   "śreṣṭha̭māsrāvabheṣa̱jaṃ vasi̭ṣṭhaṃ roga̱nāśa̭nam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.044.3a",
+   "006.044.3b"
+  ],
+  "lines_deva": [
+   "रु॒द्रस्य॒ मूत्र॑मस्य॒मृत॑स्य॒ नाभिः॑",
+   "वि॒षा॒ण॒का नाम॒ वा अ॑सि पितॄ॒णां मूला॒दुत्थि॑ता वातीकृत॒नाश॑नी"
+  ],
+  "lines_iast": [
+   "ru̱drasya̱ mūtra̭masya̱mṛta̭sya̱ nābhi̭ḥ",
+   "vi̱ṣā̱ṇa̱kā nāma̱ vā a̭si pitṝ̱ṇāṃ mūlā̱dutthi̭tā vātīkṛta̱nāśa̭nī"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

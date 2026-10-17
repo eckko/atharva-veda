@@ -1,0 +1,113 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.004.1"
+  ],
+  "lines_deva": [
+   "अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒ताम्। पृ॒ञ्च॒तीर्म॑धु॑ना॒ पयः॑"
+  ],
+  "lines_iast": [
+   "a̱mbayo̭ ya̱ntyadhva̭bhirjā̱mayo̭ adhvarīya̱tām| pṛ̱ñca̱tīrma̭dhṷnā̱ paya̭ḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.004.2"
+  ],
+  "lines_deva": [
+   "अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह। ता नो॑ हिन्वन्त्वध्व॒रम्"
+  ],
+  "lines_iast": [
+   "a̱mūryā upa̱ sūrye̱ yābhi̭rvā̱ sūrya̭ḥ sa̱ha| tā no̭ hinvantvadhva̱ram"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.004.3"
+  ],
+  "lines_deva": [
+   "अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः । सिन्धु॑भ्यः॒ कर्त्वं॑ ह॒विः"
+  ],
+  "lines_iast": [
+   "a̱po de̱vīrupa̭ hvaye̱ yatra̱ gāva̱ḥ piba̭nti naḥ | sindhṷbhya̱ḥ kartva̭ṃ ha̱viḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.004.4a",
+   "001.004.4b"
+  ],
+  "lines_deva": [
+   "अ॒प्स्व॑१न्तर॒मृत॑म॒प्सु भे॑ष॒जम्",
+   "अ॒पामु॒त प्रश॑स्तिभि॒रश्वा॒ भव॑थ वा॒जिनो॒ गावो॑ भवथ वा॒जिनीः॑"
+  ],
+  "lines_iast": [
+   "a̱psva̭1ntara̱mṛta̭ma̱psu bhḙṣa̱jam",
+   "a̱pāmu̱ta praśa̭stibhi̱raśvā̱ bhava̭tha vā̱jino̱ gāvo̭ bhavatha vā̱jinī̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

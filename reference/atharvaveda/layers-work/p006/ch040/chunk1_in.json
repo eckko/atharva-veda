@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.040.1a",
+   "006.040.1b"
+  ],
+  "lines_deva": [
+   "अभ॑यं द्यावापृथिवी इ॒हास्तु॒ नोऽभ॑यं॒ सोमः॑ सवि॒ता नः॑ कृणोतु",
+   "अभ॑यं नोऽस्तू॒र्व॑१न्तरि॑क्षं सप्तऋषी॒णां च॑ ह॒विषाभ॑यं नो अस्तु"
+  ],
+  "lines_iast": [
+   "abha̭yaṃ dyāvāpṛthivī i̱hāstu̱ no'bha̭ya̱ṃ soma̭ḥ savi̱tā na̭ḥ kṛṇotu",
+   "abha̭yaṃ no'stū̱rva̭1ntari̭kṣaṃ saptaṛṣī̱ṇāṃ ca̭ ha̱viṣābha̭yaṃ no astu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.040.2a",
+   "006.040.2b"
+  ],
+  "lines_deva": [
+   "अ॒स्मै ग्रामा॑य प्र॒दिश॒श्चत॑स्र॒ ऊर्जं॑ सुभू॒तं स्व॒स्ति स॑वि॒ता नः॑ कृणोतु",
+   "अ॒श॒त्र्विन्द्रो॒ अभ॑यं नः कृणोत्व॒न्यत्र॒ राज्ञा॑म॒भि या॑तु म॒न्युः"
+  ],
+  "lines_iast": [
+   "a̱smai grāmā̭ya pra̱diśa̱ścata̭sra̱ ūrja̭ṃ subhū̱taṃ sva̱sti sa̭vi̱tā na̭ḥ kṛṇotu",
+   "a̱śa̱trvindro̱ abha̭yaṃ naḥ kṛṇotva̱nyatra̱ rājñā̭ma̱bhi yā̭tu ma̱nyuḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.040.3a",
+   "006.040.3b"
+  ],
+  "lines_deva": [
+   "अ॒न॒मि॒त्रं नो॑ अध॒राद॑नमि॒त्रं न॑ उत्त॒रात्",
+   "इन्द्रा॑नमि॒त्रं नः॑ प॒श्चाद॑नमि॒त्रं पु॒रस्कृ॑धि"
+  ],
+  "lines_iast": [
+   "a̱na̱mi̱traṃ no̭ adha̱rāda̭nami̱traṃ na̭ utta̱rāt",
+   "indrā̭nami̱traṃ na̭ḥ pa̱ścāda̭nami̱traṃ pu̱raskṛ̭dhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

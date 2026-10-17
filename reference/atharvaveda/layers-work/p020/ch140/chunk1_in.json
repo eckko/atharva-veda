@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.140.1a",
+   "020.140.1b"
+  ],
+  "lines_deva": [
+   "यन्ना॑सत्या भुर॒ण्यथो॒ यद्वा॑ देव भिष॒ज्यथः॑",
+   "अ॒यं वां॑ व॒त्सो म॒तिभि॒र्न वि॑न्धते ह॒विष्म॑न्तं॒ हि गच्छ॑थः"
+  ],
+  "lines_iast": [
+   "yannā̭satyā bhura̱ṇyatho̱ yadvā̭ deva bhiṣa̱jyatha̭ḥ",
+   "a̱yaṃ vā̭ṃ va̱tso ma̱tibhi̱rna vi̭ndhate ha̱viṣma̭nta̱ṃ hi gaccha̭thaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.140.2a",
+   "020.140.2b"
+  ],
+  "lines_deva": [
+   "आ नू॒नम॒श्विनो॒र्ऋषि॒ स्तोमं॑ चिकेत वा॒मया॑",
+   "आ सोमं॒ मधु॑मत्तमं घ॒र्मं सि॑ञ्चा॒दथ॑र्वणि"
+  ],
+  "lines_iast": [
+   "ā nū̱nama̱śvino̱rṛṣi̱ stoma̭ṃ ciketa vā̱mayā̭",
+   "ā soma̱ṃ madhṷmattamaṃ gha̱rmaṃ si̭ñcā̱datha̭rvaṇi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.140.3a",
+   "020.140.3b"
+  ],
+  "lines_deva": [
+   "आ नू॒नं र॒घुव॑र्तनिं॒ रथं॑ तिष्ठाथो अश्विना",
+   "आ वां॒ स्तोमा॑ इ॒मे मम॒ नभो॒ न चु॑च्यवीरत"
+  ],
+  "lines_iast": [
+   "ā nū̱naṃ ra̱ghuva̭rtani̱ṃ ratha̭ṃ tiṣṭhātho aśvinā",
+   "ā vā̱ṃ stomā̭ i̱me mama̱ nabho̱ na cṷcyavīrata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "020.140.4a",
+   "020.140.4b"
+  ],
+  "lines_deva": [
+   "यद॒द्य वां॑ नासत्यो॒क्थैरा॑चुच्युवी॒महि॑",
+   "यद्वा॒ वाणी॑भिरश्विने॒वेत्क॒ण्वस्य॑ बोधतम्"
+  ],
+  "lines_iast": [
+   "yada̱dya vā̭ṃ nāsatyo̱kthairā̭cucyuvī̱mahi̭",
+   "yadvā̱ vāṇī̭bhiraśvine̱vetka̱ṇvasya̭ bodhatam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "020.140.5a",
+   "020.140.5b"
+  ],
+  "lines_deva": [
+   "यद्वां॑ क॒क्षीवां॑ उ॒त यद्व्य॑श्व॒ ऋषि॒र्यद्वां॑ दी॒र्घत॑मा जु॒हाव॑",
+   "पृथी॒ यद्वां॑ वै॒न्यः साद॑नेष्वे॒वेदतो॑ अश्विना चेतयेथाम्"
+  ],
+  "lines_iast": [
+   "yadvā̭ṃ ka̱kṣīvā̭ṃ u̱ta yadvya̭śva̱ ṛṣi̱ryadvā̭ṃ dī̱rghata̭mā ju̱hāva̭",
+   "pṛthī̱ yadvā̭ṃ vai̱nyaḥ sāda̭neṣve̱vedato̭ aśvinā cetayethām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

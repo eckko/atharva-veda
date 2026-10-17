@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.095.1a",
+   "006.095.1b"
+  ],
+  "lines_deva": [
+   "अ॒श्व॒त्थो दे॑व॒सद॑नस्तृ॒तीय॑स्यामि॒तो दि॒वि",
+   "तत्रा॒मृत॑स्य॒ चक्ष॑णं दे॒वाः कुष्ठ॑मवन्वत"
+  ],
+  "lines_iast": [
+   "a̱śva̱ttho dḙva̱sada̭nastṛ̱tīya̭syāmi̱to di̱vi",
+   "tatrā̱mṛta̭sya̱ cakṣa̭ṇaṃ de̱vāḥ kuṣṭha̭mavanvata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.095.2a",
+   "006.095.2b"
+  ],
+  "lines_deva": [
+   "हि॒र॒ण्ययी॒ नौर॑चर॒द्धिर॑ण्यबन्धना दि॒वि",
+   "तत्रा॒मृत॑स्य॒ पुष्पं॑ दे॒वाः कुष्ठ॑मवन्वत"
+  ],
+  "lines_iast": [
+   "hi̱ra̱ṇyayī̱ naura̭cara̱ddhira̭ṇyabandhanā di̱vi",
+   "tatrā̱mṛta̭sya̱ puṣpa̭ṃ de̱vāḥ kuṣṭha̭mavanvata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.095.3a",
+   "006.095.3b"
+  ],
+  "lines_deva": [
+   "गर्भो॑ अ॒स्योष॑धीनां॒ गर्भो॑ हि॒मव॑तामु॒त",
+   "गर्भो॒ विश्व॑स्य भू॒तस्ये॒मं मे॑ अग॒दं कृ॑धि"
+  ],
+  "lines_iast": [
+   "garbho̭ a̱syoṣa̭dhīnā̱ṃ garbho̭ hi̱mava̭tāmu̱ta",
+   "garbho̱ viśva̭sya bhū̱tasye̱maṃ mḙ aga̱daṃ kṛ̭dhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

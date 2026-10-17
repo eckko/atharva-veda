@@ -1,0 +1,122 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.070.1a",
+   "006.070.1b",
+   "006.070.1c"
+  ],
+  "lines_deva": [
+   "यथा॑ मां॒सं॑ यथा॒ सुरा॒ यथा॒क्षा अ॑धि॒देव॑ने",
+   "यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑",
+   "ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्"
+  ],
+  "lines_iast": [
+   "yathā̭ mā̱ṃsa̭ṃ yathā̱ surā̱ yathā̱kṣā a̭dhi̱deva̭ne",
+   "yathā̭ pu̱ṃso vṛ̭ṣaṇya̱ta stri̱yāṃ ni̭ha̱nyate̱ mana̭ḥ",
+   "e̱vā tḙ aghnye̱ mano'dhi̭ va̱tse ni ha̭nyatām"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.070.2a",
+   "006.070.2b",
+   "006.070.2c"
+  ],
+  "lines_deva": [
+   "यथा॑ ह॒स्ती ह॑स्ति॒न्याः प॒देन॑ प॒दमु॑द्यु॒जे",
+   "यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑",
+   "ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्"
+  ],
+  "lines_iast": [
+   "yathā̭ ha̱stī ha̭sti̱nyāḥ pa̱dena̭ pa̱damṷdyu̱je",
+   "yathā̭ pu̱ṃso vṛ̭ṣaṇya̱ta stri̱yāṃ ni̭ha̱nyate̱ mana̭ḥ",
+   "e̱vā tḙ aghnye̱ mano'dhi̭ va̱tse ni ha̭nyatām"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.070.3a",
+   "006.070.3b",
+   "006.070.3c"
+  ],
+  "lines_deva": [
+   "यथा॑ प्र॒धिर्यथो॑प॒धिर्यथा॒ नभ्यं॑ प्र॒धावधि॑",
+   "यथा॑ पुं॒सो वृ॑षण्य॒त स्त्रि॒यां नि॑ह॒न्यते॒ मनः॑",
+   "ए॒वा ते॑ अघ्न्ये॒ मनोऽधि॑ व॒त्से नि ह॑न्यताम्"
+  ],
+  "lines_iast": [
+   "yathā̭ pra̱dhiryatho̭pa̱dhiryathā̱ nabhya̭ṃ pra̱dhāvadhi̭",
+   "yathā̭ pu̱ṃso vṛ̭ṣaṇya̱ta stri̱yāṃ ni̭ha̱nyate̱ mana̭ḥ",
+   "e̱vā tḙ aghnye̱ mano'dhi̭ va̱tse ni ha̭nyatām"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ }
+]

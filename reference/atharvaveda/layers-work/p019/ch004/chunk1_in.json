@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.004.1a",
+   "019.004.1b"
+  ],
+  "lines_deva": [
+   "यामाहु॑तिं प्रथ॒मामथ॑र्वा॒ या जा॒ता या ह॒व्यमकृ॑णोज्जा॒तवे॑दाः",
+   "तां त॑ ए॒तां प्र॑थ॒मो जो॑हवीमि॒ ताभि॑ष्टु॒प्तो व॑हतु ह॒व्यम॒ग्निर॒ग्नये॒ स्वाहा॑"
+  ],
+  "lines_iast": [
+   "yāmāhṷtiṃ pratha̱māmatha̭rvā̱ yā jā̱tā yā ha̱vyamakṛ̭ṇojjā̱tavḙdāḥ",
+   "tāṃ ta̭ e̱tāṃ pra̭tha̱mo jo̭havīmi̱ tābhi̭ṣṭu̱pto va̭hatu ha̱vyama̱gnira̱gnaye̱ svāhā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.004.2a",
+   "019.004.2b"
+  ],
+  "lines_deva": [
+   "आकू॑तिं दे॒वीं सु॒भगां॑ पु॒रो द॑धे चि॒त्तस्य॑ मा॒ता सु॒हवा॑ नो अस्तु",
+   "यामा॒शामे॑मि॒ केव॑ली॒ सा मे॑ अस्तु॒ विदे॑यमेनां॒ मन॑सि॒ प्रवि॑ष्टाम्"
+  ],
+  "lines_iast": [
+   "ākṷ̄tiṃ de̱vīṃ su̱bhagā̭ṃ pu̱ro da̭dhe ci̱ttasya̭ mā̱tā su̱havā̭ no astu",
+   "yāmā̱śāmḙmi̱ keva̭lī̱ sā mḙ astu̱ vidḙyamenā̱ṃ mana̭si̱ pravi̭ṣṭām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.004.3a",
+   "019.004.3b"
+  ],
+  "lines_deva": [
+   "आकू॑त्या नो बृहस्पत॒ आकू॑त्या न॒ उपा ग॑हि",
+   "अथो॒ भग॑स्य नो धे॒ह्यथो॑ नः सु॒हवो॑ भव"
+  ],
+  "lines_iast": [
+   "ākṷ̄tyā no bṛhaspata̱ ākṷ̄tyā na̱ upā ga̭hi",
+   "atho̱ bhaga̭sya no dhe̱hyatho̭ naḥ su̱havo̭ bhava"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.004.4a",
+   "019.004.4b"
+  ],
+  "lines_deva": [
+   "बृह॒स्पति॑र्म॒ आकू॑तिमाङ्गिर॒सः प्रति॑ जानातु॒ वाच॑मे॒ताम्",
+   "यस्य॑ दे॒वा दे॒वताः॑ संबभू॒वुः स सु॒प्रणी॑ताः॒ कामो॒ अन्वे॑त्व॒स्मान्"
+  ],
+  "lines_iast": [
+   "bṛha̱spati̭rma̱ ākṷ̄timāṅgira̱saḥ prati̭ jānātu̱ vāca̭me̱tām",
+   "yasya̭ de̱vā de̱vatā̭ḥ saṃbabhū̱vuḥ sa su̱praṇī̭tā̱ḥ kāmo̱ anvḙtva̱smān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

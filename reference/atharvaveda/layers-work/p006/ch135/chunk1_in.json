@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.135.1a",
+   "006.135.1b"
+  ],
+  "lines_deva": [
+   "यद॒श्नामि॒ बलं॑ कुर्व इ॒त्थं वज्र॒मा द॑दे",
+   "स्क॒न्धान॒मुष्य॑ शा॒तय॑न् वृ॒त्रस्ये॑व॒ शची॒पतिः॑"
+  ],
+  "lines_iast": [
+   "yada̱śnāmi̱ bala̭ṃ kurva i̱tthaṃ vajra̱mā da̭de",
+   "ska̱ndhāna̱muṣya̭ śā̱taya̭n vṛ̱trasyḙva̱ śacī̱pati̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.135.2a",
+   "006.135.2b"
+  ],
+  "lines_deva": [
+   "यत् पिबा॑मि॒ सं पि॑बामि समु॒द्र इ॑व संपि॒बः",
+   "प्रा॒णान॒मुष्य॑ सं॒पाय॒ सं पि॑बामो अ॒मुं व॒यम्"
+  ],
+  "lines_iast": [
+   "yat pibā̭mi̱ saṃ pi̭bāmi samu̱dra i̭va saṃpi̱baḥ",
+   "prā̱ṇāna̱muṣya̭ sa̱ṃpāya̱ saṃ pi̭bāmo a̱muṃ va̱yam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.135.3a",
+   "006.135.3b"
+  ],
+  "lines_deva": [
+   "यद् गिरा॑मि॒ सं गि॑रामि समु॒द्र इ॑व संगि॒रः",
+   "प्रा॒णान॒मुष्य॑ सं॒गीर्य॒ सं गि॑रामो अ॒मुं व॒यम्"
+  ],
+  "lines_iast": [
+   "yad girā̭mi̱ saṃ gi̭rāmi samu̱dra i̭va saṃgi̱raḥ",
+   "prā̱ṇāna̱muṣya̭ sa̱ṃgīrya̱ saṃ gi̭rāmo a̱muṃ va̱yam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

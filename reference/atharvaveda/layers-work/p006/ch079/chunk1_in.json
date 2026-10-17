@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.079.1a",
+   "006.079.1b"
+  ],
+  "lines_deva": [
+   "अ॒यं नो॒ नभ॑स॒स्पतिः॑ सं॒स्फानो॑ अ॒भि र॑क्षतु",
+   "अस॑मातिं गृहेषु॑ नः"
+  ],
+  "lines_iast": [
+   "a̱yaṃ no̱ nabha̭sa̱spati̭ḥ sa̱ṃsphāno̭ a̱bhi ra̭kṣatu",
+   "asa̭mātiṃ gṛheṣṷ naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.079.2a",
+   "006.079.2b"
+  ],
+  "lines_deva": [
+   "त्वं नो॑ नभसस्पत ऊर्जं॑ गृ॒हेषु॑ धारय",
+   "आ पु॒ष्टमेत्वा वसु॑"
+  ],
+  "lines_iast": [
+   "tvaṃ no̭ nabhasaspata ūrja̭ṃ gṛ̱heṣṷ dhāraya",
+   "ā pu̱ṣṭametvā vasṷ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.079.3a",
+   "006.079.3b"
+  ],
+  "lines_deva": [
+   "देव॑ संस्फान सहस्रापो॒षस्ये॑शिषे",
+   "तस्य॑ नो रास्व॒ तस्य॑ नो धेहि॒ तस्य॑ ते भक्ति॒वांसः॑ स्याम"
+  ],
+  "lines_iast": [
+   "deva̭ saṃsphāna sahasrāpo̱ṣasyḙśiṣe",
+   "tasya̭ no rāsva̱ tasya̭ no dhehi̱ tasya̭ te bhakti̱vāṃsa̭ḥ syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.001.1a",
+   "007.001.1b"
+  ],
+  "lines_deva": [
+   "धी॒ती वा॒ ये अन॑यन् वा॒चो अग्रं॒ मन॑सा वा॒ येऽव॑दन्नृ॒ तानि॑",
+   "तृ॒तीये॑न॒ ब्रह्म॑णा वावृ॒धा॒नास्तु॒रीये॑णामन्वत॒ नाम॑ धे॒नोः"
+  ],
+  "lines_iast": [
+   "dhī̱tī vā̱ ye ana̭yan vā̱co agra̱ṃ mana̭sā vā̱ ye'va̭dannṛ̱ tāni̭",
+   "tṛ̱tīyḙna̱ brahma̭ṇā vāvṛ̱dhā̱nāstu̱rīyḙṇāmanvata̱ nāma̭ dhe̱noḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.001.2a",
+   "007.001.2b"
+  ],
+  "lines_deva": [
+   "स वे॑द पु॒त्रः पि॒तरं॒ स मा॒तरं॒ स सू॒नुर्भु॑व॒त् स भु॑व॒त् पुन॑र्मघः",
+   "स द्यामौ॑र्णोद॒न्तरि॑क्षं॒ स्वः॑१ स इ॒दं विश्व॑मभवत् स आभ॑वत्"
+  ],
+  "lines_iast": [
+   "sa vḙda pu̱traḥ pi̱tara̱ṃ sa mā̱tara̱ṃ sa sū̱nurbhṷva̱t sa bhṷva̱t puna̭rmaghaḥ",
+   "sa dyāmaṷrṇoda̱ntari̭kṣa̱ṃ sva̭ḥ1 sa i̱daṃ viśva̭mabhavat sa ābha̭vat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

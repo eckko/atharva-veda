@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.009.1a",
+   "002.009.1b"
+  ],
+  "lines_deva": [
+   "दश॑वृक्ष मु॒ञ्चेमं रक्ष॑सो॒ ग्राह्या॒ अधि॒ यैनं॑ ज॒ग्राह॒ पर्व॑सु",
+   "अथो॑ एनं वनस्पते जी॒वानां॒ लो॒क॑मु॑न्नय"
+  ],
+  "lines_iast": [
+   "daśa̭vṛkṣa mu̱ñcemaṃ rakṣa̭so̱ grāhyā̱ adhi̱ yaina̭ṃ ja̱grāha̱ parva̭su",
+   "atho̭ enaṃ vanaspate jī̱vānā̱ṃ lo̱ka̭mṷnnaya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.009.2a",
+   "002.009.2b"
+  ],
+  "lines_deva": [
+   "आगा॒दुद॑गाद॒यं जी॒वानां॒ व्रात॒मप्य॑गात्",
+   "अभू॑दु पु॒त्राणां॑ पि॒ता नृ॒णां च॒ भग॑वत्तमः"
+  ],
+  "lines_iast": [
+   "āgā̱duda̭gāda̱yaṃ jī̱vānā̱ṃ vrāta̱mapya̭gāt",
+   "abhṷ̄du pu̱trāṇā̭ṃ pi̱tā nṛ̱ṇāṃ ca̱ bhaga̭vattamaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.009.3a",
+   "002.009.3b"
+  ],
+  "lines_deva": [
+   "अधी॑ती॒रध्य॑गाद॒यमधि॑ जीवपु॒रा अ॑गान्",
+   "श॒तं ह्य॑स्य भि॒षजः॑ स॒हस्र॑मु॒त वी॒रुधः॑"
+  ],
+  "lines_iast": [
+   "adhī̭tī̱radhya̭gāda̱yamadhi̭ jīvapu̱rā a̭gān",
+   "śa̱taṃ hya̭sya bhi̱ṣaja̭ḥ sa̱hasra̭mu̱ta vī̱rudha̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "002.009.4a",
+   "002.009.4b"
+  ],
+  "lines_deva": [
+   "दे॒वास्ते॑ ची॒तिम॑विदन् ब्र॒ह्माण॑ उ॒त वी॒रुधः॑",
+   "ची॒तिं ते॒ विश्वे॑ दे॒वा अवि॑द॒न् भूम्या॒मधि॑"
+  ],
+  "lines_iast": [
+   "de̱vāstḙ cī̱tima̭vidan bra̱hmāṇa̭ u̱ta vī̱rudha̭ḥ",
+   "cī̱tiṃ te̱ viśvḙ de̱vā avi̭da̱n bhūmyā̱madhi̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "002.009.5a",
+   "002.009.5b"
+  ],
+  "lines_deva": [
+   "यश्च॒कार॒ स निष्क॑र॒त् स ए॒व सुभि॑षक्तमः",
+   "स ए॒व तुभ्यं॑ भेष॒जानि॑ कृ॒णव॑द् भि॒षजा॒ शुचिः॑"
+  ],
+  "lines_iast": [
+   "yaśca̱kāra̱ sa niṣka̭ra̱t sa e̱va subhi̭ṣaktamaḥ",
+   "sa e̱va tubhya̭ṃ bheṣa̱jāni̭ kṛ̱ṇava̭d bhi̱ṣajā̱ śuci̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

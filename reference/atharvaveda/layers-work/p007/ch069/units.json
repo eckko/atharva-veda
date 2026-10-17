@@ -1,0 +1,42 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.069.1a",
+   "007.069.1b",
+   "007.069.1c"
+  ],
+  "lines_deva": [
+   "शं नो॒ वातो॑ वातु॒ शं न॑स्तपतु॒ सूर्यः॑",
+   "अहा॑नि॒ शं भ॑वन्तु नः॒ शं रात्री॒ प्रति॑ धीयतां॒",
+   "शमु॒षा नो॒ व्युऽच्छतु"
+  ],
+  "lines_iast": [
+   "śaṃ no̱ vāto̭ vātu̱ śaṃ na̭stapatu̱ sūrya̭ḥ",
+   "ahā̭ni̱ śaṃ bha̭vantu na̱ḥ śaṃ rātrī̱ prati̭ dhīyatā̱ṃ",
+   "śamu̱ṣā no̱ vyu'cchatu"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   "",
+   " ॥"
+  ]
+ }
+]

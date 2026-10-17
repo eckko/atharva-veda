@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.074.1a",
+   "007.074.1b"
+  ],
+  "lines_deva": [
+   "अ॒प॒चितां॒ लोहि॑नीनां कृ॒ष्णा मा॒तेति॑ शुश्रुम",
+   "मुने॑र्दे॒वस्य॒ मूले॑न॒ सर्वा॑ विध्यामि॒ ता अ॒हम्"
+  ],
+  "lines_iast": [
+   "a̱pa̱citā̱ṃ lohi̭nīnāṃ kṛ̱ṣṇā mā̱teti̭ śuśruma",
+   "munḙrde̱vasya̱ mūlḙna̱ sarvā̭ vidhyāmi̱ tā a̱ham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.074.2a",
+   "007.074.2b"
+  ],
+  "lines_deva": [
+   "विध्या॑म्यासां प्रथ॒मां विध्या॑म्यु॒त म॑ध्य॒माम्",
+   "इ॒दं ज॑घ॒न्याऽमासा॒मा च्छि॑नद्मि॒ स्तुका॑मिव"
+  ],
+  "lines_iast": [
+   "vidhyā̭myāsāṃ pratha̱māṃ vidhyā̭myu̱ta ma̭dhya̱mām",
+   "i̱daṃ ja̭gha̱nyā'māsā̱mā cchi̭nadmi̱ stukā̭miva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.074.3a",
+   "007.074.3b"
+  ],
+  "lines_deva": [
+   "त्वा॒ष्ट्रेणा॒हं वच॑सा॒ वि त॑ ई॒र्ष्याम॑मीमदम्",
+   "अथो॒ यो म॒न्युष्टे॑ पते॒ तमु॑ ते शमयामसि"
+  ],
+  "lines_iast": [
+   "tvā̱ṣṭreṇā̱haṃ vaca̭sā̱ vi ta̭ ī̱rṣyāma̭mīmadam",
+   "atho̱ yo ma̱nyuṣṭḙ pate̱ tamṷ te śamayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.074.4a",
+   "007.074.4b"
+  ],
+  "lines_deva": [
+   "व्र॒तेन॒ त्वं व्र॑तपते॒ सम॑क्तो वि॒श्वाहा॑ सु॒मना॑ दीदिही॒ह",
+   "तं त्वा॑ व॒यं जा॑तवेदः॒ समि॑द्धं प्र॒जाव॑न्त॒ उप॑ सदेम॒ सर्वे॑"
+  ],
+  "lines_iast": [
+   "vra̱tena̱ tvaṃ vra̭tapate̱ sama̭kto vi̱śvāhā̭ su̱manā̭ dīdihī̱ha",
+   "taṃ tvā̭ va̱yaṃ jā̭taveda̱ḥ sami̭ddhaṃ pra̱jāva̭nta̱ upa̭ sadema̱ sarvḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

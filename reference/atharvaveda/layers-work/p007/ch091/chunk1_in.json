@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.091.1a",
+   "007.091.1b"
+  ],
+  "lines_deva": [
+   "इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृडी॒को भ॑वतु वि॒श्ववे॑दाः",
+   "बाध॑तां॒ द्वेषो॒ अभ॑यं नः कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम"
+  ],
+  "lines_iast": [
+   "indra̭ḥ su̱trāmā̱ svavā̱~ avo̭bhiḥ sumṛḍī̱ko bha̭vatu vi̱śvavḙdāḥ",
+   "bādha̭tā̱ṃ dveṣo̱ abha̭yaṃ naḥ kṛṇotu su̱vīrya̭sya̱ pata̭yaḥ syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

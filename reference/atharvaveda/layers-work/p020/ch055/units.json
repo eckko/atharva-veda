@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.055.1a",
+   "020.055.1b"
+  ],
+  "lines_deva": [
+   "तमिन्द्रं॑ जोहवीमि म॒घवा॑नमु॒ग्रं स॒त्रा दधा॑न॒मप्र॑तिष्कुतं॒ शवांसि",
+   "मंहि॑ष्ठो गी॒र्भिरा च॑ य॒ज्ञियो॑ व॒वर्त॑द् रा॒ये नो॒ विश्वा॑ सु॒पथा॑ कृणोतु व॒ज्री"
+  ],
+  "lines_iast": [
+   "tamindra̭ṃ johavīmi ma̱ghavā̭namu̱graṃ sa̱trā dadhā̭na̱mapra̭tiṣkuta̱ṃ śavāṃsi",
+   "maṃhi̭ṣṭho gī̱rbhirā ca̭ ya̱jñiyo̭ va̱varta̭d rā̱ye no̱ viśvā̭ su̱pathā̭ kṛṇotu va̱jrī"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.055.2a",
+   "020.055.2b"
+  ],
+  "lines_deva": [
+   "या इ॑न्द्र॒ भुज॒ आभ॑रः॒ स्वर्वां॒ असु॑रेभ्यः",
+   "स्तो॒तार॒मिन्म॑घवन्नस्य वर्धय॒ ये च॒ त्वे वृ॒क्तब॑र्हिषः"
+  ],
+  "lines_iast": [
+   "yā i̭ndra̱ bhuja̱ ābha̭ra̱ḥ svarvā̱ṃ asṷrebhyaḥ",
+   "sto̱tāra̱minma̭ghavannasya vardhaya̱ ye ca̱ tve vṛ̱ktaba̭rhiṣaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.055.3a",
+   "020.055.3b"
+  ],
+  "lines_deva": [
+   "यमि॑न्द्र दधि॒षे त्वमश्वं॒ गां भा॒गमव्य॑यम्",
+   "यज॑माने सुन्व॒ति दक्षि॑णावति॒ तस्मि॒न् तं धे॑हि॒ मा प॒णौ"
+  ],
+  "lines_iast": [
+   "yami̭ndra dadhi̱ṣe tvamaśva̱ṃ gāṃ bhā̱gamavya̭yam",
+   "yaja̭māne sunva̱ti dakṣi̭ṇāvati̱ tasmi̱n taṃ dhḙhi̱ mā pa̱ṇau"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

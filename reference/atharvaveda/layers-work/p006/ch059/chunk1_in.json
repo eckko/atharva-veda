@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.059.1a",
+   "006.059.1b"
+  ],
+  "lines_deva": [
+   "अ॒न॒डुद्भ्य॒स्त्वं प्र॑थ॒मं धे॒नुभ्य॒स्त्वम॑रुन्धति",
+   "अधे॑नवे॒ वय॑से॒ शर्म॑ यच्छ॒ चतु॑ष्पदे"
+  ],
+  "lines_iast": [
+   "a̱na̱ḍudbhya̱stvaṃ pra̭tha̱maṃ dhe̱nubhya̱stvama̭rundhati",
+   "adhḙnave̱ vaya̭se̱ śarma̭ yaccha̱ catṷṣpade"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.059.2a",
+   "006.059.2b"
+  ],
+  "lines_deva": [
+   "शर्म॑ यच्छ॒त्वोष॑धिः स॒ह दे॒वीर॑रुन्ध॒ती",
+   "कर॒त् पय॑स्वन्तं गो॒ष्ठम॑य॒क्ष्मां उ॒त पूरु॑षान्"
+  ],
+  "lines_iast": [
+   "śarma̭ yaccha̱tvoṣa̭dhiḥ sa̱ha de̱vīra̭rundha̱tī",
+   "kara̱t paya̭svantaṃ go̱ṣṭhama̭ya̱kṣmāṃ u̱ta pūrṷṣān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.059.3a",
+   "006.059.3b"
+  ],
+  "lines_deva": [
+   "वि॒श्वरू॑पां सु॒भगा॑म॒च्छाव॑दामि जीव॒लाम्",
+   "सा नो॑ रु॒द्रस्या॒स्तां हे॒तिं दू॒रं न॑यतु॒ गोभ्यः॑"
+  ],
+  "lines_iast": [
+   "vi̱śvarṷ̄pāṃ su̱bhagā̭ma̱cchāva̭dāmi jīva̱lām",
+   "sā no̭ ru̱drasyā̱stāṃ he̱tiṃ dū̱raṃ na̭yatu̱ gobhya̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

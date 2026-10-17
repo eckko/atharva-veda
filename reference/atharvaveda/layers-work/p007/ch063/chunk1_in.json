@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.063.1a",
+   "007.063.1b"
+  ],
+  "lines_deva": [
+   "पृ॒त॒ना॒जितं॒ सह॑मानम॒ग्निमु॒क्थ्यैर्ह॑वामहे पर॒मात् स॒धस्था॑त्",
+   "स नः॑ पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द् दे॒वोऽति॑ दुरि॒तान्य॒ग्निः"
+  ],
+  "lines_iast": [
+   "pṛ̱ta̱nā̱jita̱ṃ saha̭mānama̱gnimu̱kthyairha̭vāmahe para̱māt sa̱dhasthā̭t",
+   "sa na̭ḥ parṣa̱dati̭ du̱rgāṇi̱ viśvā̱ kṣāma̭d de̱vo'ti̭ duri̱tānya̱gniḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

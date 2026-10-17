@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.046.1a",
+   "007.046.1b"
+  ],
+  "lines_deva": [
+   "सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑",
+   "जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः"
+  ],
+  "lines_iast": [
+   "sinī̭vāli̱ pṛthṷṣṭuke̱ yā de̱vānā̱masi̱ svasā̭",
+   "ju̱ṣasva̭ ha̱vyamāhṷtaṃ pra̱jāṃ dḙvi didiḍḍhi naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.046.2a",
+   "007.046.2b"
+  ],
+  "lines_deva": [
+   "या सु॑बा॒हुः स्व॑ङ्गु॒रिः सु॒षूमा॑ बहु॒सूव॑री",
+   "तस्यै॑ वि॒श्पत्न्यै॑ ह॒विः सि॑नीवा॒ल्यै जु॑होतन"
+  ],
+  "lines_iast": [
+   "yā sṷbā̱huḥ sva̭ṅgu̱riḥ su̱ṣūmā̭ bahu̱sūva̭rī",
+   "tasyai̭ vi̱śpatnyai̭ ha̱viḥ si̭nīvā̱lyai jṷhotana"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.046.3a",
+   "007.046.3b"
+  ],
+  "lines_deva": [
+   "या वि॒श्पत्नीन्द्र॒मसि॑ प्र॒तीची॑ स॒हस्र॑स्तुकाभि॒यन्ती॑ दे॒वी",
+   "विष्णोः॑ पत्नि॒ तुभ्यं॑ रा॒ता ह॒वींषि॒ पतिं॑ देवि॒ राध॑से चोदयस्व"
+  ],
+  "lines_iast": [
+   "yā vi̱śpatnīndra̱masi̭ pra̱tīcī̭ sa̱hasra̭stukābhi̱yantī̭ de̱vī",
+   "viṣṇo̭ḥ patni̱ tubhya̭ṃ rā̱tā ha̱vīṃṣi̱ pati̭ṃ devi̱ rādha̭se codayasva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

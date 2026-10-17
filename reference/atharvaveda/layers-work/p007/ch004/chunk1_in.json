@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.004.1a",
+   "007.004.1b"
+  ],
+  "lines_deva": [
+   "एक॑या च द॒शभि॑श्चा सुहुते॒ द्वाभ्या॑मि॒ष्टये॑ विंश॒त्या च॑",
+   "ति॒सृभि॑श्च॒ वह॑से त्रिं॒शता॑ च वि॒युग्भि॑र्वाय इ॒ह ता वि मु॑ञ्च"
+  ],
+  "lines_iast": [
+   "eka̭yā ca da̱śabhi̭ścā suhute̱ dvābhyā̭mi̱ṣṭayḙ viṃśa̱tyā ca̭",
+   "ti̱sṛbhi̭śca̱ vaha̭se tri̱ṃśatā̭ ca vi̱yugbhi̭rvāya i̱ha tā vi mṷñca"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.121.1a",
+   "006.121.1b"
+  ],
+  "lines_deva": [
+   "वि॒षाणा॒ पाशा॒न् वि ष्याध्य॒स्मद् य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये",
+   "दु॒ष्वप्न्यं॑ दुरि॒तं नि ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्"
+  ],
+  "lines_iast": [
+   "vi̱ṣāṇā̱ pāśā̱n vi ṣyādhya̱smad ya ṷtta̱mā a̭dha̱mā vā̭ru̱ṇā ye",
+   "du̱ṣvapnya̭ṃ duri̱taṃ ni ṣvā̱smadatha̭ gacchema sukṛ̱tasya̭ lo̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.121.2a",
+   "006.121.2b"
+  ],
+  "lines_deva": [
+   "यद् दारु॑णि ब॒ध्यसे॒ यच्च॒ रज्ज्वां॒ यद् भूम्यां॑ ब॒ध्यसे॒ यच्च॑ वा॒चा",
+   "अ॒यं तस्मा॒द् गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्"
+  ],
+  "lines_iast": [
+   "yad dārṷṇi ba̱dhyase̱ yacca̱ rajjvā̱ṃ yad bhūmyā̭ṃ ba̱dhyase̱ yacca̭ vā̱cā",
+   "a̱yaṃ tasmā̱d gārha̭patyo no a̱gnirudinna̭yāti sukṛ̱tasya̭ lo̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.121.3a",
+   "006.121.3b"
+  ],
+  "lines_deva": [
+   "उद॑गातां॒ भग॑वती वि॒चृतौ॒ नाम॒ तार॑के",
+   "प्रेहामृत॑स्य यच्छतां॒ प्रैतु॑ बद्धक॒मोच॑नम्"
+  ],
+  "lines_iast": [
+   "uda̭gātā̱ṃ bhaga̭vatī vi̱cṛtau̱ nāma̱ tāra̭ke",
+   "prehāmṛta̭sya yacchatā̱ṃ praitṷ baddhaka̱moca̭nam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "006.121.4a",
+   "006.121.4b"
+  ],
+  "lines_deva": [
+   "वि जि॑हीष्व लो॒कं कृ॑णु ब॒न्धान्मु॑ञ्चासि॒ बद्ध॑कम्",
+   "योन्या॑ इव॒ प्रच्यु॑तो॒ गर्भः॑ प॒थः सर्वां॒ अनु॑ क्षिय"
+  ],
+  "lines_iast": [
+   "vi ji̭hīṣva lo̱kaṃ kṛ̭ṇu ba̱ndhānmṷñcāsi̱ baddha̭kam",
+   "yonyā̭ iva̱ pracyṷto̱ garbha̭ḥ pa̱thaḥ sarvā̱ṃ anṷ kṣiya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

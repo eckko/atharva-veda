@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.071.1a",
+   "006.071.1b"
+  ],
+  "lines_deva": [
+   "यदन्न॒मद्मि॑ बहु॒धा विरू॑पं॒ हिर॑ण्य॒मश्व॑मु॒त गाम॒जामवि॑म्",
+   "यदे॒व किं च॑ प्रतिज॒ग्रहाह॑म॒ग्निष्टद्धोता॒ सुहु॑तं कृनोतु"
+  ],
+  "lines_iast": [
+   "yadanna̱madmi̭ bahu̱dhā virṷ̄pa̱ṃ hira̭ṇya̱maśva̭mu̱ta gāma̱jāmavi̭m",
+   "yade̱va kiṃ ca̭ pratija̱grahāha̭ma̱gniṣṭaddhotā̱ suhṷtaṃ kṛnotu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.071.2a",
+   "006.071.2b"
+  ],
+  "lines_deva": [
+   "यन्मा॑ हु॒तमहु॑तमाज॒गाम॑ द॒त्तं पि॒तृभि॒रनु॑मतं मनु॒ष्यैः",
+   "यस्मा॑न्मे॒ मन॒ उदि॑व॒ रार॑जीत्य॒ग्निष्टद्धोता॒ सुहु॑तं कृणोतु"
+  ],
+  "lines_iast": [
+   "yanmā̭ hu̱tamahṷtamāja̱gāma̭ da̱ttaṃ pi̱tṛbhi̱ranṷmataṃ manu̱ṣyaiḥ",
+   "yasmā̭nme̱ mana̱ udi̭va̱ rāra̭jītya̱gniṣṭaddhotā̱ suhṷtaṃ kṛṇotu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.071.3a",
+   "006.071.3b"
+  ],
+  "lines_deva": [
+   "यदन्न॒मद्म्यनृ॑तेन देवा दा॒स्यन्नदा॑स्यन्नु॒त सं॑गृ॒णामि॑",
+   "वै॒श्वा॒न॒रस्य॑ मह॒तो म॑हि॒म्ना शि॒वं मह्यं॒ मधु॑मद॒स्त्वन्न॑म्"
+  ],
+  "lines_iast": [
+   "yadanna̱madmyanṛ̭tena devā dā̱syannadā̭syannu̱ta sa̭ṃgṛ̱ṇāmi̭",
+   "vai̱śvā̱na̱rasya̭ maha̱to ma̭hi̱mnā śi̱vaṃ mahya̱ṃ madhṷmada̱stvanna̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

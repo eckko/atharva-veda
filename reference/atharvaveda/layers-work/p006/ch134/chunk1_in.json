@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.134.1a",
+   "006.134.1b"
+  ],
+  "lines_deva": [
+   "अ॒यं वज्र॑स्तर्पयतामृ॒तस्यावा॑स्य रा॒ष्ट्रमप॑ हन्तु जीवि॒तम्",
+   "शृ॒णातु॑ ग्री॒वाः प्र शृ॑णातू॒ष्णिहा॑ वृ॒त्रस्ये॑व॒ शची॒पतिः॑"
+  ],
+  "lines_iast": [
+   "a̱yaṃ vajra̭starpayatāmṛ̱tasyāvā̭sya rā̱ṣṭramapa̭ hantu jīvi̱tam",
+   "śṛ̱ṇātṷ grī̱vāḥ pra śṛ̭ṇātū̱ṣṇihā̭ vṛ̱trasyḙva̱ śacī̱pati̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.134.2a",
+   "006.134.2b"
+  ],
+  "lines_deva": [
+   "अध॑रोऽधर॒ उत्त॑रेभ्यो गू॒ढः पृ॑थि॒व्या मोत् सृपत्",
+   "वज्रे॒णाव॑हतः शयाम्"
+  ],
+  "lines_iast": [
+   "adha̭ro'dhara̱ utta̭rebhyo gū̱ḍhaḥ pṛ̭thi̱vyā mot sṛpat",
+   "vajre̱ṇāva̭hataḥ śayām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.134.3a",
+   "006.134.3b"
+  ],
+  "lines_deva": [
+   "यो जि॒नाति॒ तमन्वि॑च्छ यो जि॒नाति॒ तमिज्ज॑हि",
+   "जि॒न॒तो व॑ज्र॒ त्वं सी॒मन्त॑म॒न्वञ्च॒मनु॑ पातय"
+  ],
+  "lines_iast": [
+   "yo ji̱nāti̱ tamanvi̭ccha yo ji̱nāti̱ tamijja̭hi",
+   "ji̱na̱to va̭jra̱ tvaṃ sī̱manta̭ma̱nvañca̱manṷ pātaya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

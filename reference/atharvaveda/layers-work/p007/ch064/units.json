@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.064.1a",
+   "007.064.1b"
+  ],
+  "lines_deva": [
+   "इ॒दं यत् कृ॒ष्णः श॒कुनि॑रभिनि॒ष्पत॒न्नपी॑पतत्",
+   "आपो॑ मा॒ तस्मा॒त् सर्व॑स्माद् दुरि॒तात् पा॒न्त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "i̱daṃ yat kṛ̱ṣṇaḥ śa̱kuni̭rabhini̱ṣpata̱nnapī̭patat",
+   "āpo̭ mā̱ tasmā̱t sarva̭smād duri̱tāt pā̱ntvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.064.2a",
+   "007.064.2b"
+  ],
+  "lines_deva": [
+   "इ॒दं यत् कृ॒ष्णः श॒कुनि॑र॒वामृ॑क्षन्निरृते ते॒ मुखे॑न",
+   "अ॒ग्निर्मा॒ तस्मा॒देन॑सो॒ गार्ह॑पत्यः॒ प्र मु॑ञ्चतु"
+  ],
+  "lines_iast": [
+   "i̱daṃ yat kṛ̱ṣṇaḥ śa̱kuni̭ra̱vāmṛ̭kṣannirṛte te̱ mukhḙna",
+   "a̱gnirmā̱ tasmā̱dena̭so̱ gārha̭patya̱ḥ pra mṷñcatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

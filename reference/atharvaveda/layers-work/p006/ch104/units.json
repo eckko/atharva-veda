@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.104.1a",
+   "006.104.1b"
+  ],
+  "lines_deva": [
+   "आ॒दाने॑न सं॒दाने॑ना॒मित्रा॒ना द्या॑मसि",
+   "अ॒पा॒ना ये चै॑षां प्रा॒णा असु॒नासू॒न्त्सम॑च्छिदन्"
+  ],
+  "lines_iast": [
+   "ā̱dānḙna sa̱ṃdānḙnā̱mitrā̱nā dyā̭masi",
+   "a̱pā̱nā ye cai̭ṣāṃ prā̱ṇā asu̱nāsū̱ntsama̭cchidan"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.104.2a",
+   "006.104.2b"
+  ],
+  "lines_deva": [
+   "इ॒दमा॒दान॑मकरं॒ तप॒सेन्द्रे॑ण॒ संशि॑तम्",
+   "अ॒मित्रा॒ येऽत्र॑ नः॒ सन्ति॒ तान॑ग्न॒ आ द्या॒ त्वम्"
+  ],
+  "lines_iast": [
+   "i̱damā̱dāna̭makara̱ṃ tapa̱sendrḙṇa̱ saṃśi̭tam",
+   "a̱mitrā̱ ye'tra̭ na̱ḥ santi̱ tāna̭gna̱ ā dyā̱ tvam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.104.3a",
+   "006.104.3b"
+  ],
+  "lines_deva": [
+   "ऐना॑न् द्यतामिन्द्रा॒ग्नी सोमो॑ राजा॑ च मे॒दिनौ॑",
+   "इन्द्रो॑ म॒रुत्वा॑ना॒दान॑म॒मित्रे॑भ्यः कृणोतु नः"
+  ],
+  "lines_iast": [
+   "ainā̭n dyatāmindrā̱gnī somo̭ rājā̭ ca me̱dinaṷ",
+   "indro̭ ma̱rutvā̭nā̱dāna̭ma̱mitrḙbhyaḥ kṛṇotu naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

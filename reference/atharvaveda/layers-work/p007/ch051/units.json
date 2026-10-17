@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.051.1a",
+   "007.051.1b"
+  ],
+  "lines_deva": [
+   "बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः",
+   "इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरी॑यः॒ कृणोतु"
+  ],
+  "lines_iast": [
+   "bṛha̱spati̭rna̱ḥ pari̭ pātu pa̱ścādu̱totta̭rasmā̱dadha̭rādaghā̱yoḥ",
+   "indra̭ḥ pu̱rastā̭du̱ta ma̭dhya̱to na̱ḥ sakhā̱ sakhi̭bhyo̱ varī̭ya̱ḥ kṛṇotu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

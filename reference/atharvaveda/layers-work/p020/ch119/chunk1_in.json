@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.119.1a",
+   "020.119.1b"
+  ],
+  "lines_deva": [
+   "अस्ता॑वि॒ मन्म॑ पू॒र्व्यं ब्रह्मेन्द्रा॑य वोचत",
+   "पू॒र्वीरृ॒तस्य॑ बृह॒तीर॑नूषत स्तो॒तुर्मे॒घा अ॑सृक्षत"
+  ],
+  "lines_iast": [
+   "astā̭vi̱ manma̭ pū̱rvyaṃ brahmendrā̭ya vocata",
+   "pū̱rvīrṛ̱tasya̭ bṛha̱tīra̭nūṣata sto̱turme̱ghā a̭sṛkṣata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.119.2a",
+   "020.119.2b"
+  ],
+  "lines_deva": [
+   "तु॒र॒ण्यवो॒ मधु॑मन्तं घृत॒श्चुतं॒ विप्रा॑सो अ॒र्कमा॑नृचुः",
+   "अ॒स्मे र॒यिः प॑प्रथे॒ वृष्ण्यं॒ शवो॒ऽस्मे सु॑वा॒नास॒ इन्द॑वः"
+  ],
+  "lines_iast": [
+   "tu̱ra̱ṇyavo̱ madhṷmantaṃ ghṛta̱ścuta̱ṃ viprā̭so a̱rkamā̭nṛcuḥ",
+   "a̱sme ra̱yiḥ pa̭prathe̱ vṛṣṇya̱ṃ śavo̱'sme sṷvā̱nāsa̱ inda̭vaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

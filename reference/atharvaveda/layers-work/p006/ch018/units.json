@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.018.1a",
+   "006.018.1b"
+  ],
+  "lines_deva": [
+   "ई॒र्ष्याया॒ ध्राजिं॑ प्रथ॒मां प्र॑थ॒मस्या॑ उ॒ताप॑राम्",
+   "अ॒ग्निं हृ॑द॒य्यं॑१ शोकं॒ तं ते॒ निर्वा॑पयामसि"
+  ],
+  "lines_iast": [
+   "ī̱rṣyāyā̱ dhrāji̭ṃ pratha̱māṃ pra̭tha̱masyā̭ u̱tāpa̭rām",
+   "a̱gniṃ hṛ̭da̱yya̭ṃ1 śoka̱ṃ taṃ te̱ nirvā̭payāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.018.2a",
+   "006.018.2b"
+  ],
+  "lines_deva": [
+   "यथा॒ भूमि॑र्मृ॒तम॑ना मृ॒तान्मृ॒तम॑नस्तरा",
+   "यथो॒त म॒म्रुषो॒ मन॑ ए॒वेर्ष्योर्मृ॒तं मनः॑"
+  ],
+  "lines_iast": [
+   "yathā̱ bhūmi̭rmṛ̱tama̭nā mṛ̱tānmṛ̱tama̭nastarā",
+   "yatho̱ta ma̱mruṣo̱ mana̭ e̱verṣyormṛ̱taṃ mana̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.018.3a",
+   "006.018.3b"
+  ],
+  "lines_deva": [
+   "अ॒दो यत् ते हृ॒दि श्रि॒तं म॑न॒स्कं प॑तयिष्णु॒कम्",
+   "तत॑स्त ई॒र्ष्यां मु॑ञ्चामि॒ निरू॒ष्माणं॒ दृते॑रिव"
+  ],
+  "lines_iast": [
+   "a̱do yat te hṛ̱di śri̱taṃ ma̭na̱skaṃ pa̭tayiṣṇu̱kam",
+   "tata̭sta ī̱rṣyāṃ mṷñcāmi̱ nirū̱ṣmāṇa̱ṃ dṛtḙriva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

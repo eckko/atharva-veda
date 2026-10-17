@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.114.1a",
+   "007.114.1b"
+  ],
+  "lines_deva": [
+   "आ ते॑ ददे व॒क्षणा॑भ्य॒ आ ते॒ऽहं हृद॑याद् ददे",
+   "आ ते॒ मुख॑स्य॒ सङ्का॑शा॒त् सर्वं॑ ते॒ वर्च॒ आ द॑दे"
+  ],
+  "lines_iast": [
+   "ā tḙ dade va̱kṣaṇā̭bhya̱ ā te̱'haṃ hṛda̭yād dade",
+   "ā te̱ mukha̭sya̱ saṅkā̭śā̱t sarva̭ṃ te̱ varca̱ ā da̭de"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.114.2a",
+   "007.114.2b"
+  ],
+  "lines_deva": [
+   "प्रेतो य॑न्तु॒ व्याऽध्यः॒ प्रानु॒ध्याः प्रो अश॑स्तयः",
+   "अ॒ग्नी र॑क्ष॒स्विनी॑र्हन्तु॒ सोमो॑ हन्तु दुरस्य॒तीः"
+  ],
+  "lines_iast": [
+   "preto ya̭ntu̱ vyā'dhya̱ḥ prānu̱dhyāḥ pro aśa̭stayaḥ",
+   "a̱gnī ra̭kṣa̱svinī̭rhantu̱ somo̭ hantu durasya̱tīḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

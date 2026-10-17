@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.054.1a",
+   "020.054.1b"
+  ],
+  "lines_deva": [
+   "विश्वाः॒ पृत॑ना अभि॒भूत॑रं॒ नरं॑ स॒जूस्त॑तक्षु॒रिन्द्रं॑ जज॒नुश्च॑ रा॒जसे॑",
+   "क्रत्वा॒ वरि॑ष्ठं॒ वर॑ आ॒मुरि॑मु॒तोग्रमोजि॑ष्ठं त॒वसं॑ तर॒स्विन॑म्"
+  ],
+  "lines_iast": [
+   "viśvā̱ḥ pṛta̭nā abhi̱bhūta̭ra̱ṃ nara̭ṃ sa̱jūsta̭takṣu̱rindra̭ṃ jaja̱nuśca̭ rā̱jasḙ",
+   "kratvā̱ vari̭ṣṭha̱ṃ vara̭ ā̱muri̭mu̱togramoji̭ṣṭhaṃ ta̱vasa̭ṃ tara̱svina̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.054.2a",
+   "020.054.2b"
+  ],
+  "lines_deva": [
+   "समीं॑ रे॒भासो॑ अस्वर॒न्निन्द्रं॒ सोम॑स्य पी॒तये॑",
+   "स्वर्पतिं॒ यदीं॑ वृ॒धे धृ॒तव्र॑तो॒ ह्योज॑सा॒ समू॒तिभिः॑"
+  ],
+  "lines_iast": [
+   "samī̭ṃ re̱bhāso̭ asvara̱nnindra̱ṃ soma̭sya pī̱tayḙ",
+   "svarpati̱ṃ yadī̭ṃ vṛ̱dhe dhṛ̱tavra̭to̱ hyoja̭sā̱ samū̱tibhi̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.054.3a",
+   "020.054.3b"
+  ],
+  "lines_deva": [
+   "ने॒मिं न॑मन्ति॒ चक्ष॑सा मे॒षं विप्रा॑ अभि॒स्वरा॑",
+   "सु॒दी॒तयो॑ वो अ॒द्रुहोऽपि॒ कर्णे॑ तर॒स्विनः॒ समृक्व॑भिः"
+  ],
+  "lines_iast": [
+   "ne̱miṃ na̭manti̱ cakṣa̭sā me̱ṣaṃ viprā̭ abhi̱svarā̭",
+   "su̱dī̱tayo̭ vo a̱druho'pi̱ karṇḙ tara̱svina̱ḥ samṛkva̭bhiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

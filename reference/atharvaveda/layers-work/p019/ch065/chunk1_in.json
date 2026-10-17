@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.065.1a",
+   "019.065.1b"
+  ],
+  "lines_deva": [
+   "हरिः॑ सुप॒र्णो दिव॒मारु॑हो॒ऽर्चिषा॒ ये त्वा॒ दिप्स॑न्ति॒ दिव॑मु॒त्पत॑न्तम्",
+   "अव॒ तां ज॑हि॒ हर॑सा जातवे॒दोऽबि॑भ्यदु॒ग्रोऽर्चिषा॒ दिव॒मा रो॑ह सूर्य"
+  ],
+  "lines_iast": [
+   "hari̭ḥ supa̱rṇo diva̱mārṷho̱'rciṣā̱ ye tvā̱ dipsa̭nti̱ diva̭mu̱tpata̭ntam",
+   "ava̱ tāṃ ja̭hi̱ hara̭sā jātave̱do'bi̭bhyadu̱gro'rciṣā̱ diva̱mā ro̭ha sūrya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.024.1a",
+   "006.024.1b"
+  ],
+  "lines_deva": [
+   "हि॒मव॑तः॒ प्र स्र॑वन्ति॒ सिन्धौ॑ समह सङ्ग॒मः",
+   "आपो॑ ह मह्यं॒ तद् दे॒वीर्दद॑न् हृद्द्योतभेष॒जम्"
+  ],
+  "lines_iast": [
+   "hi̱mava̭ta̱ḥ pra sra̭vanti̱ sindhaṷ samaha saṅga̱maḥ",
+   "āpo̭ ha mahya̱ṃ tad de̱vīrdada̭n hṛddyotabheṣa̱jam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.024.2a",
+   "006.024.2b"
+  ],
+  "lines_deva": [
+   "यन्मे॑ अ॒क्ष्योरा॑दि॒द्योत॒ पार्ष्ण्योः॒ प्रप॑दोश्च॒ यत्",
+   "आप॒स्तत् सर्वं॒ निष्क॑रन् भि॒षजां॒ सुभि॑षक्तमाः"
+  ],
+  "lines_iast": [
+   "yanmḙ a̱kṣyorā̭di̱dyota̱ pārṣṇyo̱ḥ prapa̭dośca̱ yat",
+   "āpa̱stat sarva̱ṃ niṣka̭ran bhi̱ṣajā̱ṃ subhi̭ṣaktamāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.024.3a",
+   "006.024.3b"
+  ],
+  "lines_deva": [
+   "सिन्धु॑पत्नीः॒ सिन्धु॑राज्ञीः॒ सर्वा॒ या न॒द्य॑१स्थन॑",
+   "द॒त्त न॒स्तस्य॑ भेष॒जं तेना॑ वो भुनजामहै"
+  ],
+  "lines_iast": [
+   "sindhṷpatnī̱ḥ sindhṷrājñī̱ḥ sarvā̱ yā na̱dya̭1sthana̭",
+   "da̱tta na̱stasya̭ bheṣa̱jaṃ tenā̭ vo bhunajāmahai"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,75 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.016.1a",
+   "019.016.1b"
+  ],
+  "lines_deva": [
+   "अ॒स॒प॒त्नं पु॒रस्ता॑त् प॒श्चान्नो॒ अभ॑यं कृतम्",
+   "स॒वि॒ता मा॑ दक्षिण॒त उ॑त्त॒रान्मा॒ शची॒पतिः॑"
+  ],
+  "lines_iast": [
+   "a̱sa̱pa̱tnaṃ pu̱rastā̭t pa̱ścānno̱ abha̭yaṃ kṛtam",
+   "sa̱vi̱tā mā̭ dakṣiṇa̱ta ṷtta̱rānmā̱ śacī̱pati̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.016.2a",
+   "019.016.2b",
+   "019.016.2c"
+  ],
+  "lines_deva": [
+   "दि॒वो मा॑दि॒त्या र॑क्षन्तु॒ भूम्या॑ रक्षन्त्व॒ग्नयः॑",
+   "इ॒न्द्रा॒ग्नी र॑क्षतां मा पु॒रस्ता॑द॒श्विना॑व॒भितः॒ शर्म॑ यच्छताम्",
+   "ति॒र॒श्चीन॒घ्न्या र॑क्षतु जा॒तवे॑दा भूत॒कृतो॑ मे स॒र्वतः॑ सन्तु॒ वर्म॑"
+  ],
+  "lines_iast": [
+   "di̱vo mā̭di̱tyā ra̭kṣantu̱ bhūmyā̭ rakṣantva̱gnaya̭ḥ",
+   "i̱ndrā̱gnī ra̭kṣatāṃ mā pu̱rastā̭da̱śvinā̭va̱bhita̱ḥ śarma̭ yacchatām",
+   "ti̱ra̱ścīna̱ghnyā ra̭kṣatu jā̱tavḙdā bhūta̱kṛto̭ me sa̱rvata̭ḥ santu̱ varma̭"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   "।",
+   " ॥"
+  ]
+ }
+]

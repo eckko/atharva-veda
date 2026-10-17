@@ -1,0 +1,233 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "004.026.1a",
+   "004.026.1b"
+  ],
+  "lines_deva": [
+   "म॒न्वे वां॑ द्यावापृथिवी सुभोजसौ॒ सचे॑तसौ॒ ये अप्र॑थेथा॒ममि॑ता॒ योज॑नानि",
+   "प्र॒ति॒ष्ठे ह्यभ॑वतं॒ वसू॑नां॒ ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "ma̱nve vā̭ṃ dyāvāpṛthivī subhojasau̱ sacḙtasau̱ ye apra̭thethā̱mami̭tā̱ yoja̭nāni",
+   "pra̱ti̱ṣṭhe hyabha̭vata̱ṃ vasṷ̄nā̱ṃ te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "004.026.2a",
+   "004.026.2b"
+  ],
+  "lines_deva": [
+   "प्र॒ति॒ष्ठे ह्यभ॑वत॒ वसू॑नां॒ प्रवृ॑द्धे देवी सुभगे उरूची",
+   "द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "pra̱ti̱ṣṭhe hyabha̭vata̱ vasṷ̄nā̱ṃ pravṛ̭ddhe devī subhage urūcī",
+   "dyāvā̭pṛthivī̱ bhava̭taṃ me syo̱ne te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "004.026.3a",
+   "004.026.3b"
+  ],
+  "lines_deva": [
+   "अ॒स॒न्ता॒पे सु॒तप॑सौ हुवे॒ऽहमु॒र्वी ग॑म्भी॒रे क॒विभि॑र्नम॒स्येऽ",
+   "द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "a̱sa̱ntā̱pe su̱tapa̭sau huve̱'hamu̱rvī ga̭mbhī̱re ka̱vibhi̭rnama̱sye'",
+   "dyāvā̭pṛthivī̱ bhava̭taṃ me syo̱ne te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "004.026.4a",
+   "004.026.4b"
+  ],
+  "lines_deva": [
+   "ये अ॒मृतं॑ बिभृ॒थो ये ह॒वींषि॒ ये स्रो॒त्या बि॑भृ॒थो ये म॑नु॒ष्याऽन्",
+   "द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "ye a̱mṛta̭ṃ bibhṛ̱tho ye ha̱vīṃṣi̱ ye sro̱tyā bi̭bhṛ̱tho ye ma̭nu̱ṣyā'n",
+   "dyāvā̭pṛthivī̱ bhava̭taṃ me syo̱ne te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "004.026.5a",
+   "004.026.5b"
+  ],
+  "lines_deva": [
+   "ये उ॒स्रिया॒ बिभृ॒थो ये वन॒स्पती॒न् ययो॑र्वां॒ विश्वा॒ भुव॑नान्य॒न्तः",
+   "द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "ye u̱sriyā̱ bibhṛ̱tho ye vana̱spatī̱n yayo̭rvā̱ṃ viśvā̱ bhuva̭nānya̱ntaḥ",
+   "dyāvā̭pṛthivī̱ bhava̭taṃ me syo̱ne te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "004.026.6a",
+   "004.026.6b"
+  ],
+  "lines_deva": [
+   "ये की॒लाले॑न त॒र्पय॑थो॒ ये घृ॒तेन॒ याभ्या॑मृ॒ते न किं च॒न श॑क्नु॒वन्ति",
+   "द्यावा॑पृथिवी॒ भव॑तं मे स्यो॒ने ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "ye kī̱lālḙna ta̱rpaya̭tho̱ ye ghṛ̱tena̱ yābhyā̭mṛ̱te na kiṃ ca̱na śa̭knu̱vanti",
+   "dyāvā̭pṛthivī̱ bhava̭taṃ me syo̱ne te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "004.026.7a",
+   "004.026.7b"
+  ],
+  "lines_deva": [
+   "यन्मे॒दम॑भि॒शोच॑ति॒ येन॑येन वा कृ॒तं पौरु॑षेया॒न्न दैवा॑त्",
+   "स्तौमि॒ द्यावा॑पृथि॒वी ना॑थि॒तो जो॑हवीमि॒ ते नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "yanme̱dama̭bhi̱śoca̭ti̱ yena̭yena vā kṛ̱taṃ paurṷṣeyā̱nna daivā̭t",
+   "staumi̱ dyāvā̭pṛthi̱vī nā̭thi̱to jo̭havīmi̱ te no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

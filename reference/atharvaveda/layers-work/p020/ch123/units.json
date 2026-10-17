@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.123.1a",
+   "020.123.1b"
+  ],
+  "lines_deva": [
+   "तत् सूर्य॑स्य देव॒त्वं तन्म॑हि॒त्वं म॒ध्या कर्तो॒र्वित॑तं॒ सं ज॑भार",
+   "य॒देदयु॑क्त ह॒रितः॑ स॒धस्था॒दाद् रात्री॒ वास॑स्तनुते सि॒मस्मै॑"
+  ],
+  "lines_iast": [
+   "tat sūrya̭sya deva̱tvaṃ tanma̭hi̱tvaṃ ma̱dhyā karto̱rvita̭ta̱ṃ saṃ ja̭bhāra",
+   "ya̱dedayṷkta ha̱rita̭ḥ sa̱dhasthā̱dād rātrī̱ vāsa̭stanute si̱masmai̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.123.2a",
+   "020.123.2b"
+  ],
+  "lines_deva": [
+   "तन्मि॒त्रस्य॒ वरु॑णस्याभि॒चक्षे॒ सूर्यो॑ रू॒पं कृ॑णुते॒ द्योरु॒पस्थे॑",
+   "अ॒न॒न्तम॒न्यद् रुश॑दस्य॒ पाजः॑ कृ॒ष्णम॒न्यद्ध॒रितः॒ सं भ॑रन्ति"
+  ],
+  "lines_iast": [
+   "tanmi̱trasya̱ varṷṇasyābhi̱cakṣe̱ sūryo̭ rū̱paṃ kṛ̭ṇute̱ dyoru̱pasthḙ",
+   "a̱na̱ntama̱nyad ruśa̭dasya̱ pāja̭ḥ kṛ̱ṣṇama̱nyaddha̱rita̱ḥ saṃ bha̭ranti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.079.1a",
+   "020.079.1b"
+  ],
+  "lines_deva": [
+   "इन्द्र॒ क्रतुं॑ न॒ आ भ॑र पि॒ता पु॒त्रेभ्यो॒ यथा॑",
+   "शिक्षा॑ णो अ॒स्मिन् पु॑रुहूत॒ याम॑नि जी॒वा ज्योति॑रशीमहि"
+  ],
+  "lines_iast": [
+   "indra̱ kratṷṃ na̱ ā bha̭ra pi̱tā pu̱trebhyo̱ yathā̭",
+   "śikṣā̭ ṇo a̱smin pṷruhūta̱ yāma̭ni jī̱vā jyoti̭raśīmahi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.079.2a",
+   "020.079.2b"
+  ],
+  "lines_deva": [
+   "मा नो अज्ञा॑ता वृ॒जना॑ दुरा॒ध्यो॒३माशि॑वासो॒ अव॑ क्रमुः",
+   "त्वया॑ व॒यं प्र॒वतः॒ शश्व॑तीर॒पोऽति॑ शूर तरामसि"
+  ],
+  "lines_iast": [
+   "mā no ajñā̭tā vṛ̱janā̭ durā̱dhyo̱3māśi̭vāso̱ ava̭ kramuḥ",
+   "tvayā̭ va̱yaṃ pra̱vata̱ḥ śaśva̭tīra̱po'ti̭ śūra tarāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

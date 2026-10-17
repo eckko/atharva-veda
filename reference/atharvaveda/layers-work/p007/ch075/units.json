@@ -1,0 +1,75 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.075.1a",
+   "007.075.1b"
+  ],
+  "lines_deva": [
+   "प्र॒जाव॑तीः सू॒यव॑से रु॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः",
+   "मा व॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो रु॒द्रस्य॑ हे॒तिर्वृ॑णक्तु"
+  ],
+  "lines_iast": [
+   "pra̱jāva̭tīḥ sū̱yava̭se ru̱śantī̭ḥ śu̱ddhā a̱paḥ sṷprapā̱ṇe piba̭ntīḥ",
+   "mā va̭ ste̱na ī̭śata̱ māghaśa̭ṃsa̱ḥ pari̭ vo ru̱drasya̭ he̱tirvṛ̭ṇaktu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.075.2a",
+   "007.075.2b",
+   "007.075.2c"
+  ],
+  "lines_deva": [
+   "प॒द॒ज्ञा स्थ॒ रम॑तयः॒ संहि॑ता वि॒श्वना॑म्नीः",
+   "उप॑ मा देवीर्दे॒वेभि॒रेत॑",
+   "इ॒मं गो॒ष्ठमि॒दं सदो॑ घृ॒तेना॒स्मान्त्समु॑क्षत"
+  ],
+  "lines_iast": [
+   "pa̱da̱jñā stha̱ rama̭taya̱ḥ saṃhi̭tā vi̱śvanā̭mnīḥ",
+   "upa̭ mā devīrde̱vebhi̱reta̭",
+   "i̱maṃ go̱ṣṭhami̱daṃ sado̭ ghṛ̱tenā̱smāntsamṷkṣata"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ }
+]

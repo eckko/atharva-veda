@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.120.1a",
+   "006.120.1b"
+  ],
+  "lines_deva": [
+   "यद॒न्तरि॑क्षं पृथि॒वीमु॒त द्यां यन्मा॒तरं॑ पि॒तरं॑ वा जिहिंसि॒म",
+   "अ॒यं तस्मा॒द् गार्ह॑पत्यो नो अ॒ग्निरुदिन्न॑याति सुकृ॒तस्य॑ लो॒कम्"
+  ],
+  "lines_iast": [
+   "yada̱ntari̭kṣaṃ pṛthi̱vīmu̱ta dyāṃ yanmā̱tara̭ṃ pi̱tara̭ṃ vā jihiṃsi̱ma",
+   "a̱yaṃ tasmā̱d gārha̭patyo no a̱gnirudinna̭yāti sukṛ̱tasya̭ lo̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.120.2a",
+   "006.120.2b"
+  ],
+  "lines_deva": [
+   "भूमि॑र्मा॒तादि॑तिर्नो ज॒नित्रं॒ भ्राता॒न्तरि॑क्षम॒भिश॑स्त्या नः",
+   "द्यौर्नः॑ पि॒ता पित्र्या॒च्छं भ॑वाति जा॒मिमृ॒त्वा माव॑ पत्सि लो॒कात्"
+  ],
+  "lines_iast": [
+   "bhūmi̭rmā̱tādi̭tirno ja̱nitra̱ṃ bhrātā̱ntari̭kṣama̱bhiśa̭styā naḥ",
+   "dyaurna̭ḥ pi̱tā pitryā̱cchaṃ bha̭vāti jā̱mimṛ̱tvā māva̭ patsi lo̱kāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.120.3a",
+   "006.120.3b"
+  ],
+  "lines_deva": [
+   "यत्रा॑ सु॒हार्दः॑ सु॒कृतो॒ मद॑न्ति वि॒हाय॒ रोगं॑ त॒न्वः॑१ स्वायाः॑",
+   "अश्लो॑णा॒ अङ्गै॒रह्रु॑ताः स्व॒र्गे तत्र॑ पश्येम पि॒तरौ॑ च पु॒त्रान्"
+  ],
+  "lines_iast": [
+   "yatrā̭ su̱hārda̭ḥ su̱kṛto̱ mada̭nti vi̱hāya̱ roga̭ṃ ta̱nva̭ḥ1 svāyā̭ḥ",
+   "aślo̭ṇā̱ aṅgai̱rahrṷtāḥ sva̱rge tatra̭ paśyema pi̱taraṷ ca pu̱trān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

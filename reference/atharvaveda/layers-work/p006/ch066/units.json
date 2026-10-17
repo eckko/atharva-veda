@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.066.1a",
+   "006.066.1b"
+  ],
+  "lines_deva": [
+   "निर्ह॑स्तः शत्रु॑रभि॒दास॑न्नस्तु॒ ये सेना॑भि॒र्युध॑मा॒यन्त्य॒स्मान्",
+   "सम॑र्पयेन्द्र मह॒ता व॒धेन॒ द्रात्वे॑षामघहा॒रो विवि॑द्धः"
+  ],
+  "lines_iast": [
+   "nirha̭staḥ śatrṷrabhi̱dāsa̭nnastu̱ ye senā̭bhi̱ryudha̭mā̱yantya̱smān",
+   "sama̭rpayendra maha̱tā va̱dhena̱ drātvḙṣāmaghahā̱ro vivi̭ddhaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.066.2a",
+   "006.066.2b"
+  ],
+  "lines_deva": [
+   "आ॒त॒न्वा॒ना आ॒यच्छ॒न्तोऽस्य॑न्तो॒ ये च॒ धाव॑थ",
+   "निर्ह॑स्ताः शत्रवः स्थ॒नेन्द्रो॑ वोऽद्य परा॑शरीत्"
+  ],
+  "lines_iast": [
+   "ā̱ta̱nvā̱nā ā̱yaccha̱nto'sya̭nto̱ ye ca̱ dhāva̭tha",
+   "nirha̭stāḥ śatravaḥ stha̱nendro̭ vo'dya parā̭śarīt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.066.3a",
+   "006.066.3b"
+  ],
+  "lines_deva": [
+   "निर्ह॑स्ताः सन्तु॒ शत्र॒वोऽङ्गै॑षां म्लापयामसि",
+   "अथै॑षामिन्द्र॒ वेदां॑सि शत॒शो वि भ॑जामहै"
+  ],
+  "lines_iast": [
+   "nirha̭stāḥ santu̱ śatra̱vo'ṅgai̭ṣāṃ mlāpayāmasi",
+   "athai̭ṣāmindra̱ vedā̭ṃsi śata̱śo vi bha̭jāmahai"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

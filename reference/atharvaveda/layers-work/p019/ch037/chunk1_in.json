@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.037.1a",
+   "019.037.1b"
+  ],
+  "lines_deva": [
+   "इ॒दं वर्चो॑ अ॒ग्निना॑ द॒त्तमाग॒न् भर्गो॒ यशः॒ सह॒ ओजो॒ वयो॒ बल॑म्",
+   "त्रय॑स्त्रिंश॒द् यानि॑ च वी॒र्याणि॒ तान्य॒ग्निः प्र द॑दातु मे"
+  ],
+  "lines_iast": [
+   "i̱daṃ varco̭ a̱gninā̭ da̱ttamāga̱n bhargo̱ yaśa̱ḥ saha̱ ojo̱ vayo̱ bala̭m",
+   "traya̭striṃśa̱d yāni̭ ca vī̱ryāṇi̱ tānya̱gniḥ pra da̭dātu me"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.037.2a",
+   "019.037.2b"
+  ],
+  "lines_deva": [
+   "वर्च॒ आ धे॑हि मे त॒न्वां॒३ सह॒ ओजो॒ वयो॒ बल॑म्",
+   "इ॒न्द्रि॒याय॑ त्वा॒ कर्म॑णे वी॒र्याय॒ प्रति॑ गृह्णामि श॒तशा॑रदाय"
+  ],
+  "lines_iast": [
+   "varca̱ ā dhḙhi me ta̱nvā̱ṃ3 saha̱ ojo̱ vayo̱ bala̭m",
+   "i̱ndri̱yāya̭ tvā̱ karma̭ṇe vī̱ryāya̱ prati̭ gṛhṇāmi śa̱taśā̭radāya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.037.3a",
+   "019.037.3b"
+  ],
+  "lines_deva": [
+   "ऊ॒र्जे त्वा॒ बला॑य॒ त्वौज॑से॒ सह॑से त्वा",
+   "अ॒भि॒भूया॑य त्वा रा॒ष्ट्रभृ॑त्याय॒ पर्यू॑हामि श॒तशा॑रदाय"
+  ],
+  "lines_iast": [
+   "ū̱rje tvā̱ balā̭ya̱ tvauja̭se̱ saha̭se tvā",
+   "a̱bhi̱bhūyā̭ya tvā rā̱ṣṭrabhṛ̭tyāya̱ paryṷ̄hāmi śa̱taśā̭radāya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.037.4a",
+   "019.037.4b"
+  ],
+  "lines_deva": [
+   "ऋ॒तुभ्य॑ष्ट्वार्त॒वेभ्यो॑ मा॒द्भ्यः सं॑वत्स॒रेभ्यः॑",
+   "धा॒त्रे वि॑धा॒त्रे स॒मृधे॑ भू॒तस्य॒ पत॑ये यजे"
+  ],
+  "lines_iast": [
+   "ṛ̱tubhya̭ṣṭvārta̱vebhyo̭ mā̱dbhyaḥ sa̭ṃvatsa̱rebhya̭ḥ",
+   "dhā̱tre vi̭dhā̱tre sa̱mṛdhḙ bhū̱tasya̱ pata̭ye yaje"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

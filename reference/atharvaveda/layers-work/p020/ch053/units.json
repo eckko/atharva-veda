@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.053.1a",
+   "020.053.1b"
+  ],
+  "lines_deva": [
+   "क ईं॑ वेद सु॒ते सचा॒ पिब॑न्तं॒ कद् वयो॑ दधे",
+   "अ॒यं यः पुरो॑ विभि॒नत्त्योज॑सा मन्दा॒नः शि॒प्र्यन्ध॑सः"
+  ],
+  "lines_iast": [
+   "ka ī̭ṃ veda su̱te sacā̱ piba̭nta̱ṃ kad vayo̭ dadhe",
+   "a̱yaṃ yaḥ puro̭ vibhi̱nattyoja̭sā mandā̱naḥ śi̱pryandha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.053.2a",
+   "020.053.2b"
+  ],
+  "lines_deva": [
+   "दा॒ना मृ॒गो न वा॑र॒णः पु॑रु॒त्रा च॒रथं॑ दधे",
+   "नकि॑ष्ट्वा॒ नि य॑म॒दा सु॒ते ग॑मो म॒हाश्च॑र॒स्योज॑सा"
+  ],
+  "lines_iast": [
+   "dā̱nā mṛ̱go na vā̭ra̱ṇaḥ pṷru̱trā ca̱ratha̭ṃ dadhe",
+   "naki̭ṣṭvā̱ ni ya̭ma̱dā su̱te ga̭mo ma̱hāśca̭ra̱syoja̭sā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.053.3a",
+   "020.053.3b"
+  ],
+  "lines_deva": [
+   "य उ॒ग्रः सन्ननि॑ष्टृत स्थि॒रो रणा॑य॒ संस्कृ॑तः",
+   "यदि॑ स्तो॒तुर्म॒घवा॑ शृ॒णव॒द्धवं॒ नेन्द्रो॑ योष॒त्या ग॑मत्"
+  ],
+  "lines_iast": [
+   "ya u̱graḥ sannani̭ṣṭṛta sthi̱ro raṇā̭ya̱ saṃskṛ̭taḥ",
+   "yadi̭ sto̱turma̱ghavā̭ śṛ̱ṇava̱ddhava̱ṃ nendro̭ yoṣa̱tyā ga̭mat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

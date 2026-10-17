@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.025.1a",
+   "006.025.1b"
+  ],
+  "lines_deva": [
+   "पञ्च॑ च॒ याः प॑ञ्चा॒शच्च॑ सं॒यन्ति॒ मन्या॑ अ॒भि",
+   "इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव"
+  ],
+  "lines_iast": [
+   "pañca̭ ca̱ yāḥ pa̭ñcā̱śacca̭ sa̱ṃyanti̱ manyā̭ a̱bhi",
+   "i̱tastāḥ sarvā̭ naśyantu vā̱kā a̭pa̱citā̭miva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.025.2a",
+   "006.025.2b"
+  ],
+  "lines_deva": [
+   "स॒प्त च॒ याः स॑प्त॒तिश्च॑ सं॒यन्ति॒ ग्रैव्या॑ अ॒भि",
+   "इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव"
+  ],
+  "lines_iast": [
+   "sa̱pta ca̱ yāḥ sa̭pta̱tiśca̭ sa̱ṃyanti̱ graivyā̭ a̱bhi",
+   "i̱tastāḥ sarvā̭ naśyantu vā̱kā a̭pa̱citā̭miva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.025.3a",
+   "006.025.3b"
+  ],
+  "lines_deva": [
+   "नव॑ च॒ या न॑व॒तिश्च॑ सं॒यन्ति॒ स्कन्ध्या॑ अ॒भि",
+   "इ॒तस्ताः सर्वा॑ नश्यन्तु वा॒का अ॑प॒चिता॑मिव"
+  ],
+  "lines_iast": [
+   "nava̭ ca̱ yā na̭va̱tiśca̭ sa̱ṃyanti̱ skandhyā̭ a̱bhi",
+   "i̱tastāḥ sarvā̭ naśyantu vā̱kā a̭pa̱citā̭miva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.090.1a",
+   "020.090.1b"
+  ],
+  "lines_deva": [
+   "यो अ॑द्रि॒भित् प्र॑थम॒जा ऋ॒तावा॒ बृह॒स्पति॑राङ्गिर॒सो ह॒विष्मा॑न्",
+   "द्वि॒बर्ह॑ज्मा प्राघर्म॒सत् पि॒ता न॒ आ रोद॑सी वृष॒भो रो॑रवीति"
+  ],
+  "lines_iast": [
+   "yo a̭dri̱bhit pra̭thama̱jā ṛ̱tāvā̱ bṛha̱spati̭rāṅgira̱so ha̱viṣmā̭n",
+   "dvi̱barha̭jmā prāgharma̱sat pi̱tā na̱ ā roda̭sī vṛṣa̱bho ro̭ravīti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.090.2a",
+   "020.090.2b"
+  ],
+  "lines_deva": [
+   "जना॑य चि॒द् य ईव॑ते उ लो॒कं बृह॒स्पति॑र्दे॒वहू॑तौ च॒कार॑",
+   "घ्नन् वृ॒त्राणि॒ वि पुरो॑ दर्दरीति॒ जयं॒ छत्रूं॑र॒मित्रा॑न् पृ॒त्सु साह॑न्"
+  ],
+  "lines_iast": [
+   "janā̭ya ci̱d ya īva̭te u lo̱kaṃ bṛha̱spati̭rde̱vahṷ̄tau ca̱kāra̭",
+   "ghnan vṛ̱trāṇi̱ vi puro̭ dardarīti̱ jaya̱ṃ chatrṷ̄ṃra̱mitrā̭n pṛ̱tsu sāha̭n"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.090.3a",
+   "020.090.3b"
+  ],
+  "lines_deva": [
+   "बृह॒स्पतिः॒ सम॑जय॒द् वसू॑नि म॒हो व्र॒जान् गोम॑तो दे॒व ए॒षः",
+   "अ॒पः सिषा॑स॒न्त्स्व॑१रप्र॑तीतो॒ बृह॒स्पति॒र्हन्त्य॒मित्र॑म॒र्कैः"
+  ],
+  "lines_iast": [
+   "bṛha̱spati̱ḥ sama̭jaya̱d vasṷ̄ni ma̱ho vra̱jān goma̭to de̱va e̱ṣaḥ",
+   "a̱paḥ siṣā̭sa̱ntsva̭1rapra̭tīto̱ bṛha̱spati̱rhantya̱mitra̭ma̱rkaiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

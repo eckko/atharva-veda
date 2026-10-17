@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.015.1a",
+   "007.015.1b"
+  ],
+  "lines_deva": [
+   "तां स॑वितः स॒त्यस॑वां सुचि॒त्रामाहं वृ॑णे सुम॒तिं वि॒श्ववा॑राम्",
+   "याम॑स्य॒ कण्वो॒ अदु॑ह॒न् प्रपी॑नां स॒हस्र॑धारां महि॒षो भगा॑य"
+  ],
+  "lines_iast": [
+   "tāṃ sa̭vitaḥ sa̱tyasa̭vāṃ suci̱trāmāhaṃ vṛ̭ṇe suma̱tiṃ vi̱śvavā̭rām",
+   "yāma̭sya̱ kaṇvo̱ adṷha̱n prapī̭nāṃ sa̱hasra̭dhārāṃ mahi̱ṣo bhagā̭ya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

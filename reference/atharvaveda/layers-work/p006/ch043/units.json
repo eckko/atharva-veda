@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.043.1a",
+   "006.043.1b"
+  ],
+  "lines_deva": [
+   "अ॒यं द॒र्भो विम॑न्युकः॒ स्वाय॒ चार॑णाय च",
+   "म॒न्योर्विम॑न्युकस्या॒यं म॑न्यु॒शम॑न उच्यते"
+  ],
+  "lines_iast": [
+   "a̱yaṃ da̱rbho vima̭nyuka̱ḥ svāya̱ cāra̭ṇāya ca",
+   "ma̱nyorvima̭nyukasyā̱yaṃ ma̭nyu̱śama̭na ucyate"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.043.2a",
+   "006.043.2b"
+  ],
+  "lines_deva": [
+   "अ॒यं यो भूरि॑मूलः समु॒द्रम॑व॒तिष्ठ॑ति",
+   "द॒र्भः पृ॑थि॒व्या उत्थि॑तो मन्यु॒शम॑न उच्यते"
+  ],
+  "lines_iast": [
+   "a̱yaṃ yo bhūri̭mūlaḥ samu̱drama̭va̱tiṣṭha̭ti",
+   "da̱rbhaḥ pṛ̭thi̱vyā utthi̭to manyu̱śama̭na ucyate"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.043.3a",
+   "006.043.3b"
+  ],
+  "lines_deva": [
+   "वि ते॑ हन॒व्यां श॒रणिं॒ वि ते॒ मुख्यां॑ नयामसि",
+   "यथा॑व॒शो न वादि॑षो॒ मम॑ चि॒त्तमु॒पाय॑सि"
+  ],
+  "lines_iast": [
+   "vi tḙ hana̱vyāṃ śa̱raṇi̱ṃ vi te̱ mukhyā̭ṃ nayāmasi",
+   "yathā̭va̱śo na vādi̭ṣo̱ mama̭ ci̱ttamu̱pāya̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.092.1a",
+   "006.092.1b"
+  ],
+  "lines_deva": [
+   "वात॑रम्हा भव वाजिन् यु॒ज्यमा॑न॒ इन्द्र॑स्य याहि प्रस॒वे मनो॑जवाः",
+   "यु॒ञ्जन्तु॑ त्वा म॒रुतो॑ वि॒श्ववे॑दस॒ आ ते॒ त्वष्टा॑ प॒त्सु ज॒वं द॑धातु"
+  ],
+  "lines_iast": [
+   "vāta̭ramhā bhava vājin yu̱jyamā̭na̱ indra̭sya yāhi prasa̱ve mano̭javāḥ",
+   "yu̱ñjantṷ tvā ma̱ruto̭ vi̱śvavḙdasa̱ ā te̱ tvaṣṭā̭ pa̱tsu ja̱vaṃ da̭dhātu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.092.2a",
+   "006.092.2b"
+  ],
+  "lines_deva": [
+   "ज॒वस्ते॑ अर्व॒न् निहि॑तो॒ गुहा॒ यः श्ये॒ने वात॑ उ॒त योऽच॑र॒त् परी॑त्तः",
+   "तेन॒ त्वं वा॑जि॒न् बल॑वा॒न् बले॑ना॒जिं ज॑य॒ सम॑ने पारयि॒ष्णुः"
+  ],
+  "lines_iast": [
+   "ja̱vastḙ arva̱n nihi̭to̱ guhā̱ yaḥ śye̱ne vāta̭ u̱ta yo'ca̭ra̱t parī̭ttaḥ",
+   "tena̱ tvaṃ vā̭ji̱n bala̭vā̱n balḙnā̱jiṃ ja̭ya̱ sama̭ne pārayi̱ṣṇuḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.092.3a",
+   "006.092.3b"
+  ],
+  "lines_deva": [
+   "त॒नूष्टे॑ वाजिन् त॒न्वं॑१ नय॑न्ती वा॒मम॒स्मभ्यं॒ धाव॑तु॒ शर्म॒ तुभ्य॑म्",
+   "अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वो दि॒वीऽव ज्योतिः॒ स्वमा मि॑मीयात्"
+  ],
+  "lines_iast": [
+   "ta̱nūṣṭḙ vājin ta̱nva̭ṃ1 naya̭ntī vā̱mama̱smabhya̱ṃ dhāva̭tu̱ śarma̱ tubhya̭m",
+   "ahrṷto ma̱ho dha̱ruṇā̭ya de̱vo di̱vī'va jyoti̱ḥ svamā mi̭mīyāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

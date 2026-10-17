@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.080.1a",
+   "020.080.1b"
+  ],
+  "lines_deva": [
+   "इन्द्र॒ ज्येष्ठं॑ न आ भ॑रं॒ ओजि॑ष्ठं॒ पपु॑रि॒ श्रवः॑",
+   "येने॒मे चि॑त्र वज्रहस्त॒ रोद॑सी॒ ओभे सु॑शिप्र॒ प्राः"
+  ],
+  "lines_iast": [
+   "indra̱ jyeṣṭha̭ṃ na ā bha̭ra̱ṃ oji̭ṣṭha̱ṃ papṷri̱ śrava̭ḥ",
+   "yene̱me ci̭tra vajrahasta̱ roda̭sī̱ obhe sṷśipra̱ prāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.080.2a",
+   "020.080.2b"
+  ],
+  "lines_deva": [
+   "त्वामु॒ग्रमव॑से चर्षणी॒सहं॒ राज॑न् दे॒वेषु॑ हूमहे",
+   "विश्वा॒ सु नो॑ विथु॒रा पि॑ब्द॒ना व॑सो॒ऽमित्रा॑न् सु॒षहा॑न् कृधि"
+  ],
+  "lines_iast": [
+   "tvāmu̱gramava̭se carṣaṇī̱saha̱ṃ rāja̭n de̱veṣṷ hūmahe",
+   "viśvā̱ su no̭ vithu̱rā pi̭bda̱nā va̭so̱'mitrā̭n su̱ṣahā̭n kṛdhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

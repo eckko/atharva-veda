@@ -1,0 +1,80 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.001.1"
+  ],
+  "lines_deva": [
+   "इन्द्र॑ त्वा वृष॒भं व॒यं सु॒ते सोमे॑ हवामहे । स पा॑हि॒ मध्वो॒ अन्ध॑सः"
+  ],
+  "lines_iast": [
+   "indra̭ tvā vṛṣa̱bhaṃ va̱yaṃ su̱te somḙ havāmahe | sa pā̭hi̱ madhvo̱ andha̭saḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.001.2"
+  ],
+  "lines_deva": [
+   "मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः । स सु॑गो॒पात॑मो॒ जनः॑"
+  ],
+  "lines_iast": [
+   "marṷto̱ yasya̱ hi kṣayḙ pā̱thā di̱vo vi̭mahasaḥ | sa sṷgo̱pāta̭mo̱ jana̭ḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.001.3"
+  ],
+  "lines_deva": [
+   "उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑ । स्तोमै॑र्विधेमा॒ग्नये॑"
+  ],
+  "lines_iast": [
+   "u̱kṣānnā̭ya va̱śānnā̭ya̱ soma̭pṛṣṭhāya ve̱dhasḙ | stomai̭rvidhemā̱gnayḙ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

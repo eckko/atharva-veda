@@ -1,0 +1,122 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.075.1a",
+   "020.075.1b",
+   "020.075.1c"
+  ],
+  "lines_deva": [
+   "वि त्वा॑ ततस्रे मिथु॒ना अ॑व॒स्यवो॑ व्र॒जस्य॑ सा॒ता गव्य॑स्य निः॒सृजः॒ सक्ष॑न्त इन्द्र निः॒सृजः॑",
+   "यद् ग॒व्यन्त॒ द्वा जना॒ स्व॑१र्यन्ता॑ स॒मूह॑सि",
+   "आ॒विष्करि॑क्र॒द् वृषणं सचा॒भुवं॒ वज्र॑मिन्द्र सचा॒भुव॑म्"
+  ],
+  "lines_iast": [
+   "vi tvā̭ tatasre mithu̱nā a̭va̱syavo̭ vra̱jasya̭ sā̱tā gavya̭sya ni̱ḥsṛja̱ḥ sakṣa̭nta indra ni̱ḥsṛja̭ḥ",
+   "yad ga̱vyanta̱ dvā janā̱ sva̭1ryantā̭ sa̱mūha̭si",
+   "ā̱viṣkari̭kra̱d vṛṣaṇaṃ sacā̱bhuva̱ṃ vajra̭mindra sacā̱bhuva̭m"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.075.2a",
+   "020.075.2b",
+   "020.075.2c"
+  ],
+  "lines_deva": [
+   "वि॒दुष्टे॑ अ॒स्य वी॒र्यऽस्य पू॒रवः॒ पुरो॒ यदि॑न्द्र॒ शार॑दीर॒वाति॑रः सासहा॒नो अ॒वाति॑रः",
+   "शास॒स्तमि॑न्द्र॒ मर्त्य॒मय॑जुं शवसस्पते",
+   "म॒हीम॑मुष्णाः पृथि॒वीमि॒मा अ॒पो म॑न्दसा॒न इ॒मा अ॒पः"
+  ],
+  "lines_iast": [
+   "vi̱duṣṭḙ a̱sya vī̱rya'sya pū̱rava̱ḥ puro̱ yadi̭ndra̱ śāra̭dīra̱vāti̭raḥ sāsahā̱no a̱vāti̭raḥ",
+   "śāsa̱stami̭ndra̱ martya̱maya̭juṃ śavasaspate",
+   "ma̱hīma̭muṣṇāḥ pṛthi̱vīmi̱mā a̱po ma̭ndasā̱na i̱mā a̱paḥ"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.075.3a",
+   "020.075.3b",
+   "020.075.3c"
+  ],
+  "lines_deva": [
+   "आदित् ते॑ अ॒स्य वी॒र्यऽस्य चर्किर॒न् मदे॑षु वृषन्नु॒शिजो॒ यदावि॑थ सखीय॒तो यदावि॑थ",
+   "च॒कर्थ॑ का॒रमे॑भ्यः॒ पृत॑नासु॒ प्रव॑न्तवे",
+   "ते अ॒न्याम॑न्यां न॒द्यं सनिष्णत श्रव॒स्यन्तः॑ सनिष्णत"
+  ],
+  "lines_iast": [
+   "ādit tḙ a̱sya vī̱rya'sya carkira̱n madḙṣu vṛṣannu̱śijo̱ yadāvi̭tha sakhīya̱to yadāvi̭tha",
+   "ca̱kartha̭ kā̱ramḙbhya̱ḥ pṛta̭nāsu̱ prava̭ntave",
+   "te a̱nyāma̭nyāṃ na̱dyaṃ saniṣṇata śrava̱syanta̭ḥ saniṣṇata"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ }
+]

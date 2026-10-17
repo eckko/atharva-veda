@@ -1,0 +1,233 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "004.024.1a",
+   "004.024.1b"
+  ],
+  "lines_deva": [
+   "इन्द्र॑स्य मन्महे॒ शश्व॒दिद॑स्य मन्महे वृत्र॒घ्न स्तोमा॒ उप॑ मे॒म आगुः॑",
+   "यो दा॒शुषः॑ सु॒कृतो॒ हव॒मेति॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "indra̭sya manmahe̱ śaśva̱dida̭sya manmahe vṛtra̱ghna stomā̱ upa̭ me̱ma āgṷḥ",
+   "yo dā̱śuṣa̭ḥ su̱kṛto̱ hava̱meti̱ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "004.024.2a",
+   "004.024.2b"
+  ],
+  "lines_deva": [
+   "य उ॒ग्रीणा॑मु॒ग्रबा॑हुर्य॒युर्यो दा॑न॒वानां॒ बल॑मारु॒रोज॑",
+   "येन॑ जि॒ताः सिन्ध॑वो॒ येन॒ गावः॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "ya u̱grīṇā̭mu̱grabā̭hurya̱yuryo dā̭na̱vānā̱ṃ bala̭māru̱roja̭",
+   "yena̭ ji̱tāḥ sindha̭vo̱ yena̱ gāva̱ḥ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "004.024.3a",
+   "004.024.3b"
+  ],
+  "lines_deva": [
+   "यश्च॑र्षणि॒प्रो वृ॑ष॒भः स्व॒र्विद् यस्मै॒ ग्रावा॑णः प्र॒वद॑न्ति नृ॒म्णम्",
+   "यस्या॑ध्व॒रः स॒प्तहो॑ता॒ मदि॑ष्ठः॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yaśca̭rṣaṇi̱pro vṛ̭ṣa̱bhaḥ sva̱rvid yasmai̱ grāvā̭ṇaḥ pra̱vada̭nti nṛ̱mṇam",
+   "yasyā̭dhva̱raḥ sa̱ptaho̭tā̱ madi̭ṣṭha̱ḥ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "004.024.4a",
+   "004.024.4b"
+  ],
+  "lines_deva": [
+   "यस्य॑ व॒शास॑ ऋष॒भास॑ उ॒क्षणो॒ यस्मै॑ मी॒यन्ते॒ स्व॒र॑वः स्व॒र्विदे॑",
+   "यस्मै॑ शु॒क्रः पव॑ते॒ ब्रह्म॑शुम्भितः॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yasya̭ va̱śāsa̭ ṛṣa̱bhāsa̭ u̱kṣaṇo̱ yasmai̭ mī̱yante̱ sva̱ra̭vaḥ sva̱rvidḙ",
+   "yasmai̭ śu̱kraḥ pava̭te̱ brahma̭śumbhita̱ḥ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "004.024.5a",
+   "004.024.5b"
+  ],
+  "lines_deva": [
+   "यस्य॒ जुष्टिं॑ सो॒मिनः॑ का॒मय॑न्ते॒ यं हव॑न्त॒ इषु॑मन्तं॒ गवि॑ष्टौ",
+   "यस्मि॑न्न॒र्कः शि॑श्रि॒ये यस्मि॒न्नोजः॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yasya̱ juṣṭi̭ṃ so̱mina̭ḥ kā̱maya̭nte̱ yaṃ hava̭nta̱ iṣṷmanta̱ṃ gavi̭ṣṭau",
+   "yasmi̭nna̱rkaḥ śi̭śri̱ye yasmi̱nnoja̱ḥ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "004.024.6a",
+   "004.024.6b"
+  ],
+  "lines_deva": [
+   "यः प्र॑थ॒मः क॑र्म॒कृत्या॑य ज॒ज्ञे यस्य॑ वी॒र्यंऽ प्रथ॒मस्यानु॑बुद्धम्",
+   "येनोद्य॑तो॒ वज्रो॒ऽभ्याय॒ताहिं॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yaḥ pra̭tha̱maḥ ka̭rma̱kṛtyā̭ya ja̱jñe yasya̭ vī̱ryaṃ' pratha̱masyānṷbuddham",
+   "yenodya̭to̱ vajro̱'bhyāya̱tāhi̱ṃ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "004.024.7a",
+   "004.024.7b"
+  ],
+  "lines_deva": [
+   "यः सं॑ग्रा॒मान्नय॑ति॒ सं यु॒धे व॒शी यः पु॒ष्टानि॑ संसृ॒जति॑ द्व॒यानि॑",
+   "स्तौमीन्द्रं॑ नाथि॒तो जो॑हवीमि॒ स नो॑ मुञ्च॒त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yaḥ sa̭ṃgrā̱mānnaya̭ti̱ saṃ yu̱dhe va̱śī yaḥ pu̱ṣṭāni̭ saṃsṛ̱jati̭ dva̱yāni̭",
+   "staumīndra̭ṃ nāthi̱to jo̭havīmi̱ sa no̭ muñca̱tvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

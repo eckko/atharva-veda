@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.050.1a",
+   "006.050.1b"
+  ],
+  "lines_deva": [
+   "ह॒तं त॒र्दं स॑म॒ङ्कमा॒खुमश्वि॑ना छि॒न्तं शिरो॒ अपि॑ पृ॒ष्टीः शृ॑णीतम्",
+   "यवा॒न्नेददा॒नपि॑ नह्यतं॒ मुख॒मथाभ॑यं कृणुतं धा॒न्याऽय"
+  ],
+  "lines_iast": [
+   "ha̱taṃ ta̱rdaṃ sa̭ma̱ṅkamā̱khumaśvi̭nā chi̱ntaṃ śiro̱ api̭ pṛ̱ṣṭīḥ śṛ̭ṇītam",
+   "yavā̱nnedadā̱napi̭ nahyata̱ṃ mukha̱mathābha̭yaṃ kṛṇutaṃ dhā̱nyā'ya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.050.2a",
+   "006.050.2b"
+  ],
+  "lines_deva": [
+   "तर्द॒ है पत॑ङ्ग॒ है जभ्य॒ हा उप॑क्वस",
+   "ब्र॒ह्मेवासं॑स्थितं ह॒विरन॑दन्त इ॒मान् यवा॒नहिं॑सन्तो अ॒पोदि॑त"
+  ],
+  "lines_iast": [
+   "tarda̱ hai pata̭ṅga̱ hai jabhya̱ hā upa̭kvasa",
+   "bra̱hmevāsa̭ṃsthitaṃ ha̱virana̭danta i̱mān yavā̱nahi̭ṃsanto a̱podi̭ta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.050.3a",
+   "006.050.3b"
+  ],
+  "lines_deva": [
+   "तर्दा॑पते॒ वघा॑पते॒ तृष्ट॑जम्भा॒ आ शृ॑णोत मे",
+   "य आ॑र॒ण्या व्यऽद्व॒रा ये के च॒ स्थ व्यऽद्वरास्तान्त्सर्वा॑न् जम्भयामसि"
+  ],
+  "lines_iast": [
+   "tardā̭pate̱ vaghā̭pate̱ tṛṣṭa̭jambhā̱ ā śṛ̭ṇota me",
+   "ya ā̭ra̱ṇyā vya'dva̱rā ye ke ca̱ stha vya'dvarāstāntsarvā̭n jambhayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,200 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.003.1a",
+   "002.003.1b"
+  ],
+  "lines_deva": [
+   "अ॒दो यद॑व॒धाव॑त्यव॒त्कमधि॒ पर्व॑तात्",
+   "तत् ते॑ कृणोमि भेष॒जं सुभे॑षजं॒ यथास॑सि"
+  ],
+  "lines_iast": [
+   "a̱do yada̭va̱dhāva̭tyava̱tkamadhi̱ parva̭tāt",
+   "tat tḙ kṛṇomi bheṣa̱jaṃ subhḙṣaja̱ṃ yathāsa̭si"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.003.2a",
+   "002.003.2b"
+  ],
+  "lines_deva": [
+   "आद॒ङ्गा कु॒विद॒ङ्गा श॒तं या भे॑ष॒जानि॑ ते",
+   "तेषा॑मसि॒ त्वमु॑त्त॒मम॑नास्रा॒वमरो॑गणम्"
+  ],
+  "lines_iast": [
+   "āda̱ṅgā ku̱vida̱ṅgā śa̱taṃ yā bhḙṣa̱jāni̭ te",
+   "teṣā̭masi̱ tvamṷtta̱mama̭nāsrā̱vamaro̭gaṇam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.003.3a",
+   "002.003.3b"
+  ],
+  "lines_deva": [
+   "नी॒चैः ख॑न॒न्त्यसु॑रा अरु॒स्राण॑मि॒दं म॒हत्",
+   "तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत्"
+  ],
+  "lines_iast": [
+   "nī̱caiḥ kha̭na̱ntyasṷrā aru̱srāṇa̭mi̱daṃ ma̱hat",
+   "tadā̭srā̱vasya̭ bheṣa̱jaṃ tadu̱ roga̭manīnaśat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "002.003.4a",
+   "002.003.4b"
+  ],
+  "lines_deva": [
+   "उ॒प॒जीका॒ उद् भ॑रन्ति समु॒द्रादधि॑ भेष॒जम्",
+   "तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मशीशमत्"
+  ],
+  "lines_iast": [
+   "u̱pa̱jīkā̱ ud bha̭ranti samu̱drādadhi̭ bheṣa̱jam",
+   "tadā̭srā̱vasya̭ bheṣa̱jaṃ tadu̱ roga̭maśīśamat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "002.003.5a",
+   "002.003.5b"
+  ],
+  "lines_deva": [
+   "अ॒रु॒स्राण॑मि॒दं म॒हत् पृ॑थि॒व्या अध्युद्भृ॑तम्",
+   "तदा॑स्रा॒वस्य॑ भेष॒जं तदु॒ रोग॑मनीनशत्"
+  ],
+  "lines_iast": [
+   "a̱ru̱srāṇa̭mi̱daṃ ma̱hat pṛ̭thi̱vyā adhyudbhṛ̭tam",
+   "tadā̭srā̱vasya̭ bheṣa̱jaṃ tadu̱ roga̭manīnaśat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "002.003.6a",
+   "002.003.6b"
+  ],
+  "lines_deva": [
+   "शं नो॑ भवन्त्व॒प ओष॑धयः शि॒वाः",
+   "इन्द्र॑स्य॒ वज्रो॒ अप॑ हन्तु र॒क्षस॑ आ॒राद् विसृ॑ष्टा॒ इष॑वः पतन्तु र॒क्षसा॑म्"
+  ],
+  "lines_iast": [
+   "śaṃ no̭ bhavantva̱pa oṣa̭dhayaḥ śi̱vāḥ",
+   "indra̭sya̱ vajro̱ apa̭ hantu ra̱kṣasa̭ ā̱rād visṛ̭ṣṭā̱ iṣa̭vaḥ patantu ra̱kṣasā̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

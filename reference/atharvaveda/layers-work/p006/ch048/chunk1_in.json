@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.048.1a",
+   "006.048.1b"
+  ],
+  "lines_deva": [
+   "श्ये॒नोऽसि गाय॒त्रच्छन्दा॒ अनु॒ त्वा र॑भे",
+   "स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑"
+  ],
+  "lines_iast": [
+   "śye̱no'si gāya̱tracchandā̱ anu̱ tvā ra̭bhe",
+   "sva̱sti mā̱ saṃ va̭hā̱sya ya̱jñasyo̱dṛci̱ svāhā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.048.2a",
+   "006.048.2b"
+  ],
+  "lines_deva": [
+   "ऋ॒भुर॑सि॒ जग॑च्छन्दा॒ अनु॒ त्वा र॑भे",
+   "स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑"
+  ],
+  "lines_iast": [
+   "ṛ̱bhura̭si̱ jaga̭cchandā̱ anu̱ tvā ra̭bhe",
+   "sva̱sti mā̱ saṃ va̭hā̱sya ya̱jñasyo̱dṛci̱ svāhā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.048.3a",
+   "006.048.3b"
+  ],
+  "lines_deva": [
+   "वृषा॑सि त्रि॒ष्टुप्छ॑न्दा॒ अनु॒ त्वा र॑भे",
+   "स्व॒स्ति मा॒ सं व॑हा॒स्य य॒ज्ञस्यो॒दृचि॒ स्वाहा॑"
+  ],
+  "lines_iast": [
+   "vṛṣā̭si tri̱ṣṭupcha̭ndā̱ anu̱ tvā ra̭bhe",
+   "sva̱sti mā̱ saṃ va̭hā̱sya ya̱jñasyo̱dṛci̱ svāhā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.019.1a",
+   "001.019.1b"
+  ],
+  "lines_deva": [
+   "मा नो॑ विदन् विव्या॒धिनो॒ मो अ॑भिव्या॒धिनो॑ विदन्",
+   "आ॒राच्छ॑र॒व्या ऽ अ॒स्मद्विषू॑चीरिन्द्र पातय"
+  ],
+  "lines_iast": [
+   "mā no̭ vidan vivyā̱dhino̱ mo a̭bhivyā̱dhino̭ vidan",
+   "ā̱rāccha̭ra̱vyā ' a̱smadviṣṷ̄cīrindra pātaya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.019.2a",
+   "001.019.2b"
+  ],
+  "lines_deva": [
+   "विष्व॑ञ्चो अ॒स्मच्छर॑वः पतन्तु॒ ये अ॒स्ता ये चा॒स्याः",
+   "दैवी॑र्मनुष्येषवो॒ ममा॒मित्रान् वि वि॑ध्यत"
+  ],
+  "lines_iast": [
+   "viṣva̭ñco a̱smacchara̭vaḥ patantu̱ ye a̱stā ye cā̱syāḥ",
+   "daivī̭rmanuṣyeṣavo̱ mamā̱mitrān vi vi̭dhyata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.019.3a",
+   "001.019.3b"
+  ],
+  "lines_deva": [
+   "यो नः॒ स्वो यो अर॑णः सजा॒त उ॒त निष्ट्यो॒ यो अ॒स्माँ अ॑भि॒दास॑ति",
+   "रु॒द्रः श॑रव्य ऽ यै॒तान् ममा॒मित्रा॒न् वि वि॑ध्यतु"
+  ],
+  "lines_iast": [
+   "yo na̱ḥ svo yo ara̭ṇaḥ sajā̱ta u̱ta niṣṭyo̱ yo a̱smā~ a̭bhi̱dāsa̭ti",
+   "ru̱draḥ śa̭ravya ' yai̱tān mamā̱mitrā̱n vi vi̭dhyatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.019.4a",
+   "001.019.4b"
+  ],
+  "lines_deva": [
+   "यः स॒पत्नो॒ योऽस॑पत्नो॒ यश्च॑ द्वि॒षन् छपा॑ति नः",
+   "दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम्"
+  ],
+  "lines_iast": [
+   "yaḥ sa̱patno̱ yo'sa̭patno̱ yaśca̭ dvi̱ṣan chapā̭ti naḥ",
+   "de̱vāstaṃ sarvḙ dhūrvantu̱ brahma̱ varma̱ mamānta̭ram"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

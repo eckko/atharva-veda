@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.096.1a",
+   "006.096.1b"
+  ],
+  "lines_deva": [
+   "या ओष॑धयः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः",
+   "बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वंह॑सः"
+  ],
+  "lines_iast": [
+   "yā oṣa̭dhaya̱ḥ soma̭rājñīrba̱hvīḥ śa̱tavi̭cakṣaṇāḥ",
+   "bṛha̱spati̭prasūtā̱stā no̭ muñca̱ntvaṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.096.2a",
+   "006.096.2b"
+  ],
+  "lines_deva": [
+   "मु॒ञ्चन्तु॑ मा शप॒थ्या॒३दथो॑ वरु॒ण्याऽदु॒त",
+   "अथो॑ य॒मस्य॒ पड्वी॑शाद् विश्व॑स्माद् देवकिल्बि॒षात्"
+  ],
+  "lines_iast": [
+   "mu̱ñcantṷ mā śapa̱thyā̱3datho̭ varu̱ṇyā'du̱ta",
+   "atho̭ ya̱masya̱ paḍvī̭śād viśva̭smād devakilbi̱ṣāt"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.096.3a",
+   "006.096.3b"
+  ],
+  "lines_deva": [
+   "यच्चक्षु॑षा॒ मन॑सा॒ यच्च॑ वा॒चोपा॑रि॒म जाग्र॑तो॒ यत् स्व॒पन्तः॑",
+   "सोम॒स्तानि॑ स्व॒धया॑ नः पुनातु"
+  ],
+  "lines_iast": [
+   "yaccakṣṷṣā̱ mana̭sā̱ yacca̭ vā̱copā̭ri̱ma jāgra̭to̱ yat sva̱panta̭ḥ",
+   "soma̱stāni̭ sva̱dhayā̭ naḥ punātu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

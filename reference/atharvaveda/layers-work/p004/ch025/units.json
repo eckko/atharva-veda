@@ -1,0 +1,233 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "004.025.1a",
+   "004.025.1b"
+  ],
+  "lines_deva": [
+   "वा॒योः स॑वि॒तुर्वि॒दथा॑नि मन्महे॒ यावा॑त्म॒न्वद् वि॒शथो॒ यौ च॒ रक्ष॑थः",
+   "यौ विश्व॑स्य परि॒भू ब॑भू॒वथु॒स्तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "vā̱yoḥ sa̭vi̱turvi̱dathā̭ni manmahe̱ yāvā̭tma̱nvad vi̱śatho̱ yau ca̱ rakṣa̭thaḥ",
+   "yau viśva̭sya pari̱bhū ba̭bhū̱vathu̱stau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "004.025.2a",
+   "004.025.2b"
+  ],
+  "lines_deva": [
+   "ययोः॒ संख्या॑ता॒ वरि॑मा॒ पार्थि॑वानि॒ याभ्यां॒ रजो॑ युपि॒तम॒न्तरि॑क्षे",
+   "ययोः॑ प्रा॒यं नान्वा॑न॒शे कश्च॒न तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "yayo̱ḥ saṃkhyā̭tā̱ vari̭mā̱ pārthi̭vāni̱ yābhyā̱ṃ rajo̭ yupi̱tama̱ntari̭kṣe",
+   "yayo̭ḥ prā̱yaṃ nānvā̭na̱śe kaśca̱na tau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "004.025.3a",
+   "004.025.3b"
+  ],
+  "lines_deva": [
+   "तव॑ व्र॒ते नि वि॑शन्ते॒ जना॑स॒स्त्वय्युदि॑ते॒ प्रेर॑ते चित्रभानो",
+   "यु॒वं वा॑यो सवि॒ता च॒ भुव॑नानि रक्षथ॒स्तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "tava̭ vra̱te ni vi̭śante̱ janā̭sa̱stvayyudi̭te̱ prera̭te citrabhāno",
+   "yu̱vaṃ vā̭yo savi̱tā ca̱ bhuva̭nāni rakṣatha̱stau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "004.025.4a",
+   "004.025.4b"
+  ],
+  "lines_deva": [
+   "अपे॒तो वा॑यो सवि॒ता च॑ दुष्कृ॒तमप॒ रक्षां॑सि॒ शिमि॑दां च सेधतम्",
+   "सं ह्यू॒३र्जया॑ सृ॒जथः॒ सं बले॑न॒ तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "ape̱to vā̭yo savi̱tā ca̭ duṣkṛ̱tamapa̱ rakṣā̭ṃsi̱ śimi̭dāṃ ca sedhatam",
+   "saṃ hyū̱3rjayā̭ sṛ̱jatha̱ḥ saṃ balḙna̱ tau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "004.025.5a",
+   "004.025.5b"
+  ],
+  "lines_deva": [
+   "र॒यिं मे॒ पोषं॑ सवि॒तोत वा॒युस्त॒नू दक्ष॒मा सु॑वतां सु॒शेव॑म्",
+   "अ॒य॒क्ष्मता॑तिं॒ मह॑ इ॒ह ध॑त्तं॒ तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "ra̱yiṃ me̱ poṣa̭ṃ savi̱tota vā̱yusta̱nū dakṣa̱mā sṷvatāṃ su̱śeva̭m",
+   "a̱ya̱kṣmatā̭ti̱ṃ maha̭ i̱ha dha̭tta̱ṃ tau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "004.025.6a",
+   "004.025.6b"
+  ],
+  "lines_deva": [
+   "प्र सु॑म॒तिं स॑वितर्वाय ऊ॒तये॒ मह॑स्वन्तं मत्स॒रं मा॑दयाथः",
+   "अ॒र्वाग् वा॒मस्य॑ प्र॒वतो॒ नि य॑च्छतं॒ तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "pra sṷma̱tiṃ sa̭vitarvāya ū̱taye̱ maha̭svantaṃ matsa̱raṃ mā̭dayāthaḥ",
+   "a̱rvāg vā̱masya̭ pra̱vato̱ ni ya̭cchata̱ṃ tau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "004.025.7a",
+   "004.025.7b"
+  ],
+  "lines_deva": [
+   "उप॒ श्रेष्ठा॑ न आ॒शिषो॑ दे॒वयो॒र्धाम॑न्नस्थिरन्",
+   "स्तौमि॑ दे॒वं स॑वि॒तारं॑ च वा॒युं तौ नो॑ मुञ्चत॒मंह॑सः"
+  ],
+  "lines_iast": [
+   "upa̱ śreṣṭhā̭ na ā̱śiṣo̭ de̱vayo̱rdhāma̭nnasthiran",
+   "staumi̭ de̱vaṃ sa̭vi̱tāra̭ṃ ca vā̱yuṃ tau no̭ muñcata̱maṃha̭saḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

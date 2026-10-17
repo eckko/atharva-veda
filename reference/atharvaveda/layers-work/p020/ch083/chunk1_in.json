@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.083.1a",
+   "020.083.1b"
+  ],
+  "lines_deva": [
+   "इन्द्र॑ त्रि॒धातु॑ शर॒णं त्रि॒वरू॑थं स्वस्ति॒मत्",
+   "छ॒र्दिर्य॑च्छ म॒घव॑द्भ्यश्च॒ मह्यं॑ च या॒वया॑ दि॒द्युमे॑भ्यः"
+  ],
+  "lines_iast": [
+   "indra̭ tri̱dhātṷ śara̱ṇaṃ tri̱varṷ̄thaṃ svasti̱mat",
+   "cha̱rdirya̭ccha ma̱ghava̭dbhyaśca̱ mahya̭ṃ ca yā̱vayā̭ di̱dyumḙbhyaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.083.2a",
+   "020.083.2b"
+  ],
+  "lines_deva": [
+   "ये ग॑व्य॒ता मन॑सा॒ शत्रु॑माद॒भुर॑भिप्र॒घ्नन्ति॑ धृष्णु॒या",
+   "अघ॑ स्मा नो मघवन्निन्द्र गिर्वणस्तनू॒पा अन्त॑मो भव"
+  ],
+  "lines_iast": [
+   "ye ga̭vya̱tā mana̭sā̱ śatrṷmāda̱bhura̭bhipra̱ghnanti̭ dhṛṣṇu̱yā",
+   "agha̭ smā no maghavannindra girvaṇastanū̱pā anta̭mo bhava"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

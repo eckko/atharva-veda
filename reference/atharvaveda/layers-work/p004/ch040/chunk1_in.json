@@ -1,0 +1,266 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "004.040.1a",
+   "004.040.1b"
+  ],
+  "lines_deva": [
+   "ये पु॒रस्ता॒ज्जुह्व॑ति जातवेदः॒ प्राच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्",
+   "अ॒ग्निमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ye pu̱rastā̱jjuhva̭ti jātaveda̱ḥ prācyā̭ di̱śo'bhi̱dāsa̭ntya̱smān",
+   "a̱gnimṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "004.040.2a",
+   "004.040.2b"
+  ],
+  "lines_deva": [
+   "ये द॑क्षिण॒तो जुह्व॑ति जातवेदो॒ दक्षि॑णाया दि॒शोऽभि॒दास॑न्त्य॒स्मान्",
+   "य॒ममृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ye da̭kṣiṇa̱to juhva̭ti jātavedo̱ dakṣi̭ṇāyā di̱śo'bhi̱dāsa̭ntya̱smān",
+   "ya̱mamṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "004.040.3a",
+   "004.040.3b"
+  ],
+  "lines_deva": [
+   "ये प॒श्चाज्जुह्व॑ति जातवेदः प्र॒तीच्या॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्",
+   "वरु॑णमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ye pa̱ścājjuhva̭ti jātavedaḥ pra̱tīcyā̭ di̱śo'bhi̱dāsa̭ntya̱smān",
+   "varṷṇamṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "004.040.4a",
+   "004.040.4b"
+  ],
+  "lines_deva": [
+   "य उ॑त्तर॒तो जुह्व॑ति जातवेद॒ उदी॑च्या दि॒शोऽभि॒दास॑न्त्य॒स्मान्",
+   "सोम॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ya ṷttara̱to juhva̭ti jātaveda̱ udī̭cyā di̱śo'bhi̱dāsa̭ntya̱smān",
+   "soma̭mṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "004.040.5a",
+   "004.040.5b"
+  ],
+  "lines_deva": [
+   "ये॒३धस्ता॒ज्जुह्व॑ति जातवेदो ध्रु॒वाया॑ दि॒शोऽभिदास॑न्त्य॒स्मान्",
+   "भूमि॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ye̱3dhastā̱jjuhva̭ti jātavedo dhru̱vāyā̭ di̱śo'bhidāsa̭ntya̱smān",
+   "bhūmi̭mṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "004.040.6a",
+   "004.040.6b"
+  ],
+  "lines_deva": [
+   "ये॒३ऽन्तरि॑क्षा॒ज्जुह्व॑ति जातवेदो व्य॒ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्",
+   "वा॒युमृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ye̱3'ntari̭kṣā̱jjuhva̭ti jātavedo vya̱dhvāyā̭ di̱śo'bhi̱dāsa̭ntya̱smān",
+   "vā̱yumṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "004.040.7a",
+   "004.040.7b"
+  ],
+  "lines_deva": [
+   "य उ॒परि॑ष्टा॒ज्जुह्व॑ति जातवेद ऊ॒र्ध्वाया॑ दि॒शोऽभि॒दास॑न्त्य॒स्मान्",
+   "सूर्य॑मृ॒त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ya u̱pari̭ṣṭā̱jjuhva̭ti jātaveda ū̱rdhvāyā̭ di̱śo'bhi̱dāsa̭ntya̱smān",
+   "sūrya̭mṛ̱tvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "004.040.8a",
+   "004.040.8b"
+  ],
+  "lines_deva": [
+   "ये दि॒शाम॑न्तर्दे॒शेभ्यो॒ जुह्व॑ति जातवेदः सर्वा॑भ्यो दि॒ग्भ्योऽभि॒दास॑न्त्य॒स्मान्",
+   "ब्रह्म॒र्त्वा ते परा॑ञ्चो व्यथन्तां प्र॒त्यगे॑नान् प्रतिस॒रेण॑ हन्मि"
+  ],
+  "lines_iast": [
+   "ye di̱śāma̭ntarde̱śebhyo̱ juhva̭ti jātavedaḥ sarvā̭bhyo di̱gbhyo'bhi̱dāsa̭ntya̱smān",
+   "brahma̱rtvā te parā̭ñco vyathantāṃ pra̱tyagḙnān pratisa̱reṇa̭ hanmi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

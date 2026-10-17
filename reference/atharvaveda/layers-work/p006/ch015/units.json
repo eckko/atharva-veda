@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.015.1a",
+   "006.015.1b"
+  ],
+  "lines_deva": [
+   "उ॒त्त॒मो अ॒स्योष॑धीनां॒ तव॑ वृ॒क्षा उ॑प॒स्तयः॑",
+   "उ॒प॒स्तिर॑स्तु सो॒३स्माकं॒ यो अ॒स्मां अ॑भि॒दास॑ति"
+  ],
+  "lines_iast": [
+   "u̱tta̱mo a̱syoṣa̭dhīnā̱ṃ tava̭ vṛ̱kṣā ṷpa̱staya̭ḥ",
+   "u̱pa̱stira̭stu so̱3smāka̱ṃ yo a̱smāṃ a̭bhi̱dāsa̭ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.015.2a",
+   "006.015.2b"
+  ],
+  "lines_deva": [
+   "सब॑न्धु॒श्चास॑बन्धुश्च॒ यो अ॒स्मां अ॑भि॒दास॑ति",
+   "तेषां॒ सा वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः"
+  ],
+  "lines_iast": [
+   "saba̭ndhu̱ścāsa̭bandhuśca̱ yo a̱smāṃ a̭bhi̱dāsa̭ti",
+   "teṣā̱ṃ sā vṛ̱kṣāṇā̭mivā̱haṃ bhṷ̄yāsamutta̱maḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.015.3a",
+   "006.015.3b"
+  ],
+  "lines_deva": [
+   "यथा॒ सोम॒ ओष॑धीनामुत्त॒मो ह॒विषां॑ कृ॒तः",
+   "त॒लाशा॑ वृ॒क्षाणा॑मिवा॒हं भू॑यासमुत्त॒मः"
+  ],
+  "lines_iast": [
+   "yathā̱ soma̱ oṣa̭dhīnāmutta̱mo ha̱viṣā̭ṃ kṛ̱taḥ",
+   "ta̱lāśā̭ vṛ̱kṣāṇā̭mivā̱haṃ bhṷ̄yāsamutta̱maḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

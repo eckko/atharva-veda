@@ -1,0 +1,94 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.038.1a",
+   "019.038.1b"
+  ],
+  "lines_deva": [
+   "न तं यक्ष्मा॒ अरु॑न्धते॒ नैनं॑ श॒पथो॑ अश्नुते",
+   "यं भे॑ष॒जस्य॑ गुल्गु॒लोः सु॑र॒भिर्ग॒न्धो अ॑श्नु॒ते"
+  ],
+  "lines_iast": [
+   "na taṃ yakṣmā̱ arṷndhate̱ naina̭ṃ śa̱patho̭ aśnute",
+   "yaṃ bhḙṣa̱jasya̭ gulgu̱loḥ sṷra̱bhirga̱ndho a̭śnu̱te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.038.2a",
+   "019.038.2b"
+  ],
+  "lines_deva": [
+   "विष्व॑ञ्च॒स्तस्मा॒द् यक्ष्मा॑ मृ॒गा अश्वा॑ इवेरते",
+   "यद् गु॑ल्गु॒लु सै॑न्ध॒वं यद् वाप्यासि॑ समु॒द्रिय॑म्"
+  ],
+  "lines_iast": [
+   "viṣva̭ñca̱stasmā̱d yakṣmā̭ mṛ̱gā aśvā̭ iverate",
+   "yad gṷlgu̱lu sai̭ndha̱vaṃ yad vāpyāsi̭ samu̱driya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.038.3"
+  ],
+  "lines_deva": [
+   "उ॒भयो॑रग्रभं॒ नामा॒स्मा अ॑रि॒ष्टता॑तये"
+  ],
+  "lines_iast": [
+   "u̱bhayo̭ragrabha̱ṃ nāmā̱smā a̭ri̱ṣṭatā̭taye"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

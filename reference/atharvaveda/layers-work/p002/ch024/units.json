@@ -1,0 +1,266 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.024.1a",
+   "002.024.1b"
+  ],
+  "lines_deva": [
+   "शेर॑भक॒ शेर॑भ॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "śera̭bhaka̱ śera̭bha̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinaḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.024.2a",
+   "002.024.2b"
+  ],
+  "lines_deva": [
+   "शेवृ॑धक॒ शेवृ॑ध॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "śevṛ̭dhaka̱ śevṛ̭dha̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinaḥ",
+   "yasya̱ stha tama̭tta̱ yo vaḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.024.3a",
+   "002.024.3b"
+  ],
+  "lines_deva": [
+   "म्रोकानु॑म्रोक॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "mrokānṷmroka̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinaḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "002.024.4a",
+   "002.024.4b"
+  ],
+  "lines_deva": [
+   "सर्पानु॑सर्प॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "sarpānṷsarpa̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinaḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "002.024.5a",
+   "002.024.5b"
+  ],
+  "lines_deva": [
+   "जूर्णि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "jūrṇi̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinīḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "002.024.6a",
+   "002.024.6b"
+  ],
+  "lines_deva": [
+   "उप॑ब्दे॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "upa̭bde̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinīḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "002.024.7a",
+   "002.024.7b"
+  ],
+  "lines_deva": [
+   "अर्जु॑नि॒ पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "arjṷni̱ puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinīḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "002.024.8a",
+   "002.024.8b"
+  ],
+  "lines_deva": [
+   "भरू॑जि पुन॑र्वो यन्तु या॒तवः॒ पुन॑र्हे॒तिः कि॑मीदिनीः",
+   "यस्य॒ स्थ तम॑त्त॒ यो वः॒ प्राहै॒त् तम॑त्त॒ स्वा मां॒सान्य॑त्त"
+  ],
+  "lines_iast": [
+   "bharṷ̄ji puna̭rvo yantu yā̱tava̱ḥ puna̭rhe̱tiḥ ki̭mīdinīḥ",
+   "yasya̱ stha tama̭tta̱ yo va̱ḥ prāhai̱t tama̭tta̱ svā mā̱ṃsānya̭tta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.070.1a",
+   "019.070.1b"
+  ],
+  "lines_deva": [
+   "इन्द्र॒ जीव॒ सूर्य॒ जीव॒ देवा॒ जीवा॑ जी॒व्यास॑म॒हम्",
+   "सर्व॒मायु॑र्जीव्यासम्"
+  ],
+  "lines_iast": [
+   "indra̱ jīva̱ sūrya̱ jīva̱ devā̱ jīvā̭ jī̱vyāsa̭ma̱ham",
+   "sarva̱māyṷrjīvyāsam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.095.1a",
+   "007.095.1b"
+  ],
+  "lines_deva": [
+   "उद॑स्य श्या॒वौ वि॑थु॒रौ गृध्रौ॒ द्यामि॑व पेततुः",
+   "उ॒च्छो॒च॒न॒प्र॒शो॒च॒नाव॒स्योच्छोच॑नौ हृ॒दः"
+  ],
+  "lines_iast": [
+   "uda̭sya śyā̱vau vi̭thu̱rau gṛdhrau̱ dyāmi̭va petatuḥ",
+   "u̱ccho̱ca̱na̱pra̱śo̱ca̱nāva̱syocchoca̭nau hṛ̱daḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.095.2a",
+   "007.095.2b"
+  ],
+  "lines_deva": [
+   "अ॒हमे॑ना॒वुद॑तिष्ठिपं॑ गावौ॑ श्रान्त॒सदा॑विव",
+   "कु॒र्कु॒रावि॑व॒ कूज॑न्तावु॒दव॑न्तौ॒ वृका॑विव"
+  ],
+  "lines_iast": [
+   "a̱hamḙnā̱vuda̭tiṣṭhipa̭ṃ gāvaṷ śrānta̱sadā̭viva",
+   "ku̱rku̱rāvi̭va̱ kūja̭ntāvu̱dava̭ntau̱ vṛkā̭viva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.095.3a",
+   "007.095.3b"
+  ],
+  "lines_deva": [
+   "आ॒तो॒दिनौ॑ नितो॒दिना॒वथो॑ संतो॒दिना॑वु॒त",
+   "अपि॑ नह्याम्यस्य॒ मेढ्रं॒ य इ॒तः स्त्री पुमा॑न् ज॒भार॑"
+  ],
+  "lines_iast": [
+   "ā̱to̱dinaṷ nito̱dinā̱vatho̭ saṃto̱dinā̭vu̱ta",
+   "api̭ nahyāmyasya̱ meḍhra̱ṃ ya i̱taḥ strī pumā̭n ja̱bhāra̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

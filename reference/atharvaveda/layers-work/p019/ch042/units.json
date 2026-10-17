@@ -1,0 +1,141 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "019.042.1a",
+   "019.042.1b"
+  ],
+  "lines_deva": [
+   "ब्रह्म॒ होता॒ ब्रह्म॑ य॒ज्ञा ब्रह्म॑णा॒ स्वर॑वो मि॒ताः",
+   "अ॒ध्व॒र्युर्ब्रह्म॑णो जा॒तो ब्रह्म॑णो॒ऽन्तर्हि॑तं ह॒विः"
+  ],
+  "lines_iast": [
+   "brahma̱ hotā̱ brahma̭ ya̱jñā brahma̭ṇā̱ svara̭vo mi̱tāḥ",
+   "a̱dhva̱ryurbrahma̭ṇo jā̱to brahma̭ṇo̱'ntarhi̭taṃ ha̱viḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "019.042.2a",
+   "019.042.2b",
+   "019.042.2c"
+  ],
+  "lines_deva": [
+   "ब्रह्म॒ स्रुचो॑ घृ॒तव॑ती॒र्ब्रह्म॑णा॒ वेदि॒रुद्धि॑ता",
+   "ब्रह्म॑ य॒ज्ञस्य॒ तत्त्वं॑ च ऋ॒त्विजो॒ ये ह॑वि॒ष्कृतः॑",
+   "श॒मि॒ताय॒ स्वाहा॑"
+  ],
+  "lines_iast": [
+   "brahma̱ sruco̭ ghṛ̱tava̭tī̱rbrahma̭ṇā̱ vedi̱ruddhi̭tā",
+   "brahma̭ ya̱jñasya̱ tattva̭ṃ ca ṛ̱tvijo̱ ye ha̭vi̱ṣkṛta̭ḥ",
+   "śa̱mi̱tāya̱ svāhā̭"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "019.042.3a",
+   "019.042.3b"
+  ],
+  "lines_deva": [
+   "अं॒हो॒मुचे॒ प्र भ॑रे मनी॒षामा सु॒त्राव्णे॑ सुम॒तिमा॑वृणा॒नः",
+   "इ॒दमि॑न्द्र॒ प्रति॑ ह॒व्यं गृ॑भाय स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑"
+  ],
+  "lines_iast": [
+   "a̱ṃho̱muce̱ pra bha̭re manī̱ṣāmā su̱trāvṇḙ suma̱timā̭vṛṇā̱naḥ",
+   "i̱dami̭ndra̱ prati̭ ha̱vyaṃ gṛ̭bhāya sa̱tyāḥ sa̭ntu̱ yaja̭mānasya̱ kāmā̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "019.042.4a",
+   "019.042.4b"
+  ],
+  "lines_deva": [
+   "अं॒हो॒मुचं॑ वृष॒भं य॒ज्ञिया॑नां वि॒राज॑न्तं प्रथ॒मम॑ध्व॒राणा॑म्",
+   "अ॒पां नपा॑तम॒श्विना॑ हुवे॒ धिय॑ इन्द्रि॒येण॑ त इन्द्रि॒यं द॑त्त॒मोजः॑"
+  ],
+  "lines_iast": [
+   "a̱ṃho̱muca̭ṃ vṛṣa̱bhaṃ ya̱jñiyā̭nāṃ vi̱rāja̭ntaṃ pratha̱mama̭dhva̱rāṇā̭m",
+   "a̱pāṃ napā̭tama̱śvinā̭ huve̱ dhiya̭ indri̱yeṇa̭ ta indri̱yaṃ da̭tta̱moja̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

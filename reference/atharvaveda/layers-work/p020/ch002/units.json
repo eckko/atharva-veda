@@ -1,0 +1,106 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.002.1"
+  ],
+  "lines_deva": [
+   "म॒रुतः॑ पो॒त्रात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबन्तु"
+  ],
+  "lines_iast": [
+   "ma̱ruta̭ḥ po̱trāt su̱ṣṭubha̭ḥ sva̱rkādṛ̱tunā̱ soma̭ṃ pibantu"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.002.2"
+  ],
+  "lines_deva": [
+   "अ॒ग्निराग्नी॑ध्रात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबतु"
+  ],
+  "lines_iast": [
+   "a̱gnirāgnī̭dhrāt su̱ṣṭubha̭ḥ sva̱rkādṛ̱tunā̱ soma̭ṃ pibatu"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "020.002.3"
+  ],
+  "lines_deva": [
+   "इन्द्रो॑ ब्र॒ह्मा ब्राह्म॑णात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबतु"
+  ],
+  "lines_iast": [
+   "indro̭ bra̱hmā brāhma̭ṇāt su̱ṣṭubha̭ḥ sva̱rkādṛ̱tunā̱ soma̭ṃ pibatu"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "020.002.4"
+  ],
+  "lines_deva": [
+   "दे॒वो द्र॑विणो॒दाः पो॒त्रात् सु॒ष्टुभः॑ स्व॒र्कादृ॒तुना॒ सोमं॑ पिबतु"
+  ],
+  "lines_iast": [
+   "de̱vo dra̭viṇo̱dāḥ po̱trāt su̱ṣṭubha̭ḥ sva̱rkādṛ̱tunā̱ soma̭ṃ pibatu"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

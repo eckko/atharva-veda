@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.084.1a",
+   "007.084.1b"
+  ],
+  "lines_deva": [
+   "अ॒ना॒धृ॒ष्यो जा॒तवे॑दा॒ अम॑र्त्यो वि॒राड॑ग्ने क्षत्र॒भृद् दी॑दिही॒ह",
+   "विश्वा॒ अमी॑वाः प्रमु॒ञ्चन् मानु॑षीभिः शि॒वाभि॑र॒द्य परि॑ पाहि नो॒ गय॑म्"
+  ],
+  "lines_iast": [
+   "a̱nā̱dhṛ̱ṣyo jā̱tavḙdā̱ ama̭rtyo vi̱rāḍa̭gne kṣatra̱bhṛd dī̭dihī̱ha",
+   "viśvā̱ amī̭vāḥ pramu̱ñcan mānṷṣībhiḥ śi̱vābhi̭ra̱dya pari̭ pāhi no̱ gaya̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.084.2a",
+   "007.084.2b"
+  ],
+  "lines_deva": [
+   "इन्द्र॑ क्ष॒त्रम॒भि वा॒ममोजोऽजा॑यथा वृषभ चर्षणी॒नाम्",
+   "अपा॑नुदो॒ जन॑ममित्रा॒यन्त॑मु॒रुं दे॒वेभ्यो॑ अकृणोरु लो॒कम्"
+  ],
+  "lines_iast": [
+   "indra̭ kṣa̱trama̱bhi vā̱mamojo'jā̭yathā vṛṣabha carṣaṇī̱nām",
+   "apā̭nudo̱ jana̭mamitrā̱yanta̭mu̱ruṃ de̱vebhyo̭ akṛṇoru lo̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.084.3a",
+   "007.084.3b"
+  ],
+  "lines_deva": [
+   "मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गम्या॒त् पर॑स्याः",
+   "सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न् ताढि॒ वि मृघो॑ नुदस्व"
+  ],
+  "lines_iast": [
+   "mṛ̱go na bhī̱maḥ kṷca̱ro gi̭ri̱ṣṭhāḥ pa̭rā̱vata̱ ā ja̭gamyā̱t para̭syāḥ",
+   "sṛ̱kaṃ sa̱ṃśāya̭ pa̱vimi̭ndra ti̱gmaṃ vi śatrṷ̄n tāḍhi̱ vi mṛgho̭ nudasva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

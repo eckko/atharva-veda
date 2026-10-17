@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.106.1a",
+   "006.106.1b"
+  ],
+  "lines_deva": [
+   "आय॑ने ते प॒राय॑णे दूर्वा॑ रोहतु पु॒ष्पिणीः॑",
+   "उत्सो॑ वा॒ तत्र॒ जाय॑तां ह्रदो वा॑ पु॒ण्डरी॑कवान्"
+  ],
+  "lines_iast": [
+   "āya̭ne te pa̱rāya̭ṇe dūrvā̭ rohatu pu̱ṣpiṇī̭ḥ",
+   "utso̭ vā̱ tatra̱ jāya̭tāṃ hrado vā̭ pu̱ṇḍarī̭kavān"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.106.2a",
+   "006.106.2b"
+  ],
+  "lines_deva": [
+   "अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम्",
+   "मध्ये॑ ह्र॒दस्य॑ नो गृ॒हाः प॑रा॒चीना॒ मुखा॑ कृधि"
+  ],
+  "lines_iast": [
+   "a̱pāmi̱daṃ nyaya̭naṃ samu̱drasya̭ ni̱veśa̭nam",
+   "madhyḙ hra̱dasya̭ no gṛ̱hāḥ pa̭rā̱cīnā̱ mukhā̭ kṛdhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.106.3a",
+   "006.106.3b"
+  ],
+  "lines_deva": [
+   "हि॒मस्य॑ त्वा ज॒रायु॑णा॒ शाले॒ परि॑ व्ययामसि",
+   "शी॒तह्र॑दा॒ हि नो॒ भुवो॒ऽग्निष्कृ॑णोतु भेष॒जम्"
+  ],
+  "lines_iast": [
+   "hi̱masya̭ tvā ja̱rāyṷṇā̱ śāle̱ pari̭ vyayāmasi",
+   "śī̱tahra̭dā̱ hi no̱ bhuvo̱'gniṣkṛ̭ṇotu bheṣa̱jam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

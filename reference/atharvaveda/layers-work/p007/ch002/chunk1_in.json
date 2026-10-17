@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.002.1a",
+   "007.002.1b"
+  ],
+  "lines_deva": [
+   "अथ॑र्वाणं पि॒तरं॑ दे॒वब॑न्धुं मा॒तुर्गर्भं॑ पि॒तुरसुं॒ युवा॑नम्",
+   "य इ॒मं य॒ज्ञं मन॑सा चि॒केत॒ प्र णो॑ वोच॒स्तमि॒हेह ब्र॑वः"
+  ],
+  "lines_iast": [
+   "atha̭rvāṇaṃ pi̱tara̭ṃ de̱vaba̭ndhuṃ mā̱turgarbha̭ṃ pi̱turasu̱ṃ yuvā̭nam",
+   "ya i̱maṃ ya̱jñaṃ mana̭sā ci̱keta̱ pra ṇo̭ voca̱stami̱heha bra̭vaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

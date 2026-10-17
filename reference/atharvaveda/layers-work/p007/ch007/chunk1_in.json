@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.007.1a",
+   "007.007.1b"
+  ],
+  "lines_deva": [
+   "दितेः॑ पु॒त्राणा॒मदि॑तेरकारिष॒मव॑ दे॒वानां॑ बृह॒ताम॑न॒र्मणा॑म्",
+   "तेषां॒ हि धाम॑ गभि॒षक् स॑मु॒द्रियं॒ नैना॒न् नम॑सा प॒रो अ॑स्ति॒ कश्च॒न"
+  ],
+  "lines_iast": [
+   "ditḙḥ pu̱trāṇā̱madi̭terakāriṣa̱mava̭ de̱vānā̭ṃ bṛha̱tāma̭na̱rmaṇā̭m",
+   "teṣā̱ṃ hi dhāma̭ gabhi̱ṣak sa̭mu̱driya̱ṃ nainā̱n nama̭sā pa̱ro a̭sti̱ kaśca̱na"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.027.1a",
+   "002.027.1b"
+  ],
+  "lines_deva": [
+   "नेच्छत्रुः॒ प्राशं॑ जयाति॒ सह॑मानाभि॒भूर॑सि",
+   "प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑न्वोषधे"
+  ],
+  "lines_iast": [
+   "necchatru̱ḥ prāśa̭ṃ jayāti̱ saha̭mānābhi̱bhūra̭si",
+   "prāśa̱ṃ prati̭prāśo jahyara̱sān kṛ̭nvoṣadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.027.2a",
+   "002.027.2b"
+  ],
+  "lines_deva": [
+   "सु॒प॒र्णस्त्वान्व॑विन्दत् सूक॒रस्त्वा॑खनन्न॒सा",
+   "प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे"
+  ],
+  "lines_iast": [
+   "su̱pa̱rṇastvānva̭vindat sūka̱rastvā̭khananna̱sā",
+   "prāśa̱ṃ prati̭prāśo jahyara̱sān kṛ̭ṇvoṣadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.027.3a",
+   "002.027.3b"
+  ],
+  "lines_deva": [
+   "इन्द्रो॑ ह चक्रे त्वा बा॒हावसु॑रेभ्य॒ स्तरी॑तवे",
+   "प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे"
+  ],
+  "lines_iast": [
+   "indro̭ ha cakre tvā bā̱hāvasṷrebhya̱ starī̭tave",
+   "prāśa̱ṃ prati̭prāśo jahyara̱sān kṛ̭ṇvoṣadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "002.027.4a",
+   "002.027.4b"
+  ],
+  "lines_deva": [
+   "पा॒टामिन्द्रो॒ व्याऽश्ना॒दसु॑रेभ्य॒ स्तरी॑तवे",
+   "प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे"
+  ],
+  "lines_iast": [
+   "pā̱ṭāmindro̱ vyā'śnā̱dasṷrebhya̱ starī̭tave",
+   "prāśa̱ṃ prati̭prāśo jahyara̱sān kṛ̭ṇvoṣadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "002.027.5a",
+   "002.027.5b"
+  ],
+  "lines_deva": [
+   "तया॒हं शत्रू॑न्त्साक्ष॒ इन्द्रः॑ सालावृ॒काँ इ॑व",
+   "प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे"
+  ],
+  "lines_iast": [
+   "tayā̱haṃ śatrṷ̄ntsākṣa̱ indra̭ḥ sālāvṛ̱kā~ i̭va",
+   "prāśa̱ṃ prati̭prāśo jahyara̱sān kṛ̭ṇvoṣadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "002.027.6a",
+   "002.027.6b"
+  ],
+  "lines_deva": [
+   "रुद्र॒ जला॑षभेषज॒ नील॑शिखण्ड॒ कर्म॑कृत्",
+   "प्राशं॒ प्रति॑प्राशो जह्यर॒सान् कृ॑ण्वोषधे"
+  ],
+  "lines_iast": [
+   "rudra̱ jalā̭ṣabheṣaja̱ nīla̭śikhaṇḍa̱ karma̭kṛt",
+   "prāśa̱ṃ prati̭prāśo jahyara̱sān kṛ̭ṇvoṣadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "002.027.7a",
+   "002.027.7b"
+  ],
+  "lines_deva": [
+   "तस्य॒ प्राशं॒ त्वं ज॑हि॒ यो न॑ इन्द्राभि॒दास॑ति",
+   "अधि॑ नो ब्रूहि॒ शक्ति॑भिः प्रा॒शि मामुत्त॑रं कृधि"
+  ],
+  "lines_iast": [
+   "tasya̱ prāśa̱ṃ tvaṃ ja̭hi̱ yo na̭ indrābhi̱dāsa̭ti",
+   "adhi̭ no brūhi̱ śakti̭bhiḥ prā̱śi māmutta̭raṃ kṛdhi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

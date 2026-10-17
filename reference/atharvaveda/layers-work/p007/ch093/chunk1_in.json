@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.093.1a",
+   "007.093.1b"
+  ],
+  "lines_deva": [
+   "इन्द्रे॑ण म॒न्युना॑ व॒यम॒भि ष्या॑म पृतन्य॒तः",
+   "घ्नन्तो॑ वृ॒त्राण्य॑प्र॒ति"
+  ],
+  "lines_iast": [
+   "indrḙṇa ma̱nyunā̭ va̱yama̱bhi ṣyā̭ma pṛtanya̱taḥ",
+   "ghnanto̭ vṛ̱trāṇya̭pra̱ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

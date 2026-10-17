@@ -1,0 +1,68 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.057.1a",
+   "007.057.1b"
+  ],
+  "lines_deva": [
+   "यदा॒शसा॒ वद॑तो मे विचुक्षु॒भे यद् याच॑मानस्य॒ चर॑तो॒ जनाँ॒ अनु॑",
+   "यदा॒त्मनि॑ त॒न्वोऽमे॒ विरि॑ष्टं॒ सर॑स्वती॒ तदा पृ॑णद् घृ॒तेन॑"
+  ],
+  "lines_iast": [
+   "yadā̱śasā̱ vada̭to me vicukṣu̱bhe yad yāca̭mānasya̱ cara̭to̱ janā̱~ anṷ",
+   "yadā̱tmani̭ ta̱nvo'me̱ viri̭ṣṭa̱ṃ sara̭svatī̱ tadā pṛ̭ṇad ghṛ̱tena̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.057.2a",
+   "007.057.2b"
+  ],
+  "lines_deva": [
+   "स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवृतन्नृ॒तानि॑",
+   "उ॒भे इद॑स्यो॒भे अ॑स्य राजत उ॒भे य॑तेते उ॒भे अस्य पुष्यतः"
+  ],
+  "lines_iast": [
+   "sa̱pta kṣa̭ranti̱ śiśa̭ve ma̱rutva̭te pi̱tre pu̱trāso̱ apya̭vīvṛtannṛ̱tāni̭",
+   "u̱bhe ida̭syo̱bhe a̭sya rājata u̱bhe ya̭tete u̱bhe asya puṣyataḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

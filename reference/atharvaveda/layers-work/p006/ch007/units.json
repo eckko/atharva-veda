@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.007.1a",
+   "006.007.1b"
+  ],
+  "lines_deva": [
+   "येन॑ सो॒मादि॑तिः प॒था मि॒त्रा वा॒ यन्त्य॒द्रुहः॑",
+   "तेना॒ नोऽव॒सा ग॑हि"
+  ],
+  "lines_iast": [
+   "yena̭ so̱mādi̭tiḥ pa̱thā mi̱trā vā̱ yantya̱druha̭ḥ",
+   "tenā̱ no'va̱sā ga̭hi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.007.2a",
+   "006.007.2b"
+  ],
+  "lines_deva": [
+   "येन॑ सोम साह॒न्त्यासु॑रान् र॒न्धया॑सि नः",
+   "तेना॑ नो॒ अधि॑ वोचत"
+  ],
+  "lines_iast": [
+   "yena̭ soma sāha̱ntyāsṷrān ra̱ndhayā̭si naḥ",
+   "tenā̭ no̱ adhi̭ vocata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.007.3a",
+   "006.007.3b"
+  ],
+  "lines_deva": [
+   "येन॑ देवा॒ असु॑राणा॒मोजां॒स्यवृ॑णीध्वम्",
+   "तेना॑ नः॒ शर्म॑ यच्छत"
+  ],
+  "lines_iast": [
+   "yena̭ devā̱ asṷrāṇā̱mojā̱ṃsyavṛ̭ṇīdhvam",
+   "tenā̭ na̱ḥ śarma̭ yacchata"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

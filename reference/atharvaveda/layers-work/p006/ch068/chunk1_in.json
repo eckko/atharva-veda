@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.068.1a",
+   "006.068.1b"
+  ],
+  "lines_deva": [
+   "आयम॑गन्त्सवि॒ता क्षु॒रेणो॒ष्णेन॑ वाय उद॒केनेहि॑",
+   "आ॒दि॒त्या रु॒द्रा वस॑व उन्दन्तु॒ सचे॑तसः॒ सोम॑स्य॒ राज्ञो॑ वपत॒ प्रचे॑तसः"
+  ],
+  "lines_iast": [
+   "āyama̭gantsavi̱tā kṣu̱reṇo̱ṣṇena̭ vāya uda̱kenehi̭",
+   "ā̱di̱tyā ru̱drā vasa̭va undantu̱ sacḙtasa̱ḥ soma̭sya̱ rājño̭ vapata̱ pracḙtasaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.068.2a",
+   "006.068.2b"
+  ],
+  "lines_deva": [
+   "अदि॑तिः॒ श्मश्रु॑ वप॒त्वाप॑ उन्दन्तु॒ वर्च॑सा",
+   "चिकि॑त्सतु प्र॒जाप॑तिर्दीर्घायु॒त्वाय॒ चक्ष॑से"
+  ],
+  "lines_iast": [
+   "adi̭ti̱ḥ śmaśrṷ vapa̱tvāpa̭ undantu̱ varca̭sā",
+   "ciki̭tsatu pra̱jāpa̭tirdīrghāyu̱tvāya̱ cakṣa̭se"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.068.3a",
+   "006.068.3b"
+  ],
+  "lines_deva": [
+   "येनाव॑पत् सवि॒ता क्षु॒रेण॒ सोम॑स्य॒ राज्ञो॒ वरु॑णस्य वि॒द्वान्",
+   "तेन॑ ब्रह्माणो वपते॒दम॒स्य गोमा॒नश्व॑वान॒यम॑स्तु प्र॒जावा॑न्"
+  ],
+  "lines_iast": [
+   "yenāva̭pat savi̱tā kṣu̱reṇa̱ soma̭sya̱ rājño̱ varṷṇasya vi̱dvān",
+   "tena̭ brahmāṇo vapate̱dama̱sya gomā̱naśva̭vāna̱yama̭stu pra̱jāvā̭n"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

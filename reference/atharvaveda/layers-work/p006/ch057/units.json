@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.057.1a",
+   "006.057.1b"
+  ],
+  "lines_deva": [
+   "इ॒दमिद् वा उ॑ भेष॒जमि॒दं रु॒द्रस्य॑ भेष॒जम्",
+   "येनेषु॒मेक॑तेजनां श॒तश॑ल्यामप॒ब्रव॑त्"
+  ],
+  "lines_iast": [
+   "i̱damid vā ṷ bheṣa̱jami̱daṃ ru̱drasya̭ bheṣa̱jam",
+   "yeneṣu̱meka̭tejanāṃ śa̱taśa̭lyāmapa̱brava̭t"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.057.2a",
+   "006.057.2b"
+  ],
+  "lines_deva": [
+   "जा॒ला॒षेणा॒भि षि॑ञ्चत जालाषेणोप॑ सिञ्चत",
+   "जा॒ला॒षमु॒ग्रं भे॑ष॒जं तेन॑ नो मृड जी॒वसे॑"
+  ],
+  "lines_iast": [
+   "jā̱lā̱ṣeṇā̱bhi ṣi̭ñcata jālāṣeṇopa̭ siñcata",
+   "jā̱lā̱ṣamu̱graṃ bhḙṣa̱jaṃ tena̭ no mṛḍa jī̱vasḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.057.3a",
+   "006.057.3b"
+  ],
+  "lines_deva": [
+   "शं च॑ नो॒ मय॑श्च नो॒ मा च॑ नः॒ किं च॒नाम॑मत्",
+   "क्ष॒मा रपो॒ विश्वं॑ नो अस्तु भेष॒जं सर्वं॑ नो अस्तु भेष॒जम्"
+  ],
+  "lines_iast": [
+   "śaṃ ca̭ no̱ maya̭śca no̱ mā ca̭ na̱ḥ kiṃ ca̱nāma̭mat",
+   "kṣa̱mā rapo̱ viśva̭ṃ no astu bheṣa̱jaṃ sarva̭ṃ no astu bheṣa̱jam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.060.1a",
+   "006.060.1b"
+  ],
+  "lines_deva": [
+   "अ॒यमा या॑त्यर्य॒मा पु॒रस्ता॒द् विषि॑तस्तुपः",
+   "अ॒स्या इ॒चछन्न॒ग्रुवै॒ पति॑मु॒त जा॒याम॒जान॑ये"
+  ],
+  "lines_iast": [
+   "a̱yamā yā̭tyarya̱mā pu̱rastā̱d viṣi̭tastupaḥ",
+   "a̱syā i̱cachanna̱gruvai̱ pati̭mu̱ta jā̱yāma̱jāna̭ye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.060.2a",
+   "006.060.2b"
+  ],
+  "lines_deva": [
+   "अश्र॑मदि॒यम॑र्यमन्न॒न्यासां॒ सम॑नं य॒ती",
+   "अ॒ङ्गो न्वऽर्यमन्न॒स्या अ॒न्याः सम॑न॒माय॑ति"
+  ],
+  "lines_iast": [
+   "aśra̭madi̱yama̭ryamanna̱nyāsā̱ṃ sama̭naṃ ya̱tī",
+   "a̱ṅgo nva'ryamanna̱syā a̱nyāḥ sama̭na̱māya̭ti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.060.3a",
+   "006.060.3b"
+  ],
+  "lines_deva": [
+   "धा॒ता दा॑धार पृथि॒वीं धा॒ता द्यामु॒त सूर्य॑म्",
+   "धा॒तास्या अ॒ग्रुवै॒ पतिं॒ दधा॑तु प्रतिका॒म्यऽम्"
+  ],
+  "lines_iast": [
+   "dhā̱tā dā̭dhāra pṛthi̱vīṃ dhā̱tā dyāmu̱ta sūrya̭m",
+   "dhā̱tāsyā a̱gruvai̱ pati̱ṃ dadhā̭tu pratikā̱mya'm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.080.1a",
+   "006.080.1b"
+  ],
+  "lines_deva": [
+   "अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ भू॒ताव॒चाक॑शत्",
+   "शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "a̱ntari̭kṣeṇa patati̱ viśvā̭ bhū̱tāva̱cāka̭śat",
+   "śuno̭ di̱vyasya̱ yanmaha̱stenā̭ te ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.080.2a",
+   "006.080.2b"
+  ],
+  "lines_deva": [
+   "ये त्रयः॑ कालका॒ञ्जा दि॒वि दे॒वा इ॑व श्रि॒ताः",
+   "तान्त्सर्वा॑नह्व ऊ॒तये॒ऽस्मा अ॑रि॒ष्टता॑तये"
+  ],
+  "lines_iast": [
+   "ye traya̭ḥ kālakā̱ñjā di̱vi de̱vā i̭va śri̱tāḥ",
+   "tāntsarvā̭nahva ū̱taye̱'smā a̭ri̱ṣṭatā̭taye"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.080.3a",
+   "006.080.3b"
+  ],
+  "lines_deva": [
+   "अ॒प्सु ते॒ जन्म॑ दि॒वि ते॑ स॒धस्थं॑ समु॒द्रे अ॒न्तर्म॑हि॒मा ते॑ पृथि॒व्याम्",
+   "शुनो॑ दि॒व्यस्य॒ यन्मह॒स्तेना॑ ते ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "a̱psu te̱ janma̭ di̱vi tḙ sa̱dhastha̭ṃ samu̱dre a̱ntarma̭hi̱mā tḙ pṛthi̱vyām",
+   "śuno̭ di̱vyasya̱ yanmaha̱stenā̭ te ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

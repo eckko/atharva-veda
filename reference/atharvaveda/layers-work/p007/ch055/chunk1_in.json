@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.055.1a",
+   "007.055.1b"
+  ],
+  "lines_deva": [
+   "ये ते॒ पन्था॒नोऽव॑ दि॒वो येभि॒र्विश्व॒मैर॑यः",
+   "तेभिः॑ सुम्न॒या धे॑हि नो वसो"
+  ],
+  "lines_iast": [
+   "ye te̱ panthā̱no'va̭ di̱vo yebhi̱rviśva̱maira̭yaḥ",
+   "tebhi̭ḥ sumna̱yā dhḙhi no vaso"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

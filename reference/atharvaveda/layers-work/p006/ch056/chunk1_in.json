@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.056.1a",
+   "006.056.1b"
+  ],
+  "lines_deva": [
+   "मा नो॑ देवा॒ अहि॑र्वधी॒त् सतो॑कान्त्स॒हपु॑रुषान्",
+   "सम्य॑तं॒ न वि ष्प॑रद् व्यात्तं॒ न सं य॑म॒न्नमो॑ देवज॒नेभ्यः॑"
+  ],
+  "lines_iast": [
+   "mā no̭ devā̱ ahi̭rvadhī̱t sato̭kāntsa̱hapṷruṣān",
+   "samya̭ta̱ṃ na vi ṣpa̭rad vyātta̱ṃ na saṃ ya̭ma̱nnamo̭ devaja̱nebhya̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.056.2a",
+   "006.056.2b"
+  ],
+  "lines_deva": [
+   "नमो॑ऽस्त्वसि॒ताय॒ नम॒स्तिर॑श्चिराजये",
+   "स्व॒जाय॑ ब॒भ्रवे॒ नमो॒ नमो॑ देवज॒नेभ्यः॑"
+  ],
+  "lines_iast": [
+   "namo̭'stvasi̱tāya̱ nama̱stira̭ścirājaye",
+   "sva̱jāya̭ ba̱bhrave̱ namo̱ namo̭ devaja̱nebhya̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.056.3a",
+   "006.056.3b"
+  ],
+  "lines_deva": [
+   "सं ते॑ हन्मि द॒ता द॒तः समु॑ ते॒ हन्वा॒ हनू॑",
+   "सं ते॑ जि॒ह्वया॑ जि॒ह्वां सम्वा॒स्नाह॑ आ॒स्यऽम्"
+  ],
+  "lines_iast": [
+   "saṃ tḙ hanmi da̱tā da̱taḥ samṷ te̱ hanvā̱ hanṷ̄",
+   "saṃ tḙ ji̱hvayā̭ ji̱hvāṃ samvā̱snāha̭ ā̱sya'm"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

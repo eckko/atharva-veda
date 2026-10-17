@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.035.1a",
+   "006.035.1b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रो न॑ ऊ॒तय॒ आ प्र या॑तु परा॒वतः॑",
+   "अ॒ग्निर्नः॑ सुष्टु॒तीरुप॑"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱ro na̭ ū̱taya̱ ā pra yā̭tu parā̱vata̭ḥ",
+   "a̱gnirna̭ḥ suṣṭu̱tīrupa̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.035.2a",
+   "006.035.2b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रो न आग॑मदि॒मं य॒ज्ञं स॒जूरुप॑",
+   "अ॒ग्निरु॒क्थेष्वंह॑सु"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱ro na āga̭madi̱maṃ ya̱jñaṃ sa̱jūrupa̭",
+   "a̱gniru̱ktheṣvaṃha̭su"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.035.3a",
+   "006.035.3b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रोऽङ्गि॑रसां॒ स्तोम॑मु॒क्थं च॑ चाक्लृपत्",
+   "ऐषु॑ द्यु॒म्नं स्वऽर्यमत्"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱ro'ṅgi̭rasā̱ṃ stoma̭mu̱kthaṃ ca̭ cāklṛpat",
+   "aiṣṷ dyu̱mnaṃ sva'ryamat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

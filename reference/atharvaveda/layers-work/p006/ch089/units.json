@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.089.1a",
+   "006.089.1b"
+  ],
+  "lines_deva": [
+   "इ॒दं यत् प्रे॒ण्यः शिरो॑ द॒त्तं सोमे॑न॒ वृष्ण्य॑म्",
+   "ततः॒ परि॒ प्रजा॑तेन॒ हार्दिं॑ ते शोचयामसि"
+  ],
+  "lines_iast": [
+   "i̱daṃ yat pre̱ṇyaḥ śiro̭ da̱ttaṃ somḙna̱ vṛṣṇya̭m",
+   "tata̱ḥ pari̱ prajā̭tena̱ hārdi̭ṃ te śocayāmasi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.089.2a",
+   "006.089.2b"
+  ],
+  "lines_deva": [
+   "शो॒चया॑मसि ते॒ हार्दिं॑ शो॒चया॑मसि ते॒ मनः॑",
+   "वातं॑ धू॒म इ॑व स॒ध्र्य॑१ङ्मामे॒वान्वे॑तु ते॒ मनः॑"
+  ],
+  "lines_iast": [
+   "śo̱cayā̭masi te̱ hārdi̭ṃ śo̱cayā̭masi te̱ mana̭ḥ",
+   "vāta̭ṃ dhū̱ma i̭va sa̱dhrya̭1ṅmāme̱vānvḙtu te̱ mana̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.089.3a",
+   "006.089.3b"
+  ],
+  "lines_deva": [
+   "मह्यं॑ त्वा मि॒त्रावरु॑णौ॒ मह्यं॑ दे॒वी सर॑स्वती",
+   "मह्यं॑ त्वा॒ मध्यं॒ भूम्या॑ उ॒भावन्तौ॒ सम॑स्यताम्"
+  ],
+  "lines_iast": [
+   "mahya̭ṃ tvā mi̱trāvarṷṇau̱ mahya̭ṃ de̱vī sara̭svatī",
+   "mahya̭ṃ tvā̱ madhya̱ṃ bhūmyā̭ u̱bhāvantau̱ sama̭syatām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,61 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "020.114.1"
+  ],
+  "lines_deva": [
+   "अ॒भ्रा॒तृ॒व्यो अ॒ना त्वमना॑पिरिन्द्र ज॒नुषा॑ स॒नाद॑सि । यु॒धेदा॑पि॒त्वमि॑च्छसे"
+  ],
+  "lines_iast": [
+   "a̱bhrā̱tṛ̱vyo a̱nā tvamanā̭pirindra ja̱nuṣā̭ sa̱nāda̭si | yu̱dhedā̭pi̱tvami̭cchase"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "020.114.2a",
+   "020.114.2b"
+  ],
+  "lines_deva": [
+   "नकी॑ रे॒वन्तं॑ स॒ख्याय॑ विन्दसे॒ पीय॑न्ति ते सुरा॒श्वः",
+   "य॒दा कृ॒णोषि॑ नद॒नुं समू॑ह॒स्यादित् पि॒तेव॑ हूयसे"
+  ],
+  "lines_iast": [
+   "nakī̭ re̱vanta̭ṃ sa̱khyāya̭ vindase̱ pīya̭nti te surā̱śvaḥ",
+   "ya̱dā kṛ̱ṇoṣi̭ nada̱nuṃ samṷ̄ha̱syādit pi̱teva̭ hūyase"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

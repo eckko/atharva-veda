@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.111.1a",
+   "007.111.1b"
+  ],
+  "lines_deva": [
+   "इन्द्र॑स्य कु॒क्षिर॑सि सोम॒धान॑ आ॒त्मा दे॒वाना॑मु॒त मानु॑षाणाम्",
+   "इ॒ह प्र॒जा ज॑नय॒ यास्त॑ आ॒सु या अ॒न्यत्रे॒ह तास्ते॑ रमन्ताम्"
+  ],
+  "lines_iast": [
+   "indra̭sya ku̱kṣira̭si soma̱dhāna̭ ā̱tmā de̱vānā̭mu̱ta mānṷṣāṇām",
+   "i̱ha pra̱jā ja̭naya̱ yāsta̭ ā̱su yā a̱nyatre̱ha tāstḙ ramantām"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

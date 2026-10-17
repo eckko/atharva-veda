@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "006.037.1a",
+   "006.037.1b"
+  ],
+  "lines_deva": [
+   "उप॒ प्रागा॑त् सहस्रा॒क्षो यु॒क्त्वा श॒पथो॒ रथ॑म्",
+   "श॒प्तार॑मन्वि॒छन् मम॒ वृक॑ इ॒वावि॑मतो गृ॒हम्"
+  ],
+  "lines_iast": [
+   "upa̱ prāgā̭t sahasrā̱kṣo yu̱ktvā śa̱patho̱ ratha̭m",
+   "śa̱ptāra̭manvi̱chan mama̱ vṛka̭ i̱vāvi̭mato gṛ̱ham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "006.037.2a",
+   "006.037.2b"
+  ],
+  "lines_deva": [
+   "परि॑ णो वृङ्ग्धि शपथ ह्र॒दम॒ग्निरि॑वा॒ दह॑न्",
+   "श॒प्तार॒मत्र॑ नो जहि दि॒वो वृ॒क्षमि॑वा॒शनिः॑"
+  ],
+  "lines_iast": [
+   "pari̭ ṇo vṛṅgdhi śapatha hra̱dama̱gniri̭vā̱ daha̭n",
+   "śa̱ptāra̱matra̭ no jahi di̱vo vṛ̱kṣami̭vā̱śani̭ḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "006.037.3a",
+   "006.037.3b"
+  ],
+  "lines_deva": [
+   "यो नः॒ शपा॒दश॑पतः॒ शप॑तो॒ यश्च॑ नः॒ शपा॑त्",
+   "शुने॑ पेष्ट्र॑मि॒वाव॑क्षामं॒ तं प्रत्य॑स्यामि मृ॒त्यवे॑"
+  ],
+  "lines_iast": [
+   "yo na̱ḥ śapā̱daśa̭pata̱ḥ śapa̭to̱ yaśca̭ na̱ḥ śapā̭t",
+   "śunḙ peṣṭra̭mi̱vāva̭kṣāma̱ṃ taṃ pratya̭syāmi mṛ̱tyavḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।",
+   " ॥"
+  ]
+ }
+]

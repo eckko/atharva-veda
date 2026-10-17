@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.083.1a",
+   "007.083.1b"
+  ],
+  "lines_deva": [
+   "अ॒प्सु ते॑ राजन् वरुण गृ॒हो हि॑र॒ण्ययो॑ मि॒थः",
+   "ततो॑ धृ॒तव्र॑तो॒ राजा॒ सर्वा॒ धामा॑नि मुञ्चतु"
+  ],
+  "lines_iast": [
+   "a̱psu tḙ rājan varuṇa gṛ̱ho hi̭ra̱ṇyayo̭ mi̱thaḥ",
+   "tato̭ dhṛ̱tavra̭to̱ rājā̱ sarvā̱ dhāmā̭ni muñcatu"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.083.2a",
+   "007.083.2b"
+  ],
+  "lines_deva": [
+   "धाम्नो॑धाम्नो राजन्नि॒तो व॑रुण मुञ्च नः",
+   "यदापो॑ अ॒घ्न्या इति॒ वरु॒णेति॒ यदू॑चि॒म ततो॑ वरुण मुञ्च नः"
+  ],
+  "lines_iast": [
+   "dhāmno̭dhāmno rājanni̱to va̭ruṇa muñca naḥ",
+   "yadāpo̭ a̱ghnyā iti̱ varu̱ṇeti̱ yadṷ̄ci̱ma tato̭ varuṇa muñca naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.083.3a",
+   "007.083.3b"
+  ],
+  "lines_deva": [
+   "उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं श्र॑थाय",
+   "अधा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ अदि॑तये स्याम"
+  ],
+  "lines_iast": [
+   "udṷtta̱maṃ va̭ruṇa̱ pāśa̭ma̱smadavā̭dha̱maṃ vi ma̭dhya̱maṃ śra̭thāya",
+   "adhā̭ va̱yamā̭ditya vra̱te tavānā̭gaso̱ adi̭taye syāma"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.083.4a",
+   "007.083.4b"
+  ],
+  "lines_deva": [
+   "प्रास्मत् पाशा॑न् वरुण मुञ्च॒ सर्वा॒न् य उ॑त्त॒मा अ॑ध॒मा वा॑रु॒णा ये",
+   "दु॒ष्वप्न्यं॑ दुरि॒तं नि ष्वा॒स्मदथ॑ गच्छेम सुकृ॒तस्य॑ लो॒कम्"
+  ],
+  "lines_iast": [
+   "prāsmat pāśā̭n varuṇa muñca̱ sarvā̱n ya ṷtta̱mā a̭dha̱mā vā̭ru̱ṇā ye",
+   "du̱ṣvapnya̭ṃ duri̱taṃ ni ṣvā̱smadatha̭ gacchema sukṛ̱tasya̭ lo̱kam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]
